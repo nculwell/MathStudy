@@ -3,7 +3,7 @@ Info on resources for studying math, stats, CS, etc.
 
 ## Calculus
 
-Probably the best conventional calculus textbook is Leithold's TC7 (The Calculus, 7th edition). It's a "1000-page monster" style book with exposition, proofs and exercises for the standard calculus sequence. I feel that it's very good up until the introduction of vectors; at that point, I'm not sure if the single chapter crash course in linear algebra is sufficient to grasp the subject. This seems to be a common problem with multivariate calculus texts, and I think the best solution is to get a proper introduction to linear algebra first.
+Probably the best conventional calculus textbook is Leithold's *TC7* (*The Calculus, 7th edition*). It's a "1000-page monster" style book with exposition, proofs and exercises for the standard calculus sequence. I feel that it's very good up until the introduction of vectors; at that point, I'm not sure if the single chapter crash course in linear algebra is sufficient to grasp the subject. This seems to be a common problem with multivariate calculus texts, and I think the best solution is to get a proper introduction to linear algebra first.
 
 MIT OCW has a pretty good series of lectures for calculus of a single variable that should go well with Leithold.
 
@@ -17,12 +17,22 @@ Other online lecture offerings include ones from Ohio State and Khan Academy. Bo
 
 For more practice problems, many people rely on Schaum's Outlines and Schaum's 3,000 Solved Problems in Calculus. The University of Wisconsin-Madison also has free calculus texts that you can get online; they don't look at all adequate as stand-alone texts for self study, but they do have problems with some solutions included.
 
+For multivariate calculus, there seems to be a general consensus that the texts that teach "all" of calculus don't do a great job with it. (Leithold, for example, stops giving so many proofs at that point in the curriculum and states that they belong in a book dedicated to the subject.) The following texts are dedicated to this part of the calculus curriculum in particular (arranged in descending order according to my impression of their usefulness):
+
+- Hubbard and Hubbard, *Vector Calculus, Linear Algebra and Differential Forms: A Unified Approach*
+- Schey, *Div, Grad, Curl and All That*
+- Baxandall and Liebeck, *Vector Calculus*
+- Friedman, *Advanced Calculus*
+- Edwards, *Advanced Calculus of Several Variables*
+
+*The Feynman Lectures* also discuss vector calculus in the context of electromagnetism, which is supposedly a great way to tie it in with your understanding of the physical, if you already have some background in physics.
+
 ## Linear Algebra
 
-- Strang, Introduction to Linear Algebra (with OCW lectures)
-- Klein, Coding the Matrix (with Brown/Coursera course)
-- Axler, Linear Algebra Done Right (2e or 3e)
-- Hoffman and Kunze, Linear Algebra
+- Strang, *Introduction to Linear Algebra* (with OCW lectures)
+- Klein, *Coding the Matrix* (with Brown/Coursera course; great course but not much use as a stand-alone text)
+- Axler, *Linear Algebra Done Right* (2e or 3e)
+- Hoffman and Kunze, *Linear Algebra*
 
 Others:
 - Shilov, Linear Algebra
