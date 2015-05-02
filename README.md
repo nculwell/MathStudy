@@ -52,9 +52,9 @@ The big question that arises almost every time someone asks for an analysis text
 - Rudin, Principles of Mathematical Analysis
 - Shilov and Gurevich, Integral, Measure and Derivative: A Unified Approach
 
-In struggling with Rudin's Principles of Mathematical Analysis (aka "Baby "Rudin"), I found various supplements and partial solutions manuals online. Of these, most were not very helpful; often, I could figure out enough to construct the skeleton of a proof but I couldn't see why the proof worked. (That's still some help; though: if I have some reassurance that I've seen the statement that's necessary for the proof, then I know I'm on the right track.)
+In struggling with Rudin's *Principles of Mathematical Analysis* (aka "Baby "Rudin"), I found various supplements and partial solutions manuals online. Of these, most were not very helpful; often, I could figure out enough to construct the skeleton of a proof but I couldn't see why the proof worked. (That's still some help; though: if I have some reassurance that I've seen the statement that's necessary for the proof, then I know I'm on the right track.)
 
-The one resource that I did find most helpful is George Bergman's "Supplements", which has commentary on Rudin's text as well as the exercises [https://math.berkeley.edu/~gbergman/ug.hndts/m104_Rudin_exs.pdf].
+The one resource that I did find most helpful is George Bergman's "Supplements", which has commentary on Rudin's text as well as the exercises [https://math.berkeley.edu/~gbergman/ug.hndts/m104_Rudin_exs.pdf]. Bergman also wrote up his own errata listing things he wanted Rudin to change in the book: [https://math.berkeley.edu/~gbergman/ug.hndts/m104_Rudin_notes.pdf].
 
 UW-Madison hosts a solution manual by Roger Cooke, [http://minds.wisconsin.edu/handle/1793/67009]; this wasn't always thorough enough, but it was of some help.
 
