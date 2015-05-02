@@ -35,8 +35,12 @@ For multivariate calculus, there seems to be a general consensus that the texts 
 - Hoffman and Kunze, *Linear Algebra*
 
 Others:
-- Shilov, Linear Algebra
-- Anton, Elementary Linear Algebra
+- Shilov, *Linear Algebra*
+- Anton, *Elementary Linear Algebra*
+
+Jim Hefferon has a free (GFDL) linear algebra text [http://joshua.smcvt.edu/linearalgebra/] which is available as a PDF file or as Latex source. It has exercises with worked answers.
+
+Many people also favor the Schaum's Outline for linear algebra as well as Schaum's *3,000 Solved Problems in Linear Algebra*.
 
 ## Analysis
 
