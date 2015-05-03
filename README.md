@@ -27,6 +27,36 @@ For multivariate calculus, there seems to be a general consensus that the texts 
 
 *The Feynman Lectures* also discuss vector calculus in the context of electromagnetism, which is supposedly a great way to tie it in with your understanding of the physical, if you already have some background in physics.
 
+## Differential Equations
+
+### Combined
+- Boyce and DiPrima, *Elementary Differential Equations*
+- Piskunov, *Differential and Integral Calculus, Vol. I + II*
+
+### ODEs
+- Tenenbaum, *Ordinary Differential Equations*
+- Hurewicz, *Lectures on Ordinary Differential Equations*
+- Coddington, *An Introduction to Ordinary Differential Equations*
+- Arnold, *Ordinary Differential Equations*
+- Strang, *Differential Equations and Linear Algebra*
+
+### PDEs
+
+#### Basic
+
+- Strauss, *Partial Differential Equations: An Introduction*
+- Farlow, *Partial Differential Equations for Scientists and Engineers*
+- Logan, *Applied Partial Differential Equations*
+- Fritz, *Partial Differential Equations*
+- Bleecker and Csordas, *Basic Partial Differential Equations*
+
+#### Advanced (more prequisites)
+
+- Gustafson, *Introduction to Partial Differential Equations and Hilbert Space Methods*
+- Taylor, *Partial Differential Equations: Basic Theory*
+- Evans, *Partial Differential Equations: Second Edition*
+- Folland, *Introduction to Partial Differential Equations*
+
 ## Linear Algebra
 
 - Strang, *Introduction to Linear Algebra* (with OCW lectures)
@@ -47,10 +77,10 @@ Many people also favor the Schaum's Outline for linear algebra as well as Schaum
 The big question that arises almost every time someone asks for an analysis text is, Rudin or not Rudin? I think the answer is, yes. Read his books, and read some others too in case you didn't get what Rudin was talking about.
 
 ### Real Analysis
-- Johnsonbaugh and Pfaffenberger, Foundations of Mathematical Analysis
-- Apostol, Mathematical Analysis
-- Rudin, Principles of Mathematical Analysis
-- Shilov and Gurevich, Integral, Measure and Derivative: A Unified Approach
+- Johnsonbaugh and Pfaffenberger, *Foundations of Mathematical Analysis*
+- Apostol, *Mathematical Analysis*
+- Rudin, *Principles of Mathematical Analysis*
+- Shilov and Gurevich, *Integral, Measure and Derivative: A Unified Approach*
 
 In struggling with Rudin's *Principles of Mathematical Analysis* (aka "Baby "Rudin"), I found various supplements and partial solutions manuals online. Of these, most were not very helpful; often, I had actually worked out the same proof that the they showed, but I didn't understand how it served to prove the premise and the solution came with no explanation. (That's still some help; though: if I have some reassurance that I've seen the statement that's necessary for the proof, then I know I'm on the right track.)
 
