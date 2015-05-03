@@ -7,7 +7,7 @@ Probably the best conventional calculus textbook is Leithold's *TC7* (*The Calcu
 
 MIT OCW has a pretty good series of lectures for calculus of a single variable that should go well with Leithold.
 
-A more advanced choice is Apostol's Calculus volumes I and II. MIT uses this as the text for their honors calculus course. It's very good, and goes deeper into the background of the math you're learning, but I think it's probably best in combination with a book like Leithold's.
+A more advanced choice is Apostol's *Calculus* Volumes I and II. MIT uses this as the text for their honors calculus course. It's very good, and goes deeper into the background of the math you're learning, but I think it's probably best in combination with a book like Leithold's. (I'm not sure if Volume II is really worthwhile, though.)
 
 Leithold has been called a fairly demanding book. Personally, I think its clarity and wealth of examples would benefit any learner. However, for a more intuitive approach to the concepts of calculus, one book that might help is Thompson and Gardners's *Calculus Made Easy*. This one isn't really adequate as your sole textbook, but it does a good job of spoonfeeding you the intuitions of calculus.
 
@@ -15,7 +15,7 @@ Some people swear by Morris Kline's *Calculus: An Intuitive and Physical Approac
 
 Other online lecture offerings include ones from Ohio State and Khan Academy. Both seemed a bit slow and basic for my taste, whereas MIT's was more my speed, but then again I already took calculus I in high school so I wasn't starting from scratch.
 
-For more practice problems, many people rely on Schaum's Outlines and Schaum's 3,000 Solved Problems in Calculus. The University of Wisconsin-Madison also has free calculus texts that you can get online; they don't look at all adequate as stand-alone texts for self study, but they do have problems with some solutions included.
+For more practice problems, many people rely on Schaum's Outlines and *Schaum's 3,000 Solved Problems in Calculus*. The University of Wisconsin-Madison also has free calculus texts that you can get online; they don't look at all adequate as stand-alone texts for self study, but they do have problems with some solutions included.
 
 For multivariate calculus, there seems to be a general consensus that the texts that teach "all" of calculus don't do a great job with it. (Leithold, for example, stops giving so many proofs at that point in the curriculum and states that they belong in a book dedicated to the subject.) The following texts are dedicated to this part of the calculus curriculum in particular (arranged in descending order according to my impression of their usefulness):
 
@@ -52,18 +52,23 @@ The big question that arises almost every time someone asks for an analysis text
 - Rudin, Principles of Mathematical Analysis
 - Shilov and Gurevich, Integral, Measure and Derivative: A Unified Approach
 
-In struggling with Rudin's *Principles of Mathematical Analysis* (aka "Baby "Rudin"), I found various supplements and partial solutions manuals online. Of these, most were not very helpful; often, I could figure out enough to construct the skeleton of a proof but I couldn't see why the proof worked. (That's still some help; though: if I have some reassurance that I've seen the statement that's necessary for the proof, then I know I'm on the right track.)
+In struggling with Rudin's *Principles of Mathematical Analysis* (aka "Baby "Rudin"), I found various supplements and partial solutions manuals online. Of these, most were not very helpful; often, I had actually worked out the same proof that the they showed, but I didn't understand how it served to prove the premise and the solution came with no explanation. (That's still some help; though: if I have some reassurance that I've seen the statement that's necessary for the proof, then I know I'm on the right track.)
 
 The one resource that I did find most helpful is George Bergman's "Supplements", which has commentary on Rudin's text as well as the exercises [https://math.berkeley.edu/~gbergman/ug.hndts/m104_Rudin_exs.pdf]. Bergman also wrote up his own errata listing things he wanted Rudin to change in the book: [https://math.berkeley.edu/~gbergman/ug.hndts/m104_Rudin_notes.pdf].
 
 UW-Madison hosts a solution manual by Roger Cooke, [http://minds.wisconsin.edu/handle/1793/67009]; this wasn't always thorough enough, but it was of some help.
 
+### Manifolds
+- Munkres, *Analysis On Manifolds*
+- Spivak, *Calculus On Manifolds*
+- Loomis and Sternberg, *Advanced Calculus*
+
 ### Complex Analysis
-- Rudin, Real and Complex Analysis
-- Shilov, Elementary Real and Complex Analysis
-- Flannigan, Complex Variables: Harmonic and Analytic Functions
+- Rudin, *Real and Complex Analysis*
+- Shilov, *Elementary Real and Complex Analysis*
+- Flannigan, *Complex Variables: Harmonic and Analytic Functions*
 
 ### Functional Analysis
-- Rudin, Functional Analysis
-- Kolmogorov and Fomin, Elements of the Theory of Functions and Functional Analysis
-- Shilov, Elementary Functional Analysis
+- Rudin, *Functional Analysis*
+- Kolmogorov and Fomin, *Elements of the Theory of Functions and Functional Analysis*
+- Shilov, *Elementary Functional Analysis*
