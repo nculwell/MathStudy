@@ -63,10 +63,15 @@ For multivariate calculus, there seems to be a general consensus that the texts 
 - Klein, *Coding the Matrix* (with Brown/Coursera course; great course but not much use as a stand-alone text)
 - Axler, *Linear Algebra Done Right* (2e or 3e)
 - Hoffman and Kunze, *Linear Algebra*
+- Halmos, *Finite-Dimensional Vector Spaces*
 
 Others:
 - Shilov, *Linear Algebra*
 - Anton, *Elementary Linear Algebra*
+- Gentle, *Matrix Algebra: Theory, Computations, and Applications in Statistics*
+- Bernstein, *Matrix Mathematics: Theory, Facts, and Formulas*
+- Meyer, *Matrix Analysis and Applied Linear Algebra Book and Solutions Manual*
+- Lang, *Linear Algebra*
 
 Jim Hefferon has a free (GFDL) linear algebra text [http://joshua.smcvt.edu/linearalgebra/] which is available as a PDF file or as Latex source. It has exercises with worked answers.
 
@@ -95,8 +100,11 @@ UW-Madison hosts a solution manual by Roger Cooke, [http://minds.wisconsin.edu/h
 
 ### Complex Analysis
 - Rudin, *Real and Complex Analysis*
+- Ahlfors, *Complex Analysis: An Introduction to the Theory of Analytic Functions of One Complex Variable*
 - Shilov, *Elementary Real and Complex Analysis*
 - Flannigan, *Complex Variables: Harmonic and Analytic Functions*
+- Needham, *Visual Complex Analysis*
+- Schwerdtfeger, *Geometry of Complex Numbers*
 
 ### Functional Analysis
 - Rudin, *Functional Analysis*
