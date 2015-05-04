@@ -13,6 +13,8 @@ Leithold has been called a fairly demanding book. Personally, I think its clarit
 
 Some people swear by Morris Kline's *Calculus: An Intuitive and Physical Approach*. It supposedly gives you a more intuitive understanding of calculus, as the title suggests. I haven't seen this book myself. The Dover edition is less than $20, though.
 
+An interesting-looking recent book designed for high school students who want to study calculus on their own is *Calculus for the Ambitious*, by T. W. Körner. CUP's promotion says, "In a lively and easy-to-read style, Professor Körner uses approximation and estimates in a way that will easily merge into the standard development of analysis. By using Taylor's theorem with error bounds he is able to discuss topics that are rarely covered at this introductory level." I haven't seen this book in the flesh yet, but it's inexpensive.
+
 Other online lecture offerings include ones from Ohio State and Khan Academy. Both seemed a bit slow and basic for my taste, whereas MIT's was more my speed, but then again I already took calculus I in high school so I wasn't starting from scratch.
 
 For more practice problems, many people rely on Schaum's Outlines and *Schaum's 3,000 Solved Problems in Calculus*. The University of Wisconsin-Madison also has free calculus texts that you can get online; they don't look at all adequate as stand-alone texts for self study, but they do have problems with some solutions included.
