@@ -38,6 +38,8 @@ It may be that the problems in whatever textbook you're using don't give you as 
 - Mendelson, *Schaum's 3,000 Solved Problems in Calculus* [reportedly has some errors]
 - Kelley, *The Humongous Book of Calculus Problems*
 
+John Erdman of Portland State University has posted a number of free problem books as PDFs on his website (no answers given): http://web.pdx.edu/~erdman/
+
 ## Differential Equations
 
 ### Combined
