@@ -29,6 +29,15 @@ For multivariate calculus, there seems to be a general consensus that the texts 
 
 *The Feynman Lectures* also discuss vector calculus in the context of electromagnetism, which is supposedly a great way to tie it in with your understanding of the physical, if you already have some background in physics.
 
+### Calculus problem books
+
+It may be that the problems in whatever textbook you're using don't give you as much practice as you want. One option is to get another textbook and do the problems from that, too. However, there are a number of books dedicated to providing problems. One advantage to these is that they generally tend to give you explanations of how to solve them as well.
+
+- Demidovich, *Problems in mathematical analysis* [can be found online]
+- Maron, *Problems in Calculus of One Variable*
+- Mendelson, *Schaum's 3,000 Solved Problems in Calculus* [reportedly has some errors]
+- Kelley, *The Humongous Book of Calculus Problems*
+
 ## Differential Equations
 
 ### Combined
