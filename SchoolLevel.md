@@ -1,5 +1,10 @@
 # Grade school math
 
+## Harold Jacobs
+
+- *Elementary Algebra*
+- *Geometry: Seeing, Doing, Understanding*
+
 ## The Russian texts
 
 ### Gelfand
