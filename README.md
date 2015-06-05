@@ -90,6 +90,14 @@ Jim Hefferon has a free (GFDL) linear algebra text [http://joshua.smcvt.edu/line
 
 Many people also favor the Schaum's Outline for linear algebra as well as Schaum's *3,000 Solved Problems in Linear Algebra*.
 
+## Geometry
+
+- Hartshorne *Geometry: Euclid and Beyond*
+- Moise, *Elementary Geometry From An Advanced Viewpoint*
+- Greenberg, *Euclidean And Non-Euclidean Geometries*
+- Eves, *A Survey of Geometry*
+- Coxeter.
+
 ## Analysis
 
 The big question that arises almost every time someone asks for an analysis text is, Rudin or not Rudin? I think the answer is, yes. Read his books, and read some others too in case you didn't get what Rudin was talking about.
