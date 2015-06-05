@@ -59,6 +59,13 @@ A quote from the introduction of Barbeau's *Polynomials*:
 
 This book covers algebra, but it covers it much more deeply than typical high school courses. It would be appropriate, as Barbeau suggests, as enrichment reading for a high school student who is too advanced for the usual curriculum but has not been accelerated through it. It would help to remedy one of the failings of the typical high school curriculum, which is that algebra is typically not taught very thoroughly, then when it comes time to learn calculus, students' algebra skills are weak and their calculus skills suffer for it.
 
+# Geometry (more advanced books)
+
+- Hartshorne *Geometry: Euclid and Beyond*
+- Moise, *Elementary Geometry From An Advanced Viewpoint*
+- Greenberg, *Euclidean And Non-Euclidean Geometries*
+- Eves, *A Survey of Geometry*
+
 # Abstract Algebra
 
 In principal, there is nothing stopping high school students from being able to read abstract algebra immediately after completing an elementary introduction to algebra. A book like Pinter's *A Book of Abstract Algebra* should be attainable for a motivated student (at least the part I've read so far).
