@@ -16,6 +16,13 @@ These are apparently still really popular in India.
 - Hall and Knight, *Higher Algebra*
 - Loney, *Plane Trigonometry*
 
+I don't know if anyone still uses these or not, but some people like them.
+
+- Charles Smith, *A Treatise on Algebra*
+- Wells, *A First Course in Algebra*
+- Wells, *Second Course in Algebra*
+- Wells, *University Algebra*
+
 ## The Russian texts
 
 ### Gelfand
