@@ -1,9 +1,20 @@
 # Grade school math
 
-## Harold Jacobs
+## High school math
+
+### Harold Jacobs
 
 - *Elementary Algebra*
 - *Geometry: Seeing, Doing, Understanding*
+- *Mathematics, a Human Endeavor*
+
+### Old books in the public domain
+
+These are apparently still really popular in India.
+
+- Hall and Knight, *Elementary Algebra*
+- Hall and Knight, *Higher Algebra*
+- Loney, *Plane Trigonometry*
 
 ## The Russian texts
 
