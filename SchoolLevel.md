@@ -8,6 +8,13 @@
 - *Geometry: Seeing, Doing, Understanding*
 - *Mathematics, a Human Endeavor*
 
+## Sheldon Axler
+
+- *Algebra and Trigonometry*
+- *Precalculus*
+
+These overlap quite a bit; I'm not sure if there is any substantive difference between them besides the sequencing of topics. His other book at this level, *College Algebra*, is superfluous because it is entirely contained within *Algebra and Trigonometry*.
+
 ### Old books in the public domain
 
 These are apparently still really popular in India.
@@ -62,8 +69,8 @@ This book covers algebra, but it covers it much more deeply than typical high sc
 # Others
 
 - Moise, *Geometry*
-- Ellison, Hard Math for Elementary School
-- Halmos, Naive Set Theory
+- Ellison, *Hard Math for Elementary School*
+- Halmos, *Naive Set Theory*
 
 # Abstract Algebra
 
