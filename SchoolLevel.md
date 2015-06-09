@@ -15,6 +15,26 @@
 
 These overlap quite a bit; I'm not sure if there is any substantive difference between them besides the sequencing of topics. His other book at this level, *College Algebra*, is superfluous because it is entirely contained within *Algebra and Trigonometry*.
 
+## The Art of Problem Solving
+
+I gather this series began as two books, *The Art of Problem Solving* volumes 1 and 2, which are aimed at Mathcounts contestants. However, they now have a full line of school math textbooks from third grade through high school. People rave about them, so they're probably pretty good. I haven't been able to find any samples to look at.
+
+- *Prealgebra*
+- *Introduction to Algebra*
+- *Intermediate Algebra*
+- *Introduction to Geometry*
+- *Introduction to Number Theory*
+- *Introduction to Counting and Probability*
+- *Intermediate Counting and Probability*
+- *Precalculus*
+- *Calculus*
+
+They also offer online courses that go with these books.
+
+AoPS also has a set of books called *Beast Academy* which is planned to cover grades 2-5, although currently only grades 3 and 4 are complete.
+
+These can be found here: https://www.artofproblemsolving.com/
+
 ### Old books in the public domain
 
 These are apparently still really popular in India.
