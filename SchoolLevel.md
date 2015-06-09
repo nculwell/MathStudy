@@ -8,14 +8,14 @@
 - *Geometry: Seeing, Doing, Understanding*
 - *Mathematics, a Human Endeavor*
 
-## Sheldon Axler
+### Sheldon Axler
 
 - *Algebra and Trigonometry*
 - *Precalculus*
 
 These overlap quite a bit; I'm not sure if there is any substantive difference between them besides the sequencing of topics. His other book at this level, *College Algebra*, is superfluous because it is entirely contained within *Algebra and Trigonometry*.
 
-## The Art of Problem Solving
+### The Art of Problem Solving
 
 I gather this series began as two books, *The Art of Problem Solving* volumes 1 and 2, which are aimed at Mathcounts contestants. However, they now have a full line of school math textbooks from third grade through high school. People rave about them, so they're probably pretty good. I haven't been able to find any samples to look at.
 
