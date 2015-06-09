@@ -88,7 +88,7 @@ This book covers algebra, but it covers it much more deeply than typical high sc
 
 # Others
 
-- Moise, *Geometry*
+- Moise and Downs, *Geometry*
 - Moise, *Elementary Geometry from an Advanced Standpoint*
 - Ellison, *Hard Math for Elementary School*
 - Halmos, *Naive Set Theory*
