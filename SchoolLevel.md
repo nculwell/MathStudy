@@ -94,6 +94,8 @@ A quote from the introduction of Barbeau's *Polynomials*:
 
 This book covers algebra, but it covers it much more deeply than typical high school courses. It would be appropriate, as Barbeau suggests, as enrichment reading for a high school student who is too advanced for the usual curriculum but has not been accelerated through it. It would help to remedy one of the failings of the typical high school curriculum, which is that algebra is typically not taught very thoroughly, then when it comes time to learn calculus, students' algebra skills are weak and their calculus skills suffer for it.
 
+Barbeau has another book, *Pell's Equation*, that is similar in spirit, and (unsurprisingly) explores Pell's equation.
+
 # Others
 
 ## More-or-less standard curriculum
