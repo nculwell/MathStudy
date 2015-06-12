@@ -96,8 +96,15 @@ This book covers algebra, but it covers it much more deeply than typical high sc
 
 # Others
 
+## More-or-less standard curriculum
+
 - Moise and Downs, *Geometry*
 - Moise, *Elementary Geometry from an Advanced Standpoint*
+- David Rayner, *Essential Mathematics* (1 & 2) and *General Mathematics*
+
+## Enrichment
+
 - Ellison, *Hard Math for Elementary School*
 - Halmos, *Naive Set Theory*
-- David Rayner, *Essential Mathematics* (1 & 2) and *General Mathematics*
+- Cofman, *Numbers and Shapes Revisited*
+- Rademacher, *Higher mathematics from an elementary point of view*
