@@ -70,7 +70,7 @@ Israel M. Gelfand (Гельфанд) wrote a series of books to teach fundamenta
 - *Trigonometry*
 - *Sequences, Combinations, Limits*
 
-Rutgers still runs the Extended Gelfand Correspondence Program in Mathematics (http://www.egcpm.com/egcpm.html), which allows you to have your exercises graded. You could just do them by yourself of course, but no answers are provided.
+Rutgers still runs the Extended Gelfand Correspondence Program in Mathematics (http://www.egcpm.com/), which allows you to have your exercises graded. You could just do them by yourself of course, but no answers are provided.
 
 Gelfand's books seem like a pretty interesting way to introduce high-school material to motivated students. They aren't as dry as most American textbooks, although they lack the color and gloss of the latter. However, I'm not sure if they really go into enough depth in some areas.
 
