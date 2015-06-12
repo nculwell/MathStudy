@@ -4,16 +4,24 @@
 
 ### Harold Jacobs
 
+Jacobs books combine entertaining commentary and careful exposition. He aims to convince people who "don't like math" that really it's an interesting subject. He does this by building a sense of why math is great, never by injecting unrelated silliness into the narrative to distract you from the math. These books are copiously illustrated, with lots of well-chosen images that help illustrate and reinforce the mathematical content.
+
+- *Mathematics: A Human Endeavor*
 - *Elementary Algebra*
 - *Geometry: Seeing, Doing, Understanding*
-- *Mathematics, a Human Endeavor*
+
+*Elementary Algebra* and *Geometry* are fairly standard secondary school curricula for those subjects. *A Human Endeavor* is a "topics" type book that would be appropriate for anyone at the pre-algebra level on up who isn't already familiar with the topics. The topics it presents aren't particularly advanced, but they are important ones, and many of them (e.g. statistics, topology) are not covered in a standard high school curriculum.
+
+A number of the topics covered in *A Human Endeavor* (e.g. symmetry) are ones that are typically introduced in the pre-calculus curriculum, then ignored for so long that students wonder why they were ever brought up until they re-emerge in an abstract algebra course a decade later for any students whose studies make it that far. But that's an entirely different discussion.
 
 ### Sheldon Axler
+
+Sheldon Axler is a university professor who has written a number of math textbooks for undergraduates. These offer a no-nonsense presentation for an adult audience. Axler doesn't try to entertain you (much), but he does offer a lot of helpful tips about how to think about math as you learn it. Reading his books gives me the sense that he's taught a lot of undergraduates in his time and he has a pretty good idea of what he can and can't expect them to figure out on their own. He is also careful to give you an idea about why he's telling you something, instead of taking the "it will make sense when you get there" attitude that many math professors adopt in writing their books.
 
 - *Algebra and Trigonometry*
 - *Precalculus*
 
-These overlap quite a bit; I'm not sure if there is any substantive difference between them besides the sequencing of topics. His other book at this level, *College Algebra*, is superfluous because it is entirely contained within *Algebra and Trigonometry*.
+These two books overlap quite a bit; I'm not sure if there is any substantive difference between them besides the sequencing of topics. His other book at this level, *College Algebra*, is superfluous because it is entirely contained within *Algebra and Trigonometry* (and it's only slightly cheaper).
 
 ### The Art of Problem Solving
 
@@ -92,3 +100,4 @@ This book covers algebra, but it covers it much more deeply than typical high sc
 - Moise, *Elementary Geometry from an Advanced Standpoint*
 - Ellison, *Hard Math for Elementary School*
 - Halmos, *Naive Set Theory*
+- David Rayner, *Essential Mathematics* (1 & 2) and *General Mathematics*
