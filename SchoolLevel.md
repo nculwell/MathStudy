@@ -70,13 +70,13 @@ Israel M. Gelfand (Гельфанд) wrote a series of books to teach fundamenta
 - *Trigonometry*
 - *Sequences, Combinations, Limits*
 
-Rutgers still runs the Extended Gelfand Correspondence Program in Mathematics (http://www.egcpm.com/), which allows you to have your exercises graded. You could just do them by yourself of course, but no answers are provided.
+Rutgers still runs the Extended Gelfand Correspondence Program in Mathematics (http://www.egcpm.com/), which allows you to have your exercises graded. You could just do them by yourself of course, but no answers are provided. The program accepts students of ages 13-17.
 
-Gelfand's books seem like a pretty interesting way to introduce high-school material to motivated students. They aren't as dry as most American textbooks, although they lack the color and gloss of the latter. However, I'm not sure if they really go into enough depth in some areas.
+Gelfand's books seem like a pretty interesting way to introduce high-school material to motivated students. They aren't as dry as most American textbooks, though they lack color and gloss. However, I'm not sure if they really go into enough depth in some areas, so you might need to supplement them with a book like Axler's.
 
 ### Kiselev
 
-Andrei P. Kiselev (Киселёв, also written Kiselyov) wrote a book called Geometry, which was the standard text in Russia for many decades (and was revised many times during that period). It is available in English in two volumes, *Planimetry* and *Stereometry*, which were adapted for the USA by Alexander Givental.
+Andrei P. Kiselev (Киселёв, also written Kiselyov) wrote a book called Geometry, which was the standard text in Russia for many decades (and was revised many times during that period). It is available in English in two volumes, *Planimetry* and *Stereometry*, which were translated and adapted for the USA by Alexander Givental.
 
 *Volume I: Planimetry* covers lines, circles, similarity, regular polygons and areas. *Volume II: Stereometry* covers figures in three dimensions: lines and planes, polyhedra and round solids; then it wraps up with an introduction to vectors and then an overview of the history of geometry and a brief introduction to non-Euclidean geometry. *Volume II* in particular goes well beyond what high school students in the US are expected to learn from a geometry course, and it gets very dense.
 
@@ -110,3 +110,7 @@ Barbeau has another book, *Pell's Equation*, that is similar in spirit, and (uns
 - Halmos, *Naive Set Theory*
 - Cofman, *Numbers and Shapes Revisited*
 - Rademacher, *Higher mathematics from an elementary point of view*
+
+# Elementary
+
+TODO
