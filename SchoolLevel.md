@@ -43,21 +43,6 @@ AoPS also has a set of books called *Beast Academy* which is planned to cover gr
 
 These can be found here: https://www.artofproblemsolving.com/
 
-### Old books in the public domain
-
-These are apparently still really popular in India.
-
-- Hall and Knight, *Elementary Algebra*
-- Hall and Knight, *Higher Algebra*
-- Loney, *Plane Trigonometry*
-
-I don't know if anyone still uses these or not, but some people like them.
-
-- Charles Smith, *A Treatise on Algebra*
-- Wells, *A First Course in Algebra*
-- Wells, *Second Course in Algebra*
-- Wells, *University Algebra*
-
 ## The Russian texts
 
 ### Gelfand
@@ -100,6 +85,40 @@ As an example of what you get in this book, it includes methods for solving cubi
 
 Barbeau has another book, *Pell's Equation*, that is similar in spirit, and (unsurprisingly) explores Pell's equation.
 
+## Old books in the public domain
+
+These are apparently still really popular in India.
+
+- Hall and Knight, *Elementary Algebra for Schools*
+- Hall and Knight, *Higher Algebra*
+- Loney, *Plane Trigonometry*
+
+*Elementary Algebra for Schools* is probably unnecessary these days. It covers roughly the equivalent of Algebra I and Algebra II in US high schools, but modern textbooks do a better job with the material.
+
+On the other hand, *Higher Algebra* is still a very useful book because much of the material that it covers is ignored by modern curricula. Some of what it covers is similar to Barbeau's *Polynomials* (e.g. Hall and Knight cover Cardano's method for solving cubic equations). Other topics in here, like continued fractions, are rarely discussed in modern textbooks.
+
+The famous Indian mathematician Ramanujan read Hall and Knight's *Higher Algebra* and cited it in his notebooks.
+
+Loney's *Plane Trigonometry* has a lot of information, but I'm not sure how useful it is anymore. This may be just a personal bias of mine, but I don't find trigonometry interesting enough to dedicate this much time and energy to all by itself. A book like Gelfand's or Axler's gives you the basics you need, and the rest is generally covered elsewhere (e.g. in calculus and analysis) when it's needed. If you really want to know a lot about trig, though, Loney might be what you want.
+
+I don't know if anyone still uses these other old books or not, but some people like them.
+
+- Charles Smith, *A Treatise on Algebra*
+- Wells, *A First Course in Algebra*
+- Wells, *Second Course in Algebra*
+- Wells, *University Algebra*
+
+## Schaum's Outlines
+
+Schaum's has several of their "outlines" which are appropriate for this level. Schaum's outlines are full of worked problems, which you can use to study or to practice. (The answers are right there, though, so you have to cover them up if you want to use them for practice.) The outlines also provide some explanation of the topics, so in theory you could even use them as textbooks, though that isn't really what they're designed for.
+
+- *Elementary Algebra*
+- *Intermediate Algebra*
+- *Trigonometry*
+- *College Algebra*
+- *Geometry*
+- *Precalculus*
+
 # Others
 
 ## More-or-less standard curriculum
@@ -107,6 +126,9 @@ Barbeau has another book, *Pell's Equation*, that is similar in spirit, and (uns
 - Moise and Downs, *Geometry*
 - Moise, *Elementary Geometry from an Advanced Standpoint*
 - David Rayner, *Essential Mathematics* (1 & 2) and *General Mathematics*
+- Esty, Precalculus
+- Foerster, Algebra I
+- Foerster, Algebra and Trigonometry
 
 ## Enrichment
 
@@ -114,6 +136,7 @@ Barbeau has another book, *Pell's Equation*, that is similar in spirit, and (uns
 - Halmos, *Naive Set Theory*
 - Cofman, *Numbers and Shapes Revisited*
 - Rademacher, *Higher mathematics from an elementary point of view*
+- Lang, *Basic Mathematics*
 
 # Elementary
 
