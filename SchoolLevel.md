@@ -96,7 +96,7 @@ This book covers algebra, but it covers it much more deeply than typical high sc
 
 Many of the problems are taken from various math contests.
 
-As one example of what you get in this book, it includes methods for solving cubic equations, which, while not really hard, are more involved than methods for quadratic equations and aren't normally taught to high school students. In addition to being useful (cubic equations do come up and not knowing how to solve one is embarrassing), I find these techniques to be very instructive as examples of how you could go about solving problems.
+As an example of what you get in this book, it includes methods for solving cubic equations, which, while not really hard, are more involved than methods for quadratic equations and aren't normally taught to high school students. In addition to being useful (cubic equations do come up and not knowing how to solve one is embarrassing), I find these techniques to be very instructive as examples of how you could go about solving problems.
 
 Barbeau has another book, *Pell's Equation*, that is similar in spirit, and (unsurprisingly) explores Pell's equation.
 
