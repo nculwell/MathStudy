@@ -5,13 +5,18 @@ Info on resources for studying math, stats, CS, etc.
 
 Probably the best conventional calculus textbook is Leithold's *TC7* (*The Calculus, 7th edition*). It's a "1000-page monster" style book with exposition, proofs and exercises for the standard calculus sequence. I feel that it's very good up until the introduction of vectors; at that point, I'm not sure if the single chapter crash course in linear algebra is sufficient to grasp the subject. This seems to be a common problem with multivariate calculus texts, and I think the best solution is to get a proper introduction to linear algebra first.
 
-MIT OCW has a pretty good series of lectures for calculus of a single variable that should go well with Leithold.
+MIT OCW has a series of online lectures for calculus. The lecturing isn't outstanding, but the material covered is good for the most part. The lectures can be watched on YouTube here:
+- https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1
+- https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38
 
-A more advanced choice is Apostol's *Calculus* Volumes I and II. MIT uses this as the text for their honors calculus course. It's very good, and goes deeper into the background of the math you're learning, but I think it's probably best in combination with a book like Leithold's. (I'm not sure if Volume II is really worthwhile, though.)
+Gilbert Strang wrote a textbook that can go with it. It's available for free online here:
+- http://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf
+
+A more advanced choice is Apostol's *Calculus* Volumes I and II. MIT uses this as the text for their honors calculus course. It's very good, and goes deeper into the background of the math you're learning, but I think it's probably best in combination with a book like Leithold's. (I'm not sure if Volume II is really worthwhile, though. I'll decide that once I've read it.)
 
 Leithold has been called a fairly demanding book. Personally, I think its clarity and wealth of examples would benefit any learner. However, for a more intuitive approach to the concepts of calculus, one book that might help is Thompson and Gardners's *Calculus Made Easy*. This one isn't really adequate as your sole textbook, but it does a good job of spoonfeeding you the intuitions of calculus.
 
-Some people swear by Morris Kline's *Calculus: An Intuitive and Physical Approach*. It supposedly gives you a more intuitive understanding of calculus, as the title suggests. I haven't seen this book myself. The Dover edition is less than $20, though.
+Some people swear by Morris Kline's *Calculus: An Intuitive and Physical Approach*. It supposedly gives you a more intuitive understanding of calculus, as the title suggests. The Dover edition is less than $20. It's a bit old-fashioned but it seems good enough. I'll have more to say once I've spent more time reading it.
 
 An interesting-looking recent book designed for high school students who want to study calculus on their own is *Calculus for the Ambitious*, by T. W. Körner. CUP's promotion says, "In a lively and easy-to-read style, Professor Körner uses approximation and estimates in a way that will easily merge into the standard development of analysis. By using Taylor's theorem with error bounds he is able to discuss topics that are rarely covered at this introductory level." I haven't seen this book in the flesh yet, but it's inexpensive.
 
