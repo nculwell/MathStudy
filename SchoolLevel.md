@@ -137,6 +137,7 @@ Schaum's has several of their "outlines" which are appropriate for this level. S
 - Cofman, *Numbers and Shapes Revisited*
 - Rademacher, *Higher mathematics from an elementary point of view*
 - Lang, *Basic Mathematics*
+- Vilenkin, *Stories About Sets*
 
 # Elementary
 
