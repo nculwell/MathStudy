@@ -139,6 +139,10 @@ Schaum's has several of their "outlines" which are appropriate for this level. S
 - Lang, *Basic Mathematics*
 - Vilenkin, *Stories About Sets*
 
+## Cambridge reading list (pre-university)
+
+http://www.maths.cam.ac.uk/undergrad/admissions/readinglist.pdf
+
 # Elementary
 
 TODO
