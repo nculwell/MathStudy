@@ -25,7 +25,7 @@ These two books overlap quite a bit; I'm not sure if there is any substantive di
 
 ### The Art of Problem Solving
 
-I gather this series began as two books, *The Art of Problem Solving* volumes 1 and 2, which are aimed at Mathcounts contestants. However, they now have a full line of school math textbooks from third grade through high school. People rave about them, so they're probably pretty good. I haven't been able to find any samples to look at.
+I gather this series began as two books by Richard Rusczyk, *The Art of Problem Solving* volumes 1 and 2, which are aimed at [Mathcounts](http://www.mathcounts.org/) contestants. However, the series has been expanded to include textbooks from precalculus through all of high school mathematics. People rave about them, so they're probably pretty good. I've only looked at *Introduction to Algebra*, but I found it interesting and thorough in its explanations.
 
 - *Prealgebra*
 - *Introduction to Algebra*
@@ -37,11 +37,13 @@ I gather this series began as two books, *The Art of Problem Solving* volumes 1 
 - *Precalculus*
 - *Calculus*
 
-They also offer online courses that go with these books.
+The main high school curriculum subjects covered here (*Prealgebra*, *Introduction to Algebra*, *Intermediate Algebra*, *Introduction to Geometry*, *Precalculus*), aren't usually given a challenging treatment in the other available books, so these make very attractive alternatives. I don't know if there's much need for the calculus book, though, as students already have lots of different options for that (as detailed on my other books page).
 
-AoPS also has a set of books called *Beast Academy* which is planned to cover grades 2-5, although currently only grades 3 and 4 are complete.
+AoPS also has a set of books called *Beast Academy* which is planned to cover grades 2-5, although currently only grades 3 and 4 are complete. I have no idea if those are any good.
 
 These can be found here: https://www.artofproblemsolving.com/
+
+The Art of Problem Solving website also offers online courses that go with these books.
 
 ## The Russian texts
 
