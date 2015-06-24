@@ -37,7 +37,9 @@ I gather this series began as two books by Richard Rusczyk, *The Art of Problem 
 - *Precalculus*
 - *Calculus*
 
-The main high school curriculum subjects covered here (*Prealgebra*, *Introduction to Algebra*, *Intermediate Algebra*, *Introduction to Geometry*, *Precalculus*), aren't usually given a challenging treatment in the other available books, so these make very attractive alternatives. I don't know if there's much need for the calculus book, though, as students already have lots of different options for that (as detailed on my other books page).
+The main high school curriculum subjects covered here (*Prealgebra*, *Introduction to Algebra*, *Intermediate Algebra*, *Introduction to Geometry*, *Precalculus*), aren't usually given a challenging treatment in the other available books, so these make very attractive alternatives.
+
+I don't know if there's as much need for the calculus book, as students already have lots of different options for that (as detailed on my other books page), but what I like about it judging from the samples available online is that it gives nice, detailed walkthroughs of more complex problems than you see in the worked examples of a typical textbook.
 
 Since there is often a lot of overlap between courses on "Algebra II" and "Precalculus", I compared the contents of *Intermediate Algebra* and *Precalculus*. They are mostly different, with *Intermediate Algebra* focusing polynomials, other functions, and series, whereas *Precalculus* is almost entirely devoted to trigonometry and an introduction to linear algebra.
 
