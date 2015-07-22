@@ -141,6 +141,7 @@ Schaum's has several of their "outlines" which are appropriate for this level. S
 - Esty, Precalculus
 - Foerster, Algebra I
 - Foerster, Algebra and Trigonometry
+- Lang and Murrow, *Geometry: A High School Course*
 
 ## Enrichment
 
