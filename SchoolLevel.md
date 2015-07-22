@@ -93,19 +93,25 @@ Barbeau has another book, *Pell's Equation*, that is similar in spirit, and (uns
 
 ## Old books in the public domain
 
-These are apparently still really popular in India.
+These are apparently still really popular in India. Since they are in the public domain, you can find them available online for free. PDFs are available on archive.org, probably elsewhere as well. They are still in print, though not always as cheap as you'd hope given that the copyrights have expired.
 
 - Hall and Knight, *Elementary Algebra for Schools*
 - Hall and Knight, *Higher Algebra*
 - Loney, *Plane Trigonometry*
+- Chrystal, *Introduction to Algebra: For the Use of Secondary Schools and Technical Colleges*
+- Chrystal, *Algebra: an Elementary Text-book* (two volumes)
 
-*Elementary Algebra for Schools* is probably unnecessary these days. It covers roughly the equivalent of Algebra I and Algebra II in US high schools, but modern textbooks do a better job with the material.
+*Elementary Algebra for Schools* is probably unnecessary these days. It covers roughly the equivalent of Algebra I and maybe Algebra II in US high schools, but modern textbooks do a better job with the material.
 
 On the other hand, *Higher Algebra* is still a very useful book because much of the material that it covers is ignored by modern curricula. Some of what it covers is similar to Barbeau's *Polynomials* (e.g. Hall and Knight cover Cardano's method for solving cubic equations). Other topics in here, like continued fractions, are rarely discussed in modern textbooks.
 
 The famous Indian mathematician Ramanujan read Hall and Knight's *Higher Algebra* and cited it in his notebooks.
 
 Loney's *Plane Trigonometry* has a lot of information, but I'm not sure how useful it is anymore. This may be just a personal bias of mine, but I don't find trigonometry interesting enough to dedicate this much time and energy to all by itself. A book like Gelfand's or Axler's gives you the basics you need, and the rest is generally covered elsewhere (e.g. in calculus and analysis) when it's needed. If you really want to know a lot about trig, though, Loney might be what you want.
+
+Hall and Knight and Loney are available from Indian publishers for fairly cheap. Try searching AbeBooks to buy them if you're in the USA. I can't vouch for the quality of those cheap editions, but I've heard they're better than you might expect (unlike the terrible Indian editions published by companies like Wiley).
+
+Chrystal's *Introduction to Algebra* and *Algebra: an Elementary Text-book* form an elementary and advanced pair similar to Hall and Knight's *Elementary Algebra for Schools* and *Higher Algebra*, and similarly, the elementary one isn't of much interest. Chrystal's advanced text, *Algebra: an Elementary Text-book* (misleadingly titled), begins with the basic principles of algebra but it is not really a beginner's book, and it progresses quickly to a great variety of topics that are rarely taught these days, or are only taught at higher levels of algebra and analysis. Chrystal's books offer a lot of challenging problems.
 
 I don't know if anyone still uses these other old books or not, but some people like them.
 
