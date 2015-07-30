@@ -142,6 +142,7 @@ Schaum's has several of their "outlines" which are appropriate for this level. S
 - Foerster, Algebra I
 - Foerster, Algebra and Trigonometry
 - Lang and Murrow, *Geometry: A High School Course*
+- Solomonovich, *Euclidean Geometry: A First Course*
 
 ## Enrichment
 
