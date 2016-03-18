@@ -3,6 +3,21 @@ Info on resources for studying math, stats, CS, etc.
 
 I created this list for my own studies. I haven't read most of the books here yet, and probably never will read most of them. I've left it visible to the public, though, in case anyone else finds it useful. I make no promises; it may be full of bad advice and it probably contains some erroneous statements about points of fact.
 
+## Probability
+
+- Pitman, Probability
+
+Sheldon Ross
+- A First Course in Probability
+- [A Second Course in Probability]
+- Introduction to Probability Models
+- Stochastic Processes
+
+Karlin and Taylor
+- A First Course in Stochastic Processes
+- A Second Course in Stochastic Processes
+- An Introduction to Stochastic Modeling (3e preferred)
+
 ## Calculus
 
 Probably the best conventional calculus textbook is Leithold's *TC7* (*The Calculus, 7th edition*). It's a "1000-page monster" style book with exposition, proofs and exercises for the standard calculus sequence. I feel that it's very good up until the introduction of vectors; at that point, I'm not sure if the single chapter crash course in linear algebra is sufficient to grasp the subject. This seems to be a common problem with multivariate calculus texts, and I think the best solution is to get a proper introduction to linear algebra first.
