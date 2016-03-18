@@ -5,18 +5,29 @@ I created this list for my own studies. I haven't read most of the books here ye
 
 ## Probability
 
-- Pitman, Probability
+- Pitman, *Probability*
+- Feller, *An Introduction to Probability Theory and its Applications* (volumes 1 & 2)
 
 Sheldon Ross
-- A First Course in Probability
-- [A Second Course in Probability]
-- Introduction to Probability Models
-- Stochastic Processes
+- *A First Course in Probability*
+- [*A Second Course in Probability*]
+- *Introduction to Probability Models*
+- *Stochastic Processes*
 
 Karlin and Taylor
-- A First Course in Stochastic Processes
-- A Second Course in Stochastic Processes
-- An Introduction to Stochastic Modeling (3e preferred)
+- *A First Course in Stochastic Processes*
+- *A Second Course in Stochastic Processes*
+- *An Introduction to Stochastic Modeling* (3e preferred)
+
+With measure theory
+- Rosenthal, *A First Look at Rigorous Probability Theory*
+- Shiryaev, *Probability*
+- Schilling, *Measures, Integrals and Martingales*
+- Williams, *Probability with Martingales*
+- Chung, *A Course in Probability Theory*
+- Durrett, *Probability: Theory and Examples*
+- Billingsley, *Probability and measure* (3e preferred)
+- Kallenberg, *Foundations of Modern Probability*
 
 ## Calculus
 
