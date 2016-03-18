@@ -3,28 +3,37 @@ Info on resources for studying math, stats, CS, etc.
 
 I created this list for my own studies. I haven't read most of the books here yet, and probably never will read most of them. I've left it visible to the public, though, in case anyone else finds it useful. I make no promises; it may be full of bad advice and it probably contains some erroneous statements about points of fact.
 
+## Annotations
+
+- (u) - This book is very expensive (price > $100), but used copies can be bought for a reasonable price.
+- (x) - This book is very expensive (price > $100), and used copies *cannot* [at the time of writing] be bought for a reasonable price.
+- (f) - This book is available free online.
+- (i) - This book is very expensive (price > $100), but there is an affordable international edition.
+- (c) - This book is relatively inexpensive (price < $30) when bought new.
+- (o) - An acceptable edition of this book that's previous to the current one but not terribly out of date can be bought for considerably cheaper than the current edition.
+
 ## Probability
 
 - Pitman, *Probability*
-- Feller, *An Introduction to Probability Theory and its Applications* (volumes 1 & 2)
+- Feller, *An Introduction to Probability Theory and its Applications* (volumes 1 & 2) (u)
 
 Sheldon Ross
-- *A First Course in Probability*
+- *A First Course in Probability* (o)
 - [*A Second Course in Probability*]
 - *Introduction to Probability Models*
 - *Stochastic Processes*
 
 Karlin and Taylor
-- *A First Course in Stochastic Processes*
-- *A Second Course in Stochastic Processes*
+- *A First Course in Stochastic Processes* (u)
+- *A Second Course in Stochastic Processes* (u)
 - *An Introduction to Stochastic Modeling* (3e preferred)
 
 Applied
 - Mitzenmacher & Upfal - *Probability and Computing: Randomized Algorithms and Probabilistic Analysis*
-- Ross, *Applied Probability Models with Optimization Applications*
+- Ross, *Applied Probability Models with Optimization Applications* (c)
 
 With measure theory
-- Rosenthal, *A First Look at Rigorous Probability Theory*
+- Rosenthal, *A First Look at Rigorous Probability Theory* (c)
 - Shiryaev, *Probability*
 - Schilling, *Measures, Integrals and Martingales*
 - Williams, *Probability with Martingales*
@@ -188,3 +197,31 @@ UW-Madison hosts a solution manual by Roger Cooke, [http://minds.wisconsin.edu/h
 - Shilov, *Elementary Functional Analysis*
 - Kolmogorov and Fomin, *Elements of the Theory of Functions and Functional Analysis*
 - Rudin, *Functional Analysis*
+
+## Algebra
+
+### First books
+
+- Gallian, *Contemporary Abstract Algebra* (o)
+- Herstein, *Abstract Algebra*
+- Pinter, *A Course in Abstract Algebra* (c)
+
+### Major textbooks
+
+- Artin, *Algebra* (i)
+- Jacobson, *Basic Algebra I* (c)
+- Dummit and Foote, *Algebra* (i)
+- Mac Lane and Birkhoff, *Algebra 3e*
+- Lang, *Algebra*
+- Herstein, *Algebra*
+
+### Algebraic geometry
+
+#### Introductions
+- Holme, *A Royal Road to Algebraic Geometry*
+- Beltrametti, Carletti, Gallarati, Bragadin - *Lectures on Curves, Surfaces and Projective Varieties*
+- Shafarevich, Reid - *Basic Algebraic Geometry 1: Varieties in Projective Space*
+- Shafarevich, Reid - *Basic Algebraic Geometry 2: Schemes and Complex Manifolds*
+
+#### Beyond
+- Hartshorne, *Algebraic Geometry*
