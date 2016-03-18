@@ -101,7 +101,7 @@ John Erdman of Portland State University has posted a number of free problem boo
 - Hurewicz, *Lectures on Ordinary Differential Equations*
 - Coddington, *An Introduction to Ordinary Differential Equations*
 - Arnold, *Ordinary Differential Equations*
-- Strang, *Differential Equations and Linear Algebra*
+- Coddington and Levinson, *Theory of Ordinary Differential Equations*
 
 ### PDEs
 
@@ -110,7 +110,7 @@ John Erdman of Portland State University has posted a number of free problem boo
 - Strauss, *Partial Differential Equations: An Introduction*
 - Farlow, *Partial Differential Equations for Scientists and Engineers*
 - Logan, *Applied Partial Differential Equations*
-- Fritz, *Partial Differential Equations*
+- John, *Partial Differential Equations*
 - Bleecker and Csordas, *Basic Partial Differential Equations*
 
 #### Advanced (more prequisites)
@@ -123,18 +123,18 @@ John Erdman of Portland State University has posted a number of free problem boo
 ## Linear Algebra
 
 - Strang, *Introduction to Linear Algebra* (with OCW lectures)
+- Strang, *Linear Algebra and its Applications*
 - Klein, *Coding the Matrix* (with Brown/Coursera course; great course but not much use as a stand-alone text)
 - Axler, *Linear Algebra Done Right* (2e or 3e)
 - Hoffman and Kunze, *Linear Algebra*
+- Shilov, *Linear Algebra*
 - Halmos, *Finite-Dimensional Vector Spaces*
 
 Others:
-- Shilov, *Linear Algebra*
 - Anton, *Elementary Linear Algebra*
+- Meyer, *Matrix Analysis and Applied Linear Algebra Book and Solutions Manual*
 - Gentle, *Matrix Algebra: Theory, Computations, and Applications in Statistics*
 - Bernstein, *Matrix Mathematics: Theory, Facts, and Formulas*
-- Meyer, *Matrix Analysis and Applied Linear Algebra Book and Solutions Manual*
-- Lang, *Linear Algebra*
 
 Jim Hefferon has a free (GFDL) linear algebra text [http://joshua.smcvt.edu/linearalgebra/] which is available as a PDF file or as Latex source. It has exercises with worked answers.
 
@@ -156,7 +156,10 @@ The big question that arises almost every time someone asks for an analysis text
 - Johnsonbaugh and Pfaffenberger, *Foundations of Mathematical Analysis*
 - Apostol, *Mathematical Analysis*
 - Rudin, *Principles of Mathematical Analysis*
-- Shilov and Gurevich, *Integral, Measure and Derivative: A Unified Approach*
+- Taylor, *General Theory of Functions and Integration*
+- Hubbard, *The World According to Wavelets*
+- Bressoud, *A Radical Approach to Real Analysis*
+- Bressoud, *A Radical Approach to Lebesgue's Theory of Integration*
 
 In struggling with Rudin's *Principles of Mathematical Analysis* (aka "Baby "Rudin"), I found various supplements and partial solutions manuals online. Of these, most were not very helpful; often, I had actually worked out the same proof that the they showed, but I didn't understand how it served to prove the premise and the solution came with no explanation. (That's still some help; though: if I have some reassurance that I've seen the statement that's necessary for the proof, then I know I'm on the right track.)
 
@@ -168,16 +171,20 @@ UW-Madison hosts a solution manual by Roger Cooke, [http://minds.wisconsin.edu/h
 - Munkres, *Analysis On Manifolds*
 - Spivak, *Calculus On Manifolds*
 - Loomis and Sternberg, *Advanced Calculus*
+- Bishop & Goldberg, *Tensor Analysis on Manifolds*
 
 ### Complex Analysis
 - Rudin, *Real and Complex Analysis*
 - Ahlfors, *Complex Analysis: An Introduction to the Theory of Analytic Functions of One Complex Variable*
 - Shilov, *Elementary Real and Complex Analysis*
-- Flannigan, *Complex Variables: Harmonic and Analytic Functions*
+- Flanigan, *Complex Variables: Harmonic and Analytic Functions*
+- Conway, *Functions of One Complex Variable*
 - Needham, *Visual Complex Analysis*
 - Schwerdtfeger, *Geometry of Complex Numbers*
 
 ### Functional Analysis
-- Rudin, *Functional Analysis*
-- Kolmogorov and Fomin, *Elements of the Theory of Functions and Functional Analysis*
+- Akhiezer and Glazman, *Theory of Linear Operators in Hilbert Space*
+- Griffel, *Applied Functional Analysis*
 - Shilov, *Elementary Functional Analysis*
+- Kolmogorov and Fomin, *Elements of the Theory of Functions and Functional Analysis*
+- Rudin, *Functional Analysis*
