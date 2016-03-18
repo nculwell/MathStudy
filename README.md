@@ -19,6 +19,10 @@ Karlin and Taylor
 - *A Second Course in Stochastic Processes*
 - *An Introduction to Stochastic Modeling* (3e preferred)
 
+Applied
+- Mitzenmacher & Upfal - *Probability and Computing: Randomized Algorithms and Probabilistic Analysis*
+- Ross, *Applied Probability Models with Optimization Applications*
+
 With measure theory
 - Rosenthal, *A First Look at Rigorous Probability Theory*
 - Shiryaev, *Probability*
@@ -28,6 +32,18 @@ With measure theory
 - Durrett, *Probability: Theory and Examples*
 - Billingsley, *Probability and measure* (3e preferred)
 - Kallenberg, *Foundations of Modern Probability*
+
+## Statistics
+
+- Freedman, Pisani & Purves, *Statistics*
+- Cassela and Berger, *Statistical Inference*
+- Schervish, *Theory of Statistics*
+- Gelman et al, *Bayesian Data Analysis*
+- Gelman & Hill, *Data Analysis Using Regression and Multilevel/Hierarchical Models*
+- DeGroot & Schervish, *Probability and Statistics*
+- Bickel & Doksum, *Mathematical Statistics: Basic Ideas and Selected Topics*
+- Fleiss, *The Design and Analysis of Clinical Experiments*
+- Mandel, *The Statistical Analysis of Experimental Data*
 
 ## Calculus
 
