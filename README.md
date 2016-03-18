@@ -218,10 +218,16 @@ UW-Madison hosts a solution manual by Roger Cooke, [http://minds.wisconsin.edu/h
 ### Algebraic geometry
 
 #### Introductions
-- Holme, *A Royal Road to Algebraic Geometry*
 - Beltrametti, Carletti, Gallarati, Bragadin - *Lectures on Curves, Surfaces and Projective Varieties*
 - Shafarevich, Reid - *Basic Algebraic Geometry 1: Varieties in Projective Space*
 - Shafarevich, Reid - *Basic Algebraic Geometry 2: Schemes and Complex Manifolds*
-
+- Holme, *A Royal Road to Algebraic Geometry*
+- Fulton, [*Algebraic Curves, an Introduction to Algebraic Geometry*](http://www.math.lsa.umich.edu/~wfulton/CurveBook.pdf)
+- Gathmann, [Algebraic Geometry (SS 2014)](http://www.mathematik.uni-kl.de/agag/mitglieder/professoren/gathmann/notes/alggeom/)
+- 
 #### Beyond
 - Hartshorne, *Algebraic Geometry*
+- Liu Qing, *Algebraic Geometry and Arithmetic Curves*
+- Griffiths, Harris - *Principles of Algebraic Geometry*
+- Görtz, Wedhorn - *Algebraic Geometry I, Schemes with Examples and Exercises*
+- Vakil, [The Rising Sea: Foundations Of Algebraic Geometry Notes](https://math.stanford.edu/~vakil/216blog/)
