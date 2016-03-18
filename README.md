@@ -29,6 +29,7 @@ With measure theory
 - Schilling, *Measures, Integrals and Martingales*
 - Williams, *Probability with Martingales*
 - Chung, *A Course in Probability Theory*
+- Robert, *The Bayesian Choice: From Decision-Theoretic Foundations to Computational Implementation*
 - Durrett, *Probability: Theory and Examples*
 - Billingsley, *Probability and measure* (3e preferred)
 - Kallenberg, *Foundations of Modern Probability*
