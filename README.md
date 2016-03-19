@@ -57,7 +57,7 @@ With measure theory
 
 ## Calculus
 
-There are two major camps of intro to calculus textbooks: the "standard" textbooks like Stewart that most major universities use, and the "elite" textbooks like Spivak and Apostol that are typically used in elite universities and honors courses. The standard books are new, updated frequently, fat (1000 pages), full of glossy diagrams and applications problems, but light on theory and proofs. The elite textbooks are old (usually), rarely updated, thinner, more sparsely illustrated, and they emphasize theory from the ground up beginning with the real number system while having fewer calculation problems and applications problems (no applications, in some cases).
+There are two major camps of introductory calculus textbooks: the "standard" textbooks like Stewart that most major universities use, and the "elite" textbooks like Spivak and Apostol that are typically used in elite universities and honors courses. The standard books are new, updated frequently, fat (1000 pages), full of glossy diagrams and applications problems, but light on theory and proofs. The elite textbooks are old (usually), rarely updated, thinner, more sparsely illustrated, and they emphasize theory from the ground up beginning with the real number system while having fewer calculation problems and applications problems (no applications, in some cases).
 
 ### Standard calculus textbooks
 
@@ -117,6 +117,9 @@ These books are ones that I'd consider somehow "in between" the other two groups
 - Lang, *A First Course in Calculus*
 
   Serge Lang is famous for his difficult graduate-level texts in a dozen different subjects, but he has also put his hand to writing a handful of textbooks for lower levels of math. Of those, probably the most successful is this, his calculus book.
+
+- Kline, *Calculus: An Intuitive and Physical Approach*
+- Thompson, *Calculus Made Easy*
 
 ### Online calculus resources
 
