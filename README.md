@@ -247,12 +247,18 @@ Ross eases you into real analysis by removing the hardest material from the cour
 
 Schramm begins with a section on how to write proofs. What's really notable about the rest of the book is that he discusses how a number of major theorems of real analysis are essentially equivalent, and he shows you how to establish this equivalence. He wraps up by constructing the real number system via Dedekind cuts, which is a sensible transition to a book like Rudin that begins with Dedekind cuts.
 
-Historical approach
+#### Historical approach
 
 - Bressoud, *A Radical Approach to Real Analysis*
 - Bressoud, *A Radical Approach to Lebesgue's Theory of Integration*
 
-Standard books
+I discuss both of these books by Bressoud together. Bressoud's concept is to teach analysis by tracing the history of the mathematical concepts, and the telling the story of the problems and controversies that played out over the course of the 19th Century that gave shape to modern analysis. He states that his main purpose is to teach you the math, though, not to teach you the history of mathematics.
+
+Bressoud summarizes *A Radical Approach to Real Analysis* thus: "The book begins with Fourier's introduction of trigonometric series and the problems they created for the mathematicians of the early nineteenth century. It follows Cauchy's attempts to establish a firm foundation for calculus, and considers his failures as well as his successes. It culminates with Dirichlet's proof of the validity of the Fourier series expansion and explores some of the counterintuitive results Riemann and Weierstrass were led to as a result of Dirichlet's proof."
+
+The second book is summarized thus: "The story begins with Riemann's definition of the integral, a definition created so that he could understand how broadly one could define a function and yet have it be integrable. The reader then follows the efforts of many mathematicians who wrestled with the difficulties inherent in the Riemann integral, leading to the work in the late nineteenth and early twentieth centuries of Jordan, Borel, and Lebesgue, who finally broke with Riemann's definition. Ushering in a new way of understanding integration, they opened the door to fresh and productive approaches to many of the previously intractable problems of analysis."
+
+#### Standard books
 
 - Abbot, *Understanding Analysis*
 - Apostol, *Mathematical Analysis*
@@ -263,7 +269,7 @@ Standard books
 - Rudin, *Principles of Mathematical Analysis* (u/i)
 - Taylor, *General Theory of Functions and Integration* (c)
 
-Fourier analysis
+#### Fourier analysis
 
 - Hubbard, *The World According to Wavelets*
 - Stein and Shakarchi
