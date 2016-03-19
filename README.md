@@ -20,8 +20,8 @@ I created this list for my own studies. I haven't read most of the books here ye
 Sheldon Ross
 - *A First Course in Probability* (o)
 - *A Second Course in Probability* (not very popular)
-- *Introduction to Probability Models*
-- *Stochastic Processes*
+- *Introduction to Probability Models* (o)
+- *Stochastic Processes* (u/i)
 
 Karlin and Taylor
 - *A First Course in Stochastic Processes* (u)
@@ -29,7 +29,7 @@ Karlin and Taylor
 - *An Introduction to Stochastic Modeling* (3e preferred)
 
 Applied
-- Mitzenmacher & Upfal - *Probability and Computing: Randomized Algorithms and Probabilistic Analysis*
+- Mitzenmacher & Upfal, *Probability and Computing: Randomized Algorithms and Probabilistic Analysis*
 - Ross, *Applied Probability Models with Optimization Applications* (c)
 
 With measure theory
@@ -223,19 +223,63 @@ Many people also favor the Schaum's Outline for linear algebra as well as Schaum
 The big question that arises almost every time someone asks for an analysis text is, Rudin or not Rudin? I think the answer is, yes. Read his books, and read some others too in case you didn't get what Rudin was talking about.
 
 ### Real Analysis
-- Johnsonbaugh and Pfaffenberger, *Foundations of Mathematical Analysis*
-- Apostol, *Mathematical Analysis*
-- Rudin, *Principles of Mathematical Analysis*
-- Taylor, *General Theory of Functions and Integration*
-- Hubbard, *The World According to Wavelets*
+
+#### Proofs books
+
+These aren't actually analysis books, but in the math curriculum that's often where they get used, since intro to real analysis is often the place where math students start to write (and really have to understand) proofs.
+
+- Solow, *How to Read and Do Proofs: An Introduction to Mathematical Thought Processes*
+- Velleman, *How to Prove It* (c/o)
+
+#### Books to hold your hand
+
+These books ease you into real analysis. They are designed to address a difficulty in the evolving US math curriculum, namely that because rigorous calculus textbooks (like Spivak and Apostol) are no longer commonly used in lower-level courses, students arrive in real analysis courses without knowing how to read and write proofs or understanding the theoretical foundation of calculus. These books help you with understanding how to do proofs, and they feed you the information in a way that's easier to digest. They don't cover all the material you need, and thus they aren't sufficient on their own to master the subject, but they can make the other books (which I call "standard" below) more manageable.
+
+- Alcock, *How to Think About Analysis*
+
+This book begins with a discussion of how to read a math book. This might seem like a trivial thing to discuss, but it is a real problem for many people because math books are presented in a way that requires a lot of engagement on the part of the reader. Many students are not prepared when they encounter a book that is full of proofs and not much else. Alcock covers topics like how to relate theorems to definitions, and even how to study. The remainder of the book introduces major topics in analysis: sequences, series, continuity, differentiability, integrability, the real numbers. This book is written in such an elementary manner that it has a bit of a "for dummies" feel to it (though it's never condescening or childish), but if you can swallow your pride, there's a lot of good information here.
+
+- Ross, *Elementary Analysis: The Theory of Calculus*
+
+Ross eases you into real analysis by removing the hardest material from the course (like measure) and putting extra emphasis on the fundamental topics. The book uses a decent number of illustrations when discussing basic topology.
+
+- Schramm, *Introduction to Real Analysis* (c)
+
+Schramm begins with a section on how to write proofs. What's really notable about the rest of the book is that he discusses how a number of major theorems of real analysis are essentially equivalent, and he shows you how to establish this equivalence. He wraps up by constructing the real number system via Dedekind cuts, which is a sensible transition to a book like Rudin that begins with Dedekind cuts.
+
+Historical approach
+
 - Bressoud, *A Radical Approach to Real Analysis*
 - Bressoud, *A Radical Approach to Lebesgue's Theory of Integration*
+
+Standard books
+
+- Abbot, *Understanding Analysis*
+- Apostol, *Mathematical Analysis*
+- Folland, *Real Analysis: Modern Techniques and Their Applications* (u)
+- Johnsonbaugh and Pfaffenberger, *Foundations of Mathematical Analysis* (c)
+- Kolmogorov and Fomin, *Introductory Real Analysis* (c)
+- Pugh, *Real Mathematical Analysis*
+- Rudin, *Principles of Mathematical Analysis* (u/i)
+- Taylor, *General Theory of Functions and Integration* (c)
+
+Fourier analysis
+
+- Hubbard, *The World According to Wavelets*
+- Stein and Shakarchi
+- Tolstov, *Fourier Analysis*
 
 In struggling with Rudin's *Principles of Mathematical Analysis* (aka "Baby "Rudin"), I found various supplements and partial solutions manuals online. Of these, most were not very helpful; often, I had actually worked out the same proof that the they showed, but I didn't understand how it served to prove the premise and the solution came with no explanation. (That's still some help; though: if I have some reassurance that I've seen the statement that's necessary for the proof, then I know I'm on the right track.)
 
 The one resource that I did find most helpful is George Bergman's "Supplements", which has commentary on Rudin's text as well as the exercises [https://math.berkeley.edu/~gbergman/ug.hndts/m104_Rudin_exs.pdf]. Bergman also wrote up his own errata listing things he wanted Rudin to change in the book: [https://math.berkeley.edu/~gbergman/ug.hndts/m104_Rudin_notes.pdf].
 
 UW-Madison hosts a solution manual by Roger Cooke, [http://minds.wisconsin.edu/handle/1793/67009]; this wasn't always thorough enough, but it was of some help.
+
+### More real analysis
+
+- Royden (3e preferred)
+
+  Royden is another classic real analyis text. One thing to be aware of is that a fourth edition was published with Patrick Fitzpatrick as co-author, but it hasn't been well-received: many felt that the third edition was in no need of revision, and the fourth introduced new errors. Since it was popular, many copies of the 3rd edition (of 1988) are still available on the used market.
 
 ### Manifolds
 - Munkres, *Analysis On Manifolds*
@@ -279,7 +323,7 @@ UW-Madison hosts a solution manual by Roger Cooke, [http://minds.wisconsin.edu/h
 ### Algebraic geometry
 
 #### Introductions
-- Beltrametti, Carletti, Gallarati, Bragadin - *Lectures on Curves, Surfaces and Projective Varieties*
+- Beltrametti, Carletti, Gallarati, Bragadin, *Lectures on Curves, Surfaces and Projective Varieties*
 - Shafarevich, Reid - *Basic Algebraic Geometry 1: Varieties in Projective Space*
 - Shafarevich, Reid - *Basic Algebraic Geometry 2: Schemes and Complex Manifolds*
 - Holme, *A Royal Road to Algebraic Geometry*
