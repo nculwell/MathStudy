@@ -24,7 +24,7 @@ There are two major camps of introductory calculus textbooks: the "standard" tex
 
   My personal opinion is that if you're going to get a "standard" calc textbook, Leithold is a good choice. Don't expect much from its theoretical demands, though: it does a fine job of teaching the proofs but the proofs you're asked to do in the problem sets are dull and trivial. The calculation problems are also a bit repetitive.
 
-- Stewart, *Calculus: Early Transcendentals*
+- Stewart, *Calculus: Early Transcendentals* (o)
 
   Stewart is the flagship of the standard calc textbook movement. It has a huge adoption in both high schools and universities, and a new version is released every few years. It is also probably the most widely lambasted calculus textbook, besides possibly Finney and Thomas. Overall, it does a fine job as far as you can expect from this type of book: many college instructors prefer it to other, similar books. Its frequent revisions (now prepared by others since Stewart died) have been blamed for exploiting students by keeping book prices high, but this has the convenient consequence for self-learners that they can pick up recent but still-perfectly-good older editions on the used market for very cheap. (The revisions mostly concern problem sets, so a student actually enrolled in a course needs to use the required edition.)
 
@@ -56,7 +56,7 @@ Other textbooks in this category that I will not discuss at length are:
 
 These books are ones that I'd consider somehow "in between" the other two groups.
 
-- Strang, *Calculus*
+- Strang, *Calculus* (f)
   
   A free textbook, available from MIT's OCW website here along with some other information:
   http://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/
@@ -65,32 +65,28 @@ These books are ones that I'd consider somehow "in between" the other two groups
   
   Strang's book is in some ways a "standard" textbook in that it stresses intuitive understanding and physical applications, but it has an undeniable charm, and Strang is one of the great math educators of our time.
 
-- Thomas, *Calculus and Analytic Geometry*
+- Thomas, *Calculus and Analytic Geometry* (c)
 
   This entry refers to the original series of textbooks written by George B. Thomas himself, up to the Fourth Edition. As of 2015 they can still be bought used (quite cheap!), and thanks to the durable hardback bindings they used in those days, you can probably still find them in good condition. (Just hope some jerk didn't scribble all over your copy.) Depending on who you ask, the pinnacle of the series is either the 4th Edition or the 3rd Alternate Edition.
   
   As advertised, there is a strong emphasis here on analytic geometry and applications. Thomas taught at MIT, and this is clearly a "calculus for engineers" approach.
 
-- Lang, *A First Course in Calculus*
+- Lang, *A First Course in Calculus* (o)
 
   Serge Lang is famous for his difficult graduate-level texts in a dozen different subjects, but he has also put his hand to writing a handful of textbooks for lower levels of math. Of those, probably the most successful is this, his calculus book.
 
-- Kline, *Calculus: An Intuitive and Physical Approach*
-- Thompson, *Calculus Made Easy*
+- Kline, *Calculus: An Intuitive and Physical Approach* (c)
+- Thompson and Gardner, *Calculus Made Easy* (c)
+- 
+- Körner, *Calculus for the Ambitious* (c)
+
+  CUP's promotion says, "In a lively and easy-to-read style, Professor Körner uses approximation and estimates in a way that will easily merge into the standard development of analysis. By using Taylor's theorem with error bounds he is able to discuss topics that are rarely covered at this introductory level." I haven't seen this book in the flesh yet, but it's inexpensive.
 
 ### Online calculus resources
 
 MIT OCW has a series of online lectures for calculus. The lecturing isn't outstanding, but the material covered is good for the most part. The lectures can be watched on YouTube here:
 - https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1
 - https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38
-
-A more advanced choice is Apostol's *Calculus* Volumes I and II. MIT uses this as the text for their honors calculus course. It's very good, and goes deeper into the background of the math you're learning, but I think it's probably best in combination with a book like Leithold's. (I'm not sure if Volume II is really worthwhile, though. I'll decide that once I've read it.)
-
-Leithold has been called a fairly demanding book. Personally, I think its clarity and wealth of examples would benefit any learner. However, for a more intuitive approach to the concepts of calculus, one book that might help is Thompson and Gardners's *Calculus Made Easy*. This one isn't really adequate as your sole textbook, but it does a good job of spoonfeeding you the intuitions of calculus.
-
-Some people swear by Morris Kline's *Calculus: An Intuitive and Physical Approach*. It supposedly gives you a more intuitive understanding of calculus, as the title suggests. The Dover edition is less than $20. It's a bit old-fashioned but it seems good enough. I'll have more to say once I've spent more time reading it.
-
-An interesting-looking recent book designed for high school students who want to study calculus on their own is *Calculus for the Ambitious*, by T. W. Körner. CUP's promotion says, "In a lively and easy-to-read style, Professor Körner uses approximation and estimates in a way that will easily merge into the standard development of analysis. By using Taylor's theorem with error bounds he is able to discuss topics that are rarely covered at this introductory level." I haven't seen this book in the flesh yet, but it's inexpensive.
 
 Other online lecture offerings include ones from Ohio State and Khan Academy. Both seemed a bit slow and basic for my taste, whereas MIT's was more my speed, but then again I already took calculus I in high school so I wasn't starting from scratch.
 
