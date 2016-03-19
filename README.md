@@ -93,7 +93,7 @@ Other textbooks in this category that I will not discuss at length are:
 
   Richard Courant, who died in 1972, was a highly respected German-American mathematician. With Herbert Robbins, he also wrote *What is Mathematics?*, a remarkable work that attempts to explain a large swathe of mathematics to a popular audience. This calculus textbook is particularly noted for its wealth of physics applications, making it by far the most "applied" of this group. However, its problems are also notoriously difficult, so much so that they're not really appropriate for a learner at this level, at least not without a supplement of easier problems to practice with.
   
-  Since Courant has been dead for several decades, a newer edition was published with Fritz John as co-author. That edition is also highly respected. The most notable different is that Courant and John splits Volume II into two parts and adds several sections of new material.
+  Since Courant has been dead for several decades, a newer edition was published with Fritz John as co-author. That edition is also highly respected. The most notable difference is that Courant and John splits Volume II into two parts and adds several sections of new material.
 
 ### Other textbooks of note
 
