@@ -99,8 +99,6 @@ MIT OCW has a series of online lectures for calculus. The lecturing isn't outsta
 
 Other online lecture offerings include ones from [Ohio State](https://mslc.osu.edu/online/lessons) and [Khan Academy](https://www.khanacademy.org/math/). Both seemed a bit slow and basic for my taste, whereas MIT's was more my speed, but then again I'd already taken some calculus in high school so I wasn't starting from scratch.
 
-For more practice problems, many people rely on Schaum's Outlines and *Schaum's 3,000 Solved Problems in Calculus*.
-
 The University of Wisconsin-Madison also has free calculus texts that you can get online; they don't look at all adequate as stand-alone texts for self study, but they do have problems with some solutions included.
 
 - [UW-Madison calculus students' page](https://www.math.wisc.edu/undergraduate/calcstudentpage), with links to PDFs of the latest texts
