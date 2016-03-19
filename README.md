@@ -106,7 +106,7 @@ These books are ones that I'd consider somehow "in between" the other two groups
 
   Here's a direct link to the PDF: http://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf
   
-  Strang's book is in some ways a "standard" textbook in that it stresses intuitive understanding and physical applications, but it has an undeniable charm, and, while not taking itself too seriously, it's aimed at a more serious audience.
+  Strang's book is in some ways a "standard" textbook in that it stresses intuitive understanding and physical applications, but it has an undeniable charm, and Strang is one of the great math educators of our time.
 
 - Thomas, *Calculus and Analytic Geometry*
 
