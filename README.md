@@ -67,17 +67,26 @@ These books are ones that I'd consider somehow "in between" the other two groups
 
 - Thomas, *Calculus and Analytic Geometry* (c)
 
-  This entry refers to the original series of textbooks written by George B. Thomas himself, up to the Fourth Edition. As of 2015 they can still be bought used (quite cheap!), and thanks to the durable hardback bindings they used in those days, you can probably still find them in good condition. (Just hope some jerk didn't scribble all over your copy.) Depending on who you ask, the pinnacle of the series is either the 4th Edition or the 3rd Alternate Edition.
-  
+  This entry refers to the original series of textbooks written by George B. Thomas himself, up to the Fourth Edition (1969). As of 2015 they can still be bought used (quite cheap!), and thanks to the durable hardback bindings they used in those days, you can probably still find them in good condition. (Just hope some jerk didn't scribble all over your copy.) Depending on who you ask, the pinnacle of the series was either the 4th Edition or the 3rd Alternate Edition.
+
   As advertised, there is a strong emphasis here on analytic geometry and applications. Thomas taught at MIT, and this is clearly a "calculus for engineers" approach.
+
+- Kline, *Calculus: An Intuitive and Physical Approach* (c)
+
+  The title pretty much says what this is. It's older (originally published in 1967, updated in 1977), and was written by Morris Kline, a prolific writer on mathematics who authored several books for a popular audience. In content, this is also what you might class as a "standard" calculus textbook, but it has a different flavor because it was written in a different era.
 
 - Lang, *A First Course in Calculus* (o)
 
   Serge Lang is famous for his difficult graduate-level texts in a dozen different subjects, but he has also put his hand to writing a handful of textbooks for lower levels of math. Of those, probably the most successful is this, his calculus book.
 
-- Kline, *Calculus: An Intuitive and Physical Approach* (c)
+  This book is really distinct from all the others here. It is relatively short. It ignores applications to focus on equations, but it is not really a rigorous textbook either. It has proofs, but only the ones that Lang thought were essential. It simply covers the topics of calculus in a clear and straightforward manner. There have been five editions, and each added more material (getting longer), until Lang actually brought back the original edition under the title *Short Calculus*. I have the Fourth Edition.
+
+  Because of its focus on the standard topics without a bunch of fuss over applications, this is my preferred reference for anything that it covers.
+
 - Thompson and Gardner, *Calculus Made Easy* (c)
-- 
+
+  An intuitive introduction to calculus. This isn't thorough enough to be a course textbook, but it makes a good companion to a textbook. It's for someone who's just beginning calculus.
+
 - Körner, *Calculus for the Ambitious* (c)
 
   CUP's promotion says, "In a lively and easy-to-read style, Professor Körner uses approximation and estimates in a way that will easily merge into the standard development of analysis. By using Taylor's theorem with error bounds he is able to discuss topics that are rarely covered at this introductory level." I haven't seen this book in the flesh yet, but it's inexpensive.
@@ -88,9 +97,18 @@ MIT OCW has a series of online lectures for calculus. The lecturing isn't outsta
 - https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1
 - https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38
 
-Other online lecture offerings include ones from Ohio State and Khan Academy. Both seemed a bit slow and basic for my taste, whereas MIT's was more my speed, but then again I already took calculus I in high school so I wasn't starting from scratch.
+Other online lecture offerings include ones from [Ohio State](https://mslc.osu.edu/online/lessons) and [Khan Academy](https://www.khanacademy.org/math/). Both seemed a bit slow and basic for my taste, whereas MIT's was more my speed, but then again I'd already taken some calculus in high school so I wasn't starting from scratch.
 
-For more practice problems, many people rely on Schaum's Outlines and *Schaum's 3,000 Solved Problems in Calculus*. The University of Wisconsin-Madison also has free calculus texts that you can get online; they don't look at all adequate as stand-alone texts for self study, but they do have problems with some solutions included.
+For more practice problems, many people rely on Schaum's Outlines and *Schaum's 3,000 Solved Problems in Calculus*.
+
+The University of Wisconsin-Madison also has free calculus texts that you can get online; they don't look at all adequate as stand-alone texts for self study, but they do have problems with some solutions included.
+
+- [UW-Madison calculus students' page](https://www.math.wisc.edu/undergraduate/calcstudentpage), with links to PDFs of the latest texts
+- [Source code for the UW-Madison texts](https://github.com/SigurdAngenent/wisconsin-calculus)
+
+https://www.whitman.edu/mathematics/multivariable/
+
+### Calculus of several variables
 
 For multivariate calculus, there seems to be a general consensus that the texts that teach "all" of calculus don't do a great job with it. (Leithold, for example, stops giving so many proofs at that point in the curriculum and states that they belong in a book dedicated to the subject.) The following texts are dedicated to this part of the calculus curriculum in particular (arranged in descending order according to my impression of their usefulness):
 
