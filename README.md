@@ -278,6 +278,11 @@ These are appropriate for a second course in analysis.
 
   An excellent book with extensive coverage.
 
+- Bass, *Real Analysis for Graduate Students*
+
+  Designed as an overview of all the real analysis that a grad student should need to pass a prelim in real analysis.
+  Free online: http://bass.math.uconn.edu/real.html
+
 ### Manifolds
 - Munkres, *Analysis On Manifolds*
 - Spivak, *Calculus On Manifolds*
