@@ -45,26 +45,47 @@ With measure theory
 
 ## Statistics
 
-- Freedman, Pisani & Purves, *Statistics*
-- Cassela and Berger, *Statistical Inference*
+- Freedman, Pisani & Purves, *Statistics* (u/o)
+- Cassela and Berger, *Statistical Inference* (i)
 - Schervish, *Theory of Statistics*
 - Gelman et al, *Bayesian Data Analysis*
 - Gelman & Hill, *Data Analysis Using Regression and Multilevel/Hierarchical Models*
-- DeGroot & Schervish, *Probability and Statistics*
+- DeGroot & Schervish, *Probability and Statistics* (u)
 - Bickel & Doksum, *Mathematical Statistics: Basic Ideas and Selected Topics*
-- Fleiss, *The Design and Analysis of Clinical Experiments*
-- Mandel, *The Statistical Analysis of Experimental Data*
+- Fleiss, *The Design and Analysis of Clinical Experiments* (x)
+- Mandel, *The Statistical Analysis of Experimental Data* (c)
 
 ## Calculus
 
-Probably the best conventional calculus textbook is Leithold's *TC7* (*The Calculus, 7th edition*). It's a "1000-page monster" style book with exposition, proofs and exercises for the standard calculus sequence. I feel that it's very good up until the introduction of vectors; at that point, I'm not sure if the single chapter crash course in linear algebra is sufficient to grasp the subject. This seems to be a common problem with multivariate calculus texts, and I think the best solution is to get a proper introduction to linear algebra first.
+There are two major camps of intro to calculus textbooks: the "standard" textbooks like Stewart that most major universities use, and the "elite" textbooks like Spivak and Apostol that are typically used in elite universities and honors courses. The standard books are new, updated frequently, fat (1000 pages), full of glossy diagrams and applications problems, but light on theory and proofs. The elite textbooks are old (usually), rarely updated, thinner, more sparsely illustrated, and they emphasize theory from the ground up beginning with the real number system while having fewer calculation problems and applications problems (no applications, in some cases).
+
+### Standard calculus textbooks
+
+- Leithold, *TC7* (*The Calculus, 7th edition*)
+  
+  Louis Leithold was widely credited with the creation of the modern "standard" calculus textbook. This is either a great accomplishment ("improving math education") or an unforgivable sin ("dumbing down mathematics"), depending on which side of the textbook feud you fall on. In any case, he's dead now, and his book isn't popular enough to attract a successor to maintain it, so this one probably won't get any new editions. In my opinion, it is actually more "proofy" compared to the other books in this section. There is an older but perfectly good edition, *The Calculus With Analytic Geometry* (TCWAG) which is currently available for under $10.
+
+  My personal opinion is that if you're going to get a "standard" calc textbook, Leithold is a good choice. Don't expect much from its theoretical demands, though: it does a fine job of teaching the proofs but the proofs you're asked to do in the problem sets are dull and trivial. The applications problems are also a bit repetitive.
+
+- Stewart, *Calculus: Early Transcendentals*
+
+  Stewart is the flagship of the standard calc textbook movement. It has a huge adoption in both high schools and universities, and a new version is released every few years. It is also probably the most widely lambasted calculus textbook, besides possibly Finney and Thomas. Overall, it does a fine job as far as you can expect from this type of book: many college instructors prefer it to other, similar books. Its frequent revisions (now prepared by others since Stewart died) have been blamed for exploiting students by keeping book prices high, but this has the convenient consequence for self-learners that they can pick up recent but still-perfectly-good older editions on the used market for very cheap. (The revisions mostly concern problem sets, so a student actually enrolled in a course needs to use the required edition.)
+
+Other textbooks in this category that I will not discuss at length are:
+
+- Thomas et al, *Thomas' Calculus* (Thomas retired in 1978, and editions since then have different co-authors.)
+- Lial, Greenwell et al, *Calculus with Applications*
+- Anton and Bivens, *Calculus*
+
+### Online calculus resources
 
 MIT OCW has a series of online lectures for calculus. The lecturing isn't outstanding, but the material covered is good for the most part. The lectures can be watched on YouTube here:
 - https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1
 - https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38
 
 Gilbert Strang wrote a textbook that can go with it. It's available for free online here:
-- http://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf
+- http://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/
+- Direct link to the PDF: http://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf
 
 A more advanced choice is Apostol's *Calculus* Volumes I and II. MIT uses this as the text for their honors calculus course. It's very good, and goes deeper into the background of the math you're learning, but I think it's probably best in combination with a book like Leithold's. (I'm not sure if Volume II is really worthwhile, though. I'll decide that once I've read it.)
 
@@ -81,10 +102,10 @@ For more practice problems, many people rely on Schaum's Outlines and *Schaum's 
 For multivariate calculus, there seems to be a general consensus that the texts that teach "all" of calculus don't do a great job with it. (Leithold, for example, stops giving so many proofs at that point in the curriculum and states that they belong in a book dedicated to the subject.) The following texts are dedicated to this part of the calculus curriculum in particular (arranged in descending order according to my impression of their usefulness):
 
 - Hubbard and Hubbard, *Vector Calculus, Linear Algebra and Differential Forms: A Unified Approach*
-- Schey, *Div, Grad, Curl and All That*
-- Baxandall and Liebeck, *Vector Calculus*
-- Friedman, *Advanced Calculus*
-- Edwards, *Advanced Calculus of Several Variables*
+- Schey, *Div, Grad, Curl and All That* (o)
+- Baxandall and Liebeck, *Vector Calculus* (c)
+- Friedman, *Advanced Calculus* (c)
+- Edwards, *Advanced Calculus of Several Variables* (c)
 
 *The Feynman Lectures* also discuss vector calculus in the context of electromagnetism, which is supposedly a great way to tie it in with your understanding of the physical, if you already have some background in physics.
 
@@ -93,9 +114,9 @@ For multivariate calculus, there seems to be a general consensus that the texts 
 It may be that the problems in whatever textbook you're using don't give you as much practice as you want. One option is to get another textbook and do the problems from that, too. However, there are a number of books dedicated to providing problems. One advantage to these is that they generally tend to give you explanations of how to solve them as well.
 
 - Demidovich, *Problems in mathematical analysis* [can be found online]
-- Maron, *Problems in Calculus of One Variable*
-- Mendelson, *Schaum's 3,000 Solved Problems in Calculus* [reportedly has some errors]
-- Kelley, *The Humongous Book of Calculus Problems*
+- Maron, *Problems in Calculus of One Variable* (c)
+- Mendelson, *Schaum's 3,000 Solved Problems in Calculus* (c) [reportedly has some errors]
+- Kelley, *The Humongous Book of Calculus Problems* (c)
 
 John Erdman of Portland State University has posted a number of free problem books as PDFs on his website (answers to odd-numbered exercises given): http://web.pdx.edu/~erdman/
 
@@ -103,12 +124,12 @@ John Erdman of Portland State University has posted a number of free problem boo
 
 ### Combined
 - Boyce and DiPrima, *Elementary Differential Equations*
-- Piskunov, *Differential and Integral Calculus, Vol. I + II*
+- Piskunov, *Differential and Integral Calculus, Vol. I + II* (c)
 
 ### ODEs
-- Tenenbaum, *Ordinary Differential Equations*
-- Hurewicz, *Lectures on Ordinary Differential Equations*
-- Coddington, *An Introduction to Ordinary Differential Equations*
+- Tenenbaum, *Ordinary Differential Equations* (c)
+- Hurewicz, *Lectures on Ordinary Differential Equations* (c)
+- Coddington, *An Introduction to Ordinary Differential Equations* (c)
 - Arnold, *Ordinary Differential Equations*
 - Coddington and Levinson, *Theory of Ordinary Differential Equations*
 
@@ -116,18 +137,18 @@ John Erdman of Portland State University has posted a number of free problem boo
 
 #### Basic
 
-- Strauss, *Partial Differential Equations: An Introduction*
-- Farlow, *Partial Differential Equations for Scientists and Engineers*
+- Strauss, *Partial Differential Equations: An Introduction* (u)
+- Farlow, *Partial Differential Equations for Scientists and Engineers* (c)
 - Logan, *Applied Partial Differential Equations*
 - John, *Partial Differential Equations*
 - Bleecker and Csordas, *Basic Partial Differential Equations*
 
 #### Advanced (more prequisites)
 
-- Gustafson, *Introduction to Partial Differential Equations and Hilbert Space Methods*
+- Gustafson, *Introduction to Partial Differential Equations and Hilbert Space Methods* (c)
 - Taylor, *Partial Differential Equations: Basic Theory*
 - Evans, *Partial Differential Equations: Second Edition*
-- Folland, *Introduction to Partial Differential Equations*
+- Folland, *Introduction to Partial Differential Equations* (u)
 
 ## Linear Algebra
 
