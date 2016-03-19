@@ -304,6 +304,7 @@ These are appropriate for a second course in analysis.
 
 ### First books
 
+- Littlewood, *The Skeleton Key of Mathematics: A Simple Account of Complex Algebraic Theories* (c)
 - Gallian, *Contemporary Abstract Algebra* (o)
 - Herstein, *Abstract Algebra*
 - Pinter, *A Course in Abstract Algebra* (c)
