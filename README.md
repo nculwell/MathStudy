@@ -12,49 +12,6 @@ I created this list for my own studies. I haven't read most of the books here ye
 - (c) - This book is relatively inexpensive (price < $30) when bought new.
 - (o) - An acceptable edition of this book that's previous to the current one but not terribly out of date can be bought for considerably cheaper than the current edition.
 
-## Probability
-
-- Pitman, *Probability*
-- Feller, *An Introduction to Probability Theory and its Applications* (volumes 1 & 2) (u)
-
-Sheldon Ross
-- *A First Course in Probability* (o)
-- *A Second Course in Probability* (not very popular)
-- *Introduction to Probability Models* (o)
-- *Stochastic Processes* (u/i)
-
-Karlin and Taylor
-- *A First Course in Stochastic Processes* (u)
-- *A Second Course in Stochastic Processes* (u)
-- *An Introduction to Stochastic Modeling* (3e preferred)
-
-Applied
-- Mitzenmacher & Upfal, *Probability and Computing: Randomized Algorithms and Probabilistic Analysis*
-- Ross, *Applied Probability Models with Optimization Applications* (c)
-
-With measure theory
-- Rosenthal, *A First Look at Rigorous Probability Theory* (c)
-- Shiryaev, *Probability*
-- Schilling, *Measures, Integrals and Martingales*
-- Williams, *Probability with Martingales*
-- Chung, *A Course in Probability Theory*
-- Robert, *The Bayesian Choice: From Decision-Theoretic Foundations to Computational Implementation*
-- Durrett, *Probability: Theory and Examples*
-- Billingsley, *Probability and measure* (3e preferred)
-- Kallenberg, *Foundations of Modern Probability*
-
-## Statistics
-
-- Freedman, Pisani & Purves, *Statistics* (u/o)
-- Cassela and Berger, *Statistical Inference* (i)
-- Schervish, *Theory of Statistics*
-- Gelman et al, *Bayesian Data Analysis*
-- Gelman & Hill, *Data Analysis Using Regression and Multilevel/Hierarchical Models*
-- DeGroot & Schervish, *Probability and Statistics* (u)
-- Bickel & Doksum, *Mathematical Statistics: Basic Ideas and Selected Topics*
-- Fleiss, *The Design and Analysis of Clinical Experiments* (x)
-- Mandel, *The Statistical Analysis of Experimental Data* (c)
-
 ## Calculus
 
 There are two major camps of introductory calculus textbooks: the "standard" textbooks like Stewart that most major universities use, and the "elite" textbooks like Spivak and Apostol that are typically used in elite universities and honors courses. The standard books are new, updated frequently, fat (1000 pages), full of glossy diagrams and applications problems, but light on theory and proofs. The elite textbooks are old (usually), rarely updated, thinner, more sparsely illustrated, and they emphasize theory from the ground up beginning with the real number system while having fewer calculation problems and applications problems (no applications, in some cases).
@@ -365,3 +322,46 @@ These are appropriate for a second course in analysis.
 - Griffiths, Harris - *Principles of Algebraic Geometry*
 - Görtz, Wedhorn - *Algebraic Geometry I, Schemes with Examples and Exercises*
 - Vakil, [The Rising Sea: Foundations Of Algebraic Geometry Notes](https://math.stanford.edu/~vakil/216blog/)
+
+## Probability
+
+- Pitman, *Probability*
+- Feller, *An Introduction to Probability Theory and its Applications* (volumes 1 & 2) (u)
+
+Sheldon Ross
+- *A First Course in Probability* (o)
+- *A Second Course in Probability* (not very popular)
+- *Introduction to Probability Models* (o)
+- *Stochastic Processes* (u/i)
+
+Karlin and Taylor
+- *A First Course in Stochastic Processes* (u)
+- *A Second Course in Stochastic Processes* (u)
+- *An Introduction to Stochastic Modeling* (3e preferred)
+
+Applied
+- Mitzenmacher & Upfal, *Probability and Computing: Randomized Algorithms and Probabilistic Analysis*
+- Ross, *Applied Probability Models with Optimization Applications* (c)
+
+With measure theory
+- Rosenthal, *A First Look at Rigorous Probability Theory* (c)
+- Shiryaev, *Probability*
+- Schilling, *Measures, Integrals and Martingales*
+- Williams, *Probability with Martingales*
+- Chung, *A Course in Probability Theory*
+- Robert, *The Bayesian Choice: From Decision-Theoretic Foundations to Computational Implementation*
+- Durrett, *Probability: Theory and Examples*
+- Billingsley, *Probability and measure* (3e preferred)
+- Kallenberg, *Foundations of Modern Probability*
+
+## Statistics
+
+- Freedman, Pisani & Purves, *Statistics* (u/o)
+- Cassela and Berger, *Statistical Inference* (i)
+- Schervish, *Theory of Statistics*
+- Gelman et al, *Bayesian Data Analysis*
+- Gelman & Hill, *Data Analysis Using Regression and Multilevel/Hierarchical Models*
+- DeGroot & Schervish, *Probability and Statistics* (u)
+- Bickel & Doksum, *Mathematical Statistics: Basic Ideas and Selected Topics*
+- Fleiss, *The Design and Analysis of Clinical Experiments* (x)
+- Mandel, *The Statistical Analysis of Experimental Data* (c)
