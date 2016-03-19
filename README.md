@@ -1,7 +1,7 @@
 # MathStudy
 Info on resources for studying math, stats, CS, etc.
 
-I created this list for my own studies. I haven't read most of the books here yet, and probably never will read most of them. I've left it visible to the public, though, in case anyone else finds it useful. I make no promises; it may be full of bad advice and it probably contains some erroneous statements about points of fact.
+I created this list for my own studies. I haven't read most of the books here yet, and probably never will read most of them. I've left it visible to the public, though, in case anyone else finds it useful. I make no promises: it may be full of bad advice and it probably contains some erroneous statements about points of fact.
 
 ## Annotations
 
@@ -19,7 +19,7 @@ I created this list for my own studies. I haven't read most of the books here ye
 
 Sheldon Ross
 - *A First Course in Probability* (o)
-- [*A Second Course in Probability*]
+- *A Second Course in Probability* (not very popular)
 - *Introduction to Probability Models*
 - *Stochastic Processes*
 
@@ -65,7 +65,7 @@ There are two major camps of intro to calculus textbooks: the "standard" textboo
   
   Louis Leithold was widely credited with the creation of the modern "standard" calculus textbook. This is either a great accomplishment ("improving math education") or an unforgivable sin ("dumbing down mathematics"), depending on which side of the textbook feud you fall on. In any case, he's dead now, and his book isn't popular enough to attract a successor to maintain it, so this one probably won't get any new editions. In my opinion, it is actually more "proofy" compared to the other books in this section. There is an older but perfectly good edition, *The Calculus With Analytic Geometry* (TCWAG) which is currently available for under $10.
 
-  My personal opinion is that if you're going to get a "standard" calc textbook, Leithold is a good choice. Don't expect much from its theoretical demands, though: it does a fine job of teaching the proofs but the proofs you're asked to do in the problem sets are dull and trivial. The applications problems are also a bit repetitive.
+  My personal opinion is that if you're going to get a "standard" calc textbook, Leithold is a good choice. Don't expect much from its theoretical demands, though: it does a fine job of teaching the proofs but the proofs you're asked to do in the problem sets are dull and trivial. The calculation problems are also a bit repetitive.
 
 - Stewart, *Calculus: Early Transcendentals*
 
@@ -77,15 +77,52 @@ Other textbooks in this category that I will not discuss at length are:
 - Lial, Greenwell et al, *Calculus with Applications*
 - Anton and Bivens, *Calculus*
 
+### Elite calculus textbooks
+
+- Spivak, *Calculus*
+
+  Spivak is the most revered of this class of textbooks. It's also the most current: its fourth edition was published in 2008. Spivak chatty, conversational style. The book begins by establishing the properties of the real number system, and covers limits, differential and integral calculus, and infinite sequences. Unlike the books that follow, Spivak does not deal with calculus of several variables, so you need another book for that. (He has written a book on that subject, *Calculus on Manifolds, but it's not considered an introductory book.) Spivak's book has also been called an introduction to analysis; you might all call it "calculus for mathematicians".
+
+- Apostol, *Calculus*, volumes I and II
+
+  Apostol is, according to my own rather cursory research, the most widely used of this class of textbooks in college classrooms. Volume I in particular is excellent. The language is much more typical "math-speak" than Spivak's, but the approaches to the material are unusual. Apostol begins with integration before covering limits and differential calculus. This approach works, but it is incovenient if you're trying to use it in combination with another textbook or an online course, since almost all other courses follow the order limits-derivatives-integrals. Apostol's problem sets are excellent, perhaps the best of the bunch. Chapter 1 in particular is a crash course in proof by induction that will very quickly get you comfortable with manipulating sums.
+  
+  Volume II introduces linear algebra and calculus of several variables. It is often regarded as not as good as Volume I, particularly because its presentation of linear alegebra is dated. However, it does cover some interesting topics not often seen in a calculus textbook: systems of differential equations, probability, and numerical analysis (i.e. approximation methods).
+
+- Courant, *Differential and Integral Calculus*, volumes I and II
+
+  Richard Courant, who died in 1972, was a highly respected German-American mathematician. With Herbert Robbins, he also wrote *What is Mathematics?*, a remarkable work that attempts to explain a large swathe of mathematics to a popular audience. This calculus textbook is particularly noted for its wealth of physics applications, making it by far the most "applied" of this group. However, its problems are also notoriously difficult, so much so that they're not really appropriate for a learner at this level, at least not without a supplement of easier problems to practice with.
+  
+  Since Courant has been dead for several decades, a newer edition was published with Fritz John as co-author. That edition is also highly respected. The most notable different is that Courant and John splits Volume II into two parts and adds several sections of new material.
+
+### Other textbooks of note
+
+These books are ones that I'd consider somehow "in between" the other two groups.
+
+- Strang, *Calculus*
+  
+  A free textbook, available from MIT's OCW website here along with some other information:
+  http://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/
+
+  Here's a direct link to the PDF: http://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf
+  
+  Strang's book is in some ways a "standard" textbook in that it stresses intuitive understanding and physical applications, but it has an undeniable charm, and, while not taking itself too seriously, it's aimed at a more serious audience.
+
+- Thomas, *Calculus and Analytic Geometry*
+
+  This entry refers to the original series of textbooks written by George B. Thomas himself, up to the Fourth Edition. As of 2015 they can still be bought used (quite cheap!), and thanks to the durable hardback bindings they used in those days, you can probably still find them in good condition. (Just hope some jerk didn't scribble all over your copy.) Depending on who you ask, the pinnacle of the series is either the 4th Edition or the 3rd Alternate Edition.
+  
+  As advertised, there is a strong emphasis here on analytic geometry and applications. Thomas taught at MIT, and this is clearly a "calculus for engineers" approach.
+
+- Lang, *A First Course in Calculus*
+
+  Serge Lang is famous for his difficult graduate-level texts in a dozen different subjects, but he has also put his hand to writing a handful of textbooks for lower levels of math. Of those, probably the most successful is this, his calculus book.
+
 ### Online calculus resources
 
 MIT OCW has a series of online lectures for calculus. The lecturing isn't outstanding, but the material covered is good for the most part. The lectures can be watched on YouTube here:
 - https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1
 - https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38
-
-Gilbert Strang wrote a textbook that can go with it. It's available for free online here:
-- http://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/
-- Direct link to the PDF: http://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf
 
 A more advanced choice is Apostol's *Calculus* Volumes I and II. MIT uses this as the text for their honors calculus course. It's very good, and goes deeper into the background of the math you're learning, but I think it's probably best in combination with a book like Leithold's. (I'm not sure if Volume II is really worthwhile, though. I'll decide that once I've read it.)
 
