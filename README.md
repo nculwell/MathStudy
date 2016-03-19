@@ -353,11 +353,35 @@ With measure theory
 ## Statistics
 
 - Freedman, Pisani & Purves, *Statistics* (u/o)
+  
+  Conceptual introduction to statistics with minimal math. Widely viewed as the best introduction to how to think about statistics.
+
 - Cassela and Berger, *Statistical Inference* (i)
+
+  The standard introduction to mathematical/theoretical statistics.
+
 - Schervish, *Theory of Statistics*
-- Gelman et al, *Bayesian Data Analysis*
-- Gelman & Hill, *Data Analysis Using Regression and Multilevel/Hierarchical Models*
+
+  More advanced and complete book on theoretical statistics.
+
+- Bickel & Doksum, *Mathematical Statistics: Basic Ideas and Selected Topics* (volumes I and II)
+
+  Standard grad-level text on mathematical statistics.
+
 - DeGroot & Schervish, *Probability and Statistics* (u)
-- Bickel & Doksum, *Mathematical Statistics: Basic Ideas and Selected Topics*
+
+  Another mathematical statistics textbook.
+
+- Gelman et al, *Bayesian Data Analysis*
+
+  Good first book on Bayesian analysis.
+
+- Gelman & Hill, *Data Analysis Using Regression and Multilevel/Hierarchical Models*
+
+  Good first book on multilevel/hierarchical models
+
 - Fleiss, *The Design and Analysis of Clinical Experiments* (x)
+
+  Standard book on clinical study design.
+
 - Mandel, *The Statistical Analysis of Experimental Data* (c)
