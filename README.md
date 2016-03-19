@@ -321,26 +321,35 @@ These are appropriate for a second course in analysis.
 
 ## Probability
 
+#### General introductions
+
 - Pitman, *Probability*
+
+  Considered by many to be the best introduction to probability.
+
 - Feller, *An Introduction to Probability Theory and its Applications* (volumes 1 & 2) (u)
 
-Sheldon Ross
-- *A First Course in Probability* (o)
-- *A Second Course in Probability* (not very popular)
-- *Introduction to Probability Models* (o)
-- *Stochastic Processes* (u/i)
+#### Sheldon Ross
+- Ross, *A First Course in Probability* (o)
+- Ross, *A Second Course in Probability* (not very popular)
+- Ross, *Introduction to Probability Models* (o)
+- Ross, *Stochastic Processes* (u/i)
 
-Karlin and Taylor
-- *A First Course in Stochastic Processes* (u)
-- *A Second Course in Stochastic Processes* (u)
-- *An Introduction to Stochastic Modeling* (3e preferred)
+#### Karlin and Taylor
+- Karlin and Taylor, *A First Course in Stochastic Processes* (u)
+- Karlin and Taylor, *A Second Course in Stochastic Processes* (u)
+- Karlin and Taylor, *An Introduction to Stochastic Modeling* (3e preferred)
 
-Applied
+#### Applied
 - Mitzenmacher & Upfal, *Probability and Computing: Randomized Algorithms and Probabilistic Analysis*
 - Ross, *Applied Probability Models with Optimization Applications* (c)
 
-With measure theory
+#### With measure theory
+
 - Rosenthal, *A First Look at Rigorous Probability Theory* (c)
+
+  This is, in particular, an introduction to measure theory. If you've already covered that adequately in real analysis then you might not need this book.
+
 - Shiryaev, *Probability*
 - Schilling, *Measures, Integrals and Martingales*
 - Williams, *Probability with Martingales*
@@ -353,8 +362,14 @@ With measure theory
 ## Statistics
 
 - Freedman, Pisani & Purves, *Statistics* (u/o)
-  
+
   Conceptual introduction to statistics with minimal math. Widely viewed as the best introduction to how to think about statistics.
+
+- Diez, Barr, Çetinkaya-Rundel - *OpenIntro Statistics*
+
+  Get it free online here: https://www.openintro.org/stat/textbook.php?stat_book=os
+
+  There are also a couple of other editions that de-emphasize math in order to teach students who have less background.
 
 - Cassela and Berger, *Statistical Inference* (i)
 
