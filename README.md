@@ -249,6 +249,8 @@ These books ease you into real analysis. They are designed to address a difficul
 - Apostol, *Mathematical Analysis*
 
   Another classic text (1974), with more extensive explanations than Rudin.
+  
+  This page has some solutions for exercises: http://www.csie.ntu.edu.tw/~b89089/solution.html
 
 - Johnsonbaugh and Pfaffenberger, *Foundations of Mathematical Analysis* (c)
 - Kolmogorov and Fomin, *Introductory Real Analysis* (c)
