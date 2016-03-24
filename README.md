@@ -104,6 +104,7 @@ The University of Wisconsin-Madison also has free calculus texts that you can ge
 - [UW-Madison calculus students' page](https://www.math.wisc.edu/undergraduate/calcstudentpage), with links to PDFs of the latest texts
 - [Source code for the UW-Madison texts](https://github.com/SigurdAngenent/wisconsin-calculus)
 - [Whitman College's Community Calculus page](https://www.whitman.edu/mathematics/multivariable/)
+- [Fremlin's problems with solutions (several subjects, Latex files)](https://www.essex.ac.uk/maths/people/fremlin/materials/index.htm)
 
 ### Calculus of several variables
 
