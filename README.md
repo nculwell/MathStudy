@@ -255,13 +255,16 @@ These books ease you into real analysis. They are designed to address a difficul
 
 - Johnsonbaugh and Pfaffenberger, *Foundations of Mathematical Analysis* (c)
 - Kolmogorov and Fomin, *Introductory Real Analysis* (c)
+  
+  Reportedly, the problem with this one is that Richard Silverman, the translator, introduced many mathematical errors that make the book difficult to read and not much use without guidance. The same complaint has been made about Silverman's other Kolmogorov translations. That's a shame, because Kolmogorov was one of the great mathematicians of the 20th Century (arguably of all time) as well as a great math educator, and English-speakers would greatly benefit from accurate translations of his works.
+
 - Pugh, *Real Mathematical Analysis*
 
   Notable for its many exercises. It contains many illustrations, but I find most of them to be poorly chosen, as if the author recognizes that illustrations are good to have but doesn't grasp how to use them to illustrate concepts.
 
 - Taylor, *General Theory of Functions and Integration* (c)
 
-  Another classic text (1965). It is notable clear in its explanations.
+  Another classic text (1965). It is notably clear in its explanations. This one doesn't seem to be very popular, but personally I like it.
 
 #### Fourier analysis
 
