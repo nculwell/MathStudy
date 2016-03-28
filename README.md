@@ -266,6 +266,13 @@ These books ease you into real analysis. They are designed to address a difficul
 
   Another classic text (1965). It is notably clear in its explanations. This one doesn't seem to be very popular, but personally I like it.
 
+- Tao, *Analysis* (I and II)
+
+  My impression is that this focuses on intuition and understanding, proofs are largely exercises. It's published by Hundustan Book Agency and sold in the USA via AMS. It can be ordered from India via these links:
+
+  - I: http://www.abebooks.com/servlet/BookDetailsPL?bi=18707026799
+  - II: http://www.abebooks.com/servlet/BookDetailsPL?bi=18707026800
+
 #### Fourier analysis
 
 - Hubbard, *The World According to Wavelets*
