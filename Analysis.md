@@ -1,8 +1,6 @@
 
 ## Analysis
 
-The big question that arises almost every time someone asks for an analysis text is, Rudin or not Rudin? I think the answer is, yes. Read his books, and read some others too in case you didn't get what Rudin was talking about.
-
 ### Real Analysis
 
 #### Proofs books
