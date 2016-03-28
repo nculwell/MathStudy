@@ -1,7 +1,10 @@
 # MathStudy
+
 Info on resources for studying math, stats, CS, etc.
 
 I created this list for my own studies. I haven't read most of the books here yet, and probably never will read most of them. I've left it visible to the public, though, in case anyone else finds it useful. I make no promises: it may be full of bad advice and it probably contains some erroneous statements about points of fact.
+
+I've also left out some subjects, like combinatorics. I hope to make the list more complete in the future. I also hope in the future to present a simpler list of "here's a list of books you can work through to cover all these subjects without repeating the same material too much or spending too much money".
 
 ## Annotations
 
@@ -16,10 +19,10 @@ I created this list for my own studies. I haven't read most of the books here ye
 
 I'm not sure how well I chose the sections here, but at least they break the list up into more manageable chunks.
 
-### [Elementary mathematics](SchoolLevel.md)
+### [School level (pre-calculus) mathematics](SchoolLevel.md)
 ### [Calculus](Calculus.md)
 ### [Analysis](Analysis.md)
-### [Probability and Statistics](ProbabilityAndStatistics.md)
+### [Probability and Statistics](ProbStats.md)
 ### [Algebra](Algebra.md)
 ### [Geometry and Topology](GeometryAndTopology.md)
 
