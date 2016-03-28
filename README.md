@@ -311,6 +311,32 @@ These are appropriate for a second course in analysis.
 - Kolmogorov and Fomin, *Elements of the Theory of Functions and Functional Analysis*
 - Rudin, *Functional Analysis*
 
+## Topology
+
+- Munkres, *Topology* (i)
+
+  The standard text.
+
+- Mendelson, *Introduction to Topology* (c)
+
+  A brief introduction, available cheap.
+
+- Gamelin and Greene, *Introduction to Topology* (c)
+
+  Another cheap alternative. One of Alan Hatcher's recommendations.
+
+- Willard, *General Topology* (c)
+
+  Another affordable introduction.
+
+- Jänich, *Topology*
+
+  Another of Alan Hatcher's recommendations, he calls it "a pleasure to read."
+
+- Kelley, *General Topology*
+
+  The classic introduction (1955).
+
 ## Algebra
 
 ### First books
@@ -328,6 +354,11 @@ These are appropriate for a second course in analysis.
 - Mac Lane and Birkhoff, *Algebra 3e*
 - Lang, *Algebra*
 - Herstein, *Algebra*
+
+### Algebraic topology
+
+- Hatcher, *Algebraic Topology* (f)
+- Rotman, *Algebraic Topology*
 
 ### Algebraic geometry
 
