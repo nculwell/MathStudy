@@ -93,7 +93,7 @@ Barbeau has another book, *Pell's Equation*, that is similar in spirit, and (uns
 
 ## Old books in the public domain
 
-These are apparently still really popular in India. Since they are in the public domain, you can find them available online for free. PDFs are available on archive.org, probably elsewhere as well. They are still in print, though not always as cheap as you'd hope given that the copyrights have expired.
+These are apparently still really popular in India. Since they are in the public domain, you can find them available online for free. PDFs are available on archive.org, probably elsewhere as well. They are still in print, though not always as cheap as you'd hope given that the copyrights have expired. Be warned that since they're old, the writing style isn't what you'd expect from a contemporary book.
 
 - Hall and Knight, *Elementary Algebra for Schools*
 - Hall and Knight, *Higher Algebra*
@@ -105,9 +105,9 @@ These are apparently still really popular in India. Since they are in the public
 
 On the other hand, *Higher Algebra* is still a very useful book because much of the material that it covers is ignored by modern curricula. Some of what it covers is similar to Barbeau's *Polynomials* (e.g. Hall and Knight cover Cardano's method for solving cubic equations). Other topics in here, like continued fractions, are rarely discussed in modern textbooks.
 
-The famous Indian mathematician Ramanujan read Hall and Knight's *Higher Algebra* and cited it in his notebooks.
+The famous Indian mathematician Ramanujan read Hall and Knight's *Higher Algebra* and cited it in his notebooks, and this association may account for its continuing fame in India, as Ramanujan is somewhat of a national hero.
 
-Loney's *Plane Trigonometry* has a lot of information, but I'm not sure how useful it is anymore. This may be just a personal bias of mine, but I don't find trigonometry interesting enough to dedicate this much time and energy to all by itself. A book like Gelfand's or Axler's gives you the basics you need, and the rest is generally covered elsewhere (e.g. in calculus and analysis) when it's needed. If you really want to know a lot about trig, though, Loney might be what you want.
+Loney's *Plane Trigonometry* has a lot of information, but I'm not sure how useful it is anymore as a textbook. This may be just a personal bias of mine, but I don't find trigonometry interesting enough to dedicate this much time and energy to all by itself. A book like Gelfand's or Axler's gives you the basics you need, and the rest is generally covered elsewhere (e.g. in calculus and analysis) when it's needed. If you really want to know a lot about trig, though, Loney might be what you want.
 
 Hall and Knight and Loney are available from Indian publishers for fairly cheap. Try searching AbeBooks to buy them if you're in the USA. I can't vouch for the quality of those cheap editions, but I've heard they're better than you might expect (unlike the terrible Indian editions published by companies like Wiley).
 
