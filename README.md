@@ -24,5 +24,5 @@ I'm not sure how well I chose the sections here, but at least they break the lis
 ### [Analysis](Analysis.md)
 ### [Probability and Statistics](ProbStats.md)
 ### [Algebra](Algebra.md)
-### [Geometry and Topology](GeometryAndTopology.md)
+### [Geometry and Topology](GeomTopo.md)
 
