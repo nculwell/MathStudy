@@ -358,6 +358,7 @@ These are appropriate for a second course in analysis.
 ### Algebraic topology
 
 - Hatcher, *Algebraic Topology* (f)
+- Bredon, *Topology and Geometry*
 - Rotman, *Algebraic Topology*
 
 ### Algebraic geometry
