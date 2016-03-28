@@ -135,14 +135,12 @@ Schaum's has several of their "outlines" which are appropriate for this level. S
 
 ## More-or-less standard curriculum
 
-- Moise and Downs, *Geometry*
 - Moise, *Elementary Geometry from an Advanced Standpoint*
 - David Rayner, *Essential Mathematics* (1 & 2) and *General Mathematics*
 - Esty, Precalculus
 - Foerster, Algebra I
 - Foerster, Algebra and Trigonometry
 - Lang and Murrow, *Geometry: A High School Course*
-- Solomonovich, *Euclidean Geometry: A First Course*
 
 ## Enrichment
 
@@ -152,6 +150,7 @@ Schaum's has several of their "outlines" which are appropriate for this level. S
 - Rademacher, *Higher mathematics from an elementary point of view*
 - Lang, *Basic Mathematics*
 - Vilenkin, *Stories About Sets*
+- Krause, *Taxicab Geometry: An Adventure in Non-Euclidean Geometry* (c)
 
 ## Cambridge reading list (pre-university)
 
