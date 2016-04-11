@@ -1,6 +1,6 @@
-=Logic and Discrete Math
+# Logic and Discrete Math
 
-==Logic
+## Logic
 
 * Gensler, Introduction to Logic
 
@@ -8,7 +8,7 @@
 that you'd want to see in a fist course, and also has a nice overview of less
 mainstream types of logics.
 
-==Discrete Math
+## Discrete Math
 
 * Rosen, Discrete Mathematics and its Applications
 
