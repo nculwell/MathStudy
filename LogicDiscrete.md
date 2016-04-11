@@ -5,8 +5,8 @@
 * Gensler, Introduction to Logic
 
   This is a really nice first course in logic, which covers all the core material
-that you'd want to see in a fist course, and also has a nice overview of less
-mainstream types of logics.
+that you'd want to see in a first course, gives a tour of major philosophical applications of logic,
+and also has a nice overview of less mainstream types of logics.
 
 ## Discrete Math
 
