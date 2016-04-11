@@ -29,6 +29,10 @@ and also has a nice overview of less mainstream types of logics.
 
 * Trudeau, *Introduction to Graph Theory*
 * Chartrand, *Introductory Graph Theory*
+* Chartrand, Zhang, *A First Course in Graph Theory*
+
+  More in-depth than Chartrand's other intro book.
+
 * Martin, *Counting: The Art of Enumerative Combinatorics*
 * Wilf, *generatingfunctionology*
 * Chen, *Principles and Techniques in Combinatorics*
