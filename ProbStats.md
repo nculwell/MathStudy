@@ -31,8 +31,24 @@
   This is, in particular, an introduction to measure theory. If you've already covered that adequately in real analysis then you might not need this book.
 
 - Shiryaev, *Probability*
+- Dudley, *Real Analysis and Probability*
+
+  A well-regarded introduction to measure theory from a probability perspective.
+  From the introduction:
+  "The first half of the book gives an exposition of real analysis: basic set
+  theory, general topology, measure theory, integration, an introduction to functional
+  analysis in Banach and Hilbert spaces, convex sets and functions,
+  and measure on topological spaces. The second half introduces probability
+  based on measure theory, including laws of large numbers, ergodic theorems,
+  the central limit theorem, conditional expectations, and martingale convergence.
+  A chapter on stochastic processes introduces Brownian motion and the
+  Brownian bridge."
+
 - Schilling, *Measures, Integrals and Martingales*
 - Williams, *Probability with Martingales*
+
+  Very popular book at the lower end of measure-theoretic probability.
+
 - Chung, *A Course in Probability Theory*
 - Robert, *The Bayesian Choice: From Decision-Theoretic Foundations to Computational Implementation*
 - Durrett, *Probability: Theory and Examples*
