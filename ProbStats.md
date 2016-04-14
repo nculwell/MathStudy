@@ -123,6 +123,12 @@ AKA statistical learning, data mining, predictive modeling.
   Published 2003. An older, but respected, introduction to ML from an information theory viewpoint.
   http://www.inference.phy.cam.ac.uk/itila/p0.html
 
+* Boyd and Vandenberghe, *Convex Optimization*
+
+  While this book is not exactly about machine learning, many (most?) ML techniques rely on the optimization techniques covered here. The book's web page also links to a free online course.
+  
+  https://web.stanford.edu/~boyd/cvxbook/
+
 ### The other big books
 
 * Kuhn and Johnson, *Applied Predictive Modeling*
