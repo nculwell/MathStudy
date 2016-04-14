@@ -41,7 +41,7 @@
 
 ## Statistics
 
-- Freedman, Pisani & Purves, *Statistics* (u/o)
+- Freedman, Pisani and Purves, *Statistics* (u/o)
 
   Conceptual introduction to statistics with minimal math. Widely viewed as the best introduction to how to think about statistics.
 
@@ -63,19 +63,15 @@
 
   More advanced and complete book on theoretical statistics.
 
-- Bickel & Doksum, *Mathematical Statistics: Basic Ideas and Selected Topics* (volumes I and II)
+- Bickel and Doksum, *Mathematical Statistics: Basic Ideas and Selected Topics* (volumes I and II)
 
   Standard grad-level text on mathematical statistics.
-
-- DeGroot & Schervish, *Probability and Statistics* (u)
-
-  Another mathematical statistics textbook.
 
 - Gelman et al, *Bayesian Data Analysis*
 
   Good first book on Bayesian analysis.
 
-- Gelman & Hill, *Data Analysis Using Regression and Multilevel/Hierarchical Models*
+- Gelman and Hill, *Data Analysis Using Regression and Multilevel/Hierarchical Models*
 
   Good first book on multilevel/hierarchical models
 
