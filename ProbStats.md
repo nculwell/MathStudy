@@ -87,47 +87,51 @@
 
 * James, Witten, Hastie and Tibshirani, *An Introduction to Statistical Learning: with Applications in R*
 
-  AKA ISL or ISLR. 2013.
+  Published 2013. AKA ISL or ISLR.
   http://www-bcf.usc.edu/~gareth/ISL/
 
 * Hastie, Tibshirani and Friedman, *The Elements of Statistical Learning: Data Mining, Inference, and Prediction*
 
-  AKA ESL. 2009.
+  Published 2009. AKA ESL.
   http://statweb.stanford.edu/~tibs/ElemStatLearn/
 
 * Bayesian Reasoning and Machine Learning
 
-  AKA BRML. 2012.
+  Published 2012. AKA BRML.
   http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage
 
 * MacKay, *Information Theory, Inference, and Learning Algorithms*
   
-  2003.
+  Published 2003.
   http://www.inference.phy.cam.ac.uk/itila/p0.html
 
 ### The other big books
 
 * Murphy, *Machine Learning: a Probabilistic Perspective*
 
-  2012.
+  Published 2012.
   https://www.cs.ubc.ca/~murphyk/MLbook/
 
 * Bishop, *Pattern Recognition and Machine Learning*
 
-  2006. Bayesian viewpoint.
+  Published 2006. AKA PRML. Bayesian viewpoint.
   http://research.microsoft.com/en-us/um/people/cmbishop/PRML/index.htm
 
 * Bishop, *Neural Networks for Pattern Recognition*
 
-  1996. Old but still relevant.
+  Published 1996. Old but still relevant.
 
 * Abu-Mostafa, Magdon-Ismail, Lin, *Learning From Data*
 
-  2012. Goes with an online course from Caltech: https://work.caltech.edu/telecourse.html
+  Published 2012. Goes with an online course from Caltech: https://work.caltech.edu/telecourse.html
 
 * Mohri, Rostamizadeh, Talwalkar, *Foundations of Machine Learning*
 
-  2012.
+  Published 2012.
+
+* Koller, Friedman, *Probabilistic Graphical Models: Principles and Techniques*
+
+  Published 2009. This is the reigning book on PGMs, but it demands more mathematical background (e.g. abstract algebra) than a lot of the other books listed here.
 
 ### Natural language processing
 
