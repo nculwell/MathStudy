@@ -111,6 +111,12 @@
 
 ### The other big books
 
+* Kuhn and Johnson, *Applied Predictive Modeling*
+
+  Published 2013. This is a guide to machine learning at the level of detail necessary to implement techniques in R. Much attention is paid to how to make each method perform well. The body of each chapter is a description of the techniques involved, then at the end of the chapter is a "Computing" section which describes how to do what you just learned in R. The author's approach is to tell you just as much as you need to know to use the techniques, then point you to primary literature where you can read the details.
+  
+  http://appliedpredictivemodeling.com/
+
 * Murphy, *Machine Learning: a Probabilistic Perspective*
 
   Published 2012.
