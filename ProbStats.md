@@ -81,3 +81,26 @@
 
 - Mandel, *The Statistical Analysis of Experimental Data* (c)
 
+## Machine Learning
+
+### The free books
+
+* James, Witten, Hastie and Tibshirani, *An Introduction to Statistical Learning: with Applications in R*
+
+  AKA ISL or ISLR. 2013.
+  http://www-bcf.usc.edu/~gareth/ISL/
+
+* Hastie, Tibshirani and Friedman, *The Elements of Statistical Learning: Data Mining, Inference, and Prediction*
+
+  AKA ESL. 2009.
+  http://statweb.stanford.edu/~tibs/ElemStatLearn/
+
+* Bayesian Reasoning and Machine Learning
+
+  AKA BRML. 2012.
+  http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage
+
+* MacKay, *Information Theory, Inference, and Learning Algorithms*
+  
+  2003.
+  http://www.inference.phy.cam.ac.uk/itila/p0.html
