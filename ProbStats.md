@@ -113,6 +113,10 @@ AKA statistical learning, data mining, predictive modeling.
   Published 2009. AKA ESL. The standard textbook for serious machine learning courses.
   http://statweb.stanford.edu/~tibs/ElemStatLearn/
 
+* Goodfellow, Bengio and Courville, *Deep Learning*
+
+  Due for publication in 2016 (or 2017?). This book isn't even out in paper form yet (MIT Press will publish it soon), but you can read it for free online here: http://www.deeplearningbook.org/
+
 * Bayesian Reasoning and Machine Learning
 
   Published 2012. AKA BRML. A popular machine learning textbook from a Bayesian viewpoint.
@@ -136,10 +140,6 @@ AKA statistical learning, data mining, predictive modeling.
   Published 2013. This is a guide to machine learning at the level of detail necessary to implement techniques in R. Much attention is paid to how to make each method perform well. The body of each chapter is a description of the techniques involved, then at the end of the chapter is a "Computing" section which describes how to do what you just learned in R. The author's approach is to tell you just as much as you need to know to use the techniques, then point you to primary literature where you can read the details.
   
   http://appliedpredictivemodeling.com/
-
-* Goodfellow, Bengio and Courville, *Deep Learning*
-
-  Due for publication in 2016 (or 2017?). This book isn't even out in paper form yet (MIT Press will publish it soon), but you can read it for free online here: http://www.deeplearningbook.org/
 
 * Reed and Marks, *Neural Smithing: Supervised Learning in Feedforward Artificial Neural Networks* (c)
 
