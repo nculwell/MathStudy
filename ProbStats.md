@@ -150,6 +150,10 @@ AKA statistical learning, data mining, predictive modeling.
   Published 2012.
   https://www.cs.ubc.ca/~murphyk/MLbook/
 
+* Izenman, *Modern Multivariate Statistical Techniques: Regression, Classification, and Manifold Learning*
+
+  Published 2008. This book is statistics-oriented, but it largely covers ML techniques.
+
 * Bishop, *Pattern Recognition and Machine Learning*
 
   Published 2006. AKA PRML. Bayesian viewpoint. This book used to be very influential but it's getting a bit dated, and it's generally regarded as not the best written ML book around.
