@@ -133,7 +133,7 @@ AKA statistical learning, data mining, predictive modeling.
   
   https://web.stanford.edu/~boyd/cvxbook/
 
-### The other big books
+### Other big books
 
 * Kuhn and Johnson, *Applied Predictive Modeling*
 
