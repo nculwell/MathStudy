@@ -141,4 +141,4 @@
 
 * Manning and Schütze, *Foundations of Statistical Natural Language Processing*
 
-  1999. Older, but still the other big book in this field.
+  Published 1999. Older, but still the other big book in this field.
