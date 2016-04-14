@@ -119,6 +119,10 @@ AKA statistical learning, data mining, predictive modeling.
 
   Due for publication in 2016 (or 2017?). This book isn't even out in paper form yet (MIT Press will publish it soon), but you can read it for free online here: http://www.deeplearningbook.org/
 
+* Reed and Marks, *Neural Smithing: Supervised Learning in Feedforward Artificial Neural Networks* (c)
+
+  Published 1999. This one is old, not particularly in-depth and only covers a limited subset of NN techniques, but it remains one of the better introductions to the topic of neural networks. It's also relatively short and affordable.
+
 * Murphy, *Machine Learning: a Probabilistic Perspective*
 
   Published 2012.
