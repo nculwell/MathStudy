@@ -51,9 +51,13 @@
 
   There are also a couple of other editions that de-emphasize math in order to teach students who have less background.
 
+- DeGroot and Schervish, *Probability and Statistics* (u/o)
+
+  A popular introduction to mathematical statistics.
+
 - Cassela and Berger, *Statistical Inference* (i)
 
-  The standard introduction to mathematical/theoretical statistics.
+  A standard grad-level introduction to mathematical/theoretical statistics.
 
 - Schervish, *Theory of Statistics*
 
