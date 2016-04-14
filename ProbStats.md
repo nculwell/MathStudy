@@ -104,3 +104,37 @@
   
   2003.
   http://www.inference.phy.cam.ac.uk/itila/p0.html
+
+### The other big books
+
+* Murphy, *Machine Learning: a Probabilistic Perspective*
+
+  2012.
+  https://www.cs.ubc.ca/~murphyk/MLbook/
+
+* Bishop, *Pattern Recognition and Machine Learning*
+
+  2006. Bayesian viewpoint.
+  http://research.microsoft.com/en-us/um/people/cmbishop/PRML/index.htm
+
+* Bishop, *Neural Networks for Pattern Recognition*
+
+  1996. Old but still relevant.
+
+* Abu-Mostafa, Magdon-Ismail, Lin, *Learning From Data*
+
+  2012. Goes with an online course from Caltech: https://work.caltech.edu/telecourse.html
+
+* Mohri, Rostamizadeh, Talwalkar, *Foundations of Machine Learning*
+
+  2012.
+
+### Natural language processing
+
+* Jurafsky and Martin, *Speech and Language Processing*
+
+  The 2nd edition was published in 2008. A third edition is in progress, and the draft can be seen here: https://web.stanford.edu/~jurafsky/slp3/
+
+* Manning and Schütze, *Foundations of Statistical Natural Language Processing*
+
+  1999. Older, but still the other big book in this field.
