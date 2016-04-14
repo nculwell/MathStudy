@@ -83,26 +83,28 @@
 
 ## Machine Learning
 
+AKA statistical learning, data mining, predictive modeling.
+
 ### The free books
 
 * James, Witten, Hastie and Tibshirani, *An Introduction to Statistical Learning: with Applications in R*
 
-  Published 2013. AKA ISL or ISLR.
+  Published 2013. AKA ISL or ISLR. Probably the most popular introduction to maching learning.
   http://www-bcf.usc.edu/~gareth/ISL/
 
 * Hastie, Tibshirani and Friedman, *The Elements of Statistical Learning: Data Mining, Inference, and Prediction*
 
-  Published 2009. AKA ESL.
+  Published 2009. AKA ESL. The standard textbook for serious machine learning courses.
   http://statweb.stanford.edu/~tibs/ElemStatLearn/
 
 * Bayesian Reasoning and Machine Learning
 
-  Published 2012. AKA BRML.
+  Published 2012. AKA BRML. A popular machine learning textbook from a Bayesian viewpoint.
   http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage
 
 * MacKay, *Information Theory, Inference, and Learning Algorithms*
   
-  Published 2003.
+  Published 2003. An older, but respected, introduction to ML from an information theory viewpoint.
   http://www.inference.phy.cam.ac.uk/itila/p0.html
 
 ### The other big books
@@ -113,6 +115,10 @@
   
   http://appliedpredictivemodeling.com/
 
+* Goodfellow, Bengio and Courville, *Deep Learning*
+
+  Due for publication in 2016 (or 2017?). This book isn't even out in paper form yet (MIT Press will publish it soon), but you can read it for free online here: http://www.deeplearningbook.org/
+
 * Murphy, *Machine Learning: a Probabilistic Perspective*
 
   Published 2012.
@@ -120,7 +126,7 @@
 
 * Bishop, *Pattern Recognition and Machine Learning*
 
-  Published 2006. AKA PRML. Bayesian viewpoint.
+  Published 2006. AKA PRML. Bayesian viewpoint. This book used to be very influential but it's getting a bit dated, and it's generally regarded as not the best written ML book around.
   http://research.microsoft.com/en-us/um/people/cmbishop/PRML/index.htm
 
 * Bishop, *Neural Networks for Pattern Recognition*
