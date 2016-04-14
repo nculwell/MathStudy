@@ -19,11 +19,10 @@ I've also left out some subjects, like combinatorics. I hope to make the list mo
 
 I'm not sure how well I chose the sections here, but at least they break the list up into more manageable chunks.
 
-### [School level (pre-calculus) mathematics](SchoolLevel.md)
 ### [Calculus](Calculus.md)
 ### [Analysis](Analysis.md)
-### [Probability and Statistics](ProbStats.md)
+### [Probability, Statistics and Machine Learning](ProbStats.md)
 ### [Algebra](Algebra.md)
 ### [Geometry and Topology](GeomTopo.md)
 ### [Logic and Discrete Math](LogicDiscrete.md)
-
+### [School level (pre-calculus) mathematics](SchoolLevel.md)
