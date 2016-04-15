@@ -111,8 +111,10 @@ These focus on some more specialized areas of algorithms.
 * Krishnamurthi, 2012. *Programming Languages: Application and Interpretation*
 
   The last version of this incarnation of the book. It goes with an online course, which is available here: https://cs.brown.edu/courses/cs173/2012/
-  
-  Together, these make an excellent introduction to the design and implementation of programming languages using an interpreter.
+
+  Together, these make an excellent introduction to the design and implementation of programming languages
+  using an interpreter. This version of the book (and course) use a Racket language called typed PLAI,
+  which is a Lisp with strong type inference.
 
 * Krishnamurthi, 2015. *Programming and Programming Languages*
 
@@ -120,6 +122,12 @@ These focus on some more specialized areas of algorithms.
 
   This book is under constant revision. Currently the latest stable version is here:
   http://papl.cs.brown.edu/2015/
+
+* Friedman, Wand, Haynes, 1992. *Essentials of Programming Languages*
+  * Friedman, Wand, Haynes, 2001. *Essentials of Programming Languages*
+  * Friedman, Wand, 2008. *Essentials of Programming Languages*
+
+  An more in-depth book about writing interpreters in Scheme. Shriram Krishnamurthi turned me onto this one.
 
 * Aho, Sethi, Ullman, 2006. *Compilers: Principles, Techniques, and Tools, Second Edition*
 
@@ -137,8 +145,24 @@ These focus on some more specialized areas of algorithms.
   lots of topics that come up when designing and implementing them. As such, it's a good *second*
   book on the subject.
 
-* TODO: Fischer/LeBlanc, Appel (ML, CWC), Wolfe, EOPL, Muchnick, Cooper/Torczon.
+* Appel, 1998. *Modern Compiler Implementation in ML*
+
+  This is a beginning-to-end guide to writing a compiler. The implementation language is Standard ML,
+  which is a very good language for writing compilers. By the end of the first half of the book, you
+  have a working compiler. The second half covers advanced topics such as garbage collection,
+  dataflow analysis and SSA form.
+
+* Appel, 1992. *Compiling with Continuations*
+
+  This is a book about about continuation-passing style as it applies to compiling functional languages.
+  (In the context of interpreters, CPS is dicussed in PLAI and EOPL.) One of the nice things about this
+  book is that, in large part, it describes the design of Standard ML of New Jersey
+  (AKA SML/NJ: a popular implementation of Standard ML).
+  Since SML/NJ is open source, you can go to http://www.smlnj.org/ and
+  see a working example of many of the principles described in the book.
+
+* TODO: Fischer/LeBlanc, Wolfe, Muchnick, Cooper/Torczon.
 
 ### TODO
 
-Data structures, databases, systems, FP
+Data structures, databases, systems, FP, AI
