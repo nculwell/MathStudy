@@ -42,13 +42,27 @@ These books cover the basics, that is, the core algorithms that everyone needs t
 
 * Sedgewick and Wayne, 2011 (4e). *Algorithms*
 
-  This is the latest incarnation of a long series of algorithms books by Robert Sedgewick. (Wayne joined more recently as co-author.) There are various other versions that feature specific example languages: *Algorithms in C++*, *Algorithms in Java*, *Algorithms in C*. This version uses Java, so I guess it supersedes the previous *Algorithms in Java*. Its website -- http://algs4.cs.princeton.edu/ -- has links to Sedgewick's online algorithms course. Considering its use of code to illustrate algorithms, its reasonable price and its accompanying course, for most people this will probably be the best choice for a first book in algorithms. And if you're cheap, there are lots of used copies of the various older editions floating about, since this is a popular series.
+  This is the latest incarnation of a long series of algorithms books by Robert Sedgewick.
+  (Wayne joined more recently as co-author.)
+  There are various other versions that feature specific example languages:
+  *Algorithms in C++*, *Algorithms in Java*, *Algorithms in C*.
+  This version uses Java, so I guess it supersedes the previous *Algorithms in Java*.
+  Its website -- http://algs4.cs.princeton.edu/ --
+  has links to Sedgewick's two free online algorithms courses.
+  Considering its use of code to illustrate algorithms, its reasonable price and its accompanying
+  courses, for most people this will probably be the best choice for a first book in algorithms.
+  And if you're cheap, there are lots of used copies of the various older editions
+  floating about, since this is a popular series.
+  (The courses don't require the textbook, by the way.
+  However, if you're going to be a programmer you really ought to have at least one
+  algorithms book around anyway, even if it's the only computer book you own.)
 
 * Cormen, Leiserson, Rivest, Stein, 2009. *Introduction to Algorithms, Third Edition*
 
   * Cormen, Leiserson, Rivest, Stein, 2001. *Introduction to Algorithms, Second Edition*
   * Cormen, Leiserson, Rivest, 1990. *Introduction to Algorithms*
-  
+
+  AKA CLRS.
   This is the standard book on algorithms, and it's a big, fat monster: about 1000 large-format pages.
   Currently it's pretty reasonably priced, though you can still save money by buying one of the older
   editions. There are arguably better approaches for learning the subject, but most people will at
@@ -63,7 +77,14 @@ These books cover the basics, that is, the core algorithms that everyone needs t
 
   This book focuses somewhat more on how to do and evaluate algorithms vs. how to analyze them mathematically. There is a 1997 1st Edition, but it's hard to find and not a lot cheaper than a used copy of the 2nd Edition.
 
-* TODO: ALGORITHMS -- Manber, Knuth, Aho/Ullman/Upcroft. INTRO -- SICP ( https://mitpress.mit.edu/sicp/ ), HTDP ( http://www.htdp.org/ ), others?.
+* Knuth, *The Art of Computer Programming*
+
+  This collection of bulky tomes is a legendary institution in the field of computer science, as is their author.
+  It's not the most up-to-date, but it is probably the most complete in-depth examination of algorithms.
+  I don't think very many people who don't have a Ph.D. in CS have read all of the volumes...
+  but if you have, it afford certain bragging rights.
+
+* TODO: ALGORITHMS -- Manber. INTRO -- SICP ( https://mitpress.mit.edu/sicp/ ), HTDP ( http://www.htdp.org/ ), others?.
 
 #### Specialized algorithms
 
