@@ -40,6 +40,10 @@ Data structures and algorithms are two sides of the same coin. (In 1976, Niklaus
 
 These books cover the basics, that is, the core algorithms that everyone needs to know: sorting, tree traversal, etc.
 
+* Sedgewick and Wayne, 2011 (4e). *Algorithms*
+
+  This is the latest incarnation of a long series of algorithms books by Robert Sedgewick. (Wayne joined more recently as co-author.) There are various other versions that feature specific example languages: *Algorithms in C++*, *Algorithms in Java*, *Algorithms in C*. This version uses Java, so I guess it supersedes the previous *Algorithms in Java*. Its website -- http://algs4.cs.princeton.edu/ -- has links to Sedgewick's online algorithms course. Considering its use of code to illustrate algorithms, its reasonable price and its accompanying course, for most people this will probably be the best choice for a first book in algorithms. And if you're cheap, there are lots of used copies of the various older editions floating about, since this is a popular series.
+
 * Cormen, Leiserson, Rivest, Stein, 2009. *Introduction to Algorithms, Third Edition*
 
   * Cormen, Leiserson, Rivest, Stein, 2001. *Introduction to Algorithms, Second Edition*
@@ -59,7 +63,7 @@ These books cover the basics, that is, the core algorithms that everyone needs t
 
   This book focuses somewhat more on how to do and evaluate algorithms vs. how to analyze them mathematically. There is a 1997 1st Edition, but it's hard to find and not a lot cheaper than a used copy of the 2nd Edition.
 
-* TODO: ALGORITHMS -- Sedgewick, Manber, Knuth, Aho/Ullman/Upcroft. INTRO -- SICP ( https://mitpress.mit.edu/sicp/ ), HTDP ( http://www.htdp.org/ ), others?.
+* TODO: ALGORITHMS -- Manber, Knuth, Aho/Ullman/Upcroft. INTRO -- SICP ( https://mitpress.mit.edu/sicp/ ), HTDP ( http://www.htdp.org/ ), others?.
 
 #### Specialized algorithms
 
