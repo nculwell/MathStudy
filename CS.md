@@ -34,6 +34,10 @@
 
 ### Algorithms
 
+#### Standard topics
+
+These books cover the basics, that is, the core algorithms that everyone needs to know: sorting, tree traversal, etc.
+
 * Cormen, Leiserson, Rivest, Stein, 2009. *Introduction to Algorithms, Third Edition*
 
   * Cormen, Leiserson, Rivest, Stein, 2001. *Introduction to Algorithms, Second Edition*
@@ -49,9 +53,22 @@
   A classic book on algorithms. I found the beginning of this one to be not so great for
   learning the material the first time.
 
-* Motwani, Raghavan, 1995. *Randomized Algorithms*
+* Skiena, 2008 (2e). *The Algorithm Design Manual*
 
-* TODO: ALGORITHMS -- Sedgewick, Manber, Knuth, Papadimitriou, Skiena, Aho/Ullman/Upcroft. INTRO -- SICP ( https://mitpress.mit.edu/sicp/ ), HTDP ( http://www.htdp.org/ ), others?.
+  This book focuses somewhat more on how to do and evaluate algorithms vs. how to analyze them mathematically. There is a 1997 1st Edition, but it's hard to find and not a lot cheaper than a used copy of the 2nd Edition.
+
+* TODO: ALGORITHMS -- Sedgewick, Manber, Knuth, Aho/Ullman/Upcroft. INTRO -- SICP ( https://mitpress.mit.edu/sicp/ ), HTDP ( http://www.htdp.org/ ), others?.
+
+#### Specialized algorithms
+
+These focus on some more specialized areas of algorithms.
+
+* Motwani and Raghavan, 1995. *Randomized Algorithms*
+* Mitzenmacher and Upfal, 2005. *Probability and Computing: Randomized Algorithms and Probabilistic Analysis*
+
+* Papadimitriou and Steiglitz, 1982. *Combinatorial Optimization: Algorithms and Complexity* (c)
+
+  There's a 1998 Dover edition, which has some corrections but isn't substantially different from the original 1982 version. This book has a unique choice of topics. It starts out with the linear programming problem and the simplex algorithm, a topic usually covered more in applied mathematics. Then, about halfway through, it switches gears and begins to look at graph algorithms. The point, as expressed in the introduction, is to look at the similarities between these continuous and discrete optimization problems, and how the fine differences between them result in dramatic differences in computational complexity. Thus, I think it can be said that, in a sense, this book teaches algorithms as a means to the end of understanding complexity.
 
 ### Programming language theory
 
