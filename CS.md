@@ -110,6 +110,7 @@ These focus on some more specialized areas of algorithms.
 
 * Krishnamurthi, 2012. *Programming Languages: Application and Interpretation*
 
+  AKA PLAI.
   The last version of this incarnation of the book. It goes with an online course, which is available here: https://cs.brown.edu/courses/cs173/2012/
 
   Together, these make an excellent introduction to the design and implementation of programming languages
@@ -118,7 +119,8 @@ These focus on some more specialized areas of algorithms.
 
 * Krishnamurthi, 2015. *Programming and Programming Languages*
 
-  Krishnamurthi's latest incarnation of his intro to PLs.
+  From a glance, it looks to me like this is essentially a newer PLAI, retitled and revamped to use
+  a new implementation language, Pyret.
 
   This book is under constant revision. Currently the latest stable version is here:
   http://papl.cs.brown.edu/2015/
@@ -128,6 +130,8 @@ These focus on some more specialized areas of algorithms.
   * Friedman, Wand, 2008. *Essentials of Programming Languages*
 
   An more in-depth book about writing interpreters in Scheme. Shriram Krishnamurthi turned me onto this one.
+  I have the first edition, which is a classic and can currently be bought used for under $10. I don't
+  know how the later editions stack up. Judging from some online reviews, the first might really be the best.
 
 * Aho, Sethi, Ullman, 2006. *Compilers: Principles, Techniques, and Tools, Second Edition*
 
