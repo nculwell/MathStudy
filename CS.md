@@ -10,12 +10,20 @@
   but he didn't revise the old ones much.
 
 * Hopcroft, Ullman, 1979. *Introduction to Automata Theory, Languages and Computation*
+  * Hopcroft, Motwani, Ullman, 2006. *Introduction to Automata Theory, Languages, and Computation, 3rd Edition*
 
   A classic and influential introduction to computer science theory. Somewhat more challenging than Sipser.
 
 * Cohen, 1991. *Introduction to Computer Theory*
 
   Another classic, this one is known for its readability.
+
+* Brookshear, 1989. *Theory of Computation: Formal Languages, Automata, and Complexity*
+
+  Well-liked for its accessibility. Unfortunately, it's still pretty expensive for such an old book:
+  about $90 used at the time of this writing. That its price has held up so long is a testament to its
+  quality, but it also makes it harder to justify owning it when newer books covering the same material
+  can be bought for $10-20.
 
 * Kinber, Smith, 2001. *Theory of Computing: A Gentle Introduction*
 
@@ -40,6 +48,8 @@
 
   A classic book on algorithms. I found the beginning of this one to be not so great for
   learning the material the first time.
+
+* Motwani, Raghavan, 1995. *Randomized Algorithms*
 
 * TODO: ALGORITHMS -- Sedgewick, Manber, Knuth, Papadimitriou, Skiena, Aho/Ullman/Upcroft. INTRO -- SICP ( https://mitpress.mit.edu/sicp/ ), HTDP ( http://www.htdp.org/ ), others?.
 
