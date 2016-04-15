@@ -71,11 +71,11 @@
 
   * Aho, Sethi, Ullman, 1986. *Compilers: Principles, Techniques, and Tools*
 
+  AKA "The Dragon Book" due to its well-known cover illustration.
   This is the standard book in the field of compilers, both as an introduction and as a reference.
   This is one book where it's probably worthwhile to buy the latest edition, since compilers
   *have* changed a lot over the years. (There are even older and cheaper editions, though, as this
-  title derives from the even older *Principles of Compiler Design* by Aho and Ullman; they are of
-  historical interest.)
+  title has roots in *Principles of Compiler Design* by Aho and Ullman.)
 
 * Scott 2015 (4e), 2009 (3e), 2005 (2e), 1999 (1e), *Programming Language Pragmatics*
 
@@ -83,7 +83,7 @@
   lots of topics that come up when designing and implementing them. As such, it's a good *second*
   book on the subject.
 
-* TODO: Aho/Sethi/Ullman, Fischer/LeBlanc, Appel (ML, CWC), Wolfe, EOPL, Muchnick, Cooper/Torczon.
+* TODO: Fischer/LeBlanc, Appel (ML, CWC), Wolfe, EOPL, Muchnick, Cooper/Torczon.
 
 ### TODO
 
