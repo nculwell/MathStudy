@@ -175,12 +175,20 @@ AKA statistical learning, data mining, predictive modeling.
 
   Published 2009. This is the reigning book on PGMs, but it demands more mathematical background (e.g. abstract algebra) than a lot of the other books listed here.
 
-### Natural language processing
+## Natural language processing
 
-* Jurafsky and Martin, *Speech and Language Processing*
+* Jurafsky and Martin, 2008. *Speech and Language Processing*
 
-  The 2nd edition was published in 2008. A third edition is in progress, and the draft can be seen here: https://web.stanford.edu/~jurafsky/slp3/
+  The 2nd edition. A 3rd edition is in progress, and the draft can be seen here: https://web.stanford.edu/~jurafsky/slp3/
 
-* Manning and Schütze, *Foundations of Statistical Natural Language Processing*
+* Manning and Schütze, 1999. *Foundations of Statistical Natural Language Processing*
 
-  Published 1999. Older, but still the other big book in this field.
+  Older, but still the other big book in this field.
+
+## Information retrieval
+
+* Manning, Raghavan, Schütze, 2008. *Introduction to Information Retrieval*
+
+  Free on the web: http://nlp.stanford.edu/IR-book/
+
+* Büttcher, Clarke, Cormack, 2010. Information Retrieval: Implementing and Evaluating Search Engines
