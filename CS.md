@@ -22,11 +22,15 @@
   and computational complexity, devoting 20-40 pages to each of these topics.
   It costs too much, though; for the price, you might as well buy Sipser's 2nd Edition.
 
-* Cormen, Leiserson, Rivest, 1990. *Introduction to Algorithms*
+* Cormen, Leiserson, Rivest, Stein, 2009. *Introduction to Algorithms, Third Edition*
 
-  The standard book on algorithms. A big, fat monster. There are arguably better approaches
-  for learning the subject, but most people will want to have this one in addition to whichever
-  others they choose.
+  * Cormen, Leiserson, Rivest, Stein, 2001. *Introduction to Algorithms, Second Edition*
+  * Cormen, Leiserson, Rivest, 1990. *Introduction to Algorithms*
+  
+  This is the standard book on algorithms, and it's a big, fat monster: about 1000 large-format pages.
+  Currently it's pretty reasonably priced, though you can still save money by buying one of the older
+  editions. There are arguably better approaches for learning the subject, but most people will at
+  least want to have this one around as a reference.
 
 * Aho, Hopcroft, Ullman, 1974. *The Design and Analysis of Computer Algorithms*
 
