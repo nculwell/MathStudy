@@ -61,7 +61,7 @@
 
   Conceptual introduction to statistics with minimal math. Widely viewed as the best introduction to how to think about statistics.
 
-- Diez, Barr, Çetinkaya-Rundel - *OpenIntro Statistics*
+- Diez, Barr, Çetinkaya-Rundel. *OpenIntro Statistics*
 
   Get it free online here: https://www.openintro.org/stat/textbook.php?stat_book=os
 
@@ -188,4 +188,4 @@ AKA statistical learning, data mining, predictive modeling.
 
   Free on the web: http://nlp.stanford.edu/IR-book/
 
-* Büttcher, Clarke, Cormack, 2010. Information Retrieval: Implementing and Evaluating Search Engines
+* Büttcher, Clarke, Cormack, 2010. *Information Retrieval: Implementing and Evaluating Search Engines*
