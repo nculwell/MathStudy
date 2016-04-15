@@ -103,28 +103,28 @@ AKA statistical learning, data mining, predictive modeling.
 
 ### The free books
 
-* James, Witten, Hastie and Tibshirani, *An Introduction to Statistical Learning: with Applications in R*
+* James, Witten, Hastie and Tibshirani, 2013. *An Introduction to Statistical Learning: with Applications in R*
 
-  Published 2013. AKA ISL or ISLR. Probably the most popular introduction to maching learning.
+  AKA ISL or ISLR. Probably the most popular introduction to maching learning.
   http://www-bcf.usc.edu/~gareth/ISL/
 
-* Hastie, Tibshirani and Friedman, *The Elements of Statistical Learning: Data Mining, Inference, and Prediction*
+* Hastie, Tibshirani and Friedman, 2009. *The Elements of Statistical Learning: Data Mining, Inference, and Prediction*
 
-  Published 2009. AKA ESL. The standard textbook for serious machine learning courses.
+  AKA ESL. The standard textbook for serious machine learning courses.
   http://statweb.stanford.edu/~tibs/ElemStatLearn/
 
-* Goodfellow, Bengio and Courville, *Deep Learning*
+* Goodfellow, Bengio and Courville, forthcoming/online. *Deep Learning*
 
   Due for publication in 2016 (or 2017?). This book isn't even out in paper form yet (MIT Press will publish it soon), but you can read it for free online here: http://www.deeplearningbook.org/
 
-* Bayesian Reasoning and Machine Learning
+* Barber, 2012. *Bayesian Reasoning and Machine Learning*
 
-  Published 2012. AKA BRML. A popular machine learning textbook from a Bayesian viewpoint.
+  AKA BRML. A popular machine learning textbook from a Bayesian viewpoint.
   http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage
 
-* MacKay, *Information Theory, Inference, and Learning Algorithms*
+* MacKay, 2003. *Information Theory, Inference, and Learning Algorithms*
   
-  Published 2003. An older, but respected, introduction to ML from an information theory viewpoint.
+  An older, but respected, introduction to ML from an information theory viewpoint.
   http://www.inference.phy.cam.ac.uk/itila/p0.html
 
 * Boyd and Vandenberghe, *Convex Optimization*
@@ -135,45 +135,42 @@ AKA statistical learning, data mining, predictive modeling.
 
 ### Other big books
 
-* Kuhn and Johnson, *Applied Predictive Modeling*
+* Kuhn and Johnson, 2013. *Applied Predictive Modeling*
 
-  Published 2013. This is a guide to machine learning at the level of detail necessary to implement techniques in R. Much attention is paid to how to make each method perform well. The body of each chapter is a description of the techniques involved, then at the end of the chapter is a "Computing" section which describes how to do what you just learned in R. The author's approach is to tell you just as much as you need to know to use the techniques, then point you to primary literature where you can read the details.
+  This is a guide to machine learning at the level of detail necessary to implement techniques in R. Much attention is paid to how to make each method perform well. The body of each chapter is a description of the techniques involved, then at the end of the chapter is a "Computing" section which describes how to do what you just learned in R. The author's approach is to tell you just as much as you need to know to use the techniques, then point you to primary literature where you can read the details.
   
   http://appliedpredictivemodeling.com/
 
-* Reed and Marks, *Neural Smithing: Supervised Learning in Feedforward Artificial Neural Networks* (c)
+* Reed and Marks, 1999. *Neural Smithing: Supervised Learning in Feedforward Artificial Neural Networks* (c)
 
-  Published 1999. This one is old, not particularly in-depth and only covers a limited subset of NN techniques, but it remains one of the better introductions to the topic of neural networks. It's also relatively short and affordable.
+  This one is old, not particularly in-depth and only covers a limited subset of NN techniques, but it remains one of the better introductions to the topic of neural networks. It's also relatively short and affordable.
 
-* Murphy, *Machine Learning: a Probabilistic Perspective*
+* Murphy, 2012. *Machine Learning: a Probabilistic Perspective*
 
-  Published 2012.
   https://www.cs.ubc.ca/~murphyk/MLbook/
 
-* Izenman, *Modern Multivariate Statistical Techniques: Regression, Classification, and Manifold Learning*
+* Izenman, 2008. *Modern Multivariate Statistical Techniques: Regression, Classification, and Manifold Learning*
 
-  Published 2008. This book is statistics-oriented, but it largely covers ML techniques.
+  This book is statistics-oriented, but it largely covers ML techniques.
 
-* Bishop, *Pattern Recognition and Machine Learning*
+* Bishop, 2006. *Pattern Recognition and Machine Learning*
 
-  Published 2006. AKA PRML. Bayesian viewpoint. This book used to be very influential but it's getting a bit dated, and it's generally regarded as not the best written ML book around.
+  AKA PRML. Bayesian viewpoint. This book used to be very influential but it's getting a bit dated, and I get the impression that it's generally regarded as not the best-written ML book around.
   http://research.microsoft.com/en-us/um/people/cmbishop/PRML/index.htm
 
-* Bishop, *Neural Networks for Pattern Recognition*
+* Bishop, 1996. *Neural Networks for Pattern Recognition*
 
-  Published 1996. Old but still relevant.
+  Old but still relevant (because there aren't a lot of in-depth books about neural networks).
 
-* Abu-Mostafa, Magdon-Ismail, Lin, *Learning From Data*
+* Abu-Mostafa, Magdon-Ismail, Lin, 2012. *Learning From Data*
 
-  Published 2012. Goes with an online course from Caltech: https://work.caltech.edu/telecourse.html
+  Goes with an online course from Caltech: https://work.caltech.edu/telecourse.html
 
-* Mohri, Rostamizadeh, Talwalkar, *Foundations of Machine Learning*
+* Mohri, Rostamizadeh, Talwalkar, 2012. *Foundations of Machine Learning*
 
-  Published 2012.
+* Koller, Friedman, 2009. *Probabilistic Graphical Models: Principles and Techniques*
 
-* Koller, Friedman, *Probabilistic Graphical Models: Principles and Techniques*
-
-  Published 2009. This is the reigning book on PGMs, but it demands more mathematical background (e.g. abstract algebra) than a lot of the other books listed here.
+  This is the reigning book on PGMs, but it demands more mathematical background (e.g. abstract algebra) than a lot of the other books listed here.
 
 ## Natural language processing
 
