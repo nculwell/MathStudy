@@ -134,27 +134,55 @@ These focus on some more specialized areas of algorithms.
   know how the later editions stack up. Judging from some online reviews, the first might really be the best.
 
 * Aho, Sethi, Ullman, 2006. *Compilers: Principles, Techniques, and Tools, Second Edition*
-
   * Aho, Sethi, Ullman, 1986. *Compilers: Principles, Techniques, and Tools*
 
   AKA "The Dragon Book" due to its well-known cover illustration.
+  (1e is "the red dragon book", 2e is "the purple dragon book".)
   This is the standard book in the field of compilers, both as an introduction and as a reference.
-  This is one book where it's probably worthwhile to buy the latest edition, since compilers
-  *have* changed a lot over the years. (There are even older and cheaper editions, though, as this
-  title has roots in *Principles of Compiler Design* by Aho and Ullman.)
 
-* Scott 2015 (4e), 2009 (3e), 2005 (2e), 1999 (1e), *Programming Language Pragmatics*
+* Aho and Ullman, 1977. *Principles of Compiler Design*
 
-  This book won't teach you how to build a compiler or interpreter, but it's a great reference on
-  lots of topics that come up when designing and implementing them. As such, it's a good *second*
-  book on the subject.
+  AKA "the green dragon book".
+  This one is obviously very out-of-date, but the basics are still relevant.
+  It was well-loved in its day.
+
+* Cooper and Torczon, 2011. *Engineering a Compiler, Second Edition*
+  * Cooper and Torczon, 2003. *Engineering a Compiler*
+
+  AKA EAC.
+  Another beginning-to-end introduction to compiler development.
+  The 2nd Edition is the most up-to-date compiler book available.
+  It's the main competitor to The Dragon Book.
 
 * Appel, 1998. *Modern Compiler Implementation in ML*
 
   This is a beginning-to-end guide to writing a compiler. The implementation language is Standard ML,
   which is a very good language for writing compilers. By the end of the first half of the book, you
   have a working compiler. The second half covers advanced topics such as garbage collection,
-  dataflow analysis and SSA form.
+  dataflow analysis and SSA form. I'm not sure how well this would work as a first book on compilers,
+  but it's very nice as a view of how compilers work from a functional programming perspective,
+  after you've gone through one of the more standard introductory books.
+
+* Scott 2015 (4e), 2009 (3e), 2005 (2e), 1999 (1e). *Programming Language Pragmatics*
+
+  This book won't teach you how to build a compiler or interpreter, but it's a great reference on
+  lots of topics that come up when designing and implementing them. As such, it's a good *second*
+  book on the subject.
+
+* Muchnick, 1997. *Advanced Compiler Design and Implementation*
+
+  A guide to more advanced techniques for code analysis and generation.
+  It focuses more on optimization topics that can't be covered in a first book on compilers.
+
+* Allen and Kennedy, 2001. *Optimizing Compilers for Modern Architectures: A Dependence-based Approach*
+
+  Focuses on data dependence, vectorization and parallelism.
+  Very important for taking advantage of the power of modern CPUs.
+
+* Wolfe, 1996. *High Performance Compilers for Parallel Computing*
+
+  Similar coverage to Allen and Kennedy (but less in-depth), also focuses on data dependence, vectorization and parallelism.
+  Wolfe also discusses parallelism across multiple machines.
 
 * Appel, 1992. *Compiling with Continuations*
 
@@ -165,7 +193,10 @@ These focus on some more specialized areas of algorithms.
   Since SML/NJ is open source, you can go to http://www.smlnj.org/ and
   see a working example of many of the principles described in the book.
 
-* TODO: Fischer/LeBlanc, Wolfe, Muchnick, Cooper/Torczon.
+* Jones, Hosking, Moss, 2011. *The Garbage Collection Handbook: The Art of Automatic Memory Management*
+  * Jones, Lins, 1996. *Garbage Collection: Algorithms for Automatic Dynamic Memory Management*
+
+  The main reference on garbage collection.
 
 ### TODO
 
