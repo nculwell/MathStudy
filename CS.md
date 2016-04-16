@@ -154,6 +154,15 @@ These focus on some more specialized areas of algorithms.
   The 2nd Edition is the most up-to-date compiler book available.
   It's the main competitor to The Dragon Book.
 
+* Mak, 2011. *Writing Compilers and Interpreters: A Software Engineering Approach* (using Java)
+  * Mak, 1996. *Writing Compilers and Interpreters: An Applied Approach Using C++*
+  * Mak, 1991. *Writing Compilers and Interpreters: An Applied Approach* (using C)
+
+  Another introduction to compiler writing that focuses more on high-level issues.
+  The approach is to start out writing an interpreter, then turn it into a compiler.
+  Mak's books are generally praised for their hands-on approach with concrete code
+  listings.
+
 * Appel, 1998. *Modern Compiler Implementation in ML*
 
   This is a beginning-to-end guide to writing a compiler. The implementation language is Standard ML,
