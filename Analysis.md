@@ -83,6 +83,10 @@ These books ease you into real analysis. They are designed to address a difficul
   - I: http://www.abebooks.com/servlet/BookDetailsPL?bi=18707026799
   - II: http://www.abebooks.com/servlet/BookDetailsPL?bi=18707026800
 
+- Stromberg, *An Introduction to Classical Real Analysis*
+
+  Well-liked for its topic selection and exercises.
+
 ### More analysis
 
 These are appropriate for a second course in analysis.
