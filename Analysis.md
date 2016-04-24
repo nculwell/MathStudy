@@ -78,18 +78,12 @@ These books ease you into real analysis. They are designed to address a difficul
 
 - Tao, *Analysis* (I and II)
 
-  My impression is that this focuses on intuition and understanding, proofs are largely exercises. It's published by Hundustan Book Agency and sold in the USA via AMS. It can be ordered from India via these links:
+  My impression is that this focuses on intuition and understanding, and the proofs are largely exercises. It's published by Hundustan Book Agency and sold in the USA via AMS. It can be ordered from India via these links:
 
   - I: http://www.abebooks.com/servlet/BookDetailsPL?bi=18707026799
   - II: http://www.abebooks.com/servlet/BookDetailsPL?bi=18707026800
 
-#### Fourier analysis
-
-- Hubbard, *The World According to Wavelets*
-- Stein and Shakarchi
-- Tolstov, *Fourier Analysis*
-
-### More real analysis
+### More analysis
 
 These are appropriate for a second course in analysis.
 
@@ -116,7 +110,12 @@ These are appropriate for a second course in analysis.
   They are widely praised for their quality, but they are also a bit pricey for what you get (and used
   copies aren't much cheaper).
 
-### Manifolds
+#### Fourier analysis
+
+- Hubbard, *The World According to Wavelets*
+- Tolstov, *Fourier Analysis*
+
+#### Manifolds
 - Munkres, *Analysis On Manifolds*
 - Spivak, *Calculus On Manifolds*
 - Loomis and Sternberg, *Advanced Calculus*
@@ -138,4 +137,3 @@ These are appropriate for a second course in analysis.
 - Shilov, *Elementary Functional Analysis*
 - Kolmogorov and Fomin, *Elements of the Theory of Functions and Functional Analysis*
 - Rudin, *Functional Analysis*
-
