@@ -106,6 +106,16 @@ These are appropriate for a second course in analysis.
   Designed as an overview of all the real analysis that a grad student should need to pass a prelim in real analysis.
   Free online: http://bass.math.uconn.edu/real.html
 
+- Stein and Sharkarchi's *Princeton Lectures in Analysis* series
+  - Stein and Shakarchi, *Fourier Analysis: An Introduction*
+  - Stein and Shakarchi, *Complex Analysis*
+  - Stein and Shakarchi, *Real Analysis: Measure Theory, Integration, and Hilbert Spaces*
+  - Stein and Shakarchi, *Functional Analysis: Introduction to Further Topics in Analysis*
+
+  These four books form a series at the level of advanced undergraduate or beginning graduate analysis.
+  They are widely praised for their quality, but they are also a bit pricey for what you get (and used
+  copies aren't much cheaper).
+
 ### Manifolds
 - Munkres, *Analysis On Manifolds*
 - Spivak, *Calculus On Manifolds*
