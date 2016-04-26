@@ -114,6 +114,8 @@ These are appropriate for a second course in analysis.
   They are widely praised for their quality, but they are also a bit pricey for what you get (and used
   copies aren't much cheaper).
 
+- Carothers, *Real Analysis*
+
 #### Fourier analysis
 
 - Hubbard, *The World According to Wavelets*
