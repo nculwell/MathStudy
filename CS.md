@@ -132,6 +132,12 @@ These focus on some more specialized areas of algorithms.
   An more in-depth book about writing interpreters in Scheme. Shriram Krishnamurthi turned me onto this one.
   I have the first edition, which is a classic and can currently be bought used for under $10. I don't
   know how the later editions stack up. Judging from some online reviews, the first might really be the best.
+  
+  First edition search info:
+  
+  * MIT Press: ISBN 0-262-06145-7
+  * McGraw-Hill: ISBN 0-07-033442-9
+  * On Amazon: ASIN 0262061457
 
 * Aho, Sethi, Ullman, 2006. *Compilers: Principles, Techniques, and Tools, Second Edition*
   * Aho, Sethi, Ullman, 1986. *Compilers: Principles, Techniques, and Tools*
