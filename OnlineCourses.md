@@ -1,3 +1,5 @@
+Right now, this is just a jumble of links. I plan to organize it later.
+
 Frederic Schuller, Lectures on Quantum Theory
 https://www.youtube.com/watch?v=GbqA9Xn_iM0
 
@@ -9,3 +11,6 @@ http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-ma
 
 Abstract algebra
 http://wayback.archive-it.org/3671/20150528171650/https://www.extension.harvard.edu/open-learning-initiative/abstract-algebra
+
+Intro to CS
+https://cs50.harvard.edu/
