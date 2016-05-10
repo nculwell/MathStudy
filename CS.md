@@ -1,5 +1,7 @@
 ## Computer science
 
+See also: [Logic and Discrete Math](LogicDiscrete.md)
+
 ### Theory
 
 * Sipser, 2012 (3e) / 2006 (2e) / 1996 (1e). *Introduction to the Theory of Computation*
