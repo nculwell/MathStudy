@@ -11,6 +11,7 @@ http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-ma
 
 Abstract algebra
 http://wayback.archive-it.org/3671/20150528171650/https://www.extension.harvard.edu/open-learning-initiative/abstract-algebra
+https://www.youtube.com/watch?v=N-5Av1KC11w&list=PLL0ATV5XYF8DTGAPKRPtYa4E8rOLcw88y
 
 Intro to CS
 https://cs50.harvard.edu/
