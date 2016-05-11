@@ -25,4 +25,5 @@ I'm not sure how well I chose the sections here, but at least they break the lis
 ### [Algebra](Algebra.md)
 ### [Geometry and Topology](GeomTopo.md)
 ### [Logic and Discrete Math](LogicDiscrete.md)
+### [Computer Science](CS.md)
 ### [School level (pre-calculus) mathematics](SchoolLevel.md)
