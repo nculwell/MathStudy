@@ -1,5 +1,7 @@
 # A sequence of study
 
+## Mathematics
+
 * Axler, *Precalculus*
 * [MIT OCW Calculus I (Jerison)](https://www.youtube.com/watch?v=7K1sB05pE0A&list=PL0361E2871852F969)
 * Spivak, *Calculus*
