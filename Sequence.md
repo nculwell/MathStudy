@@ -17,3 +17,7 @@
 * Churchill, *Complex Variables and Applications* (optional)
 * Flanigan, *Complex Variables*
 * Akhiezer and Glazman, *Theory of Operators in Hilbert Space*
+
+## University web pages that present possible courses of study
+
+* http://www.math.harvard.edu/pamphlets/courses.html
