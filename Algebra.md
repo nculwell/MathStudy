@@ -23,10 +23,9 @@ Many people also favor the Schaum's Outline for linear algebra as well as Schaum
 
 ### First books
 
-- Littlewood, *The Skeleton Key of Mathematics: A Simple Account of Complex Algebraic Theories* (c)
-- Gallian, *Contemporary Abstract Algebra* (o)
-- Herstein, *Abstract Algebra*
 - Pinter, *A Course in Abstract Algebra* (c)
+- Herstein, *Abstract Algebra* or *Topics in Algebra*
+- Gallian, *Contemporary Abstract Algebra* (o)
 
 ### Major textbooks
 
@@ -36,6 +35,12 @@ Many people also favor the Schaum's Outline for linear algebra as well as Schaum
 - Mac Lane and Birkhoff, *Algebra 3e*
 - Lang, *Algebra*
 - Herstein, *Algebra*
+
+### Online course notes
+
+* J. S. Milne
+
+  http://www.jmilne.org/math/CourseNotes/index.html
 
 ### Algebraic topology
 
