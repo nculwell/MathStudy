@@ -67,11 +67,11 @@ These books are ones that I'd consider somehow "in between" the other two groups
 
   This book is really distinct from all the others here. It is relatively short. It ignores applications to focus on equations, but it is not really a rigorous textbook either. It has proofs, but only the ones that Lang thought were essential. It simply covers the topics of calculus in a clear and straightforward manner. There have been five editions, and each added more material (getting longer), until Lang actually brought back the original edition under the title *Short Calculus*. I have the Fourth Edition.
 
-  Because of its focus on the standard topics without a bunch of fuss over applications, this is my preferred reference for anything that it covers.
+  Because of its focus on the standard topics without a bunch of fuss over applications, this is currently my preferred reference for anything that it covers.
 
 - Thompson and Gardner, *Calculus Made Easy* (c)
 
-  An intuitive introduction to calculus. This isn't thorough enough to be a course textbook, but it makes a good companion to a textbook. It's for someone who's just beginning calculus.
+  An intuitive introduction to calculus. This isn't thorough enough to be a course textbook, but it makes a good companion to a textbook. It's for someone who's just beginning calculus. The original version (by just Thompson) is in the public domain. It's shorter and some people feel that it does a better job of keeping things simple. You can get it online here: https://archive.org/details/CalculusMadeEasy
 
 - Körner, *Calculus for the Ambitious* (c)
 
@@ -91,6 +91,7 @@ The University of Wisconsin-Madison also has free calculus texts that you can ge
 - [Source code for the UW-Madison texts](https://github.com/SigurdAngenent/wisconsin-calculus)
 - [Whitman College's Community Calculus page](https://www.whitman.edu/mathematics/multivariable/)
 - [Fremlin's problems with solutions (several subjects, Latex files)](https://www.essex.ac.uk/maths/people/fremlin/materials/index.htm)
+- http://brianveitch.com/calculus/
 
 ### Calculus of several variables
 
