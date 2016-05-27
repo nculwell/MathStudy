@@ -20,7 +20,7 @@ See also: [Logic and Discrete Math](LogicDiscrete.md)
 
 * Cohen, 1991. *Introduction to Computer Theory*
 
-  Another classic, this one is known for its readability.
+  Another classic, this one is known for its readability. Covers formal languages, automata theory and Turing machines.
 
 * Brookshear, 1989. *Theory of Computation: Formal Languages, Automata, and Complexity*
 
