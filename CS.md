@@ -4,6 +4,8 @@ See also: [Logic and Discrete Math](LogicDiscrete.md)
 
 ### Theory
 
+#### Intro
+
 * Sipser, 2012 (3e) / 2006 (2e) / 1996 (1e). *Introduction to the Theory of Computation*
 
   This is the standard intro to CS theory at many (probably most) universities.
