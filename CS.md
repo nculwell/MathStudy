@@ -34,6 +34,11 @@ See also: [Logic and Discrete Math](LogicDiscrete.md)
   and computational complexity, devoting 20-40 pages to each of these topics.
   It costs too much, though; for the price, you might as well buy Sipser's 2nd Edition.
 
+#### Complexity
+
+* Papadimitriou, *Computational Complexity*
+* Arora and Barak, *Computational Complexity: A Modern Approach*
+
 ### Data structures and algorithms
 
 Data structures and algorithms are two sides of the same coin. (In 1976, Niklaus Wirth published a book on the subject called *Algorithms + Data Structures = Programs*.)
