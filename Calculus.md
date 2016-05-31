@@ -77,6 +77,11 @@ These books are ones that I'd consider somehow "in between" the other two groups
 
   CUP's promotion says, "In a lively and easy-to-read style, Professor Körner uses approximation and estimates in a way that will easily merge into the standard development of analysis. By using Taylor's theorem with error bounds he is able to discuss topics that are rarely covered at this introductory level." I haven't seen this book in the flesh yet, but it's inexpensive.
 
+### Free books
+
+- https://openstax.org/subjects
+- http://www.bodysoulmath.org/books/
+
 ### Online calculus resources
 
 MIT OCW has a series of online lectures for calculus. The lecturing isn't outstanding, but the material covered is good for the most part. The lectures can be watched on YouTube here:
