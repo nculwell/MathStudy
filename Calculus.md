@@ -119,6 +119,7 @@ It may be that the problems in whatever textbook you're using don't give you as 
 - Mendelson, *Schaum's 3,000 Solved Problems in Calculus* (c) [reportedly has some errors]
 - Kelley, *The Humongous Book of Calculus Problems* (c)
 - Bluman, *Problem Book for First Year Calculus*
+- Ash and Ash, *The Calculus Tutoring Book*
 
 John Erdman of Portland State University has posted a number of free problem books as PDFs on his website (answers to odd-numbered exercises given): http://web.pdx.edu/~erdman/
 
