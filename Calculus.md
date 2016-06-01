@@ -76,6 +76,10 @@ These books are ones that I'd consider somehow "in between" the other two groups
 - Körner, *Calculus for the Ambitious* (c)
 
   CUP's promotion says, "In a lively and easy-to-read style, Professor Körner uses approximation and estimates in a way that will easily merge into the standard development of analysis. By using Taylor's theorem with error bounds he is able to discuss topics that are rarely covered at this introductory level." I haven't seen this book in the flesh yet, but it's inexpensive.
+  
+- Shahriari, *Approximately Calculus*
+
+  This is intended as a second book on calculus. It's full of difficult problems that push your theoretical understanding of calculus, approaching the topic in unusual ways. It's probably more in line with books like Spivak in its intentions.
 
 ### Free books
 
@@ -119,7 +123,7 @@ It may be that the problems in whatever textbook you're using don't give you as 
 - Mendelson, *Schaum's 3,000 Solved Problems in Calculus* (c) [reportedly has some errors]
 - Kelley, *The Humongous Book of Calculus Problems* (c)
 - Bluman, *Problem Book for First Year Calculus*
-- Ash and Ash, *The Calculus Tutoring Book*
+- Ash and Ash, *The Calculus Tutoring Book* [TODO: say more about this]
 
 John Erdman of Portland State University has posted a number of free problem books as PDFs on his website (answers to odd-numbered exercises given): http://web.pdx.edu/~erdman/
 
