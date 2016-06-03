@@ -36,9 +36,16 @@ This is a solid graduate-level preparation in algebra, and the next step is the 
 - Pinter, *A Course in Abstract Algebra* (2e) (c)
 
   Pinter gives you a smooth start in algebra from the very beginning. Each chapter gives a short exposition (typically 4-8 pages) followed by lots of problems. Often the problems fill more pages than the text. In each chapter, problems begin with simple applications of definitions to concrete examples, progress to relatively simple proofs that follow from the definitions and theorems in the text, 
-  
-- Herstein, *Abstract Algebra* or *Topics in Algebra* (2e)
+
+- Herstein, *Abstract Algebra* (3e) or *Topics in Algebra* (2e)
+
+  Herstein has lots of great problems.
+
 - Gallian, *Contemporary Abstract Algebra* (o)
+
+- Connell, *Elements of Abstract and Linear Algebra*
+
+  I haven't looked at this one at all yet, but it's free: http://www.math.miami.edu/~ec/book/
 
 ### Major textbooks
 
