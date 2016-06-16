@@ -116,6 +116,10 @@ These are appropriate for a second course in analysis.
 
 - Carothers, *Real Analysis*
 
+- Lieb and Loss, *Analysis*
+
+  Largely focuses on applications.
+
 #### Fourier analysis
 
 - Hubbard, *The World According to Wavelets*
