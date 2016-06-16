@@ -41,9 +41,9 @@ These can be found here: https://www.artofproblemsolving.com/
 
 The Art of Problem Solving website also offers online courses that go with these books.
 
-## The Russian texts
+### The Russian texts
 
-### Gelfand
+#### Gelfand
 
 Israel M. Gelfand (Гельфанд) wrote a series of books to teach fundamental mathematics to grade school students as part of a correspondence program. The resulting series of books covers from algebra through precalculus:
 
@@ -57,7 +57,7 @@ Rutgers still runs the Extended Gelfand Correspondence Program in Mathematics (h
 
 Gelfand's books seem like a pretty interesting way to introduce high-school material to motivated students. They aren't as dry as most American textbooks, though they lack color and gloss. However, I'm not sure if they really go into enough depth in some areas, so you might need to supplement them with a book like Axler's.
 
-### Kiselev
+#### Kiselev
 
 Andrei P. Kiselev (Киселёв, also written Kiselyov) wrote a book called Geometry, which was the standard text in Russia for many decades (and was revised many times during that period). It is available in English in two volumes, *Planimetry* and *Stereometry*, which were translated and adapted for the USA by Alexander Givental.
 
