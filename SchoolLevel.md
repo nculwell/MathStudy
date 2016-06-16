@@ -155,7 +155,7 @@ Schaum's has several of their "outlines" which are appropriate for this level. S
 - Lang, *Basic Mathematics*
 - Vilenkin, *Stories About Sets*
 - Krause, *Taxicab Geometry: An Adventure in Non-Euclidean Geometry* (c)
-- Richeson, *Euler's Gem: The Polyhedron Formula and the Birth of Topology*
+- Richeson, *Euler's Gem: The Polyhedron Formula and the Birth of Topology* (c)
 
 ## Cambridge reading list (pre-university)
 
