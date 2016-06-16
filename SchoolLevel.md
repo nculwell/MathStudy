@@ -6,18 +6,6 @@
 
 https://openstax.org/subjects/math
 
-### Harold Jacobs
-
-Jacobs books combine entertaining commentary and careful exposition. He aims to convince people who "don't like math" that really it's an interesting subject. He does this by building a sense of why math is great, never by injecting unrelated silliness into the narrative to distract you from the math. These books are copiously illustrated, with lots of well-chosen images that help illustrate and reinforce the mathematical content.
-
-- *Mathematics: A Human Endeavor*
-- *Elementary Algebra*
-- *Geometry: Seeing, Doing, Understanding*
-
-*Elementary Algebra* and *Geometry* are fairly standard secondary school curricula for those subjects. *A Human Endeavor* is a "topics" type book that would be appropriate for anyone at the pre-algebra level on up who isn't already familiar with the topics. The topics it presents aren't particularly advanced, but they are important ones, and many of them (e.g. statistics, topology) are not covered in a standard high school curriculum.
-
-A number of the topics covered in *A Human Endeavor* (e.g. symmetry) are ones that are typically introduced in the pre-calculus curriculum, then ignored for so long that students wonder why they were ever brought up until they re-emerge in an abstract algebra course a decade later for any students whose studies make it that far. But that's an entirely different discussion.
-
 ### Sheldon Axler
 
 Sheldon Axler is a university professor who has written a number of math textbooks for undergraduates. These offer a no-nonsense presentation for an adult audience. Axler doesn't try to entertain you (much), but he does offer a lot of helpful tips about how to think about math as you learn it. Reading his books gives me the sense that he's taught a lot of undergraduates in his time and he has a pretty good idea of what he can and can't expect them to figure out on their own. He is also careful to give you an idea about why he's telling you something, instead of taking the "it will make sense when you get there" attitude that many math professors adopt in writing their books.
@@ -74,6 +62,18 @@ Gelfand's books seem like a pretty interesting way to introduce high-school mate
 Andrei P. Kiselev (Киселёв, also written Kiselyov) wrote a book called Geometry, which was the standard text in Russia for many decades (and was revised many times during that period). It is available in English in two volumes, *Planimetry* and *Stereometry*, which were translated and adapted for the USA by Alexander Givental.
 
 *Volume I: Planimetry* covers lines, circles, similarity, regular polygons and areas. *Volume II: Stereometry* covers figures in three dimensions: lines and planes, polyhedra and round solids; then it wraps up with an introduction to vectors and then an overview of the history of geometry and a brief introduction to non-Euclidean geometry. *Volume II* in particular goes well beyond what high school students in the US are expected to learn from a geometry course, and it gets very dense.
+
+### Harold Jacobs
+
+Jacobs books combine entertaining commentary and careful exposition. He aims to convince people who "don't like math" that really it's an interesting subject. He does this by building a sense of why math is great, never by injecting unrelated silliness into the narrative to distract you from the math. These books are copiously illustrated, with lots of well-chosen images that help illustrate and reinforce the mathematical content.
+
+- *Mathematics: A Human Endeavor*
+- *Elementary Algebra*
+- *Geometry: Seeing, Doing, Understanding*
+
+*Elementary Algebra* and *Geometry* are fairly standard secondary school curricula for those subjects. *A Human Endeavor* is a "topics" type book that would be appropriate for anyone at the pre-algebra level on up who isn't already familiar with the topics. The topics it presents aren't particularly advanced, but they are important ones, and many of them (e.g. statistics, topology) are not covered in a standard high school curriculum.
+
+A number of the topics covered in *A Human Endeavor* (e.g. symmetry) are ones that are typically introduced in the pre-calculus curriculum, then ignored for so long that students wonder why they were ever brought up until they re-emerge in an abstract algebra course a decade later for any students whose studies make it that far. But that's an entirely different discussion.
 
 ## Barbeau
 
