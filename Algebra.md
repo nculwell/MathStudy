@@ -72,11 +72,12 @@ This is a solid graduate-level preparation in algebra, and the next step is the 
 
 #### Introductions
 - Beltrametti, Carletti, Gallarati, Bragadin, *Lectures on Curves, Surfaces and Projective Varieties*
-- Shafarevich, Reid - *Basic Algebraic Geometry 1: Varieties in Projective Space*
-- Shafarevich, Reid - *Basic Algebraic Geometry 2: Schemes and Complex Manifolds*
+- Shafarevich, Reid, *Basic Algebraic Geometry 1: Varieties in Projective Space*
+- Shafarevich, Reid, *Basic Algebraic Geometry 2: Schemes and Complex Manifolds*
 - Holme, *A Royal Road to Algebraic Geometry*
 - Fulton, [*Algebraic Curves, an Introduction to Algebraic Geometry*](http://www.math.lsa.umich.edu/~wfulton/CurveBook.pdf)
 - Gathmann, [Algebraic Geometry (SS 2014)](http://www.mathematik.uni-kl.de/agag/mitglieder/professoren/gathmann/notes/alggeom/)
+- Smith, 2014, *Introduction to Algebraic Geometry* (http://www.five-dimensions.org/Textbooks/)
 
 #### Beyond
 - Hartshorne, *Algebraic Geometry*
