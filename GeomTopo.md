@@ -35,4 +35,4 @@
 
 ## Algebraic Topology
 
-See [the Algebra page](https://github.com/nculwell/MathStudy/blob/master/Algebra.md#algebraic-topology).
+See [the Algebra page](Algebra.md#algebraic-topology).
