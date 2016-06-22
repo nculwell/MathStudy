@@ -16,7 +16,7 @@
 - Purcell and Morin. *Electricity and Magnetism*
 - French. *Special Relativity*
 - Taylor and Wheeler. *Spacetime Physics*
-- Schey. *Div, Grad, Curl, and All That: An Informal Text on Vector Calculus*
+- Cheng. *Relativity, Gravitation and Cosmology: A Basic Introduction*
 - Wald. *General Relativity*
 - Schutz. *A First Course in General Relativity*
 - Misner, Thorne, Wheeler. *Gravitation*
@@ -25,6 +25,10 @@
 - Feynman. *The Feynman Lectures on Physics*
 - Fermi. *Thermodynamics*
 - Van Ness. *Understanding Thermodynamics*
+
+### Math for physics
+
+- Schey. *Div, Grad, Curl, and All That: An Informal Text on Vector Calculus*
 
 ## Chemistry
 
