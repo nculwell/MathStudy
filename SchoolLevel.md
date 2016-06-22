@@ -18,9 +18,13 @@ As far as I can tell, *College Algebra* contains a strict subset of the chapters
 
 For self-study purposes, *Algebra and Trigonometry* seems to be the most desirable to have, since the material in the "Introduction to Calculus" chapter from *Precalculus* can be found in any calculus textbook.
 
+Note that these books have two PDF versions: the "OP" version that is linked to from the main math books page, and the "Print Edition" version that can be found in a link on the details page. I'm not sure what the difference is, but I've noticed that the OP version is a larger file, whereas the Print Edition contains the student answer key (solutions for odd-numbered exercises).
+
 - [*Algebra and Trigonometry*, Print Edition PDF](https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/AlgebraAndTrigonometry-Print-Edition.pdf)
+  (includes the student answer key in the back of the book)
 
 - [*Algebra and Trigonometry*, Student solutions guide PDF](https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Student_Solutions_Manual_-_20150813_-OP.pdf)
+  A separate answer key to use with the "OP" PDF version of the book.
 
 - [*Algebra and Trigonometry*, information page](https://openstax.org/details/algebra-and-trigonometry)
 
