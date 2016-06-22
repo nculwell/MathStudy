@@ -26,6 +26,8 @@ For self-study purposes, *Algebra and Trigonometry* seems to be the most desirab
 
   This page includes a link to an errata page, and additional resources that are available exclusively for instructors.
 
+- [*Algebra and Trigonometry* on Amazon](https://www.amazon.com/Algebra-Trigonometry-OpenStax/dp/1938168372)
+
 ### Sheldon Axler
 
 Sheldon Axler is a university professor who has written a number of math textbooks for undergraduates. These offer a no-nonsense presentation for an adult audience. Axler doesn't try to entertain you (much), but he does offer a lot of helpful tips about how to think about math as you learn it. Reading his books gives me the sense that he's taught a lot of undergraduates in his time and he has a pretty good idea of what he can and can't expect them to figure out on their own. He is also careful to give you an idea about why he's telling you something, instead of taking the "it will make sense when you get there" attitude that many math professors adopt in writing their books.
