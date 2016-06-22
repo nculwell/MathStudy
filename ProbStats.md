@@ -65,7 +65,12 @@
 
   Get it free online here: https://www.openintro.org/stat/textbook.php?stat_book=os
 
-  There are also a couple of other editions that de-emphasize math in order to teach students who have less background.
+  There are also a couple of other editions that de-emphasize math in order to teach students who have less background. (You can find them as well via the link above.)
+
+- OpenStax, *Introductory Statistics*
+
+  - Free PDF: https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/IntroductoryStatistics-OP.pdf
+  - Buy on Amazon: http://www.amazon.com/Introductory-Statistics-OpenStax/dp/1938168208
 
 - DeGroot and Schervish, *Probability and Statistics* (u/o)
 
