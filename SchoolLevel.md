@@ -189,11 +189,13 @@ Schaum's has several of their "outlines" which are appropriate for this level. S
 
 From the AMS website: "This accessible series brings the beauty and wonder of mathematics to the advanced high school student, the mathematics teacher, the scientist or engineer, and the lay reader with a strong interest in mathematics. Mathematical World features well-written, challenging expository works that illustrate the fascination and usefulness of mathematics."
 
+Here's a link to the whole series on the AMS website: http://bookstore.ams.org/MAWRLD
+
+Some titles that have caught my attention:
+
+- Prasolov, *Intuitive Topology*
 - Farmer, *Groups and Symmetry: A Guide to Discovering Mathematics*
 - Farmer and Stanford, *Knots and Surfaces: A Guide to Discovering Mathematics*
-- Prasolov, *Intuitive Topology*
-
-Here's a link to the whole series on the AMS website: http://bookstore.ams.org/MAWRLD
 
 ## Cambridge reading list (pre-university)
 
