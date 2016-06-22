@@ -37,6 +37,10 @@ Sheldon Axler is a university professor who has written a number of math textboo
 
 These two books overlap quite a bit; I'm not sure if there is any substantive difference between them besides the sequencing of topics. His other book at this level, *College Algebra*, is superfluous because it is entirely contained within *Algebra and Trigonometry* (and it's only slightly cheaper).
 
+As of this writing, this one is the cheapest option to buy used:
+
+- [Axler's *Precalculus*, first edition, on Amazon](https://smile.amazon.com/Precalculus-Prelude-Calculus-Sheldon-Axler/dp/0470180722)
+
 ### The Art of Problem Solving
 
 I gather this series began as two books by Richard Rusczyk, *The Art of Problem Solving* volumes 1 and 2, which are aimed at [Mathcounts](http://www.mathcounts.org/) contestants. However, the series has been expanded to include textbooks from precalculus through all of high school mathematics. People rave about them, so they're probably pretty good. I've only looked at *Introduction to Algebra*, but I found it interesting and thorough in its explanations.
