@@ -25,6 +25,7 @@
 - Feynman. *The Feynman Lectures on Physics*
 - Fermi. *Thermodynamics*
 - Van Ness. *Understanding Thermodynamics*
+- Hill, *An Introduction to Statistical Thermodynamics*
 
 ### Math for physics
 
