@@ -4,7 +4,27 @@
 
 ### OpenStax
 
+The OpenStax project offers free, high-quality textbooks for a variety of subjects. Here's the link to the math section:
+
 https://openstax.org/subjects/math
+
+They also sell them through their own Amazon storefront for $58 each (as of June 2016). Currently there are no cheap used versions available, but hopefully this will change in the future as these books become more popular.
+
+Currently, they offer textbooks for Pre-algebra, College Algebra, Algebra-Trigonometry, Precalculus and Calculus I-III. Notably, there is no Geometry text.
+
+As is typical with such sequences, *College Algebra*, *Algebra and Trigonometry* and *Precalculus* are essentially the same book with a slightly different beginning and ending point for each. Thus, there's no point in owning all of them.
+
+As far as I can tell, *College Algebra* contains a strict subset of the chapters of *Algebra and Trigonometry*, and *Precalculus* is the same as *Algebra-Trigonometry* except that it omits the first two chapters ("Prerequisites" and "Equations and Inequalities"), it has slightly different coverage of trigonometry (one section removed that I noticed) and it adds a new chapter called "Introduction to Calculus".
+
+For self-study purposes, *Algebra and Trigonometry* seems to be the most desirable to have, since the material in the "Introduction to Calculus" chapter from *Precalculus* can be found in any calculus textbook.
+
+- [*Algebra and Trigonometry*, Print Edition PDF](https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/AlgebraAndTrigonometry-Print-Edition.pdf)
+
+- [*Algebra and Trigonometry*, Student solutions guide PDF](https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Student_Solutions_Manual_-_20150813_-OP.pdf)
+
+- [*Algebra and Trigonometry*, information page](https://openstax.org/details/algebra-and-trigonometry)
+
+  This page includes a link to an errata page, and additional resources that are available exclusively for instructors.
 
 ### Sheldon Axler
 
