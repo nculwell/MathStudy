@@ -172,7 +172,6 @@ Schaum's has several of their "outlines" which are appropriate for this level. S
 - Moise, *Elementary Geometry from an Advanced Standpoint*
 - David Rayner, *Essential Mathematics* (1 & 2) and *General Mathematics*
 - Esty, Precalculus
-- Foerster, Algebra I
 - Foerster, Algebra and Trigonometry
 - Lang and Murrow, *Geometry: A High School Course*
 
