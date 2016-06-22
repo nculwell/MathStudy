@@ -91,6 +91,11 @@ These books ease you into real analysis. They are designed to address a difficul
 
 These are appropriate for a second course in analysis.
 
+- Kolmogorov and Fomin, *Elements of the Theory of Functions and Functional Analysis* (c)
+
+  Kolmogorov was one of the great mathematicians of the 20th Century. Translated from Russian. This seems to be
+  the preferred translation. (It's the same book as Silverman's *Introductory Real Analysis*.)
+
 - Royden (3e preferred)
 
   Royden is another classic real analyis text. One thing to be aware of is that a fourth edition was published with Patrick Fitzpatrick as co-author, but it hasn't been well-received: many felt that the third edition was in no need of revision, and the fourth introduced new errors. Since it was popular, many copies of the 3rd edition (of 1988) are still available on the used market.
@@ -104,13 +109,10 @@ These are appropriate for a second course in analysis.
   Designed as an overview of all the real analysis that a grad student should need to pass a prelim in real analysis.
   Free online: http://bass.math.uconn.edu/real.html
 
-- Stein and Sharkarchi's *Princeton Lectures in Analysis* series
-  - Stein and Shakarchi, *Fourier Analysis: An Introduction*
-  - Stein and Shakarchi, *Complex Analysis*
-  - Stein and Shakarchi, *Real Analysis: Measure Theory, Integration, and Hilbert Spaces*
-  - Stein and Shakarchi, *Functional Analysis: Introduction to Further Topics in Analysis*
+- Stein and Shakarchi, *Real Analysis: Measure Theory, Integration, and Hilbert Spaces*
 
-  These four books form a series at the level of advanced undergraduate or beginning graduate analysis.
+  One of four books form a series (*Princeton Lectures in Analysis*) at the level of advanced
+  undergraduate or beginning graduate analysis.
   They are widely praised for their quality, but they are also a bit pricey for what you get (and used
   copies aren't much cheaper).
 
@@ -122,6 +124,7 @@ These are appropriate for a second course in analysis.
 
 #### Fourier analysis
 
+- Stein and Shakarchi, *Fourier Analysis: An Introduction*
 - Hubbard, *The World According to Wavelets*
 - Tolstov, *Fourier Analysis*
 
@@ -133,6 +136,7 @@ These are appropriate for a second course in analysis.
 - Lee, *Introduction to Smooth Manifolds*
 
 ### Complex Analysis
+- Stein and Shakarchi, *Complex Analysis*
 - Rudin, *Real and Complex Analysis*
 - Ahlfors, *Complex Analysis: An Introduction to the Theory of Analytic Functions of One Complex Variable*
 - Shilov, *Elementary Real and Complex Analysis*
@@ -142,8 +146,10 @@ These are appropriate for a second course in analysis.
 - Schwerdtfeger, *Geometry of Complex Numbers*
 
 ### Functional Analysis
-- Akhiezer and Glazman, *Theory of Linear Operators in Hilbert Space*
-- Griffel, *Applied Functional Analysis*
-- Shilov, *Elementary Functional Analysis*
-- Kolmogorov and Fomin, *Elements of the Theory of Functions and Functional Analysis*
+- Stein and Shakarchi, *Functional Analysis: Introduction to Further Topics in Analysis*
+- Akhiezer and Glazman, *Theory of Linear Operators in Hilbert Space* (c)
+- Griffel, *Applied Functional Analysis* (c)
+- Shilov, *Elementary Functional Analysis* (c)
 - Rudin, *Functional Analysis*
+- Halmos, *Introduction to Hilbert Space and the Theory of Spectral Multiplicity* (c)
+- Halmos, *A Hilbert Space Problem Book*
