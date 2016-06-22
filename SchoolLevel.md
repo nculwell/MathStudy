@@ -91,7 +91,7 @@ Andrei P. Kiselev (Киселёв, also written Kiselyov) wrote a book called Ge
 
 ### Harold Jacobs
 
-Jacobs books combine entertaining commentary and careful exposition. He aims to convince people who "don't like math" that really it's an interesting subject. He does this by building a sense of why math is great, never by injecting unrelated silliness into the narrative to distract you from the math. These books are copiously illustrated, with lots of well-chosen images that help illustrate and reinforce the mathematical content.
+Jacobs books combine entertaining commentary and careful exposition. He aims to convince people who "don't like math" that really it's an interesting subject. These books are copiously illustrated, with lots of well-chosen images that help illustrate and reinforce the mathematical content.
 
 - *Mathematics: A Human Endeavor*
 - *Elementary Algebra*
