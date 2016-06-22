@@ -62,6 +62,11 @@ This is a solid graduate-level preparation in algebra, and the next step is the 
 
   http://www.jmilne.org/math/CourseNotes/index.html
 
+### Commutative algebra
+
+- Eisenbud, *Commutative Algebra: with a View Toward Algebraic Geometry*
+- Atiyah and MacDonald, *Introduction To Commutative Algebra*
+
 ### Algebraic topology
 
 - Hatcher, *Algebraic Topology* (f)
