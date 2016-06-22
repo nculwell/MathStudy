@@ -45,6 +45,19 @@
 - Bishop. *Group Theory and Chemistry*
 - Schatz and Ratner. *Quantum Mechanics in Chemistry*
 - Sands. *Introduction to Crystallography*
+- Klein. *Organic Chemistry*
+- Klein. *Organic Chemistry As a Second Language*
+- Wepplo. *A Handbook of Organic Chemistry Mechanisms*
+- Anslyn, Dougherty. *Modern Physical Organic Chemistry*
+- Soderberg. *Organic Chemistry With a Biological Emphasis*
+  http://chemwiki.ucdavis.edu/Textbook_Maps/Organic_Chemistry_Textbook_Maps/Map%3A_Organic_Chemistry_With_a_Biological_Emphasis_(Soderberg)
+- Clayden and Greeves. *Organic Chemistry*
+- Carey. *Organic Chemistry* (u)
+- MSU: http://www2.chemistry.msu.edu/faculty/reusch/VirtTxtJml/intro1.htm
+
+Links:
+
+- http://www.masterorganicchemistry.com/resource-guide/
 
 ## Biology
 
