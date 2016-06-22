@@ -91,6 +91,10 @@ These books ease you into real analysis. They are designed to address a difficul
 
 These are appropriate for a second course in analysis.
 
+- Rudin, *Real and Complex Analysis* (i)
+
+  A traditional heavyweight, also known as "Big Rudin", "Adult Rudin" or "Daddy Rudin". Extremely expensive, but you can buy the Indian edition.
+
 - Kolmogorov and Fomin, *Elements of the Theory of Functions and Functional Analysis* (c)
 
   Kolmogorov was one of the great mathematicians of the 20th Century. Translated from Russian. This seems to be
@@ -136,14 +140,24 @@ These are appropriate for a second course in analysis.
 - Lee, *Introduction to Smooth Manifolds*
 
 ### Complex Analysis
+
+- Bak and Newman, *Complex Analysis*
+
+  This has a reputation as a relatively easy introduction to complex analysis, but it covers less material than others.
+
 - Stein and Shakarchi, *Complex Analysis*
-- Rudin, *Real and Complex Analysis*
+
+  A very well-liked intro to complex analysis, and perhaps the best-loved of the S&S series. Still expensive.
+
 - Ahlfors, *Complex Analysis: An Introduction to the Theory of Analytic Functions of One Complex Variable*
-- Shilov, *Elementary Real and Complex Analysis*
-- Flanigan, *Complex Variables: Harmonic and Analytic Functions*
-- Conway, *Functions of One Complex Variable*
+
+  The traditional textbook for a complex analysis course. Typically considered old and dry these days, but still useful.
+
+- Shilov, *Elementary Real and Complex Analysis* (c)
+- Flanigan, *Complex Variables: Harmonic and Analytic Functions* (c)
+- Conway, *Functions of One Complex Variable* (i)
 - Needham, *Visual Complex Analysis*
-- Schwerdtfeger, *Geometry of Complex Numbers*
+- Schwerdtfeger, *Geometry of Complex Numbers* (c)
 
 ### Functional Analysis
 - Stein and Shakarchi, *Functional Analysis: Introduction to Further Topics in Analysis*
