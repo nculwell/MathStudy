@@ -26,15 +26,25 @@
 - Fermi. *Thermodynamics*
 - Van Ness. *Understanding Thermodynamics*
 - Hill, *An Introduction to Statistical Thermodynamics*
+- Bohm. *Quantum Theory*
+- Schwartz. *Principles of Electrodynamics*
+- Fowles. *Introduction to Modern Optics*
 
 ### Math for physics
 
 - Schey. *Div, Grad, Curl, and All That: An Informal Text on Vector Calculus*
+- Dennery and Krzywicki. *Mathematics for Physicists*
+- Byron and Fuller. *Mathematics of Classical and Quantum Physics*
 
 ## Chemistry
 
 - [OpenStax. *Chemistry*](https://openstax.org/details/chemistry)
 - Pauling. *General Chemistry*
+- Pauling and Wilson. *Introduction to Quantum Mechanics with Applications to Chemistry*
+- Harris and Bertolucci. *Symmetry and Spectroscopy: An Introduction to Vibrational and Electronic Spectroscopy*
+- Bishop. *Group Theory and Chemistry*
+- Schatz and Ratner. *Quantum Mechanics in Chemistry*
+- Sands. *Introduction to Crystallography*
 
 ## Biology
 
