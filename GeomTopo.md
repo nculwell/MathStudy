@@ -33,6 +33,10 @@
 
   The classic introduction (1955).
 
+## Differential Geometry
+
+Kreyszig. *Differential Geometry*
+
 ## Algebraic Topology
 
 See [the Algebra page](Algebra.md#algebraic-topology).
