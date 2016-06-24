@@ -14,22 +14,13 @@ Others:
 - Meyer, *Matrix Analysis and Applied Linear Algebra Book and Solutions Manual*
 - Gentle, *Matrix Algebra: Theory, Computations, and Applications in Statistics*
 - Bernstein, *Matrix Mathematics: Theory, Facts, and Formulas*
+- Macdonald. *Linear and Geometric Algebra*
 
 Jim Hefferon has a free (GFDL) linear algebra text [http://joshua.smcvt.edu/linearalgebra/] which is available as a PDF file or as Latex source. It has exercises with worked answers.
 
 Many people also favor the Schaum's Outline for linear algebra as well as Schaum's *3,000 Solved Problems in Linear Algebra*.
 
 ## Algebra (aka Abstract Algebra, Modern Algebra)
-
-One suggested sequence is:
-
-- Pinter. This book is a nice, smooth start. It might be a bit slow for some people's taste, although the pace picks up about a third of the way into the book. The whole book is designed to build up to Galois theory, and topics are carefully chosen so that everything falls neatly into place near the end. If there's a complaint, it's that the exercises aren't challenging enough, though this is a plus for some people.
-- Herstein, *Topics*. You can actually start here if you want, but it's a faster start than Pinter. Herstein is well-loved for his exposition and interesting problems.
-- Artin, *Algebra*. This is a standard ungraduate/graduate textbook. It's designed so that professors can pick and choose topics, and it has a stylized, somewhat unusual approach to topics. It keeps you interested, but it's probably not straightforward enough to be good as either an introduction or a reference.
-- Dummit and Foote. While you could work through this whole book, and it can replace Artin, you could also use it as a supplement and go through the topics not covered in Artin, particularly Part V.
-- Lang (3e).
-
-This is a solid graduate-level preparation in algebra, and the next step is the research literature.
 
 ### First books
 
