@@ -10,6 +10,7 @@
   (the text used with [Ramamurti Shankar's online courses at Yale](http://oyc.yale.edu/physics))
 - Shankar. *Fundamentals of Physics: Mechanics, Relativity, and Thermodynamics* (based on Shankar's first online course, [Fundamentals of Physics I](http://oyc.yale.edu/physics/phys-200))
 - Shankar. *Fundamentals of Physics II: Electromagnetism, Optics, and Quantum Mechanics* (based on Shankar's first online course, [Fundamentals of Physics II](http://oyc.yale.edu/physics/phys-201))
+- Bueche and Hecht. *Schaum's Outline of College Physics*
 
 ### Misc
 
