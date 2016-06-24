@@ -46,7 +46,7 @@ This document is even more just a "jumble of references" than the rest of this r
 
 - Trefil. *Introduction to the Physics of Fluids and Solids*
 - Granger. *Fluid Mechanics*
-- Lamb. *Hydrodynamics*
+- [Lamb. *Hydrodynamics* (at the Internet Archive)](https://archive.org/details/hydrodynamics00lamb)
 - Batchelor. *An Introduction to Fluid Dynamics*
 - Milne-Thomson. *Theoretical Hydrodynamics*
 - Spencer. *Continuum Mechanics*
