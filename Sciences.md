@@ -25,7 +25,6 @@
   [Several books of Landau and Lifshitz, Second Edition, at The Internet Archive](https://archive.org/search.php?query=creator%3A%22L.D.+Landau+%26+E.M.+Lifshitz%22).
 
 - Feynman. *The Feynman Lectures on Physics*
-- Joos and Freeman. *Theoretical Physics*
 - Newton, translated by Cohen and Whitman. *The Principia : Mathematical Principles of Natural Philosophy*
 
 ### Mechanics
@@ -34,6 +33,15 @@
 - Kleppner and Kolenkow. *An Introduction to Mechanics*
 - Synge and Griffith, 1949. [*Principles Of Mechanics* (at The Internet Archive)](https://archive.org/details/principlesofmech031468mbp)
 - José and Saletan. *Classical Dynamics: A Contemporary Approach*
+- Lanczos. *The Variational Principles of Mechanics*
+
+#### Fluid mechanics
+
+- Trefil. *Introduction to the Physics of Fluids and Solids*
+- Granger. *Fluid Mechanics*
+- Lamb. *Hydrodynamics*
+- Batchelor. *An Introduction to Fluid Dynamics*
+- Milne-Thomson. *Theoretical Hydrodynamics*
 
 ### Thermodynamics
 
@@ -47,6 +55,7 @@
 - Purcell and Morin. *Electricity and Magnetism*
 - Griffiths. *Introduction to Electrodynamics*
 - Zangwill. *Modern Electrodynamics*
+- Schwartz. *Principles of Electrodynamics*
 
 ### Optics
 
@@ -83,15 +92,21 @@
 - Weinberg. *Cosmology*
 - Weinberg. *Gravitation and Cosmology: Principles and Applications of the General Theory of Relativity*
 
+### Mathematical physics
+
+- Joos and Freeman. *Theoretical Physics*
+- Menzel. *Mathematical Physics*
+
 ### Physics for mathematicians
 
-There's an entire genre of physics books that are written for (and by) mathematicians. I list these in their own section.
+There's an entire genre of physics books that are written for (and by) mathematicians. I list these in their own section. Some of these aren't actually explicitly for mathematicians but lean in that direction.
 
 - Spivak, 2004. [*Elementary Mechanics from a Mathematician's Viewpoint*](http://math.uga.edu/~shifrin/Spivak_physics.pdf)
 - Spivak. *Physics for Mathematicians, Mechanics I* (this is numbered "I" but there are no others)
 - Garrity. *Electricity and Magnetism for Mathematicians*
 - Folland. *Quantum Field Theory: A Tourist Guide for Mathematicians*
 - Sternberg. *Curvature in Mathematics and Physics*
+- Meyer. *Introduction to Mathematical Fluid Dynamics*
 
 ### Math for physics
 
@@ -105,6 +120,9 @@ There are math books written for physicists.
 - Byron and Fuller. *Mathematics of Classical and Quantum Physics*
 - Nakahara. *Geometry, Topology and Physics*
 - Doran and Lasenby. *Geometric Algebra for Physicists*
+- Aris. *Vectors, Tensors and the Basic Equations of Fluid Mechanics*
+- Tinkham. *Group Theory and Quantum Mechanics*
+- Farlow. *Partial Differential Equations for Scientists and Engineers*
 
 ## Chemistry
 
