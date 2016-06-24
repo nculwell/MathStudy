@@ -70,7 +70,7 @@ These books ease you into real analysis. They are designed to address a difficul
 
 - Pugh, *Real Mathematical Analysis*
 
-  Notable for its many exercises. It contains many illustrations, but I find most of them to be poorly chosen, as if the author recognizes that illustrations are good to have but doesn't grasp how to use them to illustrate concepts.
+  Notable for its many exercises. It contains many illustrations, but I find most of them to be poorly chosen, as if the author recognizes that illustrations are good to have but doesn't grasp how to use them to illustrate concepts. This isn't much of a con, just puzzling.
 
 - Taylor, *General Theory of Functions and Integration* (c)
 
@@ -89,7 +89,7 @@ These books ease you into real analysis. They are designed to address a difficul
 
 ### More analysis
 
-These are appropriate for a second course in analysis.
+These are appropriate for further study in analysis.
 
 - Rudin, *Real and Complex Analysis* (i)
 
@@ -125,6 +125,14 @@ These are appropriate for a second course in analysis.
 - Lieb and Loss, *Analysis*
 
   Largely focuses on applications.
+
+- Folland, *A Guide to Advanced Real Analysis*
+
+  "This book is an outline of the core material in the standard graduate-level real analysis course. .... Proofs, however, are generally presented only as sketches, in such a way that the key ideas are explained but the technical details are omitted."
+
+- Folland, *Real Analysis: Modern Techniques and Their Applications*
+
+  An advanced approach to real analysis. "Encompassing several subjects that underlie much of modern analysis, the book focuses on measure and integration theory, point set topology, and the basics of functional analysis."
 
 #### Fourier analysis
 
