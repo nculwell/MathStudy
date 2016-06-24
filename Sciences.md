@@ -85,6 +85,11 @@ This document is even more just a "jumble of references" than the rest of this r
 - Dirac. *The Principles of Quantum Mechanics*
 - Bohm. *Quantum Theory*
 
+#### Nuclear physics
+
+- Blatt and Weisskopf. *Theoretical Nuclear Physics*
+- Landau and Smorodinsky. *Lectures on Nuclear Theory*
+
 ### Relativity
 
 #### Special Relativity
