@@ -145,6 +145,10 @@ There are math books written for physicists.
 - Sands. *Introduction to Crystallography*
 - Klein. *Organic Chemistry*
 - Klein. *Organic Chemistry As a Second Language*
+- DeWick. *Essentials of Organic Chemistry: For Students of Pharmacy, Medicinal Chemistry and Biological Chemistry* (cheap used, nice diagrams)
+- Harris. *Quantitative Chemical Analysis* (older editions cheap used)
+- McQuarrie and Simon. *Physical Chemistry: A Molecular Approach* (also, accompanying problems & solutions book)
+- Loudon. *Organic Chemistry* (cheap used)
 - Wepplo. *A Handbook of Organic Chemistry Mechanisms*
 - Anslyn, Dougherty. *Modern Physical Organic Chemistry*
 - [Soderberg. *Organic Chemistry With a Biological Emphasis*](
