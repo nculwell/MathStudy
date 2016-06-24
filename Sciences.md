@@ -80,6 +80,8 @@
 - Schutz. *A First Course in General Relativity*
 - Wald. *General Relativity*
 - Misner. Thorne, Wheeler. *Gravitation*
+- Weinberg. *Cosmology*
+- Weinberg. *Gravitation and Cosmology: Principles and Applications of the General Theory of Relativity*
 
 ### Physics for mathematicians
 
@@ -89,6 +91,7 @@ There's an entire genre of physics books that are written for (and by) mathemati
 - Spivak. *Physics for Mathematicians, Mechanics I* (this is numbered "I" but there are no others)
 - Garrity. *Electricity and Magnetism for Mathematicians*
 - Folland. *Quantum Field Theory: A Tourist Guide for Mathematicians*
+- Sternberg. *Curvature in Mathematics and Physics*
 
 ### Math for physics
 
