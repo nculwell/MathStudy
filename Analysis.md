@@ -133,11 +133,8 @@ These are appropriate for a second course in analysis.
 - Tolstov, *Fourier Analysis*
 
 #### Manifolds
-- Munkres, *Analysis On Manifolds*
-- Spivak, *Calculus On Manifolds*
-- Loomis and Sternberg, *Advanced Calculus*
-- Bishop & Goldberg, *Tensor Analysis on Manifolds*
-- Lee, *Introduction to Smooth Manifolds*
+
+See [Differential Geometry](https://github.com/nculwell/MathStudy/blob/master/GeomTopo.md#differential-geometry).
 
 ### Complex Analysis
 
