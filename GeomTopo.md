@@ -35,13 +35,16 @@
 
 ## Differential Geometry
 
+- Milnor. *Topology from the Differentiable Viewpoint*
 - Kreyszig. *Differential Geometry*
+- Spivak, *A Comprehensive Introduction to Differential Geometry* (in 6 volumes)
+- Bishop & Goldberg, *Tensor Analysis on Manifolds*
 - Lee. *Introduction to Topological Manifolds*
 - Lee, *Introduction to Smooth Manifolds*
-- Munkres, *Analysis On Manifolds*
-- Spivak, *Calculus On Manifolds*
-- Bishop & Goldberg, *Tensor Analysis on Manifolds*
-- Loomis and Sternberg, *Advanced Calculus*
+- Lee, *Riemannian Manifolds: An Introduction to Curvature*
+- do Carmo. *Riemannian Geometry*
+- Matsumoto. *An Introduction to Morse Theory*
+- Kosinski. *Differential Manifolds*
 
 ## Algebraic Topology
 
