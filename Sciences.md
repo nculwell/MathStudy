@@ -136,18 +136,25 @@ There are math books written for physicists.
 
 ## Chemistry
 
+### General
+
 - [OpenStax. *Chemistry*](https://openstax.org/details/chemistry)
 - Pauling. *General Chemistry*
-- Pauling and Wilson. *Introduction to Quantum Mechanics with Applications to Chemistry*
-- Harris and Bertolucci. *Symmetry and Spectroscopy: An Introduction to Vibrational and Electronic Spectroscopy*
-- Bishop. *Group Theory and Chemistry*
-- Schatz and Ratner. *Quantum Mechanics in Chemistry*
-- Sands. *Introduction to Crystallography*
+- Moore, Stanitski, Jurs. *Chemistry: The Molecular Science*
+
+### Inorganic
+
+- Rodgers. *Descriptive Inorganic, Coordination, and Solid State Chemistry* [cheap 2nd edition](https://amazon.com/Descriptive-Inorganic-Coordination-Solid-Chemistry/dp/0125920601/)
+
+### Analytical
+
+- Harris. *Quantitative Chemical Analysis* (older editions cheap used)
+
+### Organic
+
 - Klein. *Organic Chemistry*
 - Klein. *Organic Chemistry As a Second Language*
 - DeWick. *Essentials of Organic Chemistry: For Students of Pharmacy, Medicinal Chemistry and Biological Chemistry* (cheap used, nice diagrams)
-- Harris. *Quantitative Chemical Analysis* (older editions cheap used)
-- McQuarrie and Simon. *Physical Chemistry: A Molecular Approach* (also, accompanying problems & solutions book)
 - Loudon. *Organic Chemistry* (cheap used)
 - Wepplo. *A Handbook of Organic Chemistry Mechanisms*
 - Anslyn, Dougherty. *Modern Physical Organic Chemistry*
@@ -157,7 +164,19 @@ There are math books written for physicists.
 - Carey. *Organic Chemistry* (u)
 - MSU: http://www2.chemistry.msu.edu/faculty/reusch/VirtTxtJml/intro1.htm
 
-Links:
+### Physical
+
+- McQuarrie and Simon. *Physical Chemistry: A Molecular Approach* (also, accompanying problems & solutions book)
+- Harris and Bertolucci. *Symmetry and Spectroscopy: An Introduction to Vibrational and Electronic Spectroscopy*
+- Sands. *Introduction to Crystallography*
+
+### Quantum, mathematical
+
+- Pauling and Wilson. *Introduction to Quantum Mechanics with Applications to Chemistry*
+- Bishop. *Group Theory and Chemistry*
+- Schatz and Ratner. *Quantum Mechanics in Chemistry*
+
+### Links
 
 - http://www.masterorganicchemistry.com/resource-guide/
 - http://chemwiki.ucdavis.edu/Textbook_Maps
