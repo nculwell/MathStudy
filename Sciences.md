@@ -32,7 +32,9 @@ This document is even more just a "jumble of references" than the rest of this r
 ### Mechanics
 
 - Landau and Lifshitz (above)
+- Balasubramanian and Dempsey. *Mechanics: An Extended Introduction* (no solutions available yet)
 - Den Hartog. *Mechanics*
+- Morin, *Introduction to Classical Mechanics: With Problems and Solutions*
 - Kleppner and Kolenkow. *An Introduction to Mechanics*
 - Synge and Griffith, 1949. [*Principles Of Mechanics* (at The Internet Archive)](https://archive.org/details/principlesofmech031468mbp)
 - José and Saletan. *Classical Dynamics: A Contemporary Approach*
