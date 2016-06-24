@@ -38,6 +38,7 @@ This document is even more just a "jumble of references" than the rest of this r
 - José and Saletan. *Classical Dynamics: A Contemporary Approach*
 - Lanczos. *The Variational Principles of Mechanics*
 - Goldstein, Goldstein and Poole. *Classical Mechanics*
+- Arnol'd, translated by Vogtmann and Weinstein. *Mathematical Methods of Classical Mechanics*
 
 #### Fluid mechanics
 
@@ -128,7 +129,6 @@ There are math books written for physicists.
 - Aris. *Vectors, Tensors and the Basic Equations of Fluid Mechanics*
 - Tinkham. *Group Theory and Quantum Mechanics*
 - Farlow. *Partial Differential Equations for Scientists and Engineers*
-- Arnol'd, translated by Vogtmann and Weinstein. *Mathematical Methods of Classical Mechanics*
 
 ## Chemistry
 
