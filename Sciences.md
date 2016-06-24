@@ -22,7 +22,7 @@
   - The Classical Theory of Fields
   - Quantum Mechanics
   
-  At least some can be found (in the old Second Edition) at [The Internet Archive](https://archive.org/search.php?query=creator%3A%22L.D.+Landau+%26+E.M.+Lifshitz%22).
+  [Several books of Landau and Lifshitz, Second Edition, at The Internet Archive](https://archive.org/search.php?query=creator%3A%22L.D.+Landau+%26+E.M.+Lifshitz%22).
 
 - Feynman. *The Feynman Lectures on Physics*
 - Joos and Freeman. *Theoretical Physics*
@@ -32,7 +32,7 @@
 
 - Den Hartog. *Mechanics*
 - Kleppner and Kolenkow. *An Introduction to Mechanics*
-- Synge and Griffith, 1949. [*Principles Of Mechanics* (on archive.org)](https://archive.org/details/principlesofmech031468mbp)
+- Synge and Griffith, 1949. [*Principles Of Mechanics* (at The Internet Archive)](https://archive.org/details/principlesofmech031468mbp)
 
 ### Thermodynamics
 
