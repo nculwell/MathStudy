@@ -14,6 +14,15 @@
 ### Misc
 
 - Landau and Lifshitz. *Course of Theoretical Physics* series
+
+  A sprawling series of texts that span much of physics. The first three volumes are:
+
+  - Mechanics
+  - The Classical Theory of Fields
+  - Quantum Mechanics
+  
+  At least some can be found (in the old Second Edition) at [The Internet Archive](https://archive.org/search.php?query=creator%3A%22L.D.+Landau+%26+E.M.+Lifshitz%22).
+
 - Feynman. *The Feynman Lectures on Physics*
 - Joos and Freeman. *Theoretical Physics*
 
@@ -26,7 +35,7 @@
 
 - Fermi. *Thermodynamics*
 - Van Ness. *Understanding Thermodynamics*
-- Hill, *An Introduction to Statistical Thermodynamics*
+- Hill. *An Introduction to Statistical Thermodynamics*
 - Schwartz. *Principles of Electrodynamics*
 
 ### Electricity and magnetism
@@ -40,7 +49,7 @@
 
 ### Quantum
 
-- Shankar. *Principles of Quantum Mechanics, 2nd Edition*
+- Shankar. *Principles of Quantum Mechanics*
 - Griffiths. *Introduction to Quantum Mechanics*
 - Dirac. *The Principles of Quantum Mechanics*
 - Bohm. *Quantum Theory*
@@ -58,13 +67,13 @@
 - Cheng. *Relativity, Gravitation and Cosmology: A Basic Introduction*
 - Schutz. *A First Course in General Relativity*
 - Wald. *General Relativity*
-- Misner, Thorne, Wheeler. *Gravitation*
+- Misner. Thorne, Wheeler. *Gravitation*
 
 ### Physics for mathematicians
 
 There's an entire genre of physics books that are written for (and by) mathematicians. I list these in their own section.
 
-- Spivak. *Physics for Mathematicians, Mechanics I*
+- Spivak. *Physics for Mathematicians, Mechanics I* (this is numbered "I" but there are no others)
 - Garrity. *Electricity and Magnetism for Mathematicians*
 - Folland. *Quantum Field Theory: A Tourist Guide for Mathematicians*
 
@@ -74,6 +83,8 @@ There are math books written for physicists.
 
 - Schey. *Div, Grad, Curl, and All That: An Informal Text on Vector Calculus*
 - Shankar. *Basic Training in Mathematics: A Fitness Program for Science Students*
+- Fleisch. *A Student's Guide to Vectors and Tensors*
+- Hamill. *A Student's Guide to Lagrangians and Hamiltonians*
 - Dennery and Krzywicki. *Mathematics for Physicists*
 - Byron and Fuller. *Mathematics of Classical and Quantum Physics*
 - Nakahara. *Geometry, Topology and Physics*
