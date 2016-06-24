@@ -50,6 +50,10 @@
 
 ### Optics
 
+- Jenkins and White, 1970 (4e). *Fundamentals of Optics*
+
+  [Jenkins and White, 1957 (3e). *Fundamentals of Optics* (at The Internet Archive)](https://archive.org/details/FundamentalsOfOptics)
+
 - Born, Wolf et al, 1999 (7e). [*Principles of Optics: Electromagnetic Theory of Propagation, Interference and Diffraction of Light* (at the US Library of Congress)](http://catdir.loc.gov/catdir/samples/cam041/98049429.pdf)
 - Born and Wolf, 1970 (4e). [*Principles of Optics* (at The Internet Archive)](https://archive.org/details/PrinciplesOfOptics)
 - Hecht. *Optics* (u)
