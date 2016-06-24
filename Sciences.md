@@ -29,12 +29,18 @@
 - Bohm. *Quantum Theory*
 - Schwartz. *Principles of Electrodynamics*
 - Fowles. *Introduction to Modern Optics*
+- Spivak. *Physics for Mathematicians, Mechanics I*
+- Garrity. *Electricity and Magnetism for Mathematicians*
+- Liddle. *An Introduction to Modern Cosmology*
+- Folland. *Quantum Field Theory: A Tourist Guide for Mathematicians*
 
 ### Math for physics
 
 - Schey. *Div, Grad, Curl, and All That: An Informal Text on Vector Calculus*
 - Dennery and Krzywicki. *Mathematics for Physicists*
 - Byron and Fuller. *Mathematics of Classical and Quantum Physics*
+- Nakahara. *Geometry, Topology and Physics*
+- Doran and Lasenby. *Geometric Algebra for Physicists*
 
 ## Chemistry
 
