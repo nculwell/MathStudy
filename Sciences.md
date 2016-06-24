@@ -74,6 +74,7 @@
 
 There's an entire genre of physics books that are written for (and by) mathematicians. I list these in their own section.
 
+- Spivak, 2004. [*Elementary Mechanics from a Mathematician's Viewpoint*](http://math.uga.edu/~shifrin/Spivak_physics.pdf)
 - Spivak. *Physics for Mathematicians, Mechanics I* (this is numbered "I" but there are no others)
 - Garrity. *Electricity and Magnetism for Mathematicians*
 - Folland. *Quantum Field Theory: A Tourist Guide for Mathematicians*
