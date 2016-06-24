@@ -45,6 +45,7 @@
 - do Carmo. *Riemannian Geometry*
 - Matsumoto. *An Introduction to Morse Theory*
 - Kosinski. *Differential Manifolds*
+- Lovelock and Rund. *Tensors, Differential Forms, and Variational Principles*
 
 ## Algebraic Topology
 
