@@ -31,11 +31,13 @@ This document is even more just a "jumble of references" than the rest of this r
 
 ### Mechanics
 
+- Landau and Lifshitz (above)
 - Den Hartog. *Mechanics*
 - Kleppner and Kolenkow. *An Introduction to Mechanics*
 - Synge and Griffith, 1949. [*Principles Of Mechanics* (at The Internet Archive)](https://archive.org/details/principlesofmech031468mbp)
 - José and Saletan. *Classical Dynamics: A Contemporary Approach*
 - Lanczos. *The Variational Principles of Mechanics*
+- Goldstein, Goldstein and Poole. *Classical Mechanics*
 
 #### Fluid mechanics
 
@@ -126,6 +128,7 @@ There are math books written for physicists.
 - Aris. *Vectors, Tensors and the Basic Equations of Fluid Mechanics*
 - Tinkham. *Group Theory and Quantum Mechanics*
 - Farlow. *Partial Differential Equations for Scientists and Engineers*
+- Arnol'd, translated by Vogtmann and Weinstein. *Mathematical Methods of Classical Mechanics*
 
 ## Chemistry
 
