@@ -1,5 +1,7 @@
 # Sciences
 
+This document is even more just a "jumble of references" than the rest of this repository.
+
 ## Physics
 
 ### Introductions
@@ -42,6 +44,7 @@
 - Lamb. *Hydrodynamics*
 - Batchelor. *An Introduction to Fluid Dynamics*
 - Milne-Thomson. *Theoretical Hydrodynamics*
+- Spencer. *Continuum Mechanics*
 
 ### Thermodynamics
 
