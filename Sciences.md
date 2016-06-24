@@ -32,6 +32,7 @@
 
 - Den Hartog. *Mechanics*
 - Kleppner and Kolenkow. *An Introduction to Mechanics*
+- Synge and Griffith, 1949. [*Principles Of Mechanics* (on archive.org)](https://archive.org/details/principlesofmech031468mbp)
 
 ### Thermodynamics
 
