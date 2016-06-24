@@ -26,6 +26,7 @@
 
 - Feynman. *The Feynman Lectures on Physics*
 - Joos and Freeman. *Theoretical Physics*
+- Newton, translated by Cohen and Whitman. *The Principia : Mathematical Principles of Natural Philosophy*
 
 ### Mechanics
 
