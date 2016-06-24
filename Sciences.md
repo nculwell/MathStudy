@@ -7,9 +7,9 @@
 - [OpenStax. *College Physics*](https://openstax.org/details/college-physics) (two-semester introductory algebra-based physics course)
 - [OpenStax. *University Physics*](https://openstax.org/details/university-physics) (it's not ready yet, but this will presumably be a calculus-based physics course, though I can't find anywhere that this is specified)
 - Wolfson and Pasachoff. *Physics for Scientists and Engineers, 3e*
-  (the text used with Shankar's online course)
-- Shankar. *Fundamentals of Physics: Mechanics, Relativity, and Thermodynamics*
-- Shankar. *Fundamentals of Physics II: Electromagnetism, Optics, and Quantum Mechanics*
+  (the text used with [Ramamurti Shankar's online courses at Yale](http://oyc.yale.edu/physics))
+- Shankar. *Fundamentals of Physics: Mechanics, Relativity, and Thermodynamics* (based on Shankar's first online course, [Fundamentals of Physics I](http://oyc.yale.edu/physics/phys-200))
+- Shankar. *Fundamentals of Physics II: Electromagnetism, Optics, and Quantum Mechanics* (based on Shankar's first online course, [Fundamentals of Physics II](http://oyc.yale.edu/physics/phys-201))
 
 ### Misc
 
