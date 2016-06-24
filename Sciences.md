@@ -2,41 +2,78 @@
 
 ## Physics
 
+### Introductions
+
 - [OpenStax. *College Physics*](https://openstax.org/details/college-physics)
 - [OpenStax. *University Physics*](https://openstax.org/details/university-physics)
 - Wolfson and Pasachoff. *Physics for Scientists and Engineers, 3e*
-  (for use with Shankar's online course)
+  (the text used with Shankar's online course)
 - Shankar. *Fundamentals of Physics: Mechanics, Relativity, and Thermodynamics*
 - Shankar. *Fundamentals of Physics II: Electromagnetism, Optics, and Quantum Mechanics*
-- Shankar. *Principles of Quantum Mechanics, 2nd Edition*
-- Griffiths. *Introduction to Quantum Mechanics*
+
+### Misc
+
+- Landau and Lifshitz. *Course of Theoretical Physics* series
+- Feynman. *The Feynman Lectures on Physics*
+- Joos and Freeman. *Theoretical Physics*
+
+### Mechanics
+
 - Den Hartog. *Mechanics*
 - Kleppner and Kolenkow. *An Introduction to Mechanics*
-- Joos and Freeman. *Theoretical Physics*
-- Purcell and Morin. *Electricity and Magnetism*
-- French. *Special Relativity*
-- Taylor and Wheeler. *Spacetime Physics*
-- Cheng. *Relativity, Gravitation and Cosmology: A Basic Introduction*
-- Wald. *General Relativity*
-- Schutz. *A First Course in General Relativity*
-- Misner, Thorne, Wheeler. *Gravitation*
-- Landau and Lifshitz.
-- Dirac. *The Principles of Quantum Mechanics*
-- Feynman. *The Feynman Lectures on Physics*
+
+### Thermodynamics
+
 - Fermi. *Thermodynamics*
 - Van Ness. *Understanding Thermodynamics*
 - Hill, *An Introduction to Statistical Thermodynamics*
-- Bohm. *Quantum Theory*
 - Schwartz. *Principles of Electrodynamics*
+
+### Electricity and magnetism
+
+- Purcell and Morin. *Electricity and Magnetism*
+- Griffiths. *Introduction to Electrodynamics*
+
+### Optics
+
 - Fowles. *Introduction to Modern Optics*
+
+### Quantum
+
+- Shankar. *Principles of Quantum Mechanics, 2nd Edition*
+- Griffiths. *Introduction to Quantum Mechanics*
+- Dirac. *The Principles of Quantum Mechanics*
+- Bohm. *Quantum Theory*
+
+### Relativity
+
+#### Special Relativity
+
+- French. *Special Relativity*
+- Taylor and Wheeler. *Spacetime Physics*
+
+#### General Relativity
+
+- Liddle. *An Introduction to Modern Cosmology*
+- Cheng. *Relativity, Gravitation and Cosmology: A Basic Introduction*
+- Schutz. *A First Course in General Relativity*
+- Wald. *General Relativity*
+- Misner, Thorne, Wheeler. *Gravitation*
+
+### Physics for mathematicians
+
+There's an entire genre of physics books that are written for (and by) mathematicians. I list these in their own section.
+
 - Spivak. *Physics for Mathematicians, Mechanics I*
 - Garrity. *Electricity and Magnetism for Mathematicians*
-- Liddle. *An Introduction to Modern Cosmology*
 - Folland. *Quantum Field Theory: A Tourist Guide for Mathematicians*
 
 ### Math for physics
 
+There are math books written for physicists.
+
 - Schey. *Div, Grad, Curl, and All That: An Informal Text on Vector Calculus*
+- Shankar. *Basic Training in Mathematics: A Fitness Program for Science Students*
 - Dennery and Krzywicki. *Mathematics for Physicists*
 - Byron and Fuller. *Mathematics of Classical and Quantum Physics*
 - Nakahara. *Geometry, Topology and Physics*
