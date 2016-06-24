@@ -111,8 +111,9 @@ For multivariate calculus, there seems to be a general consensus that the texts 
 - Baxandall and Liebeck, *Vector Calculus* (c)
 - Friedman, *Advanced Calculus* (c)
 - Edwards, *Advanced Calculus of Several Variables* (c)
+- Shifrin, *Multivariable Mathematics: Linear Algebra, Multivariable Calculus, and Manifolds* (u)
 
-*The Feynman Lectures* also discuss vector calculus in the context of electromagnetism, which is supposedly a great way to tie it in with your understanding of the physical, if you already have some background in physics.
+*The Feynman Lectures* also discuss vector calculus in the context of electromagnetism, which is supposedly a great way to tie it in with your understanding of the physical, if you already have some background in physics. See [Physics](Sciences.md#physics).
 
 ### Calculus problem books
 
