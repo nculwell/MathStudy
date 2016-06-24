@@ -35,7 +35,13 @@
 
 ## Differential Geometry
 
-Kreyszig. *Differential Geometry*
+- Kreyszig. *Differential Geometry*
+- Lee. *Introduction to Topological Manifolds*
+- Lee, *Introduction to Smooth Manifolds*
+- Munkres, *Analysis On Manifolds*
+- Spivak, *Calculus On Manifolds*
+- Bishop & Goldberg, *Tensor Analysis on Manifolds*
+- Loomis and Sternberg, *Advanced Calculus*
 
 ## Algebraic Topology
 
