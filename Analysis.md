@@ -134,7 +134,11 @@ These are appropriate for a second course in analysis.
 
 #### Manifolds
 
-See [Differential Geometry](https://github.com/nculwell/MathStudy/blob/master/GeomTopo.md#differential-geometry).
+- Munkres, *Analysis On Manifolds*
+- Spivak, *Calculus On Manifolds*
+- Loomis and Sternberg, *Advanced Calculus*
+
+See also: [Differential Geometry](https://github.com/nculwell/MathStudy/blob/master/GeomTopo.md#differential-geometry).
 
 ### Complex Analysis
 
