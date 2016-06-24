@@ -33,6 +33,7 @@
 - Den Hartog. *Mechanics*
 - Kleppner and Kolenkow. *An Introduction to Mechanics*
 - Synge and Griffith, 1949. [*Principles Of Mechanics* (at The Internet Archive)](https://archive.org/details/principlesofmech031468mbp)
+- José and Saletan. *Classical Dynamics: A Contemporary Approach*
 
 ### Thermodynamics
 
@@ -45,9 +46,13 @@
 
 - Purcell and Morin. *Electricity and Magnetism*
 - Griffiths. *Introduction to Electrodynamics*
+- Zangwill. *Modern Electrodynamics*
 
 ### Optics
 
+- Born, Wolf et al, 1999 (7e). [*Principles of Optics: Electromagnetic Theory of Propagation, Interference and Diffraction of Light* (at the US Library of Congress)](http://catdir.loc.gov/catdir/samples/cam041/98049429.pdf)
+- Born and Wolf, 1970 (4e). [*Principles of Optics* (at The Internet Archive)](https://archive.org/details/PrinciplesOfOptics)
+- Hecht. *Optics* (u)
 - Fowles. *Introduction to Modern Optics*
 
 ### Quantum
