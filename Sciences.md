@@ -43,6 +43,7 @@ This document is even more just a "jumble of references" than the rest of this r
 - Arnol'd, translated by Vogtmann and Weinstein. *Mathematical Methods of Classical Mechanics*
 - Hill. *Statistical Mechanics: Principles and Selected Applications*
 - Chandler. *Introduction to Modern Statistical Mechanics*
+- McQuarrie. *Statistical Mechanics*
 
 #### Fluid mechanics
 
@@ -146,6 +147,7 @@ There are math books written for physicists.
 - [OpenStax. *Chemistry*](https://openstax.org/details/chemistry)
 - Pauling. *General Chemistry*
 - Moore, Stanitski, Jurs. *Chemistry: The Molecular Science*
+- McQuarrie, Rock, Gallogly. *General Chemistry*
 
 ### Inorganic
 
@@ -178,8 +180,9 @@ There are math books written for physicists.
 ### Quantum, mathematical
 
 - Pauling and Wilson. *Introduction to Quantum Mechanics with Applications to Chemistry*
-- Bishop. *Group Theory and Chemistry*
 - Schatz and Ratner. *Quantum Mechanics in Chemistry*
+- McQuarrie. *Quantum Chemistry*
+- Bishop. *Group Theory and Chemistry*
 
 ### Links
 
