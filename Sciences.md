@@ -139,6 +139,7 @@ There are math books written for physicists.
 - Aris. *Vectors, Tensors and the Basic Equations of Fluid Mechanics*
 - Tinkham. *Group Theory and Quantum Mechanics*
 - Farlow. *Partial Differential Equations for Scientists and Engineers*
+- Van Kampen. *Stochastic Processes in Physics and Chemistry*
 
 ## Chemistry
 
@@ -177,11 +178,15 @@ There are math books written for physicists.
 - Harris and Bertolucci. *Symmetry and Spectroscopy: An Introduction to Vibrational and Electronic Spectroscopy*
 - Sands. *Introduction to Crystallography*
 
-### Quantum, mathematical
+### Quantum
 
 - Pauling and Wilson. *Introduction to Quantum Mechanics with Applications to Chemistry*
 - Schatz and Ratner. *Quantum Mechanics in Chemistry*
 - McQuarrie. *Quantum Chemistry*
+
+### Misc
+
+- Harris and Bertolucci. *Symmetry and Spectroscopy: An Introduction to Vibrational and Electronic Spectroscopy*
 - Bishop. *Group Theory and Chemistry*
 
 ### Links
