@@ -41,9 +41,13 @@ This document is even more just a "jumble of references" than the rest of this r
 - Lanczos. *The Variational Principles of Mechanics*
 - Goldstein, Goldstein and Poole. *Classical Mechanics*
 - Arnol'd, translated by Vogtmann and Weinstein. *Mathematical Methods of Classical Mechanics*
+
+#### Statistical mechanics
+
 - Hill. *Statistical Mechanics: Principles and Selected Applications*
 - Chandler. *Introduction to Modern Statistical Mechanics*
 - McQuarrie. *Statistical Mechanics*
+- Reichl. *A Modern Course in Statistical Physics*
 
 #### Fluid mechanics
 
