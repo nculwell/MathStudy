@@ -200,22 +200,39 @@ There are math books written for physicists.
 
 ## Biology
 
+### Intro
+
 - [OpenStax. *Concepts of Biology*](https://openstax.org/details/concepts-biology)
   (for nonmajors)
 - [OpenStax. *Biology*](https://openstax.org/details/biology)
   (for a typical two-semester biology course for science majors)
-- [OpenStax. *Anatomy and Physiology*](https://openstax.org/details/anatomy-and-physiology)
-  (for a two-semester course for life science and allied health majors)
+
+### Genetics
+
 - Snustad and Simmons. *Principles of Genetics* [5e](https://smile.amazon.com/Principles-Genetics-D-Peter-Snustad/dp/0470388250/)
-- Becker, Kleinsmith, Hardin, Bertoni. *Becker’s World of the Cell* [7e](https://smile.amazon.com/World-Cell-7th-Wayne-Becker/dp/0805393935/) [7e solutions](https://smile.amazon.com/Student-Solutions-Manual-World-Cell/dp/032152747X/)
-- Hill et al. *Animal Physiology*
-- Taiz and Zeiger. *Plant Physiology* [4e](https://smile.amazon.com/Plant-Physiology-4th-Lincoln-Taiz/dp/0878938567/) [3e](https://smile.amazon.com/Plant-Physiology-Lincoln-Taiz/dp/0878938230/)
-- Nelson and Cox. *Lehninger Principles of Biochemistry* [5e](https://smile.amazon.com/Lehninger-Principles-Biochemistry-David-Nelson/dp/071677108X/) [4e](https://smile.amazon.com/Lehninger-Principles-Biochemistry-Fourth-Nelson/dp/0716743396/)
 - Griffiths, Wessler, Carroll and Doebley. *Introduction to Genetic Analysis*
 - Snyder and Champness. *Molecular Genetics of Bacteria*
+
+### Physiology
+
+- [OpenStax. *Anatomy and Physiology*](https://openstax.org/details/anatomy-and-physiology)
+  (for a two-semester course for life science and allied health majors)
+- Hill et al. *Animal Physiology*
+- Taiz and Zeiger. *Plant Physiology* [4e](https://smile.amazon.com/Plant-Physiology-4th-Lincoln-Taiz/dp/0878938567/) [3e](https://smile.amazon.com/Plant-Physiology-Lincoln-Taiz/dp/0878938230/)
+
+### Cell
+
+- Becker, Kleinsmith, Hardin, Bertoni. *Becker’s World of the Cell* [7e](https://smile.amazon.com/World-Cell-7th-Wayne-Becker/dp/0805393935/) [7e solutions](https://smile.amazon.com/Student-Solutions-Manual-World-Cell/dp/032152747X/)
+- Alberts et al. *Molecular Biology of the Cell* [5e](https://smile.amazon.com/Molecular-Biology-Cell-Bruce-Alberts/dp/0815341059/) [5e problem book](https://smile.amazon.com/Molecular-Biology-Cell-Fifth-Problems/dp/0815341105/)
+
+### Biochemistry
+
+- Nelson and Cox. *Lehninger Principles of Biochemistry* [5e](https://smile.amazon.com/Lehninger-Principles-Biochemistry-David-Nelson/dp/071677108X/) [4e](https://smile.amazon.com/Lehninger-Principles-Biochemistry-Fourth-Nelson/dp/0716743396/)
+
+### Neuroscience
+
 - Purves et al. *Neuroscience*
 - Squire et al. *Fundamental Neuroscience*
 - Kandel, Schwartz and Jessell. *Principles of Neural Science*
 - Bear, Connors, Paradiso. *Neuroscience, Exploring the Brain*
 - Rosenzweig, Leiman and Breedlove. *Biological Psychology*
-- Alberts et al. *Molecular Biology of the Cell* [5e](https://smile.amazon.com/Molecular-Biology-Cell-Bruce-Alberts/dp/0815341059/) [5e problem book](https://smile.amazon.com/Molecular-Biology-Cell-Fifth-Problems/dp/0815341105/)
