@@ -209,7 +209,7 @@ There are math books written for physicists.
 - Snustad and Simmons. *Principles of Genetics* [5e](https://smile.amazon.com/Principles-Genetics-D-Peter-Snustad/dp/0470388250/)
 - Becker, Kleinsmith, Hardin, Bertoni. *Becker’s World of the Cell* [7e](https://smile.amazon.com/World-Cell-7th-Wayne-Becker/dp/0805393935/) [7e solutions](https://smile.amazon.com/Student-Solutions-Manual-World-Cell/dp/032152747X/)
 - Hill et al. *Animal Physiology*
-- Taiz and Zeiger. *Plant Physiology*
+- Taiz and Zeiger. *Plant Physiology* [4e](https://smile.amazon.com/Plant-Physiology-4th-Lincoln-Taiz/dp/0878938567/) [3e](https://smile.amazon.com/Plant-Physiology-Lincoln-Taiz/dp/0878938230/)
 - Nelson and Cox. *Lehninger Principles of Biochemistry* [5e](https://smile.amazon.com/Lehninger-Principles-Biochemistry-David-Nelson/dp/071677108X/) [4e](https://smile.amazon.com/Lehninger-Principles-Biochemistry-Fourth-Nelson/dp/0716743396/)
 - Griffiths, Wessler, Carroll and Doebley. *Introduction to Genetic Analysis*
 - Snyder and Champness. *Molecular Genetics of Bacteria*
