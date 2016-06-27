@@ -206,3 +206,16 @@ There are math books written for physicists.
   (for a typical two-semester biology course for science majors)
 - [OpenStax. *Anatomy and Physiology*](https://openstax.org/details/anatomy-and-physiology)
   (for a two-semester course for life science and allied health majors)
+- Snustad and Simmons. *Principles of Genetics*
+- Becker, Kleinsmith, Hardin, Bertoni. *Becker’s World of the Cell*
+- Hill et al. *Animal Physiology*
+- Taiz and Zeiger. *Plant Physiology*
+- Nelson and Cox. *Lehninger Principles of Biochemistry*
+- Griffiths, Wessler, Carroll and Doebley. *Introduction to Genetic Analysis*
+- Snyder and Champness. *Molecular Genetics of Bacteria*
+- Purves et al. *Neuroscience*
+- Squire et al. *Fundamental Neuroscience*
+- Kandel, Schwartz and Jessell. *Principles of Neural Science*
+- Bear, Connors, Paradiso. *Neuroscience, Exploring the Brain*
+- Rosenzweig, Leiman and Breedlove. *Biological Psychology*
+- Alberts et al. *Molecular Biology of the Cell*
