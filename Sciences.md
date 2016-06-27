@@ -228,6 +228,9 @@ There are math books written for physicists.
 ### Biochemistry
 
 - Nelson and Cox. *Lehninger Principles of Biochemistry* [5e](https://smile.amazon.com/Lehninger-Principles-Biochemistry-David-Nelson/dp/071677108X/) [4e](https://smile.amazon.com/Lehninger-Principles-Biochemistry-Fourth-Nelson/dp/0716743396/)
+- Lieberman and Ricer. *BRS Biochemistry, Molecular Biology, and Genetics* [6e](https://smile.amazon.com/Biochemistry-Molecular-Biology-Genetics-Review/dp/1451175361/)
+- Ferrier. *Biochemistry (Lippincott Illustrated Reviews Series)* [6e](https://smile.amazon.com/Biochemistry-Lippincott-Illustrated-Reviews-Ferrier/dp/1451175620/) [5e](https://smile.amazon.com/Biochemistry-Lippincott-Illustrated-Reviews-Richard/dp/160831412X/)
+- Berg, Tymoczko, Gatto, Stryer. *Biochemistry*
 
 ### Neuroscience
 
