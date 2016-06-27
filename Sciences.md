@@ -150,9 +150,9 @@ There are math books written for physicists.
 ### General
 
 - [OpenStax. *Chemistry*](https://openstax.org/details/chemistry)
-- Pauling. *General Chemistry*
 - Moore, Stanitski, Jurs. *Chemistry: The Molecular Science*
 - McQuarrie, Rock, Gallogly. *General Chemistry*
+- Pauling. *General Chemistry* (old but still interesting)
 
 ### Inorganic
 
