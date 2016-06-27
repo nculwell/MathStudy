@@ -227,6 +227,7 @@ There are math books written for physicists.
 - Alberts et al. *Essential Cell Biology*
 - Alberts et al. *Molecular Biology of the Cell* [5e](https://smile.amazon.com/Molecular-Biology-Cell-Bruce-Alberts/dp/0815341059/) [5e problem book](https://smile.amazon.com/Molecular-Biology-Cell-Fifth-Problems/dp/0815341105/)
 - Lodish et al. *Molecular Cell Biology*
+- Neidhardt, Ingraham, Schaechter. *Physiology of the Bacterial Cell: A Molecular Approach*
 
 ### Biochemistry
 
