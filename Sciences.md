@@ -212,6 +212,7 @@ There are math books written for physicists.
 - Snustad and Simmons. *Principles of Genetics* [5e](https://smile.amazon.com/Principles-Genetics-D-Peter-Snustad/dp/0470388250/)
 - Griffiths, Wessler, Carroll and Doebley. *Introduction to Genetic Analysis*
 - Snyder and Champness. *Molecular Genetics of Bacteria*
+- Watson. *Molecular Biology of the Gene*
 
 ### Physiology
 
@@ -223,14 +224,17 @@ There are math books written for physicists.
 ### Cell
 
 - Becker, Kleinsmith, Hardin, Bertoni. *Becker’s World of the Cell* [7e](https://smile.amazon.com/World-Cell-7th-Wayne-Becker/dp/0805393935/) [7e solutions](https://smile.amazon.com/Student-Solutions-Manual-World-Cell/dp/032152747X/)
+- Alberts et al. *Essential Cell Biology*
 - Alberts et al. *Molecular Biology of the Cell* [5e](https://smile.amazon.com/Molecular-Biology-Cell-Bruce-Alberts/dp/0815341059/) [5e problem book](https://smile.amazon.com/Molecular-Biology-Cell-Fifth-Problems/dp/0815341105/)
+- Lodish et al. *Molecular Cell Biology*
 
 ### Biochemistry
 
 - Nelson and Cox. *Lehninger Principles of Biochemistry* [5e](https://smile.amazon.com/Lehninger-Principles-Biochemistry-David-Nelson/dp/071677108X/) [4e](https://smile.amazon.com/Lehninger-Principles-Biochemistry-Fourth-Nelson/dp/0716743396/)
-- Lieberman and Ricer. *BRS Biochemistry, Molecular Biology, and Genetics* [6e](https://smile.amazon.com/Biochemistry-Molecular-Biology-Genetics-Review/dp/1451175361/)
-- Ferrier. *Biochemistry (Lippincott Illustrated Reviews Series)* [6e](https://smile.amazon.com/Biochemistry-Lippincott-Illustrated-Reviews-Ferrier/dp/1451175620/) [5e](https://smile.amazon.com/Biochemistry-Lippincott-Illustrated-Reviews-Richard/dp/160831412X/)
 - Berg, Tymoczko, Gatto, Stryer. *Biochemistry*
+- Ferrier. *Biochemistry (Lippincott Illustrated Reviews Series)* [6e](https://smile.amazon.com/Biochemistry-Lippincott-Illustrated-Reviews-Ferrier/dp/1451175620/) [5e](https://smile.amazon.com/Biochemistry-Lippincott-Illustrated-Reviews-Richard/dp/160831412X/)
+- Lieberman and Ricer. *BRS Biochemistry, Molecular Biology, and Genetics* [6e](https://smile.amazon.com/Biochemistry-Molecular-Biology-Genetics-Review/dp/1451175361/)
+- Branden and Tooze. *Introduction to Protein Structure*
 
 ### Neuroscience
 
