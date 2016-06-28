@@ -26,9 +26,9 @@
 
 The major books that I'm aware of on advanced linear algebra (beyond a first course):
 
-- Halmos, *Finite-Dimensional Vector Spaces*
+- Halmos, *Finite-Dimensional Vector Spaces* ([Martino ed](https://smile.amazon.com/Finite-Dimensional-Vector-Spaces-Halmos/dp/1614272816/), [Benediction ed](https://smile.amazon.com/Finite-Dimensional-Vector-Spaces-Paul-Halmos/dp/178139573X/), [Springer hardcover (OOP)](https://smile.amazon.com/Finite-Dimensional-Vector-Spaces-P-R-Halmos/dp/B004HOYQX2/))
 
-  This is another abstract approach to LA that emphasizes connections to analysis and intends to prepare the student for a course in functional analysis. Interesting problems and a colorful exposition.
+  This is another abstract approach to LA that emphasizes connections to analysis and intends to prepare the student for a course in functional analysis. Interesting problems and a colorful exposition. Martino Fine Books has a good reputation for their physical product, but I don't know anything about the physical quality of the Benediction Classics edition. (My own copy is the old Springer hardcover.)
 
 - Horn and Johnson. *Matrix Analysis* ([2e](https://smile.amazon.com/Matrix-Analysis-Roger-Horn/dp/0521548233/), [1e](https://smile.amazon.com/Matrix-Analysis-Roger-Horn/dp/0521386322/))
 
