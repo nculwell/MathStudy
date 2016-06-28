@@ -30,6 +30,7 @@ and also has a nice overview of less mainstream types of logics.
 * Trudeau, *Introduction to Graph Theory*
 * Chartrand, *Introductory Graph Theory*
 * Chartrand, Zhang, *A First Course in Graph Theory*
+* Hartsfield and Ringel. *Pearls in Graph Theory: A Comprehensive Introduction* [Dover ed](https://smile.amazon.com/Pearls-Graph-Theory-Comprehensive-Introduction/dp/0486432327/)
 
   More in-depth than Chartrand's other intro book.
 
@@ -40,3 +41,4 @@ and also has a nice overview of less mainstream types of logics.
 * Graham, Knuth, Patashnik, *Concrete Mathematics: A Foundation for Computer Science*
 * Stanley, *Enumerative Combinatorics: Volume 1*
 * Diestel, *Graph Theory*
+* Bogart. [*Combinatorics Through Guided Discovery*](https://math.dartmouth.edu/news-resources/electronic/kpbogart/)
