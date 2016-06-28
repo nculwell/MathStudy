@@ -40,7 +40,7 @@ Some calculus books include an introduction to linear algebra. Among these are A
 
 ## Axler
 
-I put this book in its own category because it's a bit unique in its appeal. It fills a need that is particular to the current mathematics curriculum. The ordinary intro books these days do not cover enough advanced material for students to comfortably go directly on to the more advanced books listed below. What's more, many students don't have enough exposure to reading and writing proofs yet. Axler's book serves as both a course in abstract linear algebra that covers the essential topics, and a course in proof-reading and proof-writing.
+I put this book in its own category because it's a bit unique in its appeal. It fills a need that is particular to the current mathematics curriculum. The ordinary intro books these days do not cover enough advanced material for students to comfortably go directly on to the more advanced books listed below. What's more, many students don't have enough exposure to reading and writing proofs yet. Axler's book serves as both a course in abstract linear algebra that covers the essential topics, and a course in proof-reading and proof-writing. However, its contents might be superfluous for someone who started using one of the more thorough introductory books such as Hoffman and Kunze or Shilov.
 
 - Axler. *Linear Algebra Done Right* ([2e](https://smile.amazon.com/Linear-Algebra-Right-Undergraduate-Mathematics/dp/0387982582/), [3e](https://smile.amazon.com/Linear-Algebra-Right-Undergraduate-Mathematics/dp/3319110799/))
 
