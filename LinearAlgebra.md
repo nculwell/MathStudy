@@ -34,6 +34,14 @@ The major books that I'm aware of on advanced linear algebra (beyond a first cou
 
 - Horn and Johnson. *Topics in Matrix Analysis* ([1e](https://smile.amazon.com/Topics-Matrix-Analysis-Roger-Horn/dp/052130587X/))
 
+- Lax, *Linear Algebra and Its Applications*
+
+  This is a grad-level abstract linear algebra text by *Peter Lax*, not the introductory book by *David Lay*! The "applications" here are the pure mathematician's idea of a "application", which means applying the theory to a problem in mathematics, not applying mathematics to the real world.
+
+- Roman, *Advanced Linear Algebra*
+
+  Another grad-level abstract linear algebra book. In spirit it is similar to Axler's *Linear Algebra Done Right*, but from a more advanced perspective.
+
 Others:
 - Anton, *Elementary Linear Algebra*
 - Meyer, *Matrix Analysis and Applied Linear Algebra Book and Solutions Manual*
