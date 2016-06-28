@@ -24,6 +24,8 @@
 
 - Shilov. *Linear Algebra*
 
+  A Russian approach to linear algebra. Like many Russian textbooks, it jumps right in and makes no attempt to hold your hand. Even though the content may be appropriate for first-time learners, many students in the US won't be prepared for a book like this when they start LA.
+
 The major books that I'm aware of on advanced linear algebra (beyond a first course):
 
 - Halmos. *Finite-Dimensional Vector Spaces* ([Martino ed](https://smile.amazon.com/Finite-Dimensional-Vector-Spaces-Halmos/dp/1614272816/), [Benediction ed](https://smile.amazon.com/Finite-Dimensional-Vector-Spaces-Paul-Halmos/dp/178139573X/), [Springer hardcover (OOP)](https://smile.amazon.com/Finite-Dimensional-Vector-Spaces-P-R-Halmos/dp/B004HOYQX2/))
@@ -41,6 +43,8 @@ The major books that I'm aware of on advanced linear algebra (beyond a first cou
 - Roman. *Advanced Linear Algebra* ([3e](https://smile.amazon.com/Advanced-Linear-Algebra-Graduate-Mathematics/dp/0387728287/))
 
   Another grad-level abstract linear algebra book. In spirit it is similar to Axler's *Linear Algebra Done Right*, but from a more advanced perspective. (There is an international edition of this, but I'm not sure where I found it.)
+
+- Gantmacher. *Applications of the Theory of Matrices* ([Dover ed](https://smile.amazon.com/dp/0486445542/))
 
 Others:
 - Anton. *Elementary Linear Algebra*
