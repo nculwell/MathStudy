@@ -18,6 +18,10 @@ Jim Hefferon has a free (GFDL/CC BY-SA 2.5) linear algebra text [http://joshua.s
 
 - Lay. *Linear Algebra and Its Applications* ([3e upd](https://smile.amazon.com/Linear-Algebra-Applications-Updated-CD-ROM/dp/0321287134/), [4e](https://smile.amazon.com/Linear-Algebra-Its-Applications-4th/dp/0321385179/). [5e](https://smile.amazon.com/Linear-Algebra-Its-Applications-5th/dp/032198238X/))
 
+- Poole. *Linear Algebra: A Modern Introduction* ([3e](https://smile.amazon.com/Linear-Algebra-Introduction-Available-Enhanced/dp/0538735457/))
+
+  A colorful "modern textbook" approach to linear algebra. Don't bother with the 4th Edition, as it's very expensive and largely the same as the Third Edition.
+
 - Meyer. *Matrix Analysis and Applied Linear Algebra Book and Solutions Manual*
 
   A good book, but expensive. This used to be available online for free, but the author took it down due to unspecified abuses of the license agreement.
@@ -31,8 +35,6 @@ Jim Hefferon has a free (GFDL/CC BY-SA 2.5) linear algebra text [http://joshua.s
 - Shilov. *Linear Algebra*
 
   A Russian approach to linear algebra. Like many Russian textbooks, it jumps right in and makes no attempt to hold your hand. Even though the content may be appropriate for first-time learners, many students in the US won't be prepared for a book like this when they start LA.
-
-- Anton. *Elementary Linear Algebra*
 
 Many people also favor the Schaum's Outline for linear algebra as well as Schaum's *3,000 Solved Problems in Linear Algebra*.
 
