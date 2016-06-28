@@ -35,7 +35,7 @@ and also has a nice overview of less mainstream types of logics.
   More in-depth than Chartrand's other intro book.
 
 * Martin, *Counting: The Art of Enumerative Combinatorics*
-* Wilf, *generatingfunctionology*
+* Wilf, *generatingfunctionology* ([**2e FREE ONLINE**](https://www.math.upenn.edu/~wilf/DownldGF.html) [3e](https://smile.amazon.com/generatingfunctionology-Third-Herbert-S-Wilf/dp/1568812795/))
 * Chen, *Principles and Techniques in Combinatorics*
 * Lovász, Pelikán, Vesztergombi, *Discrete Mathematics: Elementary and Beyond*
 * Graham, Knuth, Patashnik, *Concrete Mathematics: A Foundation for Computer Science*
