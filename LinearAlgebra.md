@@ -1,22 +1,28 @@
 # Linear Algebra
 
+## Introductions
+
 - Strang. *Introduction to Linear Algebra* (with OCW lectures) ([4e](https://smile.amazon.com/dp/0980232716/))
 
   The latest incarnation of Gilbert Strang's linear algebra textbook. I haven't seen this one myself, but it goes with his highly-regarded online LA course. It is reportedly somewhat more elementary than his older *Linear Algebra and its Applications*.
 
-- Strang. *Linear Algebra and its Applications*
+- Strang. *Linear Algebra and its Applications* ([4e](https://smile.amazon.com/Linear-Algebra-Its-Applications-4th/dp/0030105676/) [4e intl](https://smile.amazon.com/Linear-Algebra-Its-Applications-India/dp/8131501728/) [3e](https://smile.amazon.com/Linear-Algebra-Its-Applications-3rd/dp/0155510053/))
 
   Strang's older book.
+
+- Hefferon. ([**FREE ONLINE**](http://joshua.smcvt.edu/linearalgebra/), [Dec 2014 paperback](https://smile.amazon.com/Linear-Algebra-Jim-Hefferon/dp/0989897567/))
+
+Jim Hefferon has a free (GFDL/CC BY-SA 2.5) linear algebra text [http://joshua.smcvt.edu/linearalgebra/] which is available as a PDF file or as Latex source. It has exercises with worked answers.
 
 - Klein. *Coding the Matrix* (with Brown/Coursera course; great course but not much use as a stand-alone text)
 
 - Lay. *Linear Algebra and Its Applications* ([3e upd](https://smile.amazon.com/Linear-Algebra-Applications-Updated-CD-ROM/dp/0321287134/), [4e](https://smile.amazon.com/Linear-Algebra-Its-Applications-4th/dp/0321385179/). [5e](https://smile.amazon.com/Linear-Algebra-Its-Applications-5th/dp/032198238X/))
 
+- Meyer. *Matrix Analysis and Applied Linear Algebra Book and Solutions Manual*
+
+  A good book, but expensive. This used to be available online for free, but the author took it down due to unspecified abuses of the license agreement.
+
 - Friedberg, Insel, Spence. *Linear Algebra* ([4e](https://smile.amazon.com/Linear-Algebra-4th-Stephen-Friedberg/dp/0130084514/), [4e intl](https://smile.amazon.com/Linear-Algebra-Lawrence-Stephen-Friedberg/dp/9332549648/), [3e](https://smile.amazon.com/Linear-Algebra-3rd-Stephen-Friedberg/dp/0132338599/))
-
-- Axler. *Linear Algebra Done Right* ([2e](https://smile.amazon.com/Linear-Algebra-Right-Undergraduate-Mathematics/dp/0387982582/), [3e](https://smile.amazon.com/Linear-Algebra-Right-Undergraduate-Mathematics/dp/3319110799/))
-
-  An outstanding introduction to an *abstract* approach to linear algebra. This book is all about proofs, you won't find calculations here. It is intended as a second course in linear algebra, to follow a more computation-oriented course, and I agree that this is its best use. You *could* start LA here, but you'd end up having read a whole book and still not knowing how to solve a linear equation.
 
 - Hoffman and Kunze. *Linear Algebra* ([2e intl ed](https://smile.amazon.com/Linear-Algebra-2nd-Hoffman-Kunze/dp/8120302702/))
 
@@ -26,7 +32,23 @@
 
   A Russian approach to linear algebra. Like many Russian textbooks, it jumps right in and makes no attempt to hold your hand. Even though the content may be appropriate for first-time learners, many students in the US won't be prepared for a book like this when they start LA.
 
-The major books that I'm aware of on advanced linear algebra (beyond a first course):
+- Anton. *Elementary Linear Algebra*
+
+Many people also favor the Schaum's Outline for linear algebra as well as Schaum's *3,000 Solved Problems in Linear Algebra*.
+
+Some calculus books include an introduction to linear algebra. Among these are Apostol's *Calculus* and Hubbard and Hubbard's *Vector Calculus*.
+
+## Axler
+
+I put this book in its own category because it's a bit unique in its appeal. It fills a need that is particular to the current mathematics curriculum. The ordinary intro books these days do not cover enough advanced material for students to comfortably go directly on to the more advanced books listed below. What's more, many students don't have enough exposure to reading and writing proofs yet. Axler's book serves as both a course in abstract linear algebra that covers the essential topics, and a course in proof-reading and proof-writing.
+
+- Axler. *Linear Algebra Done Right* ([2e](https://smile.amazon.com/Linear-Algebra-Right-Undergraduate-Mathematics/dp/0387982582/), [3e](https://smile.amazon.com/Linear-Algebra-Right-Undergraduate-Mathematics/dp/3319110799/))
+
+  An outstanding introduction to an *abstract* approach to linear algebra. This book is all about proofs, you won't find calculations here. It is intended as a second course in linear algebra, to follow a more computation-oriented course, and I agree that this is its best use. You *could* start LA here, but you'd end up having read a whole book and still not knowing how to solve a linear equation. One of the distinctive things about Axler's approach is that he introduces the theory of eigenvalues without using determinants (preferring instead to use the fundamental theorem of algebra). Determinants are then introduced in the last chapter.
+
+## Advanced linear algebra (beyond a first course)
+
+Most of these will probably be more accessible to someone who has read one of the above intro books, *and* Axler's *Linear Algebra Done Right*.
 
 - Halmos. *Finite-Dimensional Vector Spaces* ([Martino ed](https://smile.amazon.com/Finite-Dimensional-Vector-Spaces-Halmos/dp/1614272816/), [Benediction ed](https://smile.amazon.com/Finite-Dimensional-Vector-Spaces-Paul-Halmos/dp/178139573X/), [Springer hardcover (OOP)](https://smile.amazon.com/Finite-Dimensional-Vector-Spaces-P-R-Halmos/dp/B004HOYQX2/))
 
@@ -46,17 +68,17 @@ The major books that I'm aware of on advanced linear algebra (beyond a first cou
 
 - Gantmacher. *Applications of the Theory of Matrices* ([Dover ed](https://smile.amazon.com/dp/0486445542/))
 
+- Lang. *Linear Algebra* ([3e](https://smile.amazon.com/Linear-Algebra-Undergraduate-Texts-Mathematics/dp/0387964126/))
+
+- Franklin. *Matrix Theory* ([Dover ed](https://smile.amazon.com/Matrix-Theory-Dover-Books-Mathematics/dp/0486411796/))
+
+  A physics-oriented overview of matrix theory, followed by a chapter on physics applications and a chapter on numerical methods.
+
 Others:
-- Anton. *Elementary Linear Algebra*
-- Meyer. *Matrix Analysis and Applied Linear Algebra Book and Solutions Manual*
 - Gentle. *Matrix Algebra: Theory, Computations, and Applications in Statistics*
 - Bernstein. *Matrix Mathematics: Theory, Facts, and Formulas*
 - Macdonald. *Linear and Geometric Algebra*
 - Kaplansky. *Linear Algebra and Geometry: A Second Course*
-
-Jim Hefferon has a free (GFDL) linear algebra text [http://joshua.smcvt.edu/linearalgebra/] which is available as a PDF file or as Latex source. It has exercises with worked answers.
-
-Many people also favor the Schaum's Outline for linear algebra as well as Schaum's *3,000 Solved Problems in Linear Algebra*.
 
 ## Numerical
 
