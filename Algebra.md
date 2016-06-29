@@ -23,7 +23,7 @@ See the [Linear Algebra section](LinearAlgebra.md).
 
 ### Major textbooks
 
-- Artin, *Algebra* (2e) (i)
+- Artin, *Algebra* ([2e [expensive!]](https://smile.amazon.com/Algebra-2nd-Michael-Artin/dp/0132413779/), [2e intl](https://smile.amazon.com/dp/9332549834/), [2e intl @AbeBooks](http://www.abebooks.com/servlet/SearchResults?an=Michael%20Artin&bi=0&bx=off&ds=30&n=100121501&recentlyadded=all&sortby=17&tn=Algebra))
 - Jacobson, *Basic Algebra I* (c)
 - Dummit and Foote, *Algebra* (3e) (i)
 - Mac Lane and Birkhoff, *Algebra 3e*
