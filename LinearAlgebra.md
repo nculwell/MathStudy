@@ -48,6 +48,10 @@ I put this book in its own category because it's a bit unique in its appeal. It 
 
   An outstanding introduction to an *abstract* approach to linear algebra. This book is all about proofs, you won't find calculations here. It is intended as a second course in linear algebra, to follow a more computation-oriented course, and I agree that this is its best use. You *could* start LA here, but you'd end up having read a whole book and still not knowing how to solve a linear equation. One of the distinctive things about Axler's approach is that he introduces the theory of eigenvalues without using determinants (preferring instead to use the fundamental theorem of algebra). Determinants are then introduced in the last chapter. Also, the quality of the Third Edition hardcover is supposedly really nice.
 
+## Problems
+
+- Erdman. *Exercises and Problems in Linear Algebra* http://web.pdx.edu/~erdman/LINALG/Linalg_licensepage.html
+
 ## Advanced linear algebra (beyond a first course)
 
 Most of these will probably be more accessible to someone who has read one of the above intro books, *and* Axler's *Linear Algebra Done Right*.
@@ -75,6 +79,10 @@ Most of these will probably be more accessible to someone who has read one of th
 - Franklin. *Matrix Theory* ([Dover ed](https://smile.amazon.com/Matrix-Theory-Dover-Books-Mathematics/dp/0486411796/))
 
   A physics-oriented overview of matrix theory, followed by a chapter on physics applications and a chapter on numerical methods.
+
+- Erdman. *Elements of Linear and Multilinear Algebra
+
+  Free notes: http://web.pdx.edu/~erdman/ELMA/multilinear_algebra_pdf.pdf
 
 Others:
 - Gentle. *Matrix Algebra: Theory, Computations, and Applications in Statistics*
