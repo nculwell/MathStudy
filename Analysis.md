@@ -191,3 +191,4 @@ See also: [Differential Geometry](https://github.com/nculwell/MathStudy/blob/mas
 - Rudin, *Functional Analysis* ([McGraw-Hill intl @AbeBooks](http://www.abebooks.com/products/isbn/9780070619883))
 - Halmos, *Introduction to Hilbert Space and the Theory of Spectral Multiplicity* (c)
 - Halmos, *A Hilbert Space Problem Book*
+- Erdman. *Functional Analysis and Operator Algebras: An Introduction* http://web.pdx.edu/~erdman/FAOA/functional_analysis_operator_algebras_pdf.pdf
