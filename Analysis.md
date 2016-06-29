@@ -32,8 +32,8 @@ These books ease you into real analysis. They are designed to address a difficul
 
 #### Historical approach
 
-- Bressoud, *A Radical Approach to Real Analysis*
-- Bressoud, *A Radical Approach to Lebesgue's Theory of Integration*
+- Bressoud, *A Radical Approach to Real Analysis* ([2e](https://smile.amazon.com/dp/0883857472/))
+- Bressoud, *A Radical Approach to Lebesgue's Theory of Integration* ([1e](https://smile.amazon.com/dp/0521711835/))
 
   I discuss both of these books by Bressoud together. Bressoud's concept is to teach analysis by tracing the history of the mathematical concepts, and the telling the story of the problems and controversies that played out over the course of the 19th Century that gave shape to modern analysis. He states that his main purpose is to teach you the math, though, not to teach you the history of mathematics.
 
@@ -43,7 +43,7 @@ These books ease you into real analysis. They are designed to address a difficul
 
 #### Standard books
 
-- Rudin, *Principles of Mathematical Analysis* (u/i)
+- Rudin, *Principles of Mathematical Analysis* ([3e intl](https://smile.amazon.com/dp/0070856133/), [3e intl PIE](https://smile.amazon.com/Principles-Mathematical-Analysis-Rudin/dp/1259064786/))
 
   AKA "Baby Rudin". The definitive book on real analysis. For some, it's the yardstick by which all other real analysis textbooks are measured, and found wanting. (For others, it's a work of elitist arrogance designed to make you feel inferior to the author.) Rudin expects you to keep up with him, and makes no apologies if you don't. The book is carefully constructed, though, so that at each step you have the definitions and theorems needed to proceed. This approach requires a lot of work from you as reader, but it does pay off. His exercises are demanding, but they force you to engage the material on another level and really understand it.
 
