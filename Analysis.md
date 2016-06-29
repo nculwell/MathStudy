@@ -91,6 +91,10 @@ These books ease you into real analysis. They are designed to address a difficul
 
   Well-liked for its topic selection and exercises.
 
+### Problem texts
+
+- Erdman. *A ProblemText in Advanced Calculus* ([**FREE ONLINE**](http://web.pdx.edu/~erdman/PTAC/PTAClicensepage.html))
+
 ### More analysis
 
 These are appropriate for further study in analysis.
