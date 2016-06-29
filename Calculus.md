@@ -16,7 +16,7 @@ There are two major camps of introductory calculus textbooks: the "standard" tex
 
 Other textbooks in this category that I will not discuss at length are:
 
-- Thomas et al, *Thomas' Calculus* (Thomas retired in 1978, and editions since then have different co-authors.)
+- Thomas et al, *Thomas' Calculus* ([12e](https://smile.amazon.com/dp/0321587995)) [Upd 10e](https://smile.amazon.com/dp/0201755270) (Thomas retired in 1978, and editions since then have different co-authors.)
 - Lial, Greenwell et al, *Calculus with Applications*
 - Anton and Bivens, *Calculus*
 
@@ -57,17 +57,17 @@ These books are ones that I'd consider somehow "in between" the other two groups
   
   Strang's book is in some ways a "standard" textbook in that it stresses intuitive understanding and physical applications, but it has an undeniable charm, and Strang is one of the great math educators of our time.
 
-- Thomas, *Calculus and Analytic Geometry* (c)
+- Thomas, *Calculus and Analytic Geometry* (c) [3rd Alternate](https://smile.amazon.com/dp/B000K1UMJS)
 
   This entry refers to the original series of textbooks written by George B. Thomas himself, up to the Fourth Edition (1969). As of 2015 they can still be bought used (quite cheap!), and thanks to the durable hardback bindings they used in those days, you can probably still find them in good condition. (Just hope some jerk didn't scribble all over your copy.) Depending on who you ask, the pinnacle of the series was either the 4th Edition or the 3rd Alternate Edition.
 
   As advertised, there is a strong emphasis here on analytic geometry and applications. Thomas taught at MIT, and this is clearly a "calculus for engineers" approach.
 
-- Kline, *Calculus: An Intuitive and Physical Approach* (c)
+- Kline, *Calculus: An Intuitive and Physical Approach* ([Dover](https://smile.amazon.com/dp/0486404536))
 
   The title pretty much says what this is. It's older (originally published in 1967, updated in 1977), and was written by Morris Kline, a prolific writer on mathematics who authored several books for a popular audience. In content, this is also what you might class as a "standard" calculus textbook, but it has a different flavor because it was written in a different era.
 
-- Lang, *A First Course in Calculus* (o)
+- Lang, *A First Course in Calculus* ([5e](https://smile.amazon.com/dp/0387962018), [Short Calculus](https://smile.amazon.com/dp/0387953272), [4e @AbeBooks](http://www.abebooks.com/products/isbn/9780201041491))
 
   Serge Lang is famous for his difficult graduate-level texts in a dozen different subjects, but he has also put his hand to writing a handful of textbooks for lower levels of math. Of those, probably the most successful is this, his calculus book.
 
@@ -75,11 +75,11 @@ These books are ones that I'd consider somehow "in between" the other two groups
 
   Because of its focus on the standard topics without a bunch of fuss over applications, this is currently my preferred reference for anything that it covers.
 
-- Thompson and Gardner, *Calculus Made Easy* (c)
+- Thompson and Gardner, *Calculus Made Easy* ([Revised](https://smile.amazon.com/Calculus-Made-Easy-Silvanus-Thompson/dp/0312185480))
 
   An intuitive introduction to calculus. This isn't thorough enough to be a course textbook, but it makes a good companion to a textbook. It's for someone who's just beginning calculus. The original version (by just Thompson) is in the public domain. It's shorter and some people feel that it does a better job of keeping things simple. You can get it online here: https://archive.org/details/CalculusMadeEasy
 
-- Körner, *Calculus for the Ambitious* (c)
+- Körner, *Calculus for the Ambitious* ([1e](https://smile.amazon.com/dp/1107063922))
 
   CUP's promotion says, "In a lively and easy-to-read style, Professor Körner uses approximation and estimates in a way that will easily merge into the standard development of analysis. By using Taylor's theorem with error bounds he is able to discuss topics that are rarely covered at this introductory level." I haven't seen this book in the flesh yet, but it's inexpensive.
   
