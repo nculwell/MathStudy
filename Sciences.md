@@ -246,3 +246,12 @@ There are math books written for physicists.
 - Kandel, Schwartz and Jessell. *Principles of Neural Science*
 - Bear, Connors, Paradiso. *Neuroscience, Exploring the Brain*
 - Rosenzweig, Leiman and Breedlove. *Biological Psychology*
+
+## Engineering mathematics
+
+This isn't science but I figured I'd just throw it in here.
+
+- Kreyszig. *Advanced Engineering Mathematics* ([9e](https://smile.amazon.com/dp/0471488852), [8e](https://smile.amazon.com/dp/0471154962))
+- Wylie. *Advanced Engineering Mathematics* ([6e](https://smile.amazon.com/Advanced-Engineering-Mathematics-Ray-Wylie/dp/0070722064), [5e]())
+- Stroud. *Engineering Mathematics* ([7e](https://smile.amazon.com/Engineering-Mathematics-K-Stroud/dp/0831134704), [6e](https://smile.amazon.com/Engineering-Mathematics-K-Stroud/dp/0831133279))
+- Stroud. *Advanced Engineering Mathematics* ([5e](https://smile.amazon.com/Advanced-Engineering-Mathematics-Kenneth-Stroud/dp/0831134496))
