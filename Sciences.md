@@ -145,6 +145,7 @@ There are math books written for physicists.
 - Tinkham. *Group Theory and Quantum Mechanics*
 - Farlow. *Partial Differential Equations for Scientists and Engineers*
 - Van Kampen. *Stochastic Processes in Physics and Chemistry*
+- Frankel. *The Geometry of Physics: An Introduction* ([3e](https://smile.amazon.com/dp/1107602602/))
 
 ## Chemistry
 
