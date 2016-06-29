@@ -24,19 +24,25 @@ Other textbooks in this category that I will not discuss at length are:
 
 - Spivak, *Calculus*
 
-  Spivak is the most revered of this class of textbooks. It's also the most current: its fourth edition was published in 2008. Spivak chatty, conversational style. The book begins by establishing the properties of the real number system, and covers limits, differential and integral calculus, and infinite sequences. Unlike the books that follow, Spivak does not deal with calculus of several variables, so you need another book for that. (He has written a book on that subject, *Calculus on Manifolds, but it's not considered an introductory book.) Spivak's book has also been called an introduction to analysis; you might all call it "calculus for mathematicians".
+  Spivak is the most revered of this class of textbooks. It's also the most current: its fourth edition was published in 2008. Spivak has a chatty, conversational style. The book begins by establishing the properties of the real number system, and covers limits, differential and integral calculus, and infinite sequences. Unlike the books that follow, Spivak does not deal with calculus of several variables, so you need another book for that. (He has written a book on that subject, *Calculus on Manifolds*, but it's not considered an introductory book.) Spivak's book has been called an introduction to analysis; you might also call it "calculus for mathematicians".
 
-- Apostol, *Calculus*, volumes I and II
+- Apostol, *Calculus*, volumes I and II ([Vol I](https://smile.amazon.com/dp/0471000051), [Vol I intl](https://smile.amazon.com/dp/8126515198/), [Vol II](https://smile.amazon.com/dp/0471000078), [Vol II intl](https://smile.amazon.com/dp/8126515201))
 
   Apostol is, according to my own rather cursory research, the most widely used of this class of textbooks in college classrooms. Volume I in particular is excellent. The language is much more typical "math-speak" than Spivak's, but the approaches to the material are unusual. Apostol begins with integration before covering limits and differential calculus. This approach works, but it is incovenient if you're trying to use it in combination with another textbook or an online course, since almost all other courses follow the order limits-derivatives-integrals. Apostol's problem sets are excellent, perhaps the best of the bunch. Chapter 1 in particular is a crash course in proof by induction that will very quickly get you comfortable with manipulating sums.
   
   Volume II introduces linear algebra and calculus of several variables. It is often regarded as not as good as Volume I, particularly because its presentation of linear alegebra is dated. However, it does cover some interesting topics not often seen in a calculus textbook: systems of differential equations, probability, and numerical analysis (i.e. approximation methods).
+  
+  The standard edition of these books is, unfortunately, exhorbitantly expensive. However, at least the physical quality of the books is extremely good (the one I have is at least).
 
 - Courant, *Differential and Integral Calculus*, volumes I and II
 
+  - Courant (original). [Vol II](https://smile.amazon.com//dp/487187835X)
+  - Courant (Wiley 2nd edition). [Vol I](https://smile.amazon.com/dp/0471608424) [Vol II](https://smile.amazon.com/dp/0471178535)
+  - Courant and John (Springer). [Vol I](https://smile.amazon.com/gp/product/354065058X), [Vol II/1](https://smile.amazon.com/gp/product/3540665692), [Vol II/2](https://smile.amazon.com/gp/product/3540665706/)
+
   Richard Courant, who died in 1972, was a highly respected German-American mathematician. With Herbert Robbins, he also wrote *What is Mathematics?*, a remarkable work that attempts to explain a large swathe of mathematics to a popular audience. This calculus textbook is particularly noted for its wealth of physics applications, making it by far the most "applied" of this group. However, its problems are also notoriously difficult, so much so that they're not really appropriate for a learner at this level, at least not without a supplement of easier problems to practice with.
   
-  Since Courant has been dead for several decades, a newer edition was published with Fritz John as co-author. That edition is also highly respected. The most notable difference is that Courant and John splits Volume II into two parts and adds several sections of new material.
+  Since Courant has been dead for several decades, a newer edition was published (by Springer) with Fritz John as co-author. That edition is also highly respected. The most notable difference is that Courant and John splits Volume II into two parts and adds several sections of new material.
 
 ### Other textbooks of note
 
