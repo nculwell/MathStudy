@@ -184,11 +184,11 @@ See also: [Differential Geometry](https://github.com/nculwell/MathStudy/blob/mas
 - Schwerdtfeger, *Geometry of Complex Numbers* (c)
 
 ### Functional Analysis
-- Stein and Shakarchi, *Functional Analysis: Introduction to Further Topics in Analysis*
-- Akhiezer and Glazman, *Theory of Linear Operators in Hilbert Space* (c)
-- Griffel, *Applied Functional Analysis* (c)
-- Shilov, *Elementary Functional Analysis* (c)
+- Stein and Shakarchi, *Functional Analysis: Introduction to Further Topics in Analysis* ([1e](https://smile.amazon.com/dp/0691113874))
+- Akhiezer and Glazman, *Theory of Linear Operators in Hilbert Space* ([Dover](https://smile.amazon.com/dp/0486677486/))
+- Griffel, *Applied Functional Analysis* ([Dover](https://smile.amazon.com/dp/0486422585))
+- Shilov, *Elementary Functional Analysis* ([Dover](https://smile.amazon.com/dp/0486689239/)
 - Rudin, *Functional Analysis* ([McGraw-Hill intl @AbeBooks](http://www.abebooks.com/products/isbn/9780070619883))
-- Halmos, *Introduction to Hilbert Space and the Theory of Spectral Multiplicity* (c)
-- Halmos, *A Hilbert Space Problem Book*
+- Halmos, *Introduction to Hilbert Space and the Theory of Spectral Multiplicity* ([Martino](https://smile.amazon.com/dp/1614274711))
+- Halmos, *A Hilbert Space Problem Book* ([2e](https://smile.amazon.com/dp/0387906851))
 - Erdman. *Functional Analysis and Operator Algebras: An Introduction* http://web.pdx.edu/~erdman/FAOA/functional_analysis_operator_algebras_pdf.pdf
