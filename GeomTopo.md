@@ -52,6 +52,7 @@
 - Matsumoto. *An Introduction to Morse Theory*
 - Kosinski. *Differential Manifolds*
 - Lovelock and Rund. *Tensors, Differential Forms, and Variational Principles*
+- Struik. *Lectures on Classical Differential Geometry* ([Dover](https://www.amazon.com/dp/0486656098))
 
 ## Algebraic Topology
 
