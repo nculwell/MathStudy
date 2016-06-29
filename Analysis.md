@@ -20,7 +20,7 @@ These books ease you into real analysis. They are designed to address a difficul
 
 - Schramm, *Introduction to Real Analysis* ([Dover](https://smile.amazon.com/dp/0486469131))
 
-  Schramm begins with a section on how to write proofs. What's really notable about the rest of the book is that he discusses how a number of major theorems of real analysis are essentially equivalent, and he shows you how to establish this equivalence. He wraps up by constructing the real number system via Dedekind cuts, which is a sensible transition to a book like Rudin that begins with Dedekind cuts.
+  Schramm begins with a section on how to write proofs. What's really notable about the rest of the book is that he discusses how a number of major theorems of real analysis are essentially equivalent, and he shows you how to establish this equivalence. He wraps up by constructing the real number system via Dedekind cuts, which is a sensible transition to a book like Rudin that begins with Dedekind cuts. There are so many problems in this book that it can almost be considered a problem book.
 
 - Ross, *Elementary Analysis: The Theory of Calculus* ([2e](https://smile.amazon.com/dp/1461462703/), [1e](https://smile.amazon.com/dp/038790459X))
 
@@ -84,8 +84,8 @@ These books ease you into real analysis. They are designed to address a difficul
 
   My impression is that this focuses on intuition and understanding, and the proofs are largely exercises. It's published by Hundustan Book Agency and sold in the USA via AMS. It can be ordered from India via these links:
 
-  - I: http://www.abebooks.com/servlet/BookDetailsPL?bi=18707026799
-  - II: http://www.abebooks.com/servlet/BookDetailsPL?bi=18707026800
+  - I: http://www.abebooks.com/products/isbn/9789380250649
+  - II: http://www.abebooks.com/products/isbn/9789380250656
 
 - Stromberg, *An Introduction to Classical Real Analysis*
 
@@ -93,8 +93,13 @@ These books ease you into real analysis. They are designed to address a difficul
   
 - Trench. *Introduction to Real Analysis* ([**FREE ONLINE**](http://ramanujan.math.trinity.edu/wtrench/texts/TRENCH_REAL_ANALYSIS.PDF))
 
-### Problem texts
+### Problem books
 
+- Aksoy and Khamsi. *A Problem Book in Real Analysis* ([1e](https://www.amazon.com/Problem-Book-Analysis-Books-Mathematics/dp/1441912959/))
+
+  Covers basic topics in real analysis. Includes solutions!
+
+https://www.amazon.com/Problem-Book-Analysis-Books-Mathematics/dp/1441912959/
 - Erdman. *A ProblemText in Advanced Calculus* ([**FREE ONLINE**](http://web.pdx.edu/~erdman/PTAC/PTAClicensepage.html))
 
 ### More analysis
@@ -105,7 +110,7 @@ These are appropriate for further study in analysis.
 
   A traditional heavyweight, also known as "Big Rudin", "Adult Rudin" or "Daddy Rudin". Extremely expensive, but you can buy the Indian edition.
 
-- Kolmogorov and Fomin, *Elements of the Theory of Functions and Functional Analysis* (c)
+- Kolmogorov and Fomin, *Elements of the Theory of Functions and Functional Analysis* ([Martino](https://www.amazon.com/dp/1614273049/), [Dover](https://www.amazon.com/dp/0486406830/))
 
   Kolmogorov was one of the great mathematicians of the 20th Century. Translated from Russian. This seems to be
   the preferred translation. (It's roughly the same book as Silverman's translation, which is titled *Introductory Real Analysis*.)
