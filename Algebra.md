@@ -58,7 +58,7 @@ See the [Linear Algebra section](LinearAlgebra.md).
 - Holme, *A Royal Road to Algebraic Geometry* ([1e](https://smile.amazon.com/dp/3642192246/))
 - Fulton, [*Algebraic Curves, an Introduction to Algebraic Geometry*](http://www.math.lsa.umich.edu/~wfulton/CurveBook.pdf)
 - Gathmann, [Algebraic Geometry (SS 2014)](http://www.mathematik.uni-kl.de/agag/mitglieder/professoren/gathmann/notes/alggeom/)
-- Smith, 2014, *Introduction to Algebraic Geometry* (http://www.five-dimensions.org/Textbooks/)
+- Smith, 2014. *Introduction to Algebraic Geometry* ([1e Paperback](https://www.amazon.com/Introduction-Algebraic-Geometry-Justin-Smith/dp/1503381536), [**FREE ONLINE**](http://www.five-dimensions.org/Textbooks/))
 
 #### Beyond
 - Hartshorne, *Algebraic Geometry* ([1e](https://smile.amazon.com/Algebraic-Geometry-Graduate-Texts-Mathematics/dp/0387902449/))
