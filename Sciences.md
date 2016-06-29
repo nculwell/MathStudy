@@ -146,7 +146,7 @@ There are math books written for physicists.
 - Farlow. *Partial Differential Equations for Scientists and Engineers*
 - Van Kampen. *Stochastic Processes in Physics and Chemistry*
 - Frankel. *The Geometry of Physics: An Introduction* ([3e](https://smile.amazon.com/dp/1107602602/))
-- Boas. *Mathematical Methods in the Physical Sciences* ([3e](https://smile.amazon.com/dp/0471198269), [3e intl @AbeBooks](http://www.abebooks.com/products/isbn/9788126508105))
+- Boas. *Mathematical Methods in the Physical Sciences* ([3e](https://smile.amazon.com/dp/0471198269), [3e intl @AbeBooks](http://www.abebooks.com/products/isbn/9788126508105), [2e](https://smile.amazon.com/dp/0471044091))
 - Arfken et al. *Mathematical Methods for Physicists: A Comprehensive Guide* ([7e](https://smile.amazon.com/dp/0123846544), [7e intl @AbeBooks](http://www.abebooks.com/products/isbn/9789381269558), [6e](https://smile.amazon.com/dp/0120598760), [4e @AbeBooks](http://www.abebooks.com/products/isbn/9780120598151), [3e @AbeBooks](http://www.abebooks.com/products/isbn/9780120598205))
 
 #### Engineering mathematics
