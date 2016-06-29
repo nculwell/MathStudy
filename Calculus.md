@@ -4,21 +4,22 @@ There are two major camps of introductory calculus textbooks: the "standard" tex
 
 ### Standard calculus textbooks
 
-- Leithold, *TC7* (*The Calculus, 7th edition*)
+- Leithold, *TC7* (*The Calculus, 7th edition*) ([TC7](https://www.amazon.com/dp/0673469131), [TCWAG 6](https://www.amazon.com/dp/0060441070))
   
   Louis Leithold was widely credited with the creation of the modern "standard" calculus textbook. This is either a great accomplishment ("improving math education") or an unforgivable sin ("dumbing down mathematics"), depending on which side of the textbook feud you fall on. In any case, he's dead now, and his book isn't popular enough to attract a successor to maintain it, so this one probably won't get any new editions. In my opinion, it is actually more "proofy" compared to the other books in this section. There is an older but perfectly good edition, *The Calculus With Analytic Geometry* (TCWAG) which is currently available for under $10.
 
   My personal opinion is that if you're going to get a "standard" calc textbook, Leithold is a good choice. Don't expect much from its theoretical demands, though: it does a fine job of teaching the proofs but the proofs you're asked to do in the problem sets are dull and trivial. The calculation problems are also a bit repetitive.
 
-- Stewart, *Calculus: Early Transcendentals* (o)
+- Stewart, *Calculus: Early Transcendentals* ([5e](https://www.amazon.com/dp/0534393217))
 
   Stewart is the flagship of the standard calc textbook movement. It has a huge adoption in both high schools and universities, and a new version is released every few years. It is also probably the most widely lambasted calculus textbook, besides possibly Finney and Thomas. Overall, it does a fine job as far as you can expect from this type of book: many college instructors prefer it to other, similar books. Its frequent revisions (now prepared by others since Stewart died) have been blamed for exploiting students by keeping book prices high, but this has the convenient consequence for self-learners that they can pick up recent but still-perfectly-good older editions on the used market for very cheap. (The revisions mostly concern problem sets, so a student actually enrolled in a course needs to use the required edition.)
 
 Other textbooks in this category that I will not discuss at length are:
 
-- Thomas et al, *Thomas' Calculus* ([12e](https://smile.amazon.com/dp/0321587995)) [Upd 10e](https://smile.amazon.com/dp/0201755270) (Thomas retired in 1978, and editions since then have different co-authors.)
-- Lial, Greenwell et al, *Calculus with Applications*
-- Anton and Bivens, *Calculus*
+- Thomas et al. *Thomas' Calculus* ([12e](https://smile.amazon.com/dp/0321587995)) [Upd 10e](https://smile.amazon.com/dp/0201755270) (Thomas retired in 1978, and editions since then have different co-authors.)
+- Lial, Greenwell et al. *Calculus with Applications* ([9e](https://www.amazon.com/dp/0321421329))
+- Anton and Bivens. *Calculus* ([7e](https://www.amazon.com/dp/047138156X), [7e Student Resource Manual](https://www.amazon.com/dp/0471441724))
+- Larson, Hostetler, Edwards. *Calculus* ([8e](https://www.amazon.com/dp/061850298X/), [7e](https://www.amazon.com/dp/0618141804))
 
 ### Elite calculus textbooks
 
@@ -116,7 +117,8 @@ For multivariate calculus, there seems to be a general consensus that the texts 
 - Schey, *Div, Grad, Curl and All That* (o)
 - Baxandall and Liebeck, *Vector Calculus* (c)
 - Friedman, *Advanced Calculus* (c)
-- Edwards, *Advanced Calculus of Several Variables* (c)
+- C. E. Edwards. *Advanced Calculus of Several Variables*
+- H. M. Edwards. *Advanced Calculus: A Differential Forms Approach* ([3e, 2014 reissue](https://www.amazon.com/Advanced-Calculus-Differential-Approach-Birkhäuser/dp/0817684115), [3e, 1994](https://www.amazon.com/Advanced-Calculus-Differential-Forms-Approach/dp/0817637079))
 - Shifrin, *Multivariable Mathematics: Linear Algebra, Multivariable Calculus, and Manifolds* (u)
 
 *The Feynman Lectures* also discuss vector calculus in the context of electromagnetism, which is supposedly a great way to tie it in with your understanding of the physical, if you already have some background in physics. See [Physics](Sciences.md#physics).
@@ -166,3 +168,15 @@ This site has links to lots of other sites with problem sets and practice exams:
 - Evans, *Partial Differential Equations: Second Edition*
 - Folland, *Introduction to Partial Differential Equations* (u)
 
+## Advanced Calculus
+
+The term "advanced calculus" seems to be somewhat vague. Sometimes it means calculus of several variables, sometimes it means analysis, sometimes it means applications that become possible after you have a couple of years of calculus under your belt.
+
+- Loomis and Sternberg. *Advanced Calculus: Revised Edition* https://www.amazon.com/Advanced-Calculus-Shlomo-Zvi-Sternberg/dp/9814583936
+- Hildebrand. Advanced Calculus for Applications, 2e https://www.amazon.com/Advanced-Calculus-Applications-Francis-Hildebrand/dp/0130111899
+
+## Calculus of variations
+
+https://www.amazon.com/Calculus-Variations-Applications-Physics-Engineering/dp/0486630692
+https://smile.amazon.com/Calculus-Variations-Dover-Books-Mathematics/dp/0486414485
+https://smile.amazon.com/Variational-Principles-Mechanics-Dover-Physics/dp/0486650677
