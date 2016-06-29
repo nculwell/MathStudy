@@ -133,10 +133,11 @@ There's an entire genre of physics books that are written for (and by) mathemati
 
 There are math books written for physicists.
 
-- Schey. *Div, Grad, Curl, and All That: An Informal Text on Vector Calculus*
-- Shankar. *Basic Training in Mathematics: A Fitness Program for Science Students*
-- Fleisch. *A Student's Guide to Vectors and Tensors*
-- Hamill. *A Student's Guide to Lagrangians and Hamiltonians*
+- Schey. *Div, Grad, Curl, and All That: An Informal Text on Vector Calculus* ([4e](https://smile.amazon.com/dp/0393925161), [3e](https://smile.amazon.com/dp/0393969975), [2e](https://smile.amazon.com/dp/0393962512), [1e](https://smile.amazon.com/dp/0393093670))
+- Shankar. *Basic Training in Mathematics: A Fitness Program for Science Students* ([1e](https://smile.amazon.com/dp/0306450364)
+- Fleisch. *A Student's Guide to Vectors and Tensors* ([1e](https://smile.amazon.com/dp/0521171903))
+- Hamill. *A Student's Guide to Lagrangians and Hamiltonians* ([1e](https://smile.amazon.com/dp/1107617529))
+- Fleisch. *A Student's Guide to Maxwell's Equations* ([1e](https://smile.amazon.com//dp/0521701473))
 - Dennery and Krzywicki. *Mathematics for Physicists*
 - Byron and Fuller. *Mathematics of Classical and Quantum Physics*
 - Nakahara. *Geometry, Topology and Physics*
@@ -146,6 +147,7 @@ There are math books written for physicists.
 - Farlow. *Partial Differential Equations for Scientists and Engineers*
 - Van Kampen. *Stochastic Processes in Physics and Chemistry*
 - Frankel. *The Geometry of Physics: An Introduction* ([3e](https://smile.amazon.com/dp/1107602602/))
+- Wallace. *Mathematical Analysis of Physical Problems* ([Dover](https://smile.amazon.com/dp/0486646769))
 - Boas. *Mathematical Methods in the Physical Sciences* ([3e](https://smile.amazon.com/dp/0471198269), [3e intl @AbeBooks](http://www.abebooks.com/products/isbn/9788126508105), [2e](https://smile.amazon.com/dp/0471044091))
 - Arfken et al. *Mathematical Methods for Physicists: A Comprehensive Guide* ([7e](https://smile.amazon.com/dp/0123846544), [7e intl @AbeBooks](http://www.abebooks.com/products/isbn/9789381269558), [6e](https://smile.amazon.com/dp/0120598760), [4e @AbeBooks](http://www.abebooks.com/products/isbn/9780120598151), [3e @AbeBooks](http://www.abebooks.com/products/isbn/9780120598205))
 - Lebedev, *Special Functions & Their Applications*
