@@ -23,7 +23,7 @@ Other textbooks in this category that I will not discuss at length are:
 
 ### Elite calculus textbooks
 
-- Spivak, *Calculus*
+- Spivak, *Calculus* ([4e](https://smile.amazon.com/dp/0914098918), [3e](https://smile.amazon.com/dp/0521867444), [3e/4e answer book](https://smile.amazon.com/dp/0914098926))
 
   Spivak is the most revered of this class of textbooks. It's also the most current: its fourth edition was published in 2008. Spivak has a chatty, conversational style. The book begins by establishing the properties of the real number system, and covers limits, differential and integral calculus, and infinite sequences. Unlike the books that follow, Spivak does not deal with calculus of several variables, so you need another book for that. (He has written a book on that subject, *Calculus on Manifolds*, but it's not considered an introductory book.) Spivak's book has been called an introduction to analysis; you might also call it "calculus for mathematicians".
 
