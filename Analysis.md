@@ -28,7 +28,11 @@ These books ease you into real analysis. They are designed to address a difficul
 
 - Abbot, *Understanding Analysis* ([1e paperback](https://smile.amazon.com/dp/1441928669))
 
-  Abbot's book is more a traditional real analysis book that the others in this section. It doesn't include chapters teaching you how to do mathemetics. The reason that I don't classify it with the "standard" textbooks is that it stops short of measure theory and the Lebesgue integral. For the material that he does cover, though, his explanations are good.
+  Abbot's book is more a traditional real analysis book that the previous ones in this section. It doesn't include chapters teaching you how to do mathemetics. The reason that I don't classify it with the "standard" textbooks is that it stops short of measure theory and the Lebesgue integral. For the material that he does cover, though, his explanations are good.
+
+- Rosenlicht. *Introduction to Analysis* ([1e](https://smile.amazon.com/dp/0486650383/))
+
+  A classic book (1968), well-regarded for its clarity. Also stops short of measure theory and Lebesgue integration.
 
 #### Historical approach
 
