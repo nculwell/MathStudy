@@ -27,7 +27,7 @@ See the [Linear Algebra section](LinearAlgebra.md).
 - Jacobson, *Basic Algebra I* ([2e Dover](https://smile.amazon.com/dp/0486471896/))
 - Dummit and Foote, *Algebra* ([3e intl](https://smile.amazon.com/dp/8126532289/))
 - Mac Lane and Birkhoff, *Algebra 3e* ([3e](https://smile.amazon.com/dp/0821816462/))
-- Lang, *Algebra* ([3e](https://smile.amazon.com/dp/038795385X/)
+- Lang, *Algebra* ([3e](https://smile.amazon.com/dp/038795385X/))
 - Hungerford, *Algebra* ([Springer hardcover](https://smile.amazon.com/dp/0387905189/)
 
 ### Online course notes
@@ -40,6 +40,7 @@ See the [Linear Algebra section](LinearAlgebra.md).
 
 - Eisenbud, *Commutative Algebra: with a View Toward Algebraic Geometry* ([Springer paperback](https://smile.amazon.com/dp/0387942696/))
 - Atiyah and MacDonald, *Introduction To Commutative Algebra* ([Paperback](https://smile.amazon.com/dp/0201407515/))
+- Matsumura, tr. Reid. *Commutative Ring Theory* ([1e](https://smile.amazon.com/dp/0521367646/))
 
 ### Algebraic topology
 
@@ -51,18 +52,18 @@ See the [Linear Algebra section](LinearAlgebra.md).
 ### Algebraic geometry
 
 #### Introductions
-- Beltrametti, Carletti, Gallarati, Bragadin, *Lectures on Curves, Surfaces and Projective Varieties*
-- Shafarevich, Reid, *Basic Algebraic Geometry 1: Varieties in Projective Space*
-- Shafarevich, Reid, *Basic Algebraic Geometry 2: Schemes and Complex Manifolds*
-- Holme, *A Royal Road to Algebraic Geometry*
+- Beltrametti, Carletti, Gallarati, Bragadin, *Lectures on Curves, Surfaces and Projective Varieties* ([1e](https://smile.amazon.com/dp/3037190647/))
+- Shafarevich, Reid, *Basic Algebraic Geometry 1: Varieties in Projective Space* ([3e](https://smile.amazon.com/dp/3642379559/))
+- Shafarevich, Reid, *Basic Algebraic Geometry 2: Schemes and Complex Manifolds* ([3e](https://smile.amazon.com/dp/3642380093/))
+- Holme, *A Royal Road to Algebraic Geometry* ([1e](https://smile.amazon.com/dp/3642192246/))
 - Fulton, [*Algebraic Curves, an Introduction to Algebraic Geometry*](http://www.math.lsa.umich.edu/~wfulton/CurveBook.pdf)
 - Gathmann, [Algebraic Geometry (SS 2014)](http://www.mathematik.uni-kl.de/agag/mitglieder/professoren/gathmann/notes/alggeom/)
 - Smith, 2014, *Introduction to Algebraic Geometry* (http://www.five-dimensions.org/Textbooks/)
 
 #### Beyond
-- Hartshorne, *Algebraic Geometry*
-- Liu Qing, *Algebraic Geometry and Arithmetic Curves*
-- Griffiths, Harris - *Principles of Algebraic Geometry*
-- Görtz, Wedhorn - *Algebraic Geometry I, Schemes with Examples and Exercises*
+- Hartshorne, *Algebraic Geometry* ([1e](https://smile.amazon.com/Algebraic-Geometry-Graduate-Texts-Mathematics/dp/0387902449/))
+- Liu, *Algebraic Geometry and Arithmetic Curves* ([1e](https://smile.amazon.com/dp/0199202494/)
+- Griffiths, Harris - *Principles of Algebraic Geometry* ([Intl ed @AbeBooks](http://www.abebooks.com/products/isbn/9788126546510?cm_sp=bdp-_-9788126546510-_-isbn10))
+- Görtz, Wedhorn - *Algebraic Geometry I, Schemes with Examples and Exercises* ([1e](https://smile.amazon.com/dp/3834806765/))
 - Vakil, [The Rising Sea: Foundations Of Algebraic Geometry Notes](https://math.stanford.edu/~vakil/216blog/)
 
