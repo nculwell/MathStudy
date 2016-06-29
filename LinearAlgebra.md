@@ -28,7 +28,7 @@
 
 - Friedberg, Insel, Spence. *Linear Algebra* ([4e](https://smile.amazon.com/Linear-Algebra-4th-Stephen-Friedberg/dp/0130084514/), [4e intl](https://smile.amazon.com/Linear-Algebra-Lawrence-Stephen-Friedberg/dp/9332549648/), [3e](https://smile.amazon.com/Linear-Algebra-3rd-Stephen-Friedberg/dp/0132338599/))
 
-- Hoffman and Kunze. *Linear Algebra* ([2e intl ed](https://smile.amazon.com/Linear-Algebra-2nd-Hoffman-Kunze/dp/8120302702/))
+- Hoffman and Kunze. *Linear Algebra* ([2e](https://smile.amazon.com/dp/0135367972/), [2e intl ed](https://smile.amazon.com/Linear-Algebra-2nd-Hoffman-Kunze/dp/8120302702/))
 
   For many years this was the standard LA textbook, though it seems it's not as popular as it used to be. It has good, thorough coverage of the core of undergraduate linear algebra. It's a bit old, however, and leans toward the abstract. I don't think it even mentions the Singular Value Decomposition (SVD).
 
