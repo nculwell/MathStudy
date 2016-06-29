@@ -95,48 +95,49 @@ These books ease you into real analysis. They are designed to address a difficul
 
 These are appropriate for further study in analysis.
 
-- Rudin, *Real and Complex Analysis* (i)
+- Rudin, *Real and Complex Analysis* ([3e intl](https://smile.amazon.com/dp/0070619875/), [3e intl @AbeBooks](http://www.abebooks.com/products/isbn/9780070619876/19190730510))
 
   A traditional heavyweight, also known as "Big Rudin", "Adult Rudin" or "Daddy Rudin". Extremely expensive, but you can buy the Indian edition.
 
 - Kolmogorov and Fomin, *Elements of the Theory of Functions and Functional Analysis* (c)
 
   Kolmogorov was one of the great mathematicians of the 20th Century. Translated from Russian. This seems to be
-  the preferred translation. (It's the same book as Silverman's *Introductory Real Analysis*.)
+  the preferred translation. (It's roughly the same book as Silverman's translation, which is titled *Introductory Real Analysis*.)
 
-- Royden (3e preferred)
+- Royden ([3e](https://smile.amazon.com/dp/0024041513/))
 
   Royden is another classic real analyis text. One thing to be aware of is that a fourth edition was published with Patrick Fitzpatrick as co-author, but it hasn't been well-received: many felt that the third edition was in no need of revision, and the fourth introduced new errors. Since it was popular, many copies of the 3rd edition (of 1988) are still available on the used market.
 
-- Folland, *Real Analysis: Modern Techniques and Their Applications* (u)
+- Folland, *Real Analysis: Modern Techniques and Their Applications* ([2e](https://smile.amazon.com/dp/0471317160/))
 
-  An excellent book with extensive coverage.
+  An advanced approach to real analysis. "Encompassing several subjects that underlie much of modern analysis, the book focuses on measure and integration theory, point set topology, and the basics of functional analysis."
+  
+  It's said to be an excellent book. Too bad it's so expensive. There's an older edition but even that one isn't cheap.
 
-- Bass, *Real Analysis for Graduate Students*
+- Bass, *Real Analysis for Graduate Students* ([**FREE ONLINE**](http://bass.math.uconn.edu/real.html), [2e self-published paperback](https://smile.amazon.com/dp/1481869140/))
 
-  Designed as an overview of all the real analysis that a grad student should need to pass a prelim in real analysis.
-  Free online: http://bass.math.uconn.edu/real.html
+  Designed as an overview of all the real analysis that a grad student should need to pass a prelim in real analysis. Not intended to teach it to you the first time.
 
-- Stein and Shakarchi, *Real Analysis: Measure Theory, Integration, and Hilbert Spaces*
+- Stein and Shakarchi, *Real Analysis: Measure Theory, Integration, and Hilbert Spaces* ([1e](https://smile.amazon.com/Real-Analysis-Integration-Princeton-Lectures/dp/0691113866/))
 
   One of four books form a series (*Princeton Lectures in Analysis*) at the level of advanced
   undergraduate or beginning graduate analysis.
   They are widely praised for their quality, but they are also a bit pricey for what you get (and used
   copies aren't much cheaper).
 
-- Carothers, *Real Analysis*
+- Carothers, *Real Analysis* ([1e](https://smile.amazon.com/dp/0521497566/)
 
-- Lieb and Loss, *Analysis*
+- Bartle. *The Elements of Integration and Lebesgue Measure* ([1e](https://smile.amazon.com/Elements-Integration-Lebesgue-Measure/dp/0471042226/), [1e intl @AbeBooks](http://www.abebooks.com/products/isbn/9780471042228/19427046996))
 
-  Largely focuses on applications.
+  Well-regarded text on the more advanced topics of real analysis.
 
-- Folland, *A Guide to Advanced Real Analysis*
+- Lieb and Loss, *Analysis* ([2e](https://smile.amazon.com/dp/0821827839))
+
+  Largely focuses on applications. Includes the Fourier transform, Sobolev spaces and the calculus of variations.
+
+- Folland, *A Guide to Advanced Real Analysis* ([1e](https://smile.amazon.com/dp/0883853434))
 
   "This book is an outline of the core material in the standard graduate-level real analysis course. .... Proofs, however, are generally presented only as sketches, in such a way that the key ideas are explained but the technical details are omitted."
-
-- Folland, *Real Analysis: Modern Techniques and Their Applications*
-
-  An advanced approach to real analysis. "Encompassing several subjects that underlie much of modern analysis, the book focuses on measure and integration theory, point set topology, and the basics of functional analysis."
 
 #### Fourier analysis
 
@@ -177,6 +178,6 @@ See also: [Differential Geometry](https://github.com/nculwell/MathStudy/blob/mas
 - Akhiezer and Glazman, *Theory of Linear Operators in Hilbert Space* (c)
 - Griffel, *Applied Functional Analysis* (c)
 - Shilov, *Elementary Functional Analysis* (c)
-- Rudin, *Functional Analysis*
+- Rudin, *Functional Analysis* ([McGraw-Hill intl @AbeBooks](http://www.abebooks.com/products/isbn/9780070619883))
 - Halmos, *Introduction to Hilbert Space and the Theory of Spectral Multiplicity* (c)
 - Halmos, *A Hilbert Space Problem Book*
