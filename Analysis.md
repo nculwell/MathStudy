@@ -14,19 +14,19 @@ These aren't actually analysis books, but in the math curriculum that's often wh
 
 These books ease you into real analysis. They are designed to address a difficulty in the evolving US math curriculum, namely that because rigorous calculus textbooks (like Spivak and Apostol) are no longer commonly used in lower-level courses, students arrive in real analysis courses without knowing how to read and write proofs or understanding the theoretical foundation of calculus. These books help you with understanding how to do proofs, and they feed you the information in a way that's easier to digest. They don't cover all the material you need, and thus they aren't sufficient on their own to master the subject, but they can make the other books (which I call "standard" below) more manageable.
 
-- Alcock, *How to Think About Analysis*
+- Alcock, *How to Think About Analysis* ([1e](https://smile.amazon.com/dp/0198723539/))
 
   This book begins with a discussion of how to read a math book. This might seem like a trivial thing to discuss, but it is a real problem for many people because math books are presented in a way that requires a lot of engagement on the part of the reader. Many students are not prepared when they encounter a book that is full of proofs and not much else. Alcock covers topics like how to relate theorems to definitions, and even how to study. The remainder of the book introduces major topics in analysis: sequences, series, continuity, differentiability, integrability, the real numbers. This book is written in such an elementary manner that it has a bit of a "for dummies" feel to it (though it's never condescening or childish), but if you can swallow your pride, there's a lot of good information here.
 
-- Schramm, *Introduction to Real Analysis* (c)
+- Schramm, *Introduction to Real Analysis* ([Dover](https://smile.amazon.com/dp/0486469131))
 
   Schramm begins with a section on how to write proofs. What's really notable about the rest of the book is that he discusses how a number of major theorems of real analysis are essentially equivalent, and he shows you how to establish this equivalence. He wraps up by constructing the real number system via Dedekind cuts, which is a sensible transition to a book like Rudin that begins with Dedekind cuts.
 
-- Ross, *Elementary Analysis: The Theory of Calculus*
+- Ross, *Elementary Analysis: The Theory of Calculus* ([2e](https://smile.amazon.com/dp/1461462703/), [1e](https://smile.amazon.com/dp/038790459X))
 
   Ross eases you into real analysis by removing the hardest material from the course (like measure) and putting extra emphasis on the fundamental topics. The book uses a decent number of illustrations when discussing basic topology.
 
-- Abbot, *Understanding Analysis*
+- Abbot, *Understanding Analysis* ([1e paperback](https://smile.amazon.com/dp/1441928669))
 
   Abbot's book is more a traditional real analysis book that the others in this section. It doesn't include chapters teaching you how to do mathemetics. The reason that I don't classify it with the "standard" textbooks is that it stops short of measure theory and the Lebesgue integral. For the material that he does cover, though, his explanations are good.
 
