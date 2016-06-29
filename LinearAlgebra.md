@@ -6,7 +6,7 @@
 
   The latest incarnation of Gilbert Strang's linear algebra textbook. I haven't seen this one myself, but it goes with his highly-regarded online LA course. It is reportedly somewhat more elementary than his older *Linear Algebra and its Applications*.
 
-- Strang. *Linear Algebra and its Applications* ([4e](https://smile.amazon.com/Linear-Algebra-Its-Applications-4th/dp/0030105676/) [4e intl](https://smile.amazon.com/Linear-Algebra-Its-Applications-India/dp/8131501728/) [3e](https://smile.amazon.com/Linear-Algebra-Its-Applications-3rd/dp/0155510053/))
+- Strang. *Linear Algebra and its Applications* ([4e](https://smile.amazon.com/Linear-Algebra-Its-Applications-4th/dp/0030105676/), [4e intl](https://smile.amazon.com/Linear-Algebra-Its-Applications-India/dp/8131501728/), [3e](https://smile.amazon.com/Linear-Algebra-Its-Applications-3rd/dp/0155510053/))
 
   Strang's older book.
 
@@ -16,7 +16,7 @@
 
 - Klein. *Coding the Matrix* (with Brown/Coursera course; great course but not much use as a stand-alone text)
 
-- Lay. *Linear Algebra and Its Applications* ([3e upd](https://smile.amazon.com/Linear-Algebra-Applications-Updated-CD-ROM/dp/0321287134/), [4e](https://smile.amazon.com/Linear-Algebra-Its-Applications-4th/dp/0321385179/). [5e](https://smile.amazon.com/Linear-Algebra-Its-Applications-5th/dp/032198238X/))
+- Lay. *Linear Algebra and Its Applications* ([3e upd](https://smile.amazon.com/Linear-Algebra-Applications-Updated-CD-ROM/dp/0321287134/), [4e](https://smile.amazon.com/Linear-Algebra-Its-Applications-4th/dp/0321385179/), [5e](https://smile.amazon.com/Linear-Algebra-Its-Applications-5th/dp/032198238X/))
 
 - Poole. *Linear Algebra: A Modern Introduction* ([3e](https://smile.amazon.com/Linear-Algebra-Introduction-Available-Enhanced/dp/0538735457/))
 
@@ -30,11 +30,11 @@
 
 - Hoffman and Kunze. *Linear Algebra* ([2e intl ed](https://smile.amazon.com/Linear-Algebra-2nd-Hoffman-Kunze/dp/8120302702/))
 
-  For many years this was the standard LA textbook, though it seems it's not as popular as it used to be.
+  For many years this was the standard LA textbook, though it seems it's not as popular as it used to be. It has good, thorough coverage of the core of undergraduate linear algebra. It's a bit old, however, and leans toward the abstract. I don't think it even mentions the Singular Value Decomposition (SVD).
 
 - Shilov. *Linear Algebra*
 
-  A Russian approach to linear algebra. Like many Russian textbooks, it jumps right in and makes no attempt to hold your hand. Even though the content may be appropriate for first-time learners, many students in the US won't be prepared for a book like this when they start LA.
+  A Russian approach to linear algebra. Like many Russian textbooks, it jumps right in and makes no attempt to hold your hand. Even though the content may be appropriate for first-time learners, many students in the US won't be prepared for a book like this when they start LA. Also tends toward the abstract and doesn't cover the SVD. Includes hints and solutions for exercises.
 
 Many people also favor the Schaum's Outline for linear algebra as well as Schaum's *3,000 Solved Problems in Linear Algebra*.
 
