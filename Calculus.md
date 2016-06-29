@@ -1,6 +1,6 @@
 ## Calculus
 
-There are two major camps of introductory calculus textbooks: the "standard" textbooks like Stewart that most major universities use, and the "elite" textbooks like Spivak and Apostol that are typically used in elite universities and honors courses. The standard books are new, updated frequently, fat (1000 pages), full of glossy diagrams and applications problems, but light on theory and proofs. The elite textbooks are old (usually), rarely updated, thinner, more sparsely illustrated, and they emphasize theory from the ground up beginning with the real number system while having fewer calculation problems and applications problems (no applications, in some cases).
+As I see it, there are two major camps of introductory calculus textbooks: the "standard" textbooks like Stewart that most major universities use, and the "elite" textbooks like Spivak and Apostol that are typically used in elite universities and honors courses. The standard books are new, updated frequently, fat (1000 pages), full of glossy diagrams and applications problems, but light on theory and proofs. The elite textbooks are old (usually), rarely updated, thinner, more sparsely illustrated, and they emphasize theory from the ground up beginning with the real number system while having fewer calculation problems and applications problems (no applications, in some cases).
 
 ### Standard calculus textbooks
 
