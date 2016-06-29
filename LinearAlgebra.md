@@ -32,7 +32,7 @@
 
   For many years this was the standard LA textbook, though it seems it's not as popular as it used to be. It has good, thorough coverage of the core of undergraduate linear algebra. It's a bit old, however, and leans toward the abstract. I don't think it even mentions the Singular Value Decomposition (SVD).
 
-- Shilov. *Linear Algebra*
+- Shilov. *Linear Algebra* ([Dover ed](https://smile.amazon.com/dp/048663518X/))
 
   A Russian approach to linear algebra. Like many Russian textbooks, it jumps right in and makes no attempt to hold your hand. Even though the content may be appropriate for first-time learners, many students in the US won't be prepared for a book like this when they start LA. Also tends toward the abstract and doesn't cover the SVD. Includes hints and solutions for exercises.
 
@@ -44,9 +44,9 @@ Some calculus books include an introduction to linear algebra. Among these are A
 
 I put this book in its own category because it's a bit unique in its appeal. It fills a need that is particular to the current mathematics curriculum. The ordinary intro books these days do not cover enough advanced material for students to comfortably go directly on to the more advanced books listed below. What's more, many students don't have enough exposure to reading and writing proofs yet. Axler's book serves as both a course in abstract linear algebra that covers the essential topics, and a course in proof-reading and proof-writing. However, its contents might be superfluous for someone who started using one of the more thorough introductory books such as Hoffman and Kunze or Shilov.
 
-- Axler. *Linear Algebra Done Right* ([2e](https://smile.amazon.com/Linear-Algebra-Right-Undergraduate-Mathematics/dp/0387982582/), [3e](https://smile.amazon.com/Linear-Algebra-Right-Undergraduate-Mathematics/dp/3319110799/))
+- Axler. *Linear Algebra Done Right* ([3e](https://smile.amazon.com/Linear-Algebra-Right-Undergraduate-Mathematics/dp/3319110799/), [2e](https://smile.amazon.com/Linear-Algebra-Right-Undergraduate-Mathematics/dp/0387982582/))
 
-  An outstanding introduction to an *abstract* approach to linear algebra. This book is all about proofs, you won't find calculations here. It is intended as a second course in linear algebra, to follow a more computation-oriented course, and I agree that this is its best use. You *could* start LA here, but you'd end up having read a whole book and still not knowing how to solve a linear equation. One of the distinctive things about Axler's approach is that he introduces the theory of eigenvalues without using determinants (preferring instead to use the fundamental theorem of algebra). Determinants are then introduced in the last chapter.
+  An outstanding introduction to an *abstract* approach to linear algebra. This book is all about proofs, you won't find calculations here. It is intended as a second course in linear algebra, to follow a more computation-oriented course, and I agree that this is its best use. You *could* start LA here, but you'd end up having read a whole book and still not knowing how to solve a linear equation. One of the distinctive things about Axler's approach is that he introduces the theory of eigenvalues without using determinants (preferring instead to use the fundamental theorem of algebra). Determinants are then introduced in the last chapter. Also, the quality of the Third Edition hardcover is supposedly really nice.
 
 ## Advanced linear algebra (beyond a first course)
 
