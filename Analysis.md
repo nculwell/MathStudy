@@ -143,6 +143,10 @@ These are appropriate for further study in analysis.
 
   "This book is an outline of the core material in the standard graduate-level real analysis course. .... Proofs, however, are generally presented only as sketches, in such a way that the key ideas are explained but the technical details are omitted."
 
+- Erdman. *Companion to Real Analysis* ([**FREE ONLINE**](http://web.pdx.edu/~erdman/CRA/CRAlicensepage.html))
+
+  Free course notes.
+
 #### Fourier analysis
 
 - Stein and Shakarchi, *Fourier Analysis: An Introduction*
