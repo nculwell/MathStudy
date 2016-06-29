@@ -12,7 +12,7 @@
 
 - Hefferon. ([**FREE ONLINE**](http://joshua.smcvt.edu/linearalgebra/), [Dec 2014 paperback](https://smile.amazon.com/Linear-Algebra-Jim-Hefferon/dp/0989897567/))
 
-Jim Hefferon has a free (GFDL/CC BY-SA 2.5) linear algebra text [http://joshua.smcvt.edu/linearalgebra/] which is available as a PDF file or as Latex source. It has exercises with worked answers.
+  Jim Hefferon wrote this free (GFDL/CC BY-SA 2.5) linear algebra text [http://joshua.smcvt.edu/linearalgebra/] which is available as a PDF file or as Latex source. It has exercises with worked answers.
 
 - Klein. *Coding the Matrix* (with Brown/Coursera course; great course but not much use as a stand-alone text)
 
@@ -64,9 +64,9 @@ Most of these will probably be more accessible to someone who has read one of th
 
   This is a grad-level abstract linear algebra text by *Peter Lax*, not the introductory book by *David Lay*! The "applications" here are the pure mathematician's idea of a "application", which means applying the theory to a problem in mathematics, not applying mathematics to the real world.
 
-- Roman. *Advanced Linear Algebra* ([3e](https://smile.amazon.com/Advanced-Linear-Algebra-Graduate-Mathematics/dp/0387728287/))
+- Roman. *Advanced Linear Algebra* ([3e](https://smile.amazon.com/Advanced-Linear-Algebra-Graduate-Mathematics/dp/0387728287/), [AbeBooks](http://www.abebooks.com/servlet/SearchResults?an=Roman&bi=0&bx=off&ds=20&recentlyadded=all&sortby=17&sts=t&tn=Advanced+Linear+Algebra))
 
-  Another grad-level abstract linear algebra book. In spirit it is similar to Axler's *Linear Algebra Done Right*, but from a more advanced perspective. (There is an international edition of this, but I'm not sure where I found it.)
+  Another grad-level abstract linear algebra book. In spirit it is similar to Axler's *Linear Algebra Done Right*, but from a more advanced perspective. (There is an international edition of this, I probably got in from AbeBooks.)
 
 - Gantmacher. *Applications of the Theory of Matrices* ([Dover ed](https://smile.amazon.com/dp/0486445542/))
 
