@@ -90,6 +90,8 @@ These books ease you into real analysis. They are designed to address a difficul
 - Stromberg, *An Introduction to Classical Real Analysis*
 
   Well-liked for its topic selection and exercises.
+  
+- Trench. *Introduction to Real Analysis* ([**FREE ONLINE**](http://ramanujan.math.trinity.edu/wtrench/texts/TRENCH_REAL_ANALYSIS.PDF))
 
 ### Problem texts
 
