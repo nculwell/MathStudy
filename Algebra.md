@@ -7,25 +7,25 @@ See the [Linear Algebra section](LinearAlgebra.md).
 
 ### First books
 
-- Pinter, *A Course in Abstract Algebra* (2e) (c)
+- Pinter, *A Course in Abstract Algebra* ([2e Dover](https://smile.amazon.com/dp/0486474178/))
 
-  Pinter gives you a smooth start in algebra from the very beginning. Each chapter gives a short exposition (typically 4-8 pages) followed by lots of problems. Often the problems fill more pages than the text. In each chapter, problems begin with simple applications of definitions to concrete examples, progress to relatively simple proofs that follow from the definitions and theorems in the text, 
+  Pinter gives you a smooth start in algebra from the very beginning. Each chapter gives a short exposition (typically 4-8 pages) followed by lots of problems. Often the problems fill more pages than the text. In each chapter, problems begin with simple applications of definitions to concrete examples, progress to relatively simple proofs that follow from the definitions and theorems in the text to more difficult problems and, in an extended series of exercises, a proof of Sylow's Theorem.
 
 - Herstein, *Abstract Algebra* (3e) or *Topics in Algebra* (2e)
 
   Herstein has lots of great problems.
 
-- Gallian, *Contemporary Abstract Algebra* (o)
+- Gallian, *Contemporary Abstract Algebra* ([8e paperback](https://smile.amazon.com/dp/8131520749/) [7e](https://smile.amazon.com/dp/0547165099/) [6e](https://smile.amazon.com/dp/0618514716/))
 
-- Connell, *Elements of Abstract and Linear Algebra*
+- Connell, *Elements of Abstract and Linear Algebra* ([**FREE ONLINE**](http://www.math.miami.edu/~ec/book/))
 
   I haven't looked at this one at all yet, but it's free: http://www.math.miami.edu/~ec/book/
 
 ### Major textbooks
 
-- Artin, *Algebra* ([2e [expensive!]](https://smile.amazon.com/Algebra-2nd-Michael-Artin/dp/0132413779/), [2e intl](https://smile.amazon.com/dp/9332549834/), [2e intl @AbeBooks](http://www.abebooks.com/servlet/SearchResults?an=Michael%20Artin&bi=0&bx=off&ds=30&n=100121501&recentlyadded=all&sortby=17&tn=Algebra))
-- Jacobson, *Basic Algebra I* (c)
-- Dummit and Foote, *Algebra* (3e) (i)
+- Artin, *Algebra* ([2e [expensive!]](https://smile.amazon.com/dp/0132413779/), [2e intl](https://smile.amazon.com/dp/9332549834/), [2e intl @AbeBooks](http://www.abebooks.com/servlet/SearchResults?an=Michael%20Artin&bi=0&bx=off&ds=30&n=100121501&recentlyadded=all&sortby=17&tn=Algebra))
+- Jacobson, *Basic Algebra I* ([2e Dover](https://smile.amazon.com/dp/0486471896/))
+- Dummit and Foote, *Algebra* ([3e intl](https://smile.amazon.com/dp/8126532289/))
 - Mac Lane and Birkhoff, *Algebra 3e*
 - Lang, *Algebra*
 - Hungerford, *Algebra*
