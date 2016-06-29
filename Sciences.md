@@ -146,6 +146,8 @@ There are math books written for physicists.
 - Farlow. *Partial Differential Equations for Scientists and Engineers*
 - Van Kampen. *Stochastic Processes in Physics and Chemistry*
 - Frankel. *The Geometry of Physics: An Introduction* ([3e](https://smile.amazon.com/dp/1107602602/))
+- Boas. *Mathematical Methods in the Physical Sciences* ([3e](https://smile.amazon.com/dp/0471198269), [3e intl @AbeBooks](http://www.abebooks.com/products/isbn/9788126508105))
+- Arfken et al. *Mathematical Methods for Physicists: A Comprehensive Guide* ([7e](https://smile.amazon.com/dp/0123846544), [7e intl @AbeBooks](http://www.abebooks.com/products/isbn/9789381269558), [6e](https://smile.amazon.com/dp/0120598760), [4e @AbeBooks](http://www.abebooks.com/products/isbn/9780120598151), [3e @AbeBooks](http://www.abebooks.com/products/isbn/9780120598205))
 
 ## Chemistry
 
@@ -252,6 +254,6 @@ There are math books written for physicists.
 This isn't science but I figured I'd just throw it in here.
 
 - Kreyszig. *Advanced Engineering Mathematics* ([9e](https://smile.amazon.com/dp/0471488852), [8e](https://smile.amazon.com/dp/0471154962))
-- Wylie. *Advanced Engineering Mathematics* ([6e](https://smile.amazon.com/Advanced-Engineering-Mathematics-Ray-Wylie/dp/0070722064), [5e]())
+- Wylie. *Advanced Engineering Mathematics* ([6e](https://smile.amazon.com/Advanced-Engineering-Mathematics-Ray-Wylie/dp/0070722064))
 - Stroud. *Engineering Mathematics* ([7e](https://smile.amazon.com/Engineering-Mathematics-K-Stroud/dp/0831134704), [6e](https://smile.amazon.com/Engineering-Mathematics-K-Stroud/dp/0831133279))
 - Stroud. *Advanced Engineering Mathematics* ([5e](https://smile.amazon.com/Advanced-Engineering-Mathematics-Kenneth-Stroud/dp/0831134496))
