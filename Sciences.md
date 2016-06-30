@@ -90,6 +90,7 @@ This document is even more just a "jumble of references" than the rest of this r
 - Dirac. *The Principles of Quantum Mechanics*
 - Bohm. *Quantum Theory*
 - Schwartz. *Quantum Field Theory and the Standard Model* ([1e](https://smile.amazon.com/dp/1107034736))
+- Lancaster, Blundell. *Quantum Field Theory for the Gifted Amateur* ([1e](https://smile.amazon.com/dp/019969933X))
 
 #### Nuclear physics
 
