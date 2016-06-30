@@ -129,6 +129,7 @@ There's an entire genre of physics books that are written for (and by) mathemati
 - Folland. *Quantum Field Theory: A Tourist Guide for Mathematicians*
 - Sternberg. *Curvature in Mathematics and Physics*
 - Meyer. *Introduction to Mathematical Fluid Dynamics*
+- Courant and Hilbert. *Methods of Mathematical Physics* ([Wiley PB V1](https://smile.amazon.com/dp/0471504475), [Wiley PB V2](https://smile.amazon.com/dp/0471504394), [Wiley HC V1](https://smile.amazon.com/dp/047017952X), [Wiley HC V1](https://smile.amazon.com/dp/0470179856))
 
 ### Math for physics
 
@@ -154,6 +155,9 @@ There are math books written for physicists.
 - Lebedev, *Special Functions & Their Applications*
 - Lanczos, *The Variational Principles of Mechanics* ([4e Dover](https://smile.amazon.com/dp/0486650677))
 - Hildebrand, *Methods of Applied Mathematics* ([2e Dover](https://smile.amazon.com/dp/0486670023)) (Matrices, calculus of variations integral equations. Lots of difficult problems)
+- Tikhonov and Samarskii. *Equations of Mathematical Physics* ([Dover](https://smile.amazon.com/Equations-Mathematical-Physics-Dover-Books/dp/0486664228))
+- Budak, Samarskii, Tikhonov. *A Collection of Problems in Mathematical Physics* ([Dover](https://smile.amazon.com/dp/0486658066))
+- Lebedev. *Worked Problems in Applied Mathematics* ([1e](https://smile.amazon.com/dp/0486637301))
 
 #### Engineering mathematics
 
