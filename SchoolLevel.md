@@ -168,11 +168,13 @@ Schaum's has several of their "outlines" which are appropriate for this level. S
 
 ## More-or-less standard curriculum
 
+- David Rayner
+  - *Essential Mathematics* ([Book 1](https://smile.amazon.com/dp/0199146616), [Book 2](https://smile.amazon.com/dp/0199146624), [Book 3](https://smile.amazon.com/dp/0199146632))
+  - *General Mathematics* ([1e](https://smile.amazon.com/dp/0199142785))
+- Esty, Precalculus ([6e](https://smile.amazon.com/dp/1256671207))
+- Foerster, Algebra and Trigonometry ([Classics ed](https://smile.amazon.com/dp/0131657100))
+- Lang and Murrow, *Geometry: A High School Course* ([2e](https://smile.amazon.com/dp/0387966544), [Solutions manual](https://smile.amazon.com/dp/0387966544))
 - Moise, *Elementary Geometry from an Advanced Standpoint*
-- David Rayner, *Essential Mathematics* (1 & 2) and *General Mathematics*
-- Esty, Precalculus
-- Foerster, Algebra and Trigonometry
-- Lang and Murrow, *Geometry: A High School Course*
 
 ## Enrichment
 
@@ -183,7 +185,8 @@ Schaum's has several of their "outlines" which are appropriate for this level. S
 - Lang, *Basic Mathematics*
 - Vilenkin, *Stories About Sets*
 - Krause, *Taxicab Geometry: An Adventure in Non-Euclidean Geometry* (c)
-- Richeson, *Euler's Gem: The Polyhedron Formula and the Birth of Topology* (c)
+- Richeson, *Euler's Gem: The Polyhedron Formula and the Birth of Topology* ([PUP HC](https://smile.amazon.com/dp/0691126771), [PUP PB](https://smile.amazon.com/dp/0691154570))
+- Stroud and Booth, *Engineering Mathematics* ([7e](https://smile.amazon.com/dp/0831134704), [6e](https://smile.amazon.com/dp/0831133279), [5e](https://smile.amazon.com/dp/0831131527))
 
 ### AMS Mathematical World series
 
