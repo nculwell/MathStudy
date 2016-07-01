@@ -29,3 +29,7 @@ I'm not sure how well I chose the sections here, but at least they break the lis
 ### [Computer Science](CS.md)
 ### [School level (pre-calculus) mathematics](SchoolLevel.md)
 ### [Sciences](Sciences.md)
+
+## Lists of free resources
+
+- http://linear.ups.edu/curriculum.html
