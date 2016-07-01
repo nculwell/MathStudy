@@ -128,8 +128,8 @@ Barbeau has another book, *Pell's Equation*, that is similar in spirit, and (uns
 
 These are apparently still really popular in India. Since they are in the public domain, you can find them available online for free. PDFs are available on archive.org, probably elsewhere as well. They are still in print, though not always as cheap as you'd hope given that the copyrights have expired. Be warned that since they're old, the writing style isn't what you'd expect from a contemporary book.
 
-- Hall and Knight, *Elementary Algebra for Schools*
-- Hall and Knight, *Higher Algebra* ([@Archive.org (Google)](https://archive.org/details/higheralgebraas00kniggoog), [@Archive.org (Wellesley)](https://archive.org/details/higheralgebraseq00hall), [Solutions @Archive.org (Cornell)](https://archive.org/details/cu31924105225399))
+- Hall and Knight, *Elementary Algebra for Schools* ([@Archive.org (Michigan)](https://archive.org/details/elementaryalgeb00kniggoog))
+- Hall and Knight, *Higher Algebra* ([@Archive.org (Michigan)](https://archive.org/details/higheralgebraas00kniggoog), [@Archive.org (Wellesley)](https://archive.org/details/higheralgebraseq00hall), [Solutions @Archive.org (Cornell)](https://archive.org/details/cu31924105225399))
 - Hall and Knight, *Elementary Trigonometry* ([@Archive.org (Boston College)](https://archive.org/details/elementarytrigon00hall), [Solutions @Archive.org (UC)](https://archive.org/details/solutionsofexamp00hallrich))
 - Loney, *Plane Trigonometry* ([@Archive.org (Michigan)](https://archive.org/details/planetrigonomet03lonegoog))
 - Chrystal, *Introduction to Algebra: For the Use of Secondary Schools and Technical Colleges*
