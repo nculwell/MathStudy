@@ -14,7 +14,11 @@
 
   Jim Hefferon wrote this free (GFDL/CC BY-SA 2.5) linear algebra text [http://joshua.smcvt.edu/linearalgebra/] which is available as a PDF file or as Latex source. It has exercises with worked answers.
 
-- Klein. *Coding the Matrix* (with Brown/Coursera course; great course but not much use as a stand-alone text)
+- Beezer. *A First Course in Linear Algebra* ([**FREE ONLINE**](http://linear.ups.edu/))
+
+  Another free (GFDL) linear algebra textbook, by Robert Beezer of University of Puget Sound.
+
+- Klein. *Coding the Matrix* (With Brown/Coursera course; great course but not much use as a stand-alone text. Also, it's not required for the course.)
 
 - Lay. *Linear Algebra and Its Applications* ([3e upd](https://smile.amazon.com/Linear-Algebra-Applications-Updated-CD-ROM/dp/0321287134/), [4e](https://smile.amazon.com/Linear-Algebra-Its-Applications-4th/dp/0321385179/), [5e](https://smile.amazon.com/Linear-Algebra-Its-Applications-5th/dp/032198238X/))
 
