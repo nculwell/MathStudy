@@ -35,8 +35,8 @@ Since the OpenStax website is annoying to use, I provide some direct links here:
 
 Sheldon Axler is a university professor who has written a number of math textbooks for undergraduates. These offer a no-nonsense presentation for an adult audience. Axler doesn't try to entertain you (much), but he does offer a lot of helpful tips about how to think about math as you learn it. Reading his books gives me the sense that he's taught a lot of undergraduates in his time and he has a pretty good idea of what he can and can't expect them to figure out on their own. He is also careful to give you an idea about why he's telling you something, instead of taking the "it will make sense when you get there" attitude that many math professors adopt in writing their books.
 
-- *Algebra and Trigonometry*
-- *Precalculus*
+- *Algebra and Trigonometry* ([1e](https://smile.amazon.com/dp/047047081X))
+- *Precalculus* ([1e](https://smile.amazon.com/dp/0470180722), [2e](https://smile.amazon.com/dp/047064804X))
 
 These two books overlap quite a bit; I'm not sure if there is any substantive difference between them besides the sequencing of topics. His other book at this level, *College Algebra*, is superfluous because it is entirely contained within *Algebra and Trigonometry* (and it's only slightly cheaper).
 
@@ -135,8 +135,8 @@ These are apparently still really popular in India. Since they are in the public
 - Hall and Knight, *Higher Algebra* ([@Archive.org (Michigan)](https://archive.org/details/higheralgebraas00kniggoog), [@Archive.org (Wellesley)](https://archive.org/details/higheralgebraseq00hall), [Solutions @Archive.org (Cornell)](https://archive.org/details/cu31924105225399))
 - Hall and Knight, *Elementary Trigonometry* ([@Archive.org (Boston College)](https://archive.org/details/elementarytrigon00hall), [Solutions @Archive.org (UC)](https://archive.org/details/solutionsofexamp00hallrich))
 - Loney, *Plane Trigonometry* ([@Archive.org (Michigan)](https://archive.org/details/planetrigonomet03lonegoog))
-- Chrystal, *Introduction to Algebra: For the Use of Secondary Schools and Technical Colleges*
-- Chrystal, *Algebra: an Elementary Text-book* (two volumes)
+- Chrystal, *Introduction to Algebra: For the Use of Secondary Schools and Technical Colleges* ([@Archive.org (UC)](https://archive.org/details/introductiontoal00chryrich))
+- Chrystal, *Algebra: an Elementary Text-book* (two volumes) ([Vol I @Archive.org (Toronto)](https://archive.org/details/algebraelementar01chryuoft), [Vol II @Archive.org (Toronto)](https://archive.org/details/algebraelementar02chryuoft); [Vol I @Archive.org (Michigan)](https://archive.org/details/algebraanelemen09chrygoog), [Vol II @Archive.org (Michigan)](https://archive.org/details/algebraanelemen08chrygoog))
 
 *Elementary Algebra for Schools* is probably unnecessary these days. It covers roughly the equivalent of Algebra I and maybe Algebra II in US high schools, but modern textbooks do a better job with the material.
 
