@@ -267,3 +267,8 @@ I decided to group these books here because the topics are pretty similar to tho
 - Kandel, Schwartz and Jessell. *Principles of Neural Science*
 - Bear, Connors, Paradiso. *Neuroscience, Exploring the Brain*
 - Rosenzweig, Leiman and Breedlove. *Biological Psychology*
+
+### Epidemiology
+
+- Gordis. *Epidemiology* ([4e](https://smile.amazon.com/dp/1416040021))
+- Hennekens, Buring, Mayrent. *Epidemiology in Medicine* ([1e](https://smile.amazon.com/dp/0316356360))
