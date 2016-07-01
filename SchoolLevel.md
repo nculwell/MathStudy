@@ -76,11 +76,11 @@ The Art of Problem Solving website also offers online courses that go with these
 
 Israel M. Gelfand (Гельфанд) wrote a series of books to teach fundamental mathematics to grade school students as part of a correspondence program. The resulting series of books covers from algebra through precalculus:
 
-- *Functions and Graphs*
-- *The Method of Coordinates*
-- *Algebra*
-- *Trigonometry*
-- *Sequences, Combinations, Limits*
+- Gelfand and Shen. *Algebra* ([Birkhäuser 1993](https://smile.amazon.com/dp/0817636773))
+- Gelfand, Glagoleva, Kirillov. *The Method of Coordinates* ([Dover 2002](https://smile.amazon.com/dp/0486425657))
+- Gelfand, Glagoleva, Shnol. *Functions and Graphs* ([Dover 2002](https://smile.amazon.com/dp/0486425649))
+- Gelfand and Saul. *Trigonometry* ([Birkhäuser 2001](https://smile.amazon.com/dp/0817639144))
+- S. I. Gelfand, Gerver, Kirillov, Konstantinov. *Sequences, Combinations, Limits*
 
 Rutgers still runs the Extended Gelfand Correspondence Program in Mathematics (http://www.egcpm.com/), which allows you to have your exercises graded. You could just do them by yourself of course, but no answers are provided. The program accepts students of ages 13-17.
 
@@ -89,6 +89,9 @@ Gelfand's books seem like a pretty interesting way to introduce high-school mate
 #### Kiselev
 
 Andrei P. Kiselev (Киселёв, also written Kiselyov) wrote a book called Geometry, which was the standard text in Russia for many decades (and was revised many times during that period). It is available in English in two volumes, *Planimetry* and *Stereometry*, which were translated and adapted for the USA by Alexander Givental.
+
+- [Kiselev's Geometry, Book I: Planimetry](https://smile.amazon.com/dp/0977985202)
+- [Kiselev's Geometry, Book II: Stereometry](https://smile.amazon.com/dp/0977985210)
 
 *Volume I: Planimetry* covers lines, circles, similarity, regular polygons and areas. *Volume II: Stereometry* covers figures in three dimensions: lines and planes, polyhedra and round solids; then it wraps up with an introduction to vectors and then an overview of the history of geometry and a brief introduction to non-Euclidean geometry. *Volume II* in particular goes well beyond what high school students in the US are expected to learn from a geometry course, and it gets very dense.
 
