@@ -95,12 +95,15 @@ These books ease you into real analysis. They are designed to address a difficul
 
 ### Problem books
 
-- Aksoy and Khamsi. *A Problem Book in Real Analysis* ([1e](https://www.amazon.com/Problem-Book-Analysis-Books-Mathematics/dp/1441912959/))
+- Larson. *Problem-Solving Through Problems* ([1e PB](https://smile.amazon.com/dp/0387961712))
+
+- Aksoy and Khamsi. *A Problem Book in Real Analysis* ([1e](https://www.amazon.com/dp/1441912959))
 
   Covers basic topics in real analysis. Includes solutions!
 
-https://www.amazon.com/Problem-Book-Analysis-Books-Mathematics/dp/1441912959/
 - Erdman. *A ProblemText in Advanced Calculus* ([**FREE ONLINE**](http://web.pdx.edu/~erdman/PTAC/PTAClicensepage.html))
+
+- Moise. *Introductory Problem Courses in Analysis and Topology* ([1e PB](https://smile.amazon.com/dp/0387907017))
 
 ### More analysis
 
