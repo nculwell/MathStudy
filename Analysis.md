@@ -206,7 +206,7 @@ See also: [Differential Geometry](https://github.com/nculwell/MathStudy/blob/mas
 - Conway, *Functions of One Complex Variable* (i)
 - Needham, *Visual Complex Analysis*
 - Schwerdtfeger, *Geometry of Complex Numbers* (c)
-- Ash, *Complex Variables* (with solutions) http://www.math.uiuc.edu/~r-ash/CV.html
+- Ash and Novinger, *Complex Variables* (with solutions) http://www.math.uiuc.edu/~r-ash/CV.html
 
 ### Functional Analysis
 - Stein and Shakarchi, *Functional Analysis: Introduction to Further Topics in Analysis* ([1e](https://smile.amazon.com/dp/0691113874))
