@@ -196,6 +196,8 @@ Schaum's has several of their "outlines" which are appropriate for this level. S
 
 ## Problem books, math competition prep
 
+- Tanton. *Trigonometry: A Clever Study Guide* ([1e](https://smile.amazon.com/Trigonometry-Clever-Study-Guide-Problem/dp/0883858363))
+
 https://smile.amazon.com/Stanford-Mathematics-Problem-Book-Solutions/dp/0486469247
 https://smile.amazon.com/USSR-Olympiad-Problem-Book-Mathematics/dp/0486277097
 https://smile.amazon.com/Moscow-Puzzles-Mathematical-Recreations-Recreational/dp/0486270785
