@@ -156,6 +156,7 @@ I don't know if anyone still uses these other old books or not, but some people 
 - Wells. *A First Course in Algebra*
 - Wells. *Second Course in Algebra*
 - Wells. *University Algebra*
+- Todhunter. *Algebra for beginners* ([1880 ed @Archive.org (Toronto)](https://archive.org/details/algebraforbeginn00todhuoft))
 - Todhunter. *Algebra For the Use of Colleges and Schools* ([1889 ed @Archive.org (Toronto)](https://archive.org/details/algebraforuseofc00todhuoft))
 
 ## Schaum's Outlines
