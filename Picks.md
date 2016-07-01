@@ -12,6 +12,8 @@ Linear Algebra: Strang *LAAIA* 3; Axler *LADR*; Tretethen and Bau; Hoffman and K
 
 CS: Sedgewick; Sipser 2e; Papadimitriou and Steiglitz; EOPL
 
+Probability: Ross *FCIP*
+
 Analysis: Schramm; Stromberg; Churchill; Flanigan; Taylor; Royden; Conway; Akhiezer and Glazman; Munkres *AOM*
 
 Algebra: Pinter; Artin; Mac Lane and Birkhoff
