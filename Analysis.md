@@ -105,6 +105,18 @@ These books ease you into real analysis. They are designed to address a difficul
 
 - Moise. *Introductory Problem Courses in Analysis and Topology* ([1e PB](https://smile.amazon.com/dp/0387907017))
 
+- Gelbaum. *Problems in Real and Complex Analysis* ([1e HC](https://smile.amazon.com/dp/038797766X)
+
+- Kirillov and Gvishiani. *Theorems and Problems in Functional Analysis* ([1e](https://smile.amazon.com/dp/038790638X))
+
+- Furdui. *Limits, Series, and Fractional Part Integrals: Problems in Mathematical Analysis* ([1e](https://smile.amazon.com/dp/1461467616))
+
+- Gasinski and Papageorgiou.
+  - *Exercises in Analysis: Part 1* ([1e](https://smile.amazon.com/dp/3319061755))
+  - *Exercises in Analysis: Part 2: Nonlinear Analysis* ([1e](https://smile.amazon.com/dp/3319278150))
+  
+  A *huge*, brand-new collection of problems on analysis (each book is over 1000 pages). "This nearly encyclopedic coverage of exercises in mathematical analysis is the first of its kind and is accessible to a wide readership. Graduate students will find the collection of problems valuable in preparation for their preliminary or qualifying exams as well as for testing their deeper understanding of the material."
+
 ### More analysis
 
 These are appropriate for further study in analysis.
