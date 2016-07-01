@@ -120,6 +120,7 @@ For multivariate calculus, there seems to be a general consensus that the texts 
 - C. E. Edwards. *Advanced Calculus of Several Variables*
 - H. M. Edwards. *Advanced Calculus: A Differential Forms Approach* ([3e, 2014 reissue](https://www.amazon.com/Advanced-Calculus-Differential-Approach-Birkhäuser/dp/0817684115), [3e, 1994](https://www.amazon.com/Advanced-Calculus-Differential-Forms-Approach/dp/0817637079))
 - Shifrin, *Multivariable Mathematics: Linear Algebra, Multivariable Calculus, and Manifolds* (u)
+- Corral, *Vector Calculus* ([**FREE ONLINE**](http://mecmath.net/index.html))
 
 *The Feynman Lectures* also discuss vector calculus in the context of electromagnetism, which is supposedly a great way to tie it in with your understanding of the physical, if you already have some background in physics. See [Physics](Sciences.md#physics).
 
