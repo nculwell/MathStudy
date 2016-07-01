@@ -96,9 +96,9 @@ Andrei P. Kiselev (Киселёв, also written Kiselyov) wrote a book called Ge
 
 Jacobs books combine entertaining commentary and careful exposition. He aims to convince people who "don't like math" that really it's an interesting subject. These books are copiously illustrated, with lots of well-chosen images that help illustrate and reinforce the mathematical content.
 
-- *Mathematics: A Human Endeavor*
-- *Elementary Algebra*
-- *Geometry: Seeing, Doing, Understanding*
+- *Mathematics: A Human Endeavor* ([3e](https://smile.amazon.com/dp/071672426X), [2e](https://smile.amazon.com/dp/0716713268))
+- *Elementary Algebra* ([1e](https://smile.amazon.com/dp/0716710471))
+- *Geometry: Seeing, Doing, Understanding* ([3e](https://smile.amazon.com/dp/0716743612), [2e](https://smile.amazon.com/dp/071671745X))
 
 *Elementary Algebra* and *Geometry* are fairly standard secondary school curricula for those subjects. *A Human Endeavor* is a "topics" type book that would be appropriate for anyone at the pre-algebra level on up who isn't already familiar with the topics. The topics it presents aren't particularly advanced, but they are important ones, and many of them (e.g. statistics, topology) are not covered in a standard high school curriculum.
 
