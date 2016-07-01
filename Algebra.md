@@ -30,11 +30,11 @@ See the [Linear Algebra section](LinearAlgebra.md).
 - Lang, *Algebra* ([3e](https://smile.amazon.com/dp/038795385X/))
 - Hungerford, *Algebra* ([Springer hardcover](https://smile.amazon.com/dp/0387905189/)
 
-### Online course notes
+### Free resources
 
-* J. S. Milne
-
-  http://www.jmilne.org/math/CourseNotes/index.html
+* J. S. Milne, course notes: http://www.jmilne.org/math/CourseNotes/index.html
+* Ash. *Abstract Algebra: The Basic Graduate Year* (with solutions) http://www.math.uiuc.edu/~r-ash/Algebra.html
+* Ash. *A Course in Algebraic Number Theory* (with solutions) http://www.math.uiuc.edu/~r-ash/ANT.html
 
 ### Commutative algebra
 
