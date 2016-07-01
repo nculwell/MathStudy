@@ -164,6 +164,10 @@ These are appropriate for further study in analysis.
 - Folland, *A Guide to Advanced Real Analysis* ([1e](https://smile.amazon.com/dp/0883853434))
 
   "This book is an outline of the core material in the standard graduate-level real analysis course. .... Proofs, however, are generally presented only as sketches, in such a way that the key ideas are explained but the technical details are omitted."
+  
+- Ash. *Real Variables, with basic metric space topology* ([**FREE ONLINE**](http://www.math.uiuc.edu/~r-ash/RV.html), [Dover](https://smile.amazon.com/dp/0486472205))
+
+  An introduction to real analysis. Includes solutions to problems!
 
 - Erdman. *Companion to Real Analysis* ([**FREE ONLINE**](http://web.pdx.edu/~erdman/CRA/CRAlicensepage.html))
 
