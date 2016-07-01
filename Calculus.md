@@ -2,24 +2,28 @@
 
 ### Standard calculus textbooks
 
-These books are those designed to be the required textbook for a standard high school or university calculus course. Many of them have had a large number of revisions, which makes it likely that you can find slightly older but still perfectly useful copies on the used market. They try to have everything -- proofs, intuitive explanations, illustrations, problems -- but they aren't necessarily great at anything. These books are widely derided by math majors, though I suspect this to be in part motivated by elitism and by grad students' dislike of teaching lower-level math courses. In any case, these are useful even if you just want a cheap source of problems to practice with. Sometimes these are divided into two books, with one book covering the first two semesters of the typical calculus sequence (calculus of a single variable) and the second covering the third semester (an introduction to calculus of several variables). The unified books are big fat things, usually around 1000 pages. I've tried to link mainly to the best-priced editions so you can get a book for $5-10.
+These books are those designed to be the required textbook for a standard high school or university calculus course. Many of them have had a large number of revisions, which makes it likely that you can find slightly older but still perfectly useful copies on the used market. They try to have everything -- proofs, intuitive explanations, illustrations, problems -- but they aren't necessarily great at anything. These books are widely derided by math majors, though I suspect this to be in part motivated by elitism and by grad students' dislike of teaching lower-level math courses. In any case, these are useful even if you just want a cheap source of problems to practice with.
 
-- Leithold. ([TC7](https://www.amazon.com/dp/0673469131); [TCWAG 6](https://www.amazon.com/dp/0060441070)) -- I've seen Louis Leithold credited as the creator of the modern "standard" calculus textbook. His series is probably more "proofy" compared to the other books in this section.
+The OpenStax series follows a very common sequencing of topics, which I list here as a representative of what you can expect to find in the books in this section. OpenStax splits these into three separate books, but most series combine them all into one huge book of about 1000 pages. It's also common to see 1 & 2 combined, and a separate book for 3.
+
+- Volume 1: functions, limits, derivatives, and integration.
+- Volume 2: integration, differential equations, sequences and series, and parametric equations and polar coordinates.
+- Volume 3: parametric equations and polar coordinates, vectors, functions of several variables, multiple integration, and second-order differential equations.
+
+Here are some books in this category, including the most popular ones that I know of.  I've tried to link mainly to the best-priced editions so you can get a book for $5-10.
+
+- OpenStax: Strang, Herman et al. *Calculus*. (**FREE ONLINE**: [Vol 1](https://openstax.org/details/calculus-volume-1); [Vol 2](https://openstax.org/details/calculus-volume-2); [Vol 3](https://openstax.org/details/calculus-volume-3))
+- Strang, *Calculus* (**FREE ONLINE**: [Website](http://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/), [Direct link to PDF](http://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf))
 - Stewart. *Calculus: Early Transcendentals* ([5e](https://www.amazon.com/dp/0534393217)) -- Has huge adoption in both high schools and universities.
+- Leithold. ([TC7](https://www.amazon.com/dp/0673469131); [TCWAG 6](https://www.amazon.com/dp/0060441070)) -- I've seen Louis Leithold credited as the creator of the modern "standard" calculus textbook. His series is probably more "proofy" compared to the other books in this section.
 - Thomas et al. *Thomas' Calculus* ([12e](https://smile.amazon.com/dp/0321587995); [Upd 10e](https://smile.amazon.com/dp/0201755270); [9e](https://smile.amazon.com/dp/0201531747); [9e Alt](https://smile.amazon.com/dp/0201531747)) -- Thomas retired in 1978, and editions since then have different co-authors, principally Ross Finney.
 - Lial, Greenwell et al. *Calculus with Applications* ([9e](https://www.amazon.com/dp/0321421329))
 - Anton, Bivens and Davis. *Calculus* ([7e](https://www.amazon.com/dp/047138156X); [7e Student Resource Manual](https://www.amazon.com/dp/0471441724); [9e multivariable](https://www.amazon.com/dp/0470183462))
 - Larson, Hostetler, Edwards. *Calculus* ([8e](https://www.amazon.com/dp/061850298X/); [7e](https://www.amazon.com/dp/0618141804))
 
-### Nonstandard calculus textbooks
-
-- Ash and Ash, *The Calculus Tutoring Book*
-
-  This book just doesn't bother with theorems or proofs unless they are necessary. It focuses on giving you an intuitive grasp of calculus. I like it a lot. I wouldn't advocate it as your only book on calculus, but I think it would make a very good *first* book. It covers the standard calculus curriculum as I decribed in the "Standard calculus textbooks" section above. Although it focuses heavily on pedagogy, I think that this may *not* be a book "for dummies", so to speak. It may be that stronger math students are the ones who can actually benefit the most from this approach, because they are used to learning by understanding rather than by memorizing rules. Though I mention that proofs are largely dispensed with here, they are not entirely absent: I found that, when they were included, it was most often in support of a statement that I wasn't sure if I believed, which seems the perfect balance.
-
 ### Elite calculus textbooks
 
-These are books that math majors get enthusiastic about. They are typically used in elite universities and honors courses. They emphasize theory from the ground up beginning with the real number system, but they have fewer calculation problems and applications problems (no applications, in some cases).
+These are books that math majors get enthusiastic about. They are typically used in elite universities and honors courses. They emphasize theory from the ground up beginning with the real number system, but they have fewer calculation problems and applications problems (no applications, in some cases). Note that many, maybe most students who read these books do not actually *start* calculus with them: often they've seen calculus before, maybe they've even had a course or two.
 
 - Spivak, *Calculus* ([4e](https://smile.amazon.com/dp/0914098918); [3e](https://smile.amazon.com/dp/0521867444); [3e/4e answer book](https://smile.amazon.com/dp/0914098926))
 
@@ -44,18 +48,23 @@ These are books that math majors get enthusiastic about. They are typically used
   
   Since Courant has been dead for several decades, a newer edition was published (by Springer) with Fritz John as co-author. That edition is also highly respected. The most notable difference is that Courant and John splits Volume II into two parts and adds several sections of new material.
 
+- Shahriari, *Approximately Calculus* ([1e](https://smile.amazon.com/dp/0821837508))
+
+  A more recent book of this style. It's intended as a second book on calculus. It's full of difficult problems that push your theoretical understanding of calculus, approaching the topic in unusual ways.
+
 ### Other textbooks of note
 
-These books are ones that I'd consider somehow "in between" the other two groups.
+These books don't fit cleanly into the categories that I described above.
 
-- Strang, *Calculus* (f)
-  
-  A free textbook, available from MIT's OCW website here along with some other information:
-  http://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/
+- The calculus book from [The Art of Problem Solving series]().
 
-  Here's a direct link to the PDF: http://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf
-  
-  Strang's book is in some ways a "standard" textbook in that it stresses intuitive understanding and physical applications, but it has an undeniable charm, and Strang is one of the great math educators of our time.
+- Ash and Ash, *The Calculus Tutoring Book*
+
+  This book just doesn't bother with theorems or proofs unless they are necessary. It focuses on giving you an intuitive grasp of calculus. I like it a lot. I wouldn't advocate it as your only book on calculus, but I think it would make a very good *first* book. It covers the standard calculus curriculum as I decribed in the "Standard calculus textbooks" section above. Although it focuses heavily on pedagogy, I think that this may *not* be a book "for dummies", so to speak. It may be that stronger math students are the ones who can actually benefit the most from this approach, because they are used to learning by understanding rather than by memorizing rules. Though I mention that proofs are largely dispensed with here, they are not entirely absent: I found that, when they were included, it was most often in support of a statement that I wasn't sure if I believed, which seems the perfect balance. Does not cover: differential equations, parametric equations, polar coordinates
+
+- Thompson and Gardner, *Calculus Made Easy* ([Revised](https://smile.amazon.com/Calculus-Made-Easy-Silvanus-Thompson/dp/0312185480))
+
+  An intuitive introduction to calculus. This isn't thorough enough to be a course textbook, but it makes a good companion to a textbook. It's for someone who's just beginning calculus. The original version (by just Thompson) is in the public domain. It's shorter and some people feel that it does a better job of keeping things simple. Keep in mind that it's old! It was published in 1914. Its casual style emphasizes its old-fashionedness. Some might find this charming, others annoying. You can get it online here: https://archive.org/details/CalculusMadeEasy
 
 - Thomas, *Calculus and Analytic Geometry* (c) [3rd Alternate](https://smile.amazon.com/dp/B000K1UMJS)
 
@@ -75,17 +84,9 @@ These books are ones that I'd consider somehow "in between" the other two groups
 
   Because of its focus on the standard topics without a bunch of fuss over applications, this is currently my preferred reference for anything that it covers.
 
-- Thompson and Gardner, *Calculus Made Easy* ([Revised](https://smile.amazon.com/Calculus-Made-Easy-Silvanus-Thompson/dp/0312185480))
-
-  An intuitive introduction to calculus. This isn't thorough enough to be a course textbook, but it makes a good companion to a textbook. It's for someone who's just beginning calculus. The original version (by just Thompson) is in the public domain. It's shorter and some people feel that it does a better job of keeping things simple. You can get it online here: https://archive.org/details/CalculusMadeEasy
-
 - Körner, *Calculus for the Ambitious* ([1e](https://smile.amazon.com/dp/1107063922))
 
   CUP's promotion says, "In a lively and easy-to-read style, Professor Körner uses approximation and estimates in a way that will easily merge into the standard development of analysis. By using Taylor's theorem with error bounds he is able to discuss topics that are rarely covered at this introductory level." I haven't seen this book in the flesh yet, but it's inexpensive.
-  
-- Shahriari, *Approximately Calculus*
-
-  This is intended as a second book on calculus. It's full of difficult problems that push your theoretical understanding of calculus, approaching the topic in unusual ways. It's probably more in line with books like Spivak in its intentions.
 
 ### Free books
 
