@@ -180,7 +180,7 @@ Schaum's has several of their "outlines" which are appropriate for this level. S
 - Esty, Precalculus ([6e](https://smile.amazon.com/dp/1256671207))
 - Foerster, Algebra and Trigonometry ([Classics ed](https://smile.amazon.com/dp/0131657100))
 - Lang and Murrow, *Geometry: A High School Course* ([2e](https://smile.amazon.com/dp/0387966544), [Solutions manual](https://smile.amazon.com/dp/0387966544))
-- Moise, *Elementary Geometry from an Advanced Standpoint*
+- Moise, *Elementary Geometry from an Advanced Standpoint* ([3e PB](https://smile.amazon.com/dp/0201508672), [2e HC](https://smile.amazon.com/dp/0201047934))
 
 ## Enrichment
 
