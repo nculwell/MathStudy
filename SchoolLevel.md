@@ -152,10 +152,11 @@ Chrystal's *Introduction to Algebra* and *Algebra: an Elementary Text-book* form
 
 I don't know if anyone still uses these other old books or not, but some people like them.
 
-- Charles Smith, *A Treatise on Algebra* https://archive.org/details/atreatiseonalge00smitgoog
-- Wells, *A First Course in Algebra*
-- Wells, *Second Course in Algebra*
-- Wells, *University Algebra*
+- Charles Smith. *A Treatise on Algebra* https://archive.org/details/atreatiseonalge00smitgoog
+- Wells. *A First Course in Algebra*
+- Wells. *Second Course in Algebra*
+- Wells. *University Algebra*
+- Todhunter. *Algebra For the Use of Colleges and Schools* ([1889 ed @Archive.org (Toronto)](https://archive.org/details/algebraforuseofc00todhuoft))
 
 ## Schaum's Outlines
 
