@@ -24,6 +24,11 @@
 - Mitzenmacher & Upfal, *Probability and Computing: Randomized Algorithms and Probabilistic Analysis*
 - Ross, *Applied Probability Models with Optimization Applications* (c)
 
+#### Biostats
+
+- Wassertheil-Smoller. *Biostatistics and Epidemiology: A Primer for Health and Biomedical Professionals* ([3e](https://smile.amazon.com/dp/0387402926))
+- Glantz. *Primer of Biostatistics* ([6e](https://smile.amazon.com/dp/0071435093))
+
 #### With measure theory
 
 - Rosenthal, *A First Look at Rigorous Probability Theory* (c)
