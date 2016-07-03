@@ -20,6 +20,7 @@ Here are some books in this category, including the most popular ones that I kno
 - Lial, Greenwell et al. *Calculus with Applications* ([9e](https://www.amazon.com/dp/0321421329))
 - Anton, Bivens and Davis. *Calculus* ([7e](https://www.amazon.com/dp/047138156X); [7e Student Resource Manual](https://www.amazon.com/dp/0471441724); [9e multivariable](https://www.amazon.com/dp/0470183462))
 - Larson, Hostetler, Edwards. *Calculus* ([8e](https://www.amazon.com/dp/061850298X/); [7e](https://www.amazon.com/dp/0618141804))
+- Marsden and Weinstein. *Calculus* (Vol I: [2e](https://smile.amazon.com/dp/0387909745); Vol II: [2e](https://smile.amazon.com/dp/0387909753); Vol III: [2e](https://smile.amazon.com/dp/0387909850))
 
 ### Elite calculus textbooks
 
