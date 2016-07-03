@@ -89,6 +89,8 @@ These books don't fit cleanly into the categories that I described above.
 
   CUP's promotion says, "In a lively and easy-to-read style, Professor Körner uses approximation and estimates in a way that will easily merge into the standard development of analysis. By using Taylor's theorem with error bounds he is able to discuss topics that are rarely covered at this introductory level." I haven't seen this book in the flesh yet, but it's inexpensive.
 
+- Stein. *Calculus in the First Three Dimensions* ([Dover](https://smile.amazon.com/dp/0486801144))
+
 ### Free books
 
 - https://openstax.org/subjects
@@ -116,10 +118,10 @@ For multivariate calculus, there seems to be a general consensus that the texts 
 
 - Hubbard and Hubbard, *Vector Calculus, Linear Algebra and Differential Forms: A Unified Approach*
 - Schey, *Div, Grad, Curl and All That* (o)
-- Baxandall and Liebeck, *Vector Calculus* (c)
-- Friedman, *Advanced Calculus* (c)
+- Baxandall and Liebeck, *Vector Calculus* ([Dover](https://smile.amazon.com/dp/0486466205))
+- Friedman, *Advanced Calculus* ([Dover](https://smile.amazon.com/dp/0486457958))
 - C. E. Edwards. *Advanced Calculus of Several Variables*
-- H. M. Edwards. *Advanced Calculus: A Differential Forms Approach* ([3e, 2014 reissue](https://www.amazon.com/Advanced-Calculus-Differential-Approach-Birkhäuser/dp/0817684115), [3e, 1994](https://www.amazon.com/Advanced-Calculus-Differential-Forms-Approach/dp/0817637079))
+- H. M. Edwards. *Advanced Calculus: A Differential Forms Approach* ([3e, 2014 reissue](https://www.amazon.com/dp/0817684115), [3e, 1994](https://www.amazon.com/dp/0817637079))
 - Shifrin, *Multivariable Mathematics: Linear Algebra, Multivariable Calculus, and Manifolds* (u)
 - Corral, *Vector Calculus* ([**FREE ONLINE**](http://mecmath.net/index.html))
 - Marsden and Tromba. *Vector Calculus* ([5e](https://smile.amazon.com/dp/0716749920), [4e](https://smile.amazon.com/dp/0716724324))
