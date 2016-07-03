@@ -89,7 +89,7 @@ These books don't fit cleanly into the categories that I described above.
 
   CUP's promotion says, "In a lively and easy-to-read style, Professor Körner uses approximation and estimates in a way that will easily merge into the standard development of analysis. By using Taylor's theorem with error bounds he is able to discuss topics that are rarely covered at this introductory level." I haven't seen this book in the flesh yet, but it's inexpensive.
 
-- Stein. *Calculus in the First Three Dimensions* ([Dover](https://smile.amazon.com/dp/0486801144))
+- Stein. *Calculus in the First Three Dimensions* ([Dover](https://smile.amazon.com/dp/0486801144); [Solutions manual (PDF)](http://www.doverpublications.com/solutions/801144.pdf))
 
 ### Free books
 
