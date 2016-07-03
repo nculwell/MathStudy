@@ -3,7 +3,7 @@
 
 #### General introductions
 
-- Pitman, *Probability*
+- Pitman, *Probability* ([1e](https://smile.amazon.com/dp/0387979743))
 
   Considered by many to be the best introduction to probability.
 
@@ -12,6 +12,8 @@
   Lots of great problems.
 
 - Feller, *An Introduction to Probability Theory and its Applications* (Vol I: [3e](https://smile.amazon.com/dp/0471257087), [3e intl](https://smile.amazon.com/dp/8126518057); Vol II: [2e](https://smile.amazon.com/dp/B000OOHXDO), [2e intl](https://smile.amazon.com/dp/8126518065))
+
+- Ash. *The Probability Tutoring Book: An Intuitive Course for Engineers and Scientists* ([Revised paperback](https://smile.amazon.com/dp/0780310519), [Original hardcover](https://smile.amazon.com/dp/0879422939))
 
 #### Further
 
