@@ -122,7 +122,7 @@ For multivariate calculus, there seems to be a general consensus that the texts 
 - H. M. Edwards. *Advanced Calculus: A Differential Forms Approach* ([3e, 2014 reissue](https://www.amazon.com/Advanced-Calculus-Differential-Approach-Birkhäuser/dp/0817684115), [3e, 1994](https://www.amazon.com/Advanced-Calculus-Differential-Forms-Approach/dp/0817637079))
 - Shifrin, *Multivariable Mathematics: Linear Algebra, Multivariable Calculus, and Manifolds* (u)
 - Corral, *Vector Calculus* ([**FREE ONLINE**](http://mecmath.net/index.html))
-- Marsden and Tromba. *Vector Calculus* ([5e](https://smile.amazon.com/dp/0716749920))
+- Marsden and Tromba. *Vector Calculus* ([5e](https://smile.amazon.com/dp/0716749920), [4e](https://smile.amazon.com/dp/0716724324))
 - Colley. *Vector Calculus* ([2e](), [1e](https://smile.amazon.com/dp/0131492047), [2e](https://smile.amazon.com/dp/0131858742))
 - Matthews. *Vector Calculus* ([1e](https://smile.amazon.com/dp/3540761802))
 - Bressoud. *Second Year Calculus: From Celestial Mechanics to Special Relativity* ([1e](https://smile.amazon.com/dp/038797606X))
