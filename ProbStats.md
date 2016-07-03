@@ -7,29 +7,31 @@
 
   Considered by many to be the best introduction to probability.
 
-- Feller, *An Introduction to Probability Theory and its Applications* (volumes 1 & 2) (u)
+- Ross, *A First Course in Probability* ([6e](https://smile.amazon.com/dp/0130338516))
 
-#### Sheldon Ross
-- Ross, *A First Course in Probability* (o)
-- Ross, *A Second Course in Probability* (not very popular)
-- Ross, *Introduction to Probability Models* (o)
-- Ross, *Stochastic Processes* (u/i)
+  Lots of great problems.
 
-#### Karlin and Taylor
-- Karlin and Taylor, *A First Course in Stochastic Processes* (u)
-- Karlin and Taylor, *A Second Course in Stochastic Processes* (u)
-- Karlin and Taylor, *An Introduction to Stochastic Modeling* (3e preferred)
+- Feller, *An Introduction to Probability Theory and its Applications* (Vol I: [3e](https://smile.amazon.com/dp/0471257087), [3e intl](https://smile.amazon.com/dp/8126518057); Vol II: [2e](https://smile.amazon.com/dp/B000OOHXDO), [2e intl](https://smile.amazon.com/dp/8126518065))
+
+#### Further
+
+- Ross, *Introduction to Probability Models* ([9e](https://smile.amazon.com/dp/0125980620))
+
+#### Stochastic processes (without measure theory)
+
+- Ross, *Stochastic Processes* ([2e](https://smile.amazon.com/dp/0471120626), [2e intl](https://smile.amazon.com/dp/8126517573), [2e intl @AbeBooks](http://www.abebooks.com/products/isbn/9780471120629/16832454196), [1e @AbeBooks](http://www.abebooks.com/products/isbn/9780471099420/16098583380))
+- Karlin and Taylor, *A First Course in Stochastic Processes* ([2e](https://smile.amazon.com/dp/0123985528)) (used price fluctuates a lot but can sometimes be in the $15-30 range)
+- Karlin and Taylor, *A Second Course in Stochastic Processes* ([2e](https://smile.amazon.com/dp/0123986508)) (used price fluctuates a lot but can sometimes be in the $20-30 range)
+- Karlin and Taylor, *An Introduction to Stochastic Modeling* (3e preferred: [3e](https://smile.amazon.com/dp/0126848874))
 
 #### Applied
+- Trivedi. *Probability and Statistics with Reliability, Queueing, and Computer Science Applications* ([2e](https://smile.amazon.com/dp/0471333417))
 - Mitzenmacher & Upfal, *Probability and Computing: Randomized Algorithms and Probabilistic Analysis*
 - Ross, *Applied Probability Models with Optimization Applications* (c)
 
-#### Biostats
-
-- Wassertheil-Smoller. *Biostatistics and Epidemiology: A Primer for Health and Biomedical Professionals* ([3e](https://smile.amazon.com/dp/0387402926))
-- Glantz. *Primer of Biostatistics* ([6e](https://smile.amazon.com/dp/0071435093))
-
 #### With measure theory
+
+- Ross, *A Second Course in Probability* (seems not very popular)
 
 - Rosenthal, *A First Look at Rigorous Probability Theory* (c)
 
@@ -106,6 +108,11 @@
   Standard book on clinical study design.
 
 - Mandel, *The Statistical Analysis of Experimental Data* (c)
+
+#### Biostats
+
+- Wassertheil-Smoller. *Biostatistics and Epidemiology: A Primer for Health and Biomedical Professionals* ([3e](https://smile.amazon.com/dp/0387402926))
+- Glantz. *Primer of Biostatistics* ([6e](https://smile.amazon.com/dp/0071435093))
 
 ## Machine Learning
 
