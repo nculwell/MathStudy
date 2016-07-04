@@ -10,9 +10,9 @@ These aren't actually analysis books, but in the math curriculum that's often wh
 - Velleman, *How to Prove It* ([2e](https://smile.amazon.com/dp/0521675995/), [1e](https://smile.amazon.com/dp/0521446635/))
 - Solow, *How to Read and Do Proofs: An Introduction to Mathematical Thought Processes* ([6e](https://smile.amazon.com/dp/1118164024/), [5e](https://smile.amazon.com/dp/0470392169/), [4e](https://smile.amazon.com/dp/0471680583/))
 
-#### Books to hold your hand
+#### Introductory analysis
 
-These books ease you into real analysis. They are designed to address a difficulty in the evolving US math curriculum, namely that because rigorous calculus textbooks (like Spivak and Apostol) are no longer commonly used in lower-level courses, students arrive in real analysis courses without knowing how to read and write proofs or understanding the theoretical foundation of calculus. These books help you with understanding how to do proofs, and they feed you the information in a way that's easier to digest. They don't cover all the material you need, and thus they aren't sufficient on their own to master the subject, but they can make the other books (which I call "standard" below) more manageable.
+These books ease you into real analysis. They are designed to address a difficulty in the evolving US math curriculum, namely that because rigorous calculus textbooks (like Spivak and Apostol, or those books titled "Advanced Calculus") are no longer commonly used in lower-level courses, students arrive in real analysis courses without knowing how to read and write proofs or understanding the theoretical foundation of calculus. These books help you with understanding how to do proofs, and they feed you the information in a way that's easier to digest. They don't cover all the material you need, and thus they aren't sufficient on their own to master the subject, but they can make the other books (which I call "standard" below) more manageable.
 
 All of these books stop short of Lebesgue integration, so they can't be considered complete introductions to real analysis.
 
@@ -36,7 +36,7 @@ All of these books stop short of Lebesgue integration, so they can't be consider
 
   A classic book (1968), well-regarded for its clarity.
 
-#### Standard books
+#### Standard undergraduate analysis
 
 These books present the standard undergraduate course in real analysis. They include the Lebesgue integral, but stop short of measure theory.
 
@@ -70,14 +70,14 @@ These books present the standard undergraduate course in real analysis. They inc
 
 - Tao, *Analysis* (I and II)
 
-  My impression is that this focuses on intuition and understanding, and the proofs are largely exercises. It's published by Hundustan Book Agency and sold in the USA via AMS ([AMS store page](http://bookstore.ams.org/hin-66)). It can be ordered from India via these links:
+  Tao's approach is a rigorous construction of analysis beginning with the foundations of the number system. Proofs are largely left as exercises, and it lacks much intuitive discussion, so I don't think it's appropriate for self-study except in combination with some other book. It's published by Hundustan Book Agency and sold in the USA via AMS ([AMS store page](http://bookstore.ams.org/hin-66)). It can be ordered from India via these links:
 
   - I: http://www.abebooks.com/products/isbn/9789380250649
   - II: http://www.abebooks.com/products/isbn/9789380250656
 
 - Shilov, *Elementary Real and Complex Analysis* ([Dover](https://smile.amazon.com/dp/0486689220))
 
-  This translation of a Russian book is an exception to what I said above: it doesn't cover the Lebesgue integral. Instead, it includes a chapter on analytic functions, which is (in the US system) more typically covered in a course on complex analysis. Shilov covers the Lebesgue integral in his graduate-level sequel: Shilov and Gurevich, *Integral, Measure and Derivative*.
+  This translation of a Russian book is an exception to what I said at the beginning of this section: it doesn't cover the Lebesgue integral. Instead, it includes a chapter on analytic functions, which (in the US system) is more typically covered in a course on complex analysis. Shilov covers the Lebesgue integral in his graduate-level sequel: Shilov and Gurevich, *Integral, Measure and Derivative*.
 
 - Bressoud's "Radial Approch" books
   - Bressoud, *A Radical Approach to Real Analysis* ([2e](https://smile.amazon.com/dp/0883857472/))
@@ -103,6 +103,60 @@ These books present the standard undergraduate course in real analysis. They inc
 
   Free course notes covering a wide range of topics.
 
+### Graduate analysis
+
+These books are generally considered graduate level, and cover measure theory. (Measure theory is generally the big thing that's left out of undergraduate analysis courses.)
+
+- Royden ([3e](https://smile.amazon.com/dp/0024041513/))
+
+  Royden is one of the most popular classic real analyis texts. One thing to be aware of is that a fourth edition was published with Patrick Fitzpatrick as co-author, but it hasn't been well-received: many felt that the third edition was in no need of revision, and the fourth introduced new errors. Since it was popular, many copies of the 3rd edition (of 1988) are still available on the used market at a reasonable price. I've also seen used copies of the 2nd edition floating around at secondhand stores.
+
+- Rudin, *Real and Complex Analysis* ([3e intl](https://smile.amazon.com/dp/0070619875/), [3e intl @AbeBooks](http://www.abebooks.com/products/isbn/9780070619876/19190730510))
+
+  A traditional heavyweight, also known as "Big Rudin", "Adult Rudin" or "Daddy Rudin". Extremely expensive, but you can buy the Indian edition.
+
+- Kolmogorov and Fomin, *Elements of the Theory of Functions and Functional Analysis* ([Martino](https://www.amazon.com/dp/1614273049/), [Dover](https://www.amazon.com/dp/0486406830/))
+
+  Kolmogorov was one of the great mathematicians of the 20th Century. Translated from Russian. This seems to be
+  the preferred translation. (It's roughly the same book as Silverman's translation, which is titled *Introductory Real Analysis*.)
+
+- Folland, *Real Analysis: Modern Techniques and Their Applications* ([2e](https://smile.amazon.com/dp/0471317160/))
+
+  "Encompassing several subjects that underlie much of modern analysis, the book focuses on measure and integration theory, point set topology, and the basics of functional analysis."
+  
+  It's said to be an excellent book, and it's popular. Too bad it's so expensive. There's an older edition but even that one isn't cheap.
+
+- Bartle. *The Elements of Integration and Lebesgue Measure* ([1e](https://smile.amazon.com/Elements-Integration-Lebesgue-Measure/dp/0471042226/), [1e intl @AbeBooks](http://www.abebooks.com/products/isbn/9780471042228/19427046996))
+
+  Well-regarded text on the more advanced topics of real analysis.
+
+- Taylor, *General Theory of Functions and Integration* ([Dover](https://smile.amazon.com/dp/0486649881))
+
+  Another classic text (1965). It is notably clear in its explanations. This one doesn't seem to be very popular, but personally I like it.
+
+- Bass, *Real Analysis for Graduate Students* ([**FREE ONLINE**](http://bass.math.uconn.edu/real.html), [2e self-published paperback](https://smile.amazon.com/dp/1481869140/))
+
+  Designed as an overview of all the real analysis that a grad student should need to pass a prelim in real analysis. Not intended to teach it to you the first time.
+
+- Stein and Shakarchi, *Real Analysis: Measure Theory, Integration, and Hilbert Spaces* ([1e](https://smile.amazon.com/Real-Analysis-Integration-Princeton-Lectures/dp/0691113866/))
+
+  One of four books form a series (*Princeton Lectures in Analysis*) at the level of advanced
+  undergraduate or beginning graduate analysis.
+  They are widely praised for their quality, but they are also a bit pricey for what you get (and used
+  copies aren't much cheaper).
+
+- Shilov and Gurevich, *Integral, Measure and Derivative*
+
+  Shilov's graduate analysis textbook on Lebesgue integration and measure theory.
+
+- Lieb and Loss, *Analysis* ([2e](https://smile.amazon.com/dp/0821827839))
+
+  Largely focuses on applications. Includes the Fourier transform, Sobolev spaces and the calculus of variations. A more advanced book that seems to assume a prior introduction to measure theory.
+
+- Folland, *A Guide to Advanced Real Analysis* ([1e](https://smile.amazon.com/dp/0883853434))
+
+  "This book is an outline of the core material in the standard graduate-level real analysis course. .... Proofs, however, are generally presented only as sketches, in such a way that the key ideas are explained but the technical details are omitted." (Usually when someone refers to the Folland book, though, it's his other one at this level.)
+
 ### Problem books
 
 - Larson. *Problem-Solving Through Problems* ([1e PB](https://smile.amazon.com/dp/0387961712))
@@ -125,61 +179,7 @@ These books present the standard undergraduate course in real analysis. They inc
   - *Exercises in Analysis: Part 1* ([1e](https://smile.amazon.com/dp/3319061755))
   - *Exercises in Analysis: Part 2: Nonlinear Analysis* ([1e](https://smile.amazon.com/dp/3319278150))
   
-  A *huge*, brand-new collection of problems on analysis (each book is over 1000 pages). "This nearly encyclopedic coverage of exercises in mathematical analysis is the first of its kind and is accessible to a wide readership. Graduate students will find the collection of problems valuable in preparation for their preliminary or qualifying exams as well as for testing their deeper understanding of the material."
-
-### More analysis
-
-These books are generally considered graduate level, and cover measure theory.
-
-- Rudin, *Real and Complex Analysis* ([3e intl](https://smile.amazon.com/dp/0070619875/), [3e intl @AbeBooks](http://www.abebooks.com/products/isbn/9780070619876/19190730510))
-
-  A traditional heavyweight, also known as "Big Rudin", "Adult Rudin" or "Daddy Rudin". Extremely expensive, but you can buy the Indian edition.
-
-- Kolmogorov and Fomin, *Elements of the Theory of Functions and Functional Analysis* ([Martino](https://www.amazon.com/dp/1614273049/), [Dover](https://www.amazon.com/dp/0486406830/))
-
-  Kolmogorov was one of the great mathematicians of the 20th Century. Translated from Russian. This seems to be
-  the preferred translation. (It's roughly the same book as Silverman's translation, which is titled *Introductory Real Analysis*.)
-
-- Royden ([3e](https://smile.amazon.com/dp/0024041513/))
-
-  Royden is another classic real analyis text. One thing to be aware of is that a fourth edition was published with Patrick Fitzpatrick as co-author, but it hasn't been well-received: many felt that the third edition was in no need of revision, and the fourth introduced new errors. Since it was popular, many copies of the 3rd edition (of 1988) are still available on the used market.
-
-- Folland, *Real Analysis: Modern Techniques and Their Applications* ([2e](https://smile.amazon.com/dp/0471317160/))
-
-  "Encompassing several subjects that underlie much of modern analysis, the book focuses on measure and integration theory, point set topology, and the basics of functional analysis."
-  
-  It's said to be an excellent book. Too bad it's so expensive. There's an older edition but even that one isn't cheap.
-
-- Taylor, *General Theory of Functions and Integration* ([Dover](https://smile.amazon.com/dp/0486649881))
-
-  Another classic text (1965). It is notably clear in its explanations. This one doesn't seem to be very popular, but personally I like it.
-
-- Bass, *Real Analysis for Graduate Students* ([**FREE ONLINE**](http://bass.math.uconn.edu/real.html), [2e self-published paperback](https://smile.amazon.com/dp/1481869140/))
-
-  Designed as an overview of all the real analysis that a grad student should need to pass a prelim in real analysis. Not intended to teach it to you the first time.
-
-- Stein and Shakarchi, *Real Analysis: Measure Theory, Integration, and Hilbert Spaces* ([1e](https://smile.amazon.com/Real-Analysis-Integration-Princeton-Lectures/dp/0691113866/))
-
-  One of four books form a series (*Princeton Lectures in Analysis*) at the level of advanced
-  undergraduate or beginning graduate analysis.
-  They are widely praised for their quality, but they are also a bit pricey for what you get (and used
-  copies aren't much cheaper).
-
-- Bartle. *The Elements of Integration and Lebesgue Measure* ([1e](https://smile.amazon.com/Elements-Integration-Lebesgue-Measure/dp/0471042226/), [1e intl @AbeBooks](http://www.abebooks.com/products/isbn/9780471042228/19427046996))
-
-  Well-regarded text on the more advanced topics of real analysis.
-
-- Shilov and Gurevich, *Integral, Measure and Derivative*
-
-  Shilov's graduate analysis textbook on Lebesgue integration and measure theory.
-
-- Lieb and Loss, *Analysis* ([2e](https://smile.amazon.com/dp/0821827839))
-
-  Largely focuses on applications. Includes the Fourier transform, Sobolev spaces and the calculus of variations. A more advanced book that seems to assume a prior introduction to measure theory.
-
-- Folland, *A Guide to Advanced Real Analysis* ([1e](https://smile.amazon.com/dp/0883853434))
-
-  "This book is an outline of the core material in the standard graduate-level real analysis course. .... Proofs, however, are generally presented only as sketches, in such a way that the key ideas are explained but the technical details are omitted."
+  A *huge*, brand-new collection of problems on analysis (each book is over 1000 pages). This looks to be the kind of thing you're only interested in if you'll be specializing in real analysis. "This nearly encyclopedic coverage of exercises in mathematical analysis is the first of its kind and is accessible to a wide readership. Graduate students will find the collection of problems valuable in preparation for their preliminary or qualifying exams as well as for testing their deeper understanding of the material."
 
 #### Fourier analysis
 
