@@ -36,17 +36,6 @@ All of these books stop short of Lebesgue integration, so they can't be consider
 
   A classic book (1968), well-regarded for its clarity.
 
-#### Historical approach
-
-- Bressoud, *A Radical Approach to Real Analysis* ([2e](https://smile.amazon.com/dp/0883857472/))
-- Bressoud, *A Radical Approach to Lebesgue's Theory of Integration* ([1e](https://smile.amazon.com/dp/0521711835/))
-
-  I discuss both of these books by Bressoud together. Bressoud's concept is to teach analysis by tracing the history of the mathematical concepts, and the telling the story of the problems and controversies that played out over the course of the 19th Century that gave shape to modern analysis. He states that his main purpose is to teach you the math, though, not to teach you the history of mathematics.
-
-  Bressoud summarizes *A Radical Approach to Real Analysis* thus: "The book begins with Fourier's introduction of trigonometric series and the problems they created for the mathematicians of the early nineteenth century. It follows Cauchy's attempts to establish a firm foundation for calculus, and considers his failures as well as his successes. It culminates with Dirichlet's proof of the validity of the Fourier series expansion and explores some of the counterintuitive results Riemann and Weierstrass were led to as a result of Dirichlet's proof."
-
-  The second book is summarized thus: "The story begins with Riemann's definition of the integral, a definition created so that he could understand how broadly one could define a function and yet have it be integrable. The reader then follows the efforts of many mathematicians who wrestled with the difficulties inherent in the Riemann integral, leading to the work in the late nineteenth and early twentieth centuries of Jordan, Borel, and Lebesgue, who finally broke with Riemann's definition. Ushering in a new way of understanding integration, they opened the door to fresh and productive approaches to many of the previously intractable problems of analysis."
-
 #### Standard books
 
 These books present the standard undergraduate course in real analysis. They include the Lebesgue integral, but stop short of measure theory.
@@ -85,6 +74,16 @@ These books present the standard undergraduate course in real analysis. They inc
 
   - I: http://www.abebooks.com/products/isbn/9789380250649
   - II: http://www.abebooks.com/products/isbn/9789380250656
+
+- Bressoud's "Radial Approch" books
+  - Bressoud, *A Radical Approach to Real Analysis* ([2e](https://smile.amazon.com/dp/0883857472/))
+  - Bressoud, *A Radical Approach to Lebesgue's Theory of Integration* ([1e](https://smile.amazon.com/dp/0521711835/))
+
+  I discuss both of these books by Bressoud together. Bressoud's concept is to teach analysis by tracing the history of the mathematical concepts, and the telling the story of the problems and controversies that played out over the course of the 19th Century that gave shape to modern analysis. He states that his main purpose is to teach you the math, though, not to teach you the history of mathematics.
+
+  Bressoud summarizes *A Radical Approach to Real Analysis* thus: "The book begins with Fourier's introduction of trigonometric series and the problems they created for the mathematicians of the early nineteenth century. It follows Cauchy's attempts to establish a firm foundation for calculus, and considers his failures as well as his successes. It culminates with Dirichlet's proof of the validity of the Fourier series expansion and explores some of the counterintuitive results Riemann and Weierstrass were led to as a result of Dirichlet's proof."
+
+  The second book is summarized thus: "The story begins with Riemann's definition of the integral, a definition created so that he could understand how broadly one could define a function and yet have it be integrable. The reader then follows the efforts of many mathematicians who wrestled with the difficulties inherent in the Riemann integral, leading to the work in the late nineteenth and early twentieth centuries of Jordan, Borel, and Lebesgue, who finally broke with Riemann's definition. Ushering in a new way of understanding integration, they opened the door to fresh and productive approaches to many of the previously intractable problems of analysis."
 
 - Johnsonbaugh and Pfaffenberger, *Foundations of Mathematical Analysis* ([1e](https://smile.amazon.com/dp/0486477665))
 
