@@ -177,10 +177,11 @@ This site has links to lots of other sites with problem sets and practice exams:
 
 ## Advanced Calculus
 
-The term "advanced calculus" seems to be somewhat vague. Sometimes it means calculus of several variables, sometimes it means analysis, sometimes it means applications that become possible after you have a couple of years of calculus under your belt.
+The term "advanced calculus" seems to be somewhat vague. Sometimes it means calculus of several variables, sometimes it means analysis, sometimes it means applications that become possible after you have a couple of years of calculus under your belt. The ones I list here straddle the line between calculus and analysis.
 
-- Loomis and Sternberg. *Advanced Calculus: Revised Edition* https://www.amazon.com/Advanced-Calculus-Shlomo-Zvi-Sternberg/dp/9814583936
-- Hildebrand. Advanced Calculus for Applications, 2e https://www.amazon.com/Advanced-Calculus-Applications-Francis-Hildebrand/dp/0130111899
+- Buck. *Advanced Calculus* ([3e](https://smile.amazon.com/dp/1577663020))
+- Hildebrand. *Advanced Calculus for Applications* ([Dover 2e](https://www.amazon.com/dp/0130111899)
+- Widder. *Advanced Calculus* ([Dover](https://smile.amazon.com/dp/0486661032))
 
 ## Calculus of variations
 
