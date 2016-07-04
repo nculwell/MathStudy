@@ -189,9 +189,9 @@ These books are generally considered graduate level, and cover measure theory.
 
 #### Manifolds
 
-- Munkres, *Analysis On Manifolds*
-- Spivak, *Calculus On Manifolds*
-- Loomis and Sternberg, *Advanced Calculus*
+- Munkres, *Analysis On Manifolds* ([1e](https://smile.amazon.com/dp/0201315963))
+- Spivak, *Calculus On Manifolds: A Modern Approach To Classical Theorems Of Advanced Calculus* ([1e](https://smile.amazon.com/dp/0805390219))
+- Loomis and Sternberg. *Advanced Calculus* ([WS Revised Edition](https://www.amazon.com/dp/9814583936))
 
 See also: [Differential Geometry](https://github.com/nculwell/MathStudy/blob/master/GeomTopo.md#differential-geometry).
 
