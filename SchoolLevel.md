@@ -238,6 +238,10 @@ Some titles that have caught my attention:
 
 http://www.maths.cam.ac.uk/undergrad/admissions/readinglist.pdf
 
+## Sequences from major publishers
+
+- Addison Wesley 1993-94: [Algebra](https://smile.amazon.com/Addison-Wesley-Algebra/dp/0201812487), [Algebra teacher's](https://smile.amazon.com/dp/0201812495), [Geometry](https://smile.amazon.com/dp/0201812606), [Geometry teacher's](https://smile.amazon.com/dp/0201812614), [Algebra and Trigonometry](https://smile.amazon.com/dp/0201812525), [Algebra and Trigonometry teacher's](https://smile.amazon.com/dp/0201812533)
+
 # Elementary
 
 TODO
