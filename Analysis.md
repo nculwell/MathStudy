@@ -75,6 +75,10 @@ These books present the standard undergraduate course in real analysis. They inc
   - I: http://www.abebooks.com/products/isbn/9789380250649
   - II: http://www.abebooks.com/products/isbn/9789380250656
 
+- Shilov, *Elementary Real and Complex Analysis* ([Dover](https://smile.amazon.com/dp/0486689220))
+
+  This translation of a Russian book is an exception to what I said above: it doesn't cover the Lebesgue integral. Instead, it includes a chapter on analytic functions, which is (in the US system) more typically covered in a course on complex analysis. Shilov covers the Lebesgue integral in his graduate-level sequel: Shilov and Gurevich, *Integral, Measure and Derivative*.
+
 - Bressoud's "Radial Approch" books
   - Bressoud, *A Radical Approach to Real Analysis* ([2e](https://smile.amazon.com/dp/0883857472/))
   - Bressoud, *A Radical Approach to Lebesgue's Theory of Integration* ([1e](https://smile.amazon.com/dp/0521711835/))
@@ -165,9 +169,13 @@ These books are generally considered graduate level, and cover measure theory.
 
   Well-regarded text on the more advanced topics of real analysis.
 
+- Shilov and Gurevich, *Integral, Measure and Derivative*
+
+  Shilov's graduate analysis textbook on Lebesgue integration and measure theory.
+
 - Lieb and Loss, *Analysis* ([2e](https://smile.amazon.com/dp/0821827839))
 
-  Largely focuses on applications. Includes the Fourier transform, Sobolev spaces and the calculus of variations.
+  Largely focuses on applications. Includes the Fourier transform, Sobolev spaces and the calculus of variations. A more advanced book that seems to assume a prior introduction to measure theory.
 
 - Folland, *A Guide to Advanced Real Analysis* ([1e](https://smile.amazon.com/dp/0883853434))
 
@@ -189,24 +197,35 @@ See also: [Differential Geometry](https://github.com/nculwell/MathStudy/blob/mas
 
 ### Complex Analysis
 
-- Bak and Newman, *Complex Analysis*
+- Bak and Newman, *Complex Analysis* ([3e](https://smile.amazon.com/dp/1441972870))
 
   This has a reputation as a relatively easy introduction to complex analysis, but it covers less material than others.
 
-- Stein and Shakarchi, *Complex Analysis*
+- Stein and Shakarchi, *Complex Analysis* ([1e](https://smile.amazon.com/dp/0691113858))
 
   A very well-liked intro to complex analysis, and perhaps the best-loved of the S&S series. Still expensive.
 
-- Ahlfors, *Complex Analysis: An Introduction to the Theory of Analytic Functions of One Complex Variable*
+- Ahlfors, *Complex Analysis: An Introduction to the Theory of Analytic Functions of One Complex Variable* ([3e](https://smile.amazon.com/dp/0070006571), [3e intl at AbeBooks](http://www.abebooks.com/products/isbn/9780070006577), [3e intl](https://smile.amazon.com/dp/1259064824), [2e](https://smile.amazon.com/dp/0070006563))
 
   The traditional textbook for a complex analysis course. Typically considered old and dry these days, but still useful.
 
-- Shilov, *Elementary Real and Complex Analysis* (c)
-- Flanigan, *Complex Variables: Harmonic and Analytic Functions* (c)
-- Conway, *Functions of One Complex Variable* (i)
-- Needham, *Visual Complex Analysis*
-- Schwerdtfeger, *Geometry of Complex Numbers* (c)
-- Ash and Novinger, *Complex Variables* (with solutions) http://www.math.uiuc.edu/~r-ash/CV.html
+- Flanigan, *Complex Variables: Harmonic and Analytic Functions* ([Dover](https://smile.amazon.com/dp/0486613887))
+
+- Conway, *Functions of One Complex Variable* (Vol I: [2e](https://smile.amazon.com/dp/0387903283), [2e intl at AbeBooks](http://www.abebooks.com/products/isbn/9788185015378); Vol II: [1e](https://smile.amazon.com/dp/0387944605))
+
+- Needham, *Visual Complex Analysis* ([1e](https://smile.amazon.com/dp/0198534469))
+
+  An introduction to complex analysis in pictures.
+
+- Wegert. *Visual Complex Functions: An Introduction with Phase Portraits* ([1e](https://smile.amazon.com/dp/3034801793))
+
+  Another pictorial intro to complex analysis.
+
+- Schwerdtfeger, *Geometry of Complex Numbers* ([Dover](https://smile.amazon.com/dp/0486638308))
+
+- Ash and Novinger, *Complex Variables* ([**FREE ONLINE**](http://www.math.uiuc.edu/~r-ash/CV.html), [2e Dover](https://smile.amazon.com/dp/0486462501))
+
+  Contain solutions. Author's page: http://www.math.uiuc.edu/~r-ash/CV.html
 
 ### Functional Analysis
 - Stein and Shakarchi, *Functional Analysis: Introduction to Further Topics in Analysis* ([1e](https://smile.amazon.com/dp/0691113874))
