@@ -11,13 +11,15 @@
 
   Lots of great problems.
 
-- Feller, *An Introduction to Probability Theory and its Applications* (Vol I: [3e](https://smile.amazon.com/dp/0471257087), [3e intl](https://smile.amazon.com/dp/8126518057); Vol II: [2e](https://smile.amazon.com/dp/B000OOHXDO), [2e intl](https://smile.amazon.com/dp/8126518065))
-
-- Morin. *Probability - For the Enthusiastic Beginner* [At Createspace](https://www.createspace.com/5987678), [At Amazon](https://smile.amazon.com/dp/1523318678)
+- Morin. *Probability: For the Enthusiastic Beginner* ([At Createspace](https://www.createspace.com/5987678), [At Amazon](https://smile.amazon.com/dp/1523318678))
 
   An excellent-looking non-calculus introduction to probability. As a non-calculus approach, it focuses on discrete distributions, but it discusses the Gaussian distribution from the perspective of discrete approximation. (I think this is a pretty useful way to do it.) The author's website has some sample chapters (including TOC) that you can view: http://www.people.fas.harvard.edu/~djmorin/book.html
 
 - Ash. *The Probability Tutoring Book: An Intuitive Course for Engineers and Scientists* ([Revised paperback](https://smile.amazon.com/dp/0780310519), [Original hardcover](https://smile.amazon.com/dp/0879422939))
+
+- Feller, *An Introduction to Probability Theory and its Applications* (Vol I: [3e](https://smile.amazon.com/dp/0471257087), [3e intl](https://smile.amazon.com/dp/8126518057); Vol II: [2e](https://smile.amazon.com/dp/B000OOHXDO), [2e intl](https://smile.amazon.com/dp/8126518065))
+
+  The most classic entry in this section. Many still consider it to be the best. Vol I is introductory (though maybe it would go down smoother after another book in this list), while Vol II is considered grad-level as it involves measure theory.
 
 #### Further
 
@@ -37,14 +39,17 @@
 
 #### With measure theory
 
-- Ross, *A Second Course in Probability* (seems not very popular)
+Modern probability theory builds its mathematical foundation on measure theory, which is generally regarded as an intermediate-to-advanced topic in real analysis. Some of these books assume exposure to it, others aim to teach it as they go.
 
-- Rosenthal, *A First Look at Rigorous Probability Theory* (c)
+- Rosenthal, *A First Look at Rigorous Probability Theory* ([2e](https://smile.amazon.com/dp/9812703713))
 
-  This is, in particular, an introduction to measure theory. If you've already covered that adequately in real analysis then you might not need this book.
+  This is, in particular, an introduction to measure theory. It assumes a background in undergraduate-level probability (e.g. Ross or Feller) and analysis (e.g. Rudin's *Principles of Mathematical Analysis*).
 
-- Shiryaev, *Probability*
-- Dudley, *Real Analysis and Probability*
+- Schilling, *Measures, Integrals and Martingales* ([1e](https://smile.amazon.com/dp/0521615259))
+
+  Another book that teaches measure theory in the context of probability, assuming undergraduate-level probability and analysis.
+
+- Dudley, *Real Analysis and Probability* ([2e](https://smile.amazon.com/dp/0521007542))
 
   A well-regarded introduction to measure theory from a probability perspective.
   From the introduction:
@@ -57,16 +62,32 @@
   A chapter on stochastic processes introduces Brownian motion and the
   Brownian bridge."
 
-- Schilling, *Measures, Integrals and Martingales*
-- Williams, *Probability with Martingales*
+- Williams, *Probability with Martingales* ([1e](https://smile.amazon.com/dp/0521406056))
 
   Very popular book at the lower end of measure-theoretic probability.
 
-- Chung, *A Course in Probability Theory*
-- Robert, *The Bayesian Choice: From Decision-Theoretic Foundations to Computational Implementation*
-- Durrett, *Probability: Theory and Examples*
+- Ross and Peköz, *A Second Course in Probability* ([1e](https://smile.amazon.com/dp/0979570409)) - Introduces measure theory. (Seems not very popular.)
+
+- Shiryaev, *Probability* ([2e](https://smile.amazon.com/dp/0387945490), [3e Vol I](https://smile.amazon.com/dp/038772205X))
+
+  Considered one of the best textbooks for graduate students coming to grips with rigorous probability theory.
+  The third edition splits the book into two volumes.
+
+- Chung, *A Course in Probability Theory* ([3e](https://smile.amazon.com/dp/0121741516), [2e](https://smile.amazon.com/dp/0121741516))
+
+  Another of the best rigorous probability textbooks.
+
 - Billingsley, *Probability and measure* (3e preferred)
+
+  Classic, very popular text on measure-theoretic probability.
+
+- Durrett, *Probability: Theory and Examples*
+
+  Another very standard text on measure-theoretic probability.
+
 - Kallenberg, *Foundations of Modern Probability*
+
+  Encyclopedic reference to probability theory at the advanced level.
 
 ## Statistics
 
@@ -114,6 +135,8 @@
   Standard book on clinical study design.
 
 - Mandel, *The Statistical Analysis of Experimental Data* (c)
+
+- Robert, *The Bayesian Choice: From Decision-Theoretic Foundations to Computational Implementation* ([2e](https://smile.amazon.com/dp/0387715983))
 
 #### Biostats
 
