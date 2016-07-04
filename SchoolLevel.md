@@ -240,7 +240,12 @@ http://www.maths.cam.ac.uk/undergrad/admissions/readinglist.pdf
 
 ## Sequences from major publishers
 
+I don't know if these are good, but they can be bought pretty cheap.
+
+- Dolciani *Structure and Method* 1970-76: [Algebra](https://smile.amazon.com/dp/0395142555), [Algebra and Trigonometry](https://smile.amazon.com/dp/0395142563)
+- Dolciani *Structure and Method* 1977-80: [Algebra](https://smile.amazon.com/dp/0395266378), [Algebra and Trigonometry](https://smile.amazon.com/dp/0395244102)
 - Addison Wesley 1993-94: [Algebra](https://smile.amazon.com/Addison-Wesley-Algebra/dp/0201812487), [Algebra teacher's](https://smile.amazon.com/dp/0201812495), [Geometry](https://smile.amazon.com/dp/0201812606), [Geometry teacher's](https://smile.amazon.com/dp/0201812614), [Algebra and Trigonometry](https://smile.amazon.com/dp/0201812525), [Algebra and Trigonometry teacher's](https://smile.amazon.com/dp/0201812533)
+- McGraw-Hill Glencoe 2004-05: [Algebra 1](https://smile.amazon.com/dp/0078651131), [Geometry](https://smile.amazon.com/dp/0078651069), [Algebra 2](https://smile.amazon.com/dp/0078656095)
 
 # Elementary
 
