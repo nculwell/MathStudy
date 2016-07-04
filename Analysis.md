@@ -96,6 +96,10 @@ These books present the standard undergraduate course in real analysis. They inc
 
 - Carothers, *Real Analysis* ([1e](https://smile.amazon.com/dp/0521497566/)
 
+- Erdman. *Companion to Real Analysis* ([**FREE ONLINE**](http://web.pdx.edu/~erdman/CRA/CRAlicensepage.html))
+
+  Free course notes covering a wide range of topics.
+
 ### Problem books
 
 - Larson. *Problem-Solving Through Problems* ([1e PB](https://smile.amazon.com/dp/0387961712))
@@ -169,10 +173,6 @@ These books are generally considered graduate level, and cover measure theory.
 - Folland, *A Guide to Advanced Real Analysis* ([1e](https://smile.amazon.com/dp/0883853434))
 
   "This book is an outline of the core material in the standard graduate-level real analysis course. .... Proofs, however, are generally presented only as sketches, in such a way that the key ideas are explained but the technical details are omitted."
-
-- Erdman. *Companion to Real Analysis* ([**FREE ONLINE**](http://web.pdx.edu/~erdman/CRA/CRAlicensepage.html))
-
-  Free course notes.
 
 #### Fourier analysis
 
