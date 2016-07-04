@@ -189,57 +189,57 @@ AKA statistical learning, data mining, predictive modeling.
 
 ### Other big books
 
-* Kuhn and Johnson, 2013. *Applied Predictive Modeling*
+* Kuhn and Johnson, 2013. *Applied Predictive Modeling* ([1e](https://smile.amazon.com/dp/1461468485))
 
   This is a guide to machine learning at the level of detail necessary to implement techniques in R. Much attention is paid to how to make each method perform well. The body of each chapter is a description of the techniques involved, then at the end of the chapter is a "Computing" section which describes how to do what you just learned in R. The author's approach is to tell you just as much as you need to know to use the techniques, then point you to primary literature where you can read the details.
   
   http://appliedpredictivemodeling.com/
 
-* Reed and Marks, 1999. *Neural Smithing: Supervised Learning in Feedforward Artificial Neural Networks* (c)
+* Reed and Marks, 1999. *Neural Smithing: Supervised Learning in Feedforward Artificial Neural Networks* ([1e](https://smile.amazon.com/dp/0262181908))
 
   This one is old, not particularly in-depth and only covers a limited subset of NN techniques, but it remains one of the better introductions to the topic of neural networks. It's also relatively short and affordable.
 
-* Murphy, 2012. *Machine Learning: a Probabilistic Perspective*
+* Murphy, 2012. *Machine Learning: a Probabilistic Perspective* ([1e](https://smile.amazon.com/dp/0262018020))
 
   https://www.cs.ubc.ca/~murphyk/MLbook/
 
-* Izenman, 2008. *Modern Multivariate Statistical Techniques: Regression, Classification, and Manifold Learning*
+* Izenman, 2008. *Modern Multivariate Statistical Techniques: Regression, Classification, and Manifold Learning* ([1e](https://smile.amazon.com/dp/0387781889))
 
   This book is statistics-oriented, but it largely covers ML techniques.
 
-* Bishop, 2006. *Pattern Recognition and Machine Learning*
+* Bishop, 2006. *Pattern Recognition and Machine Learning* ([1e](https://smile.amazon.com/dp/0387310738))
 
   AKA PRML. Bayesian viewpoint. This book used to be very influential but it's getting a bit dated, and I get the impression that it's generally regarded as not the best-written ML book around.
   http://research.microsoft.com/en-us/um/people/cmbishop/PRML/index.htm
 
-* Bishop, 1996. *Neural Networks for Pattern Recognition*
+* Bishop, 1996. *Neural Networks for Pattern Recognition* ([1e](https://smile.amazon.com/dp/0198538642))
 
   Old but still relevant (because there aren't a lot of in-depth books about neural networks).
 
-* Abu-Mostafa, Magdon-Ismail, Lin, 2012. *Learning From Data*
+* Abu-Mostafa, Magdon-Ismail, Lin, 2012. *Learning From Data* ([1e](https://smile.amazon.com/dp/1600490069))
 
-  Goes with an online course from Caltech: https://work.caltech.edu/telecourse.html
+  Now out of print? Goes with an online course from Caltech: https://work.caltech.edu/telecourse.html
 
-* Mohri, Rostamizadeh, Talwalkar, 2012. *Foundations of Machine Learning*
+* Mohri, Rostamizadeh, Talwalkar, 2012. *Foundations of Machine Learning* ([1e](https://smile.amazon.com/dp/026201825X))
 
-* Koller, Friedman, 2009. *Probabilistic Graphical Models: Principles and Techniques*
+* Koller, Friedman, 2009. *Probabilistic Graphical Models: Principles and Techniques* ([1e](https://smile.amazon.com/dp/0262013193))
 
-  This is the reigning book on PGMs, but it demands more mathematical background (e.g. abstract algebra) than a lot of the other books listed here.
+  This is the reigning book on PGMs, but it demands more mathematical background (e.g. abstract algebra) than a lot of the other books listed here. It's also a very physically imposing volume (1280 pages).
 
 ## Natural language processing
 
-* Jurafsky and Martin, 2008. *Speech and Language Processing*
+* Jurafsky and Martin, 2008. *Speech and Language Processing* ([2e](https://smile.amazon.com/dp/0131873210))
 
-  The 2nd edition. A 3rd edition is in progress, and the draft can be seen here: https://web.stanford.edu/~jurafsky/slp3/
+  The main book on NLP. A 3rd edition is in progress, and the draft can be seen here: https://web.stanford.edu/~jurafsky/slp3/
 
-* Manning and Schütze, 1999. *Foundations of Statistical Natural Language Processing*
+* Manning and Schütze, 1999. *Foundations of Statistical Natural Language Processing* ([1e](https://smile.amazon.com/dp/0262133601))
 
   Older, but still the other big book in this field.
 
 ## Information retrieval
 
-* Manning, Raghavan, Schütze, 2008. *Introduction to Information Retrieval*
+* Manning, Raghavan, Schütze, 2008. *Introduction to Information Retrieval* ([1e](https://smile.amazon.com/dp/0521865719))
 
   Free on the web: http://nlp.stanford.edu/IR-book/
 
-* Büttcher, Clarke, Cormack, 2010. *Information Retrieval: Implementing and Evaluating Search Engines*
+* Büttcher, Clarke, Cormack, 2010. *Information Retrieval: Implementing and Evaluating Search Engines* ([1e](https://smile.amazon.com/dp/0262528878))
