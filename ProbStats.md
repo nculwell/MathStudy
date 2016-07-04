@@ -13,6 +13,10 @@
 
 - Feller, *An Introduction to Probability Theory and its Applications* (Vol I: [3e](https://smile.amazon.com/dp/0471257087), [3e intl](https://smile.amazon.com/dp/8126518057); Vol II: [2e](https://smile.amazon.com/dp/B000OOHXDO), [2e intl](https://smile.amazon.com/dp/8126518065))
 
+- Morin. *Probability - For the Enthusiastic Beginner* [At Createspace](https://www.createspace.com/5987678), [At Amazon](https://smile.amazon.com/dp/1523318678)
+
+  An excellent-looking non-calculus introduction to probability. As a non-calculus approach, it focuses on discrete distributions, but it discusses the Gaussian distribution from the perspective of discrete approximation. (I think this is a pretty useful way to do it.) The author's website has some sample chapters (including TOC) that you can view: http://www.people.fas.harvard.edu/~djmorin/book.html
+
 - Ash. *The Probability Tutoring Book: An Intuitive Course for Engineers and Scientists* ([Revised paperback](https://smile.amazon.com/dp/0780310519), [Original hardcover](https://smile.amazon.com/dp/0879422939))
 
 #### Further
