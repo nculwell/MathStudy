@@ -94,6 +94,8 @@ These books present the standard undergraduate course in real analysis. They inc
 
 - Trench. *Introduction to Real Analysis* ([**FREE ONLINE**](http://ramanujan.math.trinity.edu/wtrench/texts/TRENCH_REAL_ANALYSIS.PDF))
 
+- Carothers, *Real Analysis* ([1e](https://smile.amazon.com/dp/0521497566/)
+
 ### Problem books
 
 - Larson. *Problem-Solving Through Problems* ([1e PB](https://smile.amazon.com/dp/0387961712))
@@ -155,8 +157,6 @@ These books are generally considered graduate level, and cover measure theory.
   undergraduate or beginning graduate analysis.
   They are widely praised for their quality, but they are also a bit pricey for what you get (and used
   copies aren't much cheaper).
-
-- Carothers, *Real Analysis* ([1e](https://smile.amazon.com/dp/0521497566/)
 
 - Bartle. *The Elements of Integration and Lebesgue Measure* ([1e](https://smile.amazon.com/Elements-Integration-Lebesgue-Measure/dp/0471042226/), [1e intl @AbeBooks](http://www.abebooks.com/products/isbn/9780471042228/19427046996))
 
