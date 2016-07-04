@@ -77,27 +77,28 @@ Modern probability theory builds its mathematical foundation on measure theory, 
 
   Another of the best rigorous probability textbooks.
 
-- Billingsley, *Probability and measure* (3e preferred)
+- Billingsley, *Probability and measure* ([3e preferred](https://smile.amazon.com/dp/8126517719))
 
-  Classic, very popular text on measure-theoretic probability.
+  Classic, very popular graduate text on measure-theoretic probability.
 
-- Durrett, *Probability: Theory and Examples*
+- Durrett, *Probability: Theory and Examples* ([4e](https://smile.amazon.com/dp/0521765390))
 
-  Another very standard text on measure-theoretic probability.
+  Another very standard graduate text on measure-theoretic probability.
+  This seems to be one of those books that a lot of people don't like, but it's so important that they have to read it anyway.
 
-- Kallenberg, *Foundations of Modern Probability*
+- Kallenberg, *Foundations of Modern Probability* ([2e](https://smile.amazon.com/dp/0387953132))
 
   Encyclopedic reference to probability theory at the advanced level.
 
 ## Statistics
 
-- Freedman, Pisani and Purves, *Statistics* (u/o)
+- Freedman, Pisani and Purves, *Statistics* ([4e](https://smile.amazon.com/dp/0393929728), [3e](https://smile.amazon.com/dp/0393970833), [4e intl](https://smile.amazon.com/dp/8130915871))
 
   Conceptual introduction to statistics with minimal math. Widely viewed as the best introduction to how to think about statistics.
 
 - Diez, Barr, Çetinkaya-Rundel. *OpenIntro Statistics* (f)
 
-  Get it free online here: https://www.openintro.org/stat/textbook.php?stat_book=os
+  Get it free online (or order it) here: https://www.openintro.org/stat/textbook.php?stat_book=os
 
   There are also a couple of other editions that de-emphasize math in order to teach students who have less background. (You can find them as well via the link above.)
 
@@ -106,15 +107,15 @@ Modern probability theory builds its mathematical foundation on measure theory, 
   - Free PDF: https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/IntroductoryStatistics-OP.pdf
   - Buy on Amazon: http://www.amazon.com/Introductory-Statistics-OpenStax/dp/1938168208
 
-- DeGroot and Schervish, *Probability and Statistics* (u/o)
+- DeGroot and Schervish, *Probability and Statistics* ([2e](https://smile.amazon.com/dp/020111366X), [3e](https://smile.amazon.com/dp/B01FETPSRG), [4e](https://smile.amazon.com/dp/0321500466), [4e intl at AbeBooks](http://www.abebooks.com/products/isbn/9780321500465))
 
   A popular introduction to mathematical statistics.
 
-- Cassela and Berger, *Statistical Inference* (i)
+- Cassela and Berger, *Statistical Inference* ([2e](https://smile.amazon.com/dp/0534243126), [2e intl](https://smile.amazon.com/dp/8131503941))
 
   A standard grad-level introduction to mathematical/theoretical statistics.
 
-- Schervish, *Theory of Statistics*
+- Schervish, *Theory of Statistics* ([1e](https://smile.amazon.com/dp/0387945466))
 
   More advanced and complete book on theoretical statistics.
 
@@ -122,11 +123,11 @@ Modern probability theory builds its mathematical foundation on measure theory, 
 
   Standard grad-level text on mathematical statistics.
 
-- Gelman et al, *Bayesian Data Analysis*
+- Gelman et al, *Bayesian Data Analysis* ([3e](https://smile.amazon.com/dp/1439840954), [2e](https://smile.amazon.com/dp/158488388X))
 
   Good first book on Bayesian analysis.
 
-- Gelman and Hill, *Data Analysis Using Regression and Multilevel/Hierarchical Models*
+- Gelman and Hill, *Data Analysis Using Regression and Multilevel/Hierarchical Models* ([1e](https://smile.amazon.com/dp/052168689X))
 
   Good first book on multilevel/hierarchical models
 
@@ -137,6 +138,13 @@ Modern probability theory builds its mathematical foundation on measure theory, 
 - Mandel, *The Statistical Analysis of Experimental Data* (c)
 
 - Robert, *The Bayesian Choice: From Decision-Theoretic Foundations to Computational Implementation* ([2e](https://smile.amazon.com/dp/0387715983))
+
+- Erich Lehmann books
+
+  These are classic standards, but somewhat old now (and, I think, out of print).
+
+  - Lehmann and Casella. *Theory of Point Estimation* ([2e](https://smile.amazon.com/dp/0387985026))
+  - Lehmann and Romano. *Testing Statistical Hypotheses* ([3e](https://smile.amazon.com/dp/0387988645))
 
 #### Biostats
 
