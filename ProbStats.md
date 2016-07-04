@@ -119,7 +119,7 @@ Modern probability theory builds its mathematical foundation on measure theory, 
 
   More advanced and complete book on theoretical statistics.
 
-- Bickel and Doksum, *Mathematical Statistics: Basic Ideas and Selected Topics* (volumes I and II)
+- Bickel and Doksum, *Mathematical Statistics: Basic Ideas and Selected Topics* (Vol I: [2e CRC 2015](https://smile.amazon.com/dp/1498723802), [2e PH 2006 updated PB](https://www.amazon.com/dp/0132306379); Vol II: [2e CRC 2015](https://smile.amazon.com/dp/1498722687), [2e PH 2006](https://smile.amazon.com/Mathematical-Statistics-Basic-Selected-Topics/dp/0132306379); Set [2e CRC 2015](https://smile.amazon.com/Mathematical-Statistics-Selected-Volumes-Statistical/dp/1498740316))
 
   Standard grad-level text on mathematical statistics.
 
