@@ -223,6 +223,8 @@ See also: [Differential Geometry](https://github.com/nculwell/MathStudy/blob/mas
 
 - Schwerdtfeger, *Geometry of Complex Numbers* ([Dover](https://smile.amazon.com/dp/0486638308))
 
+- Gamelin. *Complex Analysis* ([1e](https://smile.amazon.com/dp/0387950699))
+
 - Ash and Novinger, *Complex Variables* ([**FREE ONLINE**](http://www.math.uiuc.edu/~r-ash/CV.html), [2e Dover](https://smile.amazon.com/dp/0486462501))
 
   Contain solutions. Author's page: http://www.math.uiuc.edu/~r-ash/CV.html
