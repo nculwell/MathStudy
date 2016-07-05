@@ -95,6 +95,8 @@ These books don't fit cleanly into the categories that I described above.
 
 - Stein. *Calculus in the First Three Dimensions* ([Dover](https://smile.amazon.com/dp/0486801144); [Solutions manual (PDF)](http://www.doverpublications.com/solutions/801144.pdf))
 
+- Blåsjö. *Intuitive Infinitesimal Calculus* ([**FREE ONLINE**](http://intellectualmathematics.com/calculus/))
+
 ### Free books
 
 - https://openstax.org/subjects
