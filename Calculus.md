@@ -159,7 +159,7 @@ This site has links to lots of other sites with problem sets and practice exams:
 
 ### ODEs
 - Tenenbaum, *Ordinary Differential Equations* ([Dover](https://smile.amazon.com/dp/0486649407))
-- Hurewicz, *Lectures on Ordinary Differential Equations* ([Dover](https://smile.amazon.com/dp/B00M2625NA))
+- Hurewicz, *Lectures on Ordinary Differential Equations* ([Dover](https://smile.amazon.com/dp/0486664201))
 - Coddington, *An Introduction to Ordinary Differential Equations* ([Dover](https://smile.amazon.com/dp/0486659429))
 - Arnold. *Ordinary Differential Equations* ([MIT Press, tr. Silverman](https://smile.amazon.com/dp/0262510189), [Springer, tr. Cooke](https://smile.amazon.com/dp/3540345639)) - Springer is a later version.
 - Coddington and Levinson, *Theory of Ordinary Differential Equations* ([Krieger 1984](https://smile.amazon.com/dp/0898747554))
@@ -186,7 +186,7 @@ This site has links to lots of other sites with problem sets and practice exams:
 The term "advanced calculus" seems to be somewhat vague. Sometimes it means calculus of several variables, sometimes it means analysis, sometimes it means applications that become possible after you have a couple of years of calculus under your belt. The ones I list here straddle the line between calculus and analysis.
 
 - Buck. *Advanced Calculus* ([3e](https://smile.amazon.com/dp/1577663020))
-- Hildebrand. *Advanced Calculus for Applications* ([Dover 2e](https://www.amazon.com/dp/0130111899)
+- Hildebrand. *Advanced Calculus for Applications* ([Dover 2e](https://www.amazon.com/dp/0130111899))
 - Widder. *Advanced Calculus* ([Dover](https://smile.amazon.com/dp/0486661032))
 
 ## Calculus of variations
