@@ -69,3 +69,5 @@
 ## Algebraic Topology
 
 See [the Algebra page](Algebra.md#algebraic-topology).
+
+Ghrist. *Elementary Applied Topology* ([At CreateSpace](https://www.createspace.com/4978477), [At Amazon](https://smile.amazon.com/dp/1502880857))
