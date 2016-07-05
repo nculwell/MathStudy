@@ -41,6 +41,10 @@
 
 - Simmons. *Introduction to Topology and Modern Analysis* ([Krieger 2003](https://smile.amazon.com/dp/1575242389))
 
+- Croom. *Principles of Topology* ([Dover](https://smile.amazon.com/dp/0486801543))
+
+  A gentle introduction for beginners.
+
 ## Differential Geometry
 
 - Milnor. *Topology from the Differentiable Viewpoint*
