@@ -97,7 +97,7 @@ These books present the standard undergraduate course in real analysis. They inc
 
 - Trench. *Introduction to Real Analysis* ([**FREE ONLINE**](http://ramanujan.math.trinity.edu/wtrench/texts/TRENCH_REAL_ANALYSIS.PDF))
 
-- Carothers, *Real Analysis* ([1e](https://smile.amazon.com/dp/0521497566/)
+- Carothers, *Real Analysis* ([1e](https://smile.amazon.com/dp/0521497566/))
 
 - Erdman. *Companion to Real Analysis* ([**FREE ONLINE**](http://web.pdx.edu/~erdman/CRA/CRAlicensepage.html))
 
@@ -145,7 +145,7 @@ These books are generally considered graduate level, and cover measure theory. (
   They are widely praised for their quality, but they are also a bit pricey for what you get (and used
   copies aren't much cheaper).
 
-- Shilov and Gurevich, *Integral, Measure and Derivative*
+- Shilov and Gurevich, *Integral, Measure and Derivative* ([Dover](https://smile.amazon.com/dp/0486635198))
 
   Shilov's graduate analysis textbook on Lebesgue integration and measure theory.
 
@@ -183,9 +183,9 @@ These books are generally considered graduate level, and cover measure theory. (
 
 #### Fourier analysis
 
-- Stein and Shakarchi, *Fourier Analysis: An Introduction*
-- Hubbard, *The World According to Wavelets*
-- Tolstov, *Fourier Analysis*
+- Stein and Shakarchi, *Fourier Analysis: An Introduction* ([1e](https://smile.amazon.com/dp/069111384X))
+- Hubbard, *The World According to Wavelets* ([1e](https://smile.amazon.com/dp/1568810725))
+- Tolstov, *Fourier Analysis* ([Dover](https://smile.amazon.com/dp/0486633179))
 
 #### Manifolds
 
