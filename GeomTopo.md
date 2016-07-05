@@ -15,29 +15,31 @@
 
 ## Topology
 
-- Munkres, *Topology* (i)
+- Munkres, *Topology* ([2e intl](https://smile.amazon.com/dp/8120320468), [2e](https://smile.amazon.com/dp/B004DX5K5K))
 
   The standard text.
 
-- Mendelson, *Introduction to Topology* (c)
+- Mendelson, *Introduction to Topology* ([3e Dover](https://smile.amazon.com/dp/0486663523))
 
   A brief introduction, available cheap.
 
-- Gamelin and Greene, *Introduction to Topology* (c)
+- Gamelin and Greene, *Introduction to Topology* ([2e Dover](https://smile.amazon.com/dp/0486406806))
 
   Another cheap alternative. One of Alan Hatcher's recommendations.
 
-- Willard, *General Topology* (c)
+- Willard, *General Topology* ([Dover](https://smile.amazon.com/dp/0486434796))
 
   Another affordable introduction.
 
-- Jänich, *Topology*
+- Jänich, *Topology* ([1e](https://smile.amazon.com/dp/0387908927))
 
   Another of Alan Hatcher's recommendations, he calls it "a pleasure to read."
 
-- Kelley, *General Topology*
+- Kelley, *General Topology* ([At Archive.org](https://archive.org/details/GeneralTopology), [Springer hardcover 1975](https://www.amazon.com/dp/0387901256), [Ishi Press 2008](https://smile.amazon.com/dp/0923891552), [Van Nostrand 1955](https://smile.amazon.com/dp/B00462BLBA))
 
   The classic introduction (1955).
+
+- Simmons. *Introduction to Topology and Modern Analysis* ([Krieger 2003](https://smile.amazon.com/dp/1575242389))
 
 ## Differential Geometry
 
