@@ -97,6 +97,8 @@ These books don't fit cleanly into the categories that I described above.
 
 - Blåsjö. *Intuitive Infinitesimal Calculus* ([**FREE ONLINE**](http://intellectualmathematics.com/calculus/))
 
+- Kiesler. *Elementary Calculus: An Infinitesimal Approach* ([**FREE ONLINE**](https://www.math.wisc.edu/~keisler/calc.html); [Dover](https://smile.amazon.com/dp/0486484521))
+
 ### Free books
 
 - https://openstax.org/subjects
