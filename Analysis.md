@@ -26,7 +26,7 @@ All of these books stop short of Lebesgue integration, so they can't be consider
 
 - Ross, *Elementary Analysis: The Theory of Calculus* ([2e](https://smile.amazon.com/dp/1461462703/), [1e](https://smile.amazon.com/dp/038790459X))
 
-  Ross eases you into real analysis by removing the hardest material from the course (like measure) and putting extra emphasis on the fundamental topics. The book uses a decent number of illustrations when discussing basic topology.
+  Ross eases you into real analysis by putting extra emphasis on the fundamental topics. The book uses a decent number of illustrations when discussing basic topology.
 
 - Abbot, *Understanding Analysis* ([1e paperback](https://smile.amazon.com/dp/1441928669))
 
@@ -236,3 +236,8 @@ See also: [Differential Geometry](https://github.com/nculwell/MathStudy/blob/mas
 - Halmos, *Introduction to Hilbert Space and the Theory of Spectral Multiplicity* ([Martino](https://smile.amazon.com/dp/1614274711))
 - Halmos, *A Hilbert Space Problem Book* ([2e](https://smile.amazon.com/dp/0387906851))
 - Erdman. *Functional Analysis and Operator Algebras: An Introduction* http://web.pdx.edu/~erdman/FAOA/functional_analysis_operator_algebras_pdf.pdf
+
+### Dynamical systems
+
+- Strogatz. *Nonlinear Dynamics and Chaos: With Applications to Physics, Biology, Chemistry, and Engineering* ([2e](https://smile.amazon.com/dp/0813349109), [1e](https://smile.amazon.com/dp/0738204536))
+- Sternberg. *Dynamical Systems* ([Dover](https://smile.amazon.com/dp/0486477053))
