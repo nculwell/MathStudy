@@ -45,6 +45,12 @@
 
   A gentle introduction for beginners.
 
+- Prasolov. *Intuitive Topology* ([1e](https://smile.amazon.com/Intuitive-Topology-Mathematical-World-Vol/dp/0821803565))
+
+  An extremely gentle introduction for extreme beginners.
+
+- Steen and Seebach. *Counterexamples in Topology* ([Dover](https://smile.amazon.com/dp/048668735X))
+
 ## Differential Geometry
 
 - Milnor. *Topology from the Differentiable Viewpoint*
