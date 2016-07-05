@@ -7,7 +7,7 @@ There are various English-language editions of Euclid available at archive.org; 
 - Euclid, tr. Heath. *The Elements. Green Lion Press. ([Single volume](https://smile.amazon.com/dp/1888009195))
 - Kiselev and Givental. *Kiselev's Geometry* (Vol I: [Sumizdat 1e](https://smile.amazon.com/dp/0977985202); Vol II: [Sumizdat 1e](https://smile.amazon.com/dp/0977985210))
 - Hartshorne. *Geometry: Euclid and Beyond* ([1e](https://smile.amazon.com/dp/0387986502))
-- Moise, *Elementary Geometry From An Advanced Viewpoint* ([3e](https://smile.amazon.com/Elementary-Geometry-Advanced-Standpoint-3rd/dp/0201508672))
+- Moise, *Elementary Geometry From An Advanced Viewpoint* ([3e](https://smile.amazon.com/dp/0201508672), [2e](https://smile.amazon.com/dp/0201047934))
 - Greenberg, *Euclidean And Non-Euclidean Geometries* ([4e](https://smile.amazon.com/dp/0716799480))
 - Coxeter. *Geometry Revisited* ([MAA 1967](https://smile.amazon.com/dp/0883856190/))
 - Coxeter. *Introduction to Geometry* ([Wiley 2e](https://smile.amazon.com/dp/0471504580/))
