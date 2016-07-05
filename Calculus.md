@@ -14,6 +14,7 @@ Here are some books in this category, including the most popular ones that I kno
 
 - OpenStax: Strang, Herman et al. *Calculus*. (**FREE ONLINE**: [Vol 1](https://openstax.org/details/calculus-volume-1); [Vol 2](https://openstax.org/details/calculus-volume-2); [Vol 3](https://openstax.org/details/calculus-volume-3))
 - Strang, *Calculus* (**FREE ONLINE**: [Website](http://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/), [Direct link to PDF](http://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf))
+- Simmons. *Calculus with Analytic Geometry* ([2e](https://smile.amazon.com/dp/0070576424))
 - Stewart. *Calculus: Early Transcendentals* ([5e](https://www.amazon.com/dp/0534393217)) -- Has huge adoption in both high schools and universities.
 - Leithold. ([TC7](https://www.amazon.com/dp/0673469131); [TCWAG 6](https://www.amazon.com/dp/0060441070)) -- I've seen Louis Leithold credited as the creator of the modern "standard" calculus textbook. His series is probably more "proofy" compared to the other books in this section.
 - Thomas et al. *Thomas' Calculus* ([12e](https://smile.amazon.com/dp/0321587995); [Upd 10e](https://smile.amazon.com/dp/0201755270); [9e](https://smile.amazon.com/dp/0201531747)) -- Thomas retired in 1978, and editions since then have different co-authors, principally Ross Finney.
@@ -150,6 +151,8 @@ This site has links to lots of other sites with problem sets and practice exams:
 ## Differential Equations
 
 ### Combined
+
+- Simmons. *Differential Equations with Applications and Historical Notes* ([3e](https://smile.amazon.com/dp/1498702597), [2e](https://smile.amazon.com/dp/0070575401))
 
 - Boyce and DiPrima, *Elementary Differential Equations and Boundary Value Problems* ([9e](https://smile.amazon.com/dp/0470383348), [8e](https://smile.amazon.com/dp/0471433381))
 
