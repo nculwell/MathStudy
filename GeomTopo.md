@@ -1,10 +1,14 @@
 
 ## Geometry
 
-- Hartshorne *Geometry: Euclid and Beyond*
-- Moise, *Elementary Geometry From An Advanced Viewpoint*
-- Greenberg, *Euclidean And Non-Euclidean Geometries*
-- Eves, *A Survey of Geometry*
+There are various English-language editions of Euclid available at archive.org; for now I haven't listed them here, but you can search for yourself.
+
+- Euclid, tr. Heath. *The Elements*. Dover. ([Vol I / Books 1-2](https://smile.amazon.com/dp/0486600882), [Vol II / Books 3-9](https://smile.amazon.com/dp/0486600890), [Vol III / Books 10-13](https://smile.amazon.com/Euclid-Thirteen-Books-Elements-10-13/dp/0486600904))
+- Euclid, tr. Heath. *The Elements. Green Lion Press. ([Single volume](https://smile.amazon.com/dp/1888009195))
+- Kiselev and Givental. *Kiselev's Geometry* (Vol I: [Sumizdat 1e](https://smile.amazon.com/dp/0977985202); Vol II: [Sumizdat 1e](https://smile.amazon.com/dp/0977985210))
+- Hartshorne. *Geometry: Euclid and Beyond* ([1e](https://smile.amazon.com/dp/0387986502))
+- Moise, *Elementary Geometry From An Advanced Viewpoint* ([3e](https://smile.amazon.com/Elementary-Geometry-Advanced-Standpoint-3rd/dp/0201508672))
+- Greenberg, *Euclidean And Non-Euclidean Geometries* ([4e](https://smile.amazon.com/dp/0716799480))
 - Coxeter. *Geometry Revisited* ([MAA 1967](https://smile.amazon.com/dp/0883856190/))
 - Coxeter. *Introduction to Geometry* ([Wiley 2e](https://smile.amazon.com/dp/0471504580/))
 - Coxeter. *Regular Polytopes* ([3e](https://smile.amazon.com/Regular-Polytopes-H-S-Coxeter/dp/0486614808/))
