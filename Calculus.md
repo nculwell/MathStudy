@@ -6,9 +6,9 @@ These books are those designed to be the required textbook for a standard high s
 
 The OpenStax series follows a very common sequencing of topics, which I list here as a representative of what you can expect to find in the books in this section. OpenStax splits these into three separate books, but most series combine them all into one huge book of about 1000 pages. It's also common to see 1 & 2 combined, and a separate book for 3.
 
-- Volume 1: functions, limits, derivatives, and integration.
-- Volume 2: integration, differential equations, sequences and series, and parametric equations and polar coordinates.
-- Volume 3: parametric equations and polar coordinates, vectors, functions of several variables, multiple integration, and second-order differential equations.
+- Volume 1: functions, limits, derivatives, integration.
+- Volume 2: [more] integration, differential equations, sequences and series, parametric equations, polar coordinates.
+- Volume 3: parametric equations and polar coordinates, vectors, functions of several variables, multiple integration, second-order differential equations.
 
 Here are some books in this category, including the most popular ones that I know of.  I've tried to link mainly to the best-priced editions so you can get a book for $5-10.
 
