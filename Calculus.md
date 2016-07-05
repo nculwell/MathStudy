@@ -150,31 +150,35 @@ This site has links to lots of other sites with problem sets and practice exams:
 ## Differential Equations
 
 ### Combined
-- Boyce and DiPrima, *Elementary Differential Equations*
-- Piskunov, *Differential and Integral Calculus, Vol. I + II* (c)
+
+- Boyce and DiPrima, *Elementary Differential Equations and Boundary Value Problems* ([9e](https://smile.amazon.com/dp/0470383348), [8e](https://smile.amazon.com/dp/0471433381))
+
+- Piskunov, *Differential and Integral Calculus* (Vol I: [Mir/CBS](https://smile.amazon.com/dp/8123904924); Vol II: [Mir/CBS](https://smile.amazon.com/dp/8123904932))
+
+  From what I gather, this pair of volumes is legendary for its quality (though problems are too easy), but the physical quality of this edition is terrible.
 
 ### ODEs
-- Tenenbaum, *Ordinary Differential Equations* (c)
-- Hurewicz, *Lectures on Ordinary Differential Equations* (c)
-- Coddington, *An Introduction to Ordinary Differential Equations* (c)
-- Arnold, *Ordinary Differential Equations*
-- Coddington and Levinson, *Theory of Ordinary Differential Equations*
+- Tenenbaum, *Ordinary Differential Equations* ([Dover](https://smile.amazon.com/dp/0486649407))
+- Hurewicz, *Lectures on Ordinary Differential Equations* ([Dover](https://smile.amazon.com/dp/B00M2625NA))
+- Coddington, *An Introduction to Ordinary Differential Equations* ([Dover](https://smile.amazon.com/dp/0486659429))
+- Arnold. *Ordinary Differential Equations* ([MIT Press, tr. Silverman](https://smile.amazon.com/dp/0262510189), [Springer, tr. Cooke](https://smile.amazon.com/dp/3540345639)) - Springer is a later version.
+- Coddington and Levinson, *Theory of Ordinary Differential Equations* ([Krieger 1984](https://smile.amazon.com/dp/0898747554))
 
 ### PDEs
 
 #### Basic
 
-- Strauss, *Partial Differential Equations: An Introduction* (u)
-- Farlow, *Partial Differential Equations for Scientists and Engineers* (c)
-- Logan, *Applied Partial Differential Equations*
-- John, *Partial Differential Equations*
-- Bleecker and Csordas, *Basic Partial Differential Equations*
+- Strauss, *Partial Differential Equations: An Introduction* ([1e](https://smile.amazon.com/dp/0471548685), [2e](https://smile.amazon.com/dp/0470054565))
+- Farlow, *Partial Differential Equations for Scientists and Engineers* ([Dover](https://smile.amazon.com/dp/048667620X))
+- Logan, *Applied Partial Differential Equations* ([3e](https://smile.amazon.com/dp/3319124927), [2e](https://smile.amazon.com/dp/0387209530))
+- John, *Partial Differential Equations* ([4e](https://smile.amazon.com/dp/0387906096))
+- Bleecker and Csordas, *Basic Partial Differential Equations* ([1e](https://smile.amazon.com/dp/1571460365))
 
 #### Advanced (more prequisites)
 
-- Gustafson, *Introduction to Partial Differential Equations and Hilbert Space Methods* (c)
-- Taylor, *Partial Differential Equations: Basic Theory*
-- Evans, *Partial Differential Equations: Second Edition*
+- Gustafson, *Introduction to Partial Differential Equations and Hilbert Space Methods* ([Dover](https://smile.amazon.com/dp/0486612716))
+- Taylor, *Partial Differential Equations* (Vol I: *Basic Theory* [2e](https://smile.amazon.com/dp/1441970541); Vol II: *Qualitative Studies of Linear Equations* [2e](https://smile.amazon.com/dp/1441970517); Vol III: *Nonlinear Equations* [2e](https://smile.amazon.com/dp/1441970487))
+- Evans, *Partial Differential Equations: Second Edition* ([2e](https://smile.amazon.com/dp/0821849743))
 - Folland, *Introduction to Partial Differential Equations* (u)
 
 ## Advanced Calculus
