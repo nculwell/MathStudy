@@ -17,10 +17,10 @@ Here are some books in this category, including the most popular ones that I kno
 - Simmons. *Calculus with Analytic Geometry* ([2e](https://smile.amazon.com/dp/0070576424))
 - Stewart. *Calculus: Early Transcendentals* ([5e](https://www.amazon.com/dp/0534393217)) -- Has huge adoption in both high schools and universities.
 - Leithold. ([TC7](https://www.amazon.com/dp/0673469131); [TCWAG 6](https://www.amazon.com/dp/0060441070)) -- I've seen Louis Leithold credited as the creator of the modern "standard" calculus textbook. His series is probably more "proofy" compared to the other books in this section.
+- Larson, Hostetler, Edwards. *Calculus* ([8e](https://www.amazon.com/dp/061850298X/); [7e](https://www.amazon.com/dp/0618141804); [6e](https://www.amazon.com/dp/0395869749))
 - Thomas et al. *Thomas' Calculus* ([12e](https://smile.amazon.com/dp/0321587995); [Upd 10e](https://smile.amazon.com/dp/0201755270); [9e](https://smile.amazon.com/dp/0201531747)) -- Thomas retired in 1978, and editions since then have different co-authors, principally Ross Finney.
 - Lial, Greenwell et al. *Calculus with Applications* ([9e](https://www.amazon.com/dp/0321421329))
 - Anton, Bivens and Davis. *Calculus* ([7e](https://www.amazon.com/dp/047138156X); [7e Student Resource Manual](https://www.amazon.com/dp/0471441724); [9e multivariable](https://www.amazon.com/dp/0470183462))
-- Larson, Hostetler, Edwards. *Calculus* ([8e](https://www.amazon.com/dp/061850298X/); [7e](https://www.amazon.com/dp/0618141804))
 - Marsden and Weinstein. *Calculus* (Vol I: [2e](https://smile.amazon.com/dp/0387909745); Vol II: [2e](https://smile.amazon.com/dp/0387909753); Vol III: [2e](https://smile.amazon.com/dp/0387909850))
 
 ### Elite calculus textbooks
