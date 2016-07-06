@@ -81,6 +81,8 @@ These take the attitude that emphasis on rigorous proofs gets in the way of unde
 
   Focuses on supporting calculus with geometric and physical explanations, and motivating it with the historical problems that motivated the development of calculus. Problems focus on understanding. Early emphasis on differential equations.
 
+- Zeldovich and Yaglom, *Higher Math for Beginners*
+
 ##### Others
 
 - Thomas, *Calculus and Analytic Geometry* (c) [3rd Alternate](https://smile.amazon.com/dp/B000K1UMJS)
