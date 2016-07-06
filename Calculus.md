@@ -16,7 +16,7 @@ Here are some books in this category, including the most popular ones that I kno
 - Strang, *Calculus* (**FREE ONLINE**: [Website](http://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/), [Direct link to PDF](http://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf))
 - Simmons. *Calculus with Analytic Geometry* ([2e](https://smile.amazon.com/dp/0070576424))
 - Stewart. *Calculus: Early Transcendentals* ([5e](https://www.amazon.com/dp/0534393217)) -- Has huge adoption in both high schools and universities.
-- Leithold. ([TC7](https://www.amazon.com/dp/0673469131); [TCWAG 6](https://www.amazon.com/dp/0060441070)) -- I've seen Louis Leithold credited as the creator of the modern "standard" calculus textbook. His series is probably more "proofy" compared to the other books in this section.
+- Leithold. ([TC7](https://www.amazon.com/dp/0673469131); [TCWAG 6](https://www.amazon.com/dp/0060441070)) -- I've seen Louis Leithold credited as the creator of the modern "standard" calculus textbook.
 - Larson, Hostetler, Edwards. *Calculus* ([8e](https://www.amazon.com/dp/061850298X/); [7e](https://www.amazon.com/dp/0618141804); [6e](https://www.amazon.com/dp/0395869749))
 - Thomas et al. *Thomas' Calculus* ([12e](https://smile.amazon.com/dp/0321587995); [Upd 10e](https://smile.amazon.com/dp/0201755270); [9e](https://smile.amazon.com/dp/0201531747)) -- Thomas retired in 1978, and editions since then have different co-authors, principally Ross Finney.
 - Lial, Greenwell et al. *Calculus with Applications* ([9e](https://www.amazon.com/dp/0321421329))
@@ -61,7 +61,9 @@ These are books that math majors get enthusiastic about. They are typically used
 
 These books don't fit cleanly into the categories that I described above.
 
-- The calculus book from [The Art of Problem Solving series]().
+#### Intuitive approaches
+
+These take the attitude that emphasis on rigorous proofs gets in the way of understanding calculus.
 
 - Ash and Ash, *The Calculus Tutoring Book* ([1e paperback](https://www.amazon.com/dp/0780310446) [1e hardcover](https://www.amazon.com/dp/0879421835))
 
@@ -71,15 +73,23 @@ These books don't fit cleanly into the categories that I described above.
 
   An intuitive introduction to calculus. This isn't thorough enough to be a course textbook, but it makes a good companion to a textbook. It's for someone who's just beginning calculus. The original version (by just Thompson) is in the public domain. It's shorter and some people feel that it does a better job of keeping things simple. Keep in mind that it's old! It was published in 1914. Its casual style emphasizes its old-fashionedness. Some might find this charming, others annoying. You can get it online here: https://archive.org/details/CalculusMadeEasy
 
+- Kline, *Calculus: An Intuitive and Physical Approach* ([Dover](https://smile.amazon.com/dp/0486404536))
+
+  The title pretty much says what this is. It's older (originally published in 1967, updated in 1977), and was written by Morris Kline, a prolific writer on mathematics (and critic of math education) who authored several books for a popular audience.
+
+- Blåsjö. *Intuitive Infinitesimal Calculus* ([**FREE ONLINE**](http://intellectualmathematics.com/calculus/))
+
+  Focuses on supporting calculus with geometric and physical explanations, and motivating it with the historical problems that motivated the development of calculus. Problems focus on understanding. Early emphasis on differential equations.
+
+##### Others
+
 - Thomas, *Calculus and Analytic Geometry* (c) [3rd Alternate](https://smile.amazon.com/dp/B000K1UMJS)
 
   This entry refers to the original series of textbooks written by George B. Thomas himself, up to the Fourth Edition (1969). As of 2015 they can still be bought used (quite cheap!), and thanks to the durable hardback bindings they used in those days, you can probably still find them in good condition. (Just hope some jerk didn't scribble all over your copy.) Depending on who you ask, the pinnacle of the series was either the 4th Edition or the 3rd Alternate Edition.
 
   As advertised, there is a strong emphasis here on analytic geometry and applications. Thomas taught at MIT, and this is clearly a "calculus for engineers" approach.
 
-- Kline, *Calculus: An Intuitive and Physical Approach* ([Dover](https://smile.amazon.com/dp/0486404536))
-
-  The title pretty much says what this is. It's older (originally published in 1967, updated in 1977), and was written by Morris Kline, a prolific writer on mathematics who authored several books for a popular audience. In content, this is also what you might class as a "standard" calculus textbook, but it has a different flavor because it was written in a different era.
+- The calculus book from [The Art of Problem Solving series](SchoolLevel.md#the-art-of-problem-solving).
 
 - Lang, *A First Course in Calculus* ([5e](https://smile.amazon.com/dp/0387962018), [Short Calculus](https://smile.amazon.com/dp/0387953272), [4e @AbeBooks](http://www.abebooks.com/products/isbn/9780201041491))
 
@@ -94,8 +104,6 @@ These books don't fit cleanly into the categories that I described above.
   CUP's promotion says, "In a lively and easy-to-read style, Professor Körner uses approximation and estimates in a way that will easily merge into the standard development of analysis. By using Taylor's theorem with error bounds he is able to discuss topics that are rarely covered at this introductory level." I haven't seen this book in the flesh yet, but it's inexpensive.
 
 - Stein. *Calculus in the First Three Dimensions* ([Dover](https://smile.amazon.com/dp/0486801144); [Solutions manual (PDF)](http://www.doverpublications.com/solutions/801144.pdf))
-
-- Blåsjö. *Intuitive Infinitesimal Calculus* ([**FREE ONLINE**](http://intellectualmathematics.com/calculus/))
 
 - Kiesler. *Elementary Calculus: An Infinitesimal Approach* ([**FREE ONLINE**](https://www.math.wisc.edu/~keisler/calc.html); [Dover](https://smile.amazon.com/dp/0486484521))
 
