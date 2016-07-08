@@ -9,6 +9,7 @@ See also: [Logic and Discrete Math](LogicDiscrete.md)
 * Zelle. *Python Programming: An Introduction to Computer Science*
 * [*CS Unplugged*](http://csunplugged.org/books/) (for kids)
 * Eckel. *Thinking in Java* ([TIJ website](http://www.mindviewinc.com/Books/TIJ4/); old editions are free)
+* Haverbeke. *Eloquent Javascript* ([**FREE ONLINE**](http://eloquentjavascript.net/))
 
 ### Theory
 
