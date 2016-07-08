@@ -4,7 +4,9 @@ This document is even more just a "jumble of references" than the rest of this r
 
 ## Physics
 
-### Introductions
+### General
+
+#### Introductions
 
 - [OpenStax. *College Physics*](https://openstax.org/details/college-physics) (two-semester introductory algebra-based physics course)
 - [OpenStax. *University Physics*](https://openstax.org/details/university-physics) (it's not ready yet, but this will presumably be a calculus-based physics course, though I can't find anywhere that this is specified)
@@ -14,11 +16,9 @@ This document is even more just a "jumble of references" than the rest of this r
 - Shankar. *Fundamentals of Physics II: Electromagnetism, Optics, and Quantum Mechanics* (based on Shankar's first online course, [Fundamentals of Physics II](http://oyc.yale.edu/physics/phys-201))
 - Bueche and Hecht. *Schaum's Outline of College Physics*
 
-### Misc
+#### Landau and Lifshitz
 
-- Landau and Lifshitz. *Course of Theoretical Physics* series
-
-  A sprawling series of texts that span much of physics.
+  The *Course of Theoretical Physics* series by Landau and Lifshitz is series of texts that span much of physics. They are considered by many to be the best texts at their level.
 
   - [1: Mechanics, 3e](https://smile.amazon.com/dp/0750628960)
   - [2: The Classical Theory of Fields, 4e](https://smile.amazon.com/dp/0750627689)
@@ -36,7 +36,12 @@ This document is even more just a "jumble of references" than the rest of this r
   There's also an easier and shorter version of the series in two volumes. The first volume is: 
   Landau, Akhiezer and Lifshitz, *General Physics* ([At the Internet Archive](https://archive.org/details/GeneralPhysics))
 
+#### Feynman
+
 - Feynman, Leighton, Sands. *The Feynman Lectures on Physics* ([READ ONLINE](http://www.feynmanlectures.caltech.edu/); PB: [V1](https://smile.amazon.com/dp/0465024939), [V2](https://smile.amazon.com/dp/0465024947), [V3](https://smile.amazon.com/dp/0465025013); HC: [V1](https://smile.amazon.com/dp/0201021161), [V2](https://smile.amazon.com/dp/020102117X), [V3](https://smile.amazon.com/dp/0201021188); [HC set](https://smile.amazon.com/dp/0465023827))
+
+#### Historic works
+
 - Newton, translated by Cohen and Whitman. *The Principia : Mathematical Principles of Natural Philosophy* ([1e PB](https://smile.amazon.com/dp/0520290887))
 
 ### Mechanics
@@ -176,7 +181,7 @@ There are math books written for physicists.
 
 #### Engineering mathematics
 
-I decided to group these books here because the topics are pretty similar to those seen in many "math for physics" textbooks.
+I decided to group these books here because the topics are pretty similar to those seen in many "math for physics" textbooks. (And they don't really fit anywhere else.)
 
 - Kreyszig. *Advanced Engineering Mathematics* ([9e](https://smile.amazon.com/dp/0471488852), [8e](https://smile.amazon.com/dp/0471154962))
 - Wylie. *Advanced Engineering Mathematics* ([6e](https://smile.amazon.com/Advanced-Engineering-Mathematics-Ray-Wylie/dp/0070722064))
