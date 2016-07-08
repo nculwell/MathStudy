@@ -2,6 +2,14 @@
 
 See also: [Logic and Discrete Math](LogicDiscrete.md)
 
+### Basic programming
+
+* [*Structure and Interpretation of Computer Programs*](https://mitpress.mit.edu/sicp/full-text/book/book.html)
+* [*How to Design Programs*](http://www.htdp.org/)
+* Zelle. *Python Programming: An Introduction to Computer Science*
+* [*CS Unplugged*](http://csunplugged.org/books/) (for kids)
+* Eckel. *Thinking in Java* ([TIJ website](http://www.mindviewinc.com/Books/TIJ4/); old editions are free)
+
 ### Theory
 
 #### Intro
