@@ -179,11 +179,13 @@ I decided to group these books here because the topics are pretty similar to tho
 
 ### Inorganic
 
-- Rodgers. *Descriptive Inorganic, Coordination, and Solid State Chemistry* [cheap 2nd edition](https://amazon.com/Descriptive-Inorganic-Coordination-Solid-Chemistry/dp/0125920601/)
+- Rodgers. *Descriptive Inorganic, Coordination, and Solid State Chemistry* ([2e](https://amazon.com/Descriptive-Inorganic-Coordination-Solid-Chemistry/dp/0125920601/))
+- Rayner-Canham and Overton. *Descriptive Inorganic Chemistry* ([5e](https://www.amazon.com/dp/1429218142), [5e solns](https://www.amazon.com/dp/1429224347), [4e](https://www.amazon.com/dp/0716789639))
+- Szafran, Pike, Singh. *Microscale Inorganic Chemistry: A Comprehensive Laboratory Experience* ([1e](https://www.amazon.com/dp/0471619965))
 
 ### Analytical
 
-- Harris. *Quantitative Chemical Analysis* (older editions cheap used)
+- Harris. *Quantitative Chemical Analysis* ([8e/2010](https://www.amazon.com/dp/1429218150), [8e solns](https://www.amazon.com/dp/1429231238), [7e/2006](https://www.amazon.com/dp/0716770415), [7e solns](https://www.amazon.com/dp/0716772604), [6e/2002](https://www.amazon.com/dp/0716744643), [6e solns](https://www.amazon.com/dp/071674984X))
 
 ### Organic
 
@@ -247,8 +249,8 @@ I decided to group these books here because the topics are pretty similar to tho
 ### Cell
 
 - Becker, Kleinsmith, Hardin, Bertoni. *Becker’s World of the Cell* [7e](https://smile.amazon.com/World-Cell-7th-Wayne-Becker/dp/0805393935/) [7e solutions](https://smile.amazon.com/Student-Solutions-Manual-World-Cell/dp/032152747X/)
-- Alberts et al. *Essential Cell Biology*
 - Alberts et al. *Molecular Biology of the Cell* [5e](https://smile.amazon.com/Molecular-Biology-Cell-Bruce-Alberts/dp/0815341059/) [5e problem book](https://smile.amazon.com/Molecular-Biology-Cell-Fifth-Problems/dp/0815341105/)
+- Alberts et al. *Essential Cell Biology* ([3e](https://www.amazon.com/dp/0815341296), [2e](https://www.amazon.com/dp/081533480X)) - Smaller and easier than *Molecular Biology of the Cell*.
 - Lodish et al. *Molecular Cell Biology*
 - Neidhardt, Ingraham, Schaechter. *Physiology of the Bacterial Cell: A Molecular Approach*
 
