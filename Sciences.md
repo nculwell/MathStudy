@@ -87,7 +87,7 @@ This document is even more just a "jumble of references" than the rest of this r
 
 - Shankar. *Principles of Quantum Mechanics* ([2e](https://smile.amazon.com/dp/0306447908))
 - Griffiths. *Introduction to Quantum Mechanics* ([2e](https://smile.amazon.com/dp/0131118927), [1e](https://smile.amazon.com/dp/0131244051)))
-- Dirac. *The Principles of Quantum Mechanics* ([Snowball paperback](https://smile.amazon.com/dp/1607965607))
+- Dirac. *The Principles of Quantum Mechanics* ([Oxford PB](https://smile.amazon.com/dp/0198520115), [Snowball PB](https://smile.amazon.com/dp/1607965607), [Snowball HC](https://smile.amazon.com/dp/1607964465))
 - Bohm. *Quantum Theory* ([Dover](https://smile.amazon.com/dp/0486659690))
 - Born. *Atomic Physics* ([Dover 8e](https://smile.amazon.com/dp/0486659844))
 - Schwartz. *Quantum Field Theory and the Standard Model* ([1e](https://smile.amazon.com/dp/1107034736))
