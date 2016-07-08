@@ -26,8 +26,8 @@ This document is even more just a "jumble of references" than the rest of this r
   
   [Several books of Landau and Lifshitz, Second Edition, at The Internet Archive](https://archive.org/search.php?query=creator%3A%22L.D.+Landau+%26+E.M.+Lifshitz%22).
 
-- Feynman. *The Feynman Lectures on Physics*
-- Newton, translated by Cohen and Whitman. *The Principia : Mathematical Principles of Natural Philosophy*
+- Feynman, Leighton, Sands. *The Feynman Lectures on Physics* ([READ ONLINE](http://www.feynmanlectures.caltech.edu/); PB: [V1](https://smile.amazon.com/dp/0465024939), [V2](https://smile.amazon.com/dp/0465024947), [V3](https://smile.amazon.com/dp/0465025013); HC: [V1](https://smile.amazon.com/dp/0201021161), [V2](https://smile.amazon.com/dp/020102117X), [V3](https://smile.amazon.com/dp/0201021188); [HC set](https://smile.amazon.com/dp/0465023827))
+- Newton, translated by Cohen and Whitman. *The Principia : Mathematical Principles of Natural Philosophy* ([1e PB](https://smile.amazon.com/dp/0520290887))
 
 ### Mechanics
 
