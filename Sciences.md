@@ -189,17 +189,19 @@ I decided to group these books here because the topics are pretty similar to tho
 
 ### Organic
 
-- Klein. *Organic Chemistry*
-- Klein. *Organic Chemistry As a Second Language*
-- DeWick. *Essentials of Organic Chemistry: For Students of Pharmacy, Medicinal Chemistry and Biological Chemistry* (cheap used, nice diagrams)
-- Loudon. *Organic Chemistry* (cheap used)
+- Klein. *Organic Chemistry* ([1e](https://www.amazon.com/dp/0471756148), [1e solns](https://www.amazon.com/dp/047175739X))
+- Klein. *Organic Chemistry As a Second Language* ([3e Vol 1](https://www.amazon.com/dp/111801040X), [3e Vol 2](https://www.amazon.com/dp/1118144341); [2e Vol 1](https://www.amazon.com/dp/0470129298), [2e Vol 2](https://www.amazon.com/dp/0471738085); [1e Vol 1](https://www.amazon.com/dp/111801040X), [1e Vol 2](https://www.amazon.com/dp/1118144341))
+- DeWick. *Essentials of Organic Chemistry: For Students of Pharmacy, Medicinal Chemistry and Biological Chemistry* ([1e](https://www.amazon.com/dp/0470016663)) - "nice diagrams"
+- Loudon. *Organic Chemistry* ([5e/2009](https://www.amazon.com/dp/0981519431), [5e solns](https://www.amazon.com/dp/098151944X); [4e/2001](https://www.amazon.com/dp/0195119991), [4e solns](https://www.amazon.com/dp/0195120000))
 - Wepplo. *A Handbook of Organic Chemistry Mechanisms*
-- Anslyn, Dougherty. *Modern Physical Organic Chemistry*
+- Wade. ([7e/2009](https://www.amazon.com/dp/032159231X), [7e solns](https://www.amazon.com/dp/0321598717), [6e/2005](https://www.amazon.com/dp/0131478710), [6e solns](https://www.amazon.com/dp/0131478826))
+- Anslyn, Dougherty. *Modern Physical Organic Chemistry* ([1e illustrated](https://www.amazon.com/dp/1891389319), [1e solns](https://www.amazon.com/dp/189138936X))
 - [Soderberg. *Organic Chemistry With a Biological Emphasis*](
   http://chemwiki.ucdavis.edu/Textbook_Maps/Organic_Chemistry_Textbook_Maps/Map%3A_Organic_Chemistry_With_a_Biological_Emphasis_(Soderberg))
 - Clayden and Greeves. *Organic Chemistry*
 - Carey. *Organic Chemistry* (u)
 - MSU: http://www2.chemistry.msu.edu/faculty/reusch/VirtTxtJml/intro1.htm
+- Gilbert and Martin. *Experimental Organic Chemistry: A Miniscale and Microscale Approach* ([5e](https://www.amazon.com/dp/1439049149), [4e](https://www.amazon.com/dp/B0036HQ2KG))
 
 ### Physical
 
