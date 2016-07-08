@@ -92,6 +92,8 @@ This document is even more just a "jumble of references" than the rest of this r
 - Born. *Atomic Physics* ([Dover 8e](https://smile.amazon.com/dp/0486659844))
 - Schwartz. *Quantum Field Theory and the Standard Model* ([1e](https://smile.amazon.com/dp/1107034736))
 - Lancaster, Blundell. *Quantum Field Theory for the Gifted Amateur* ([1e](https://smile.amazon.com/dp/019969933X))
+- Greiner and Reinhardt. *Quantum Electrodynamics* ([4e/2008](https://smile.amazon.com/dp/3540875603))
+- Cohen-Tannoudji, Dupont-Roc, Grynberg. *Photons and Atoms: Introduction to Quantum Electrodynamics* ([1e HC](https://smile.amazon.com/dp/0471845264), [1e PB](https://smile.amazon.com/dp/0471184330))
 
 #### Nuclear physics
 
