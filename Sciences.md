@@ -18,11 +18,17 @@ This document is even more just a "jumble of references" than the rest of this r
 
 - Landau and Lifshitz. *Course of Theoretical Physics* series
 
-  A sprawling series of texts that span much of physics. The first three volumes are:
+  A sprawling series of texts that span much of physics.
 
-  - Mechanics
-  - The Classical Theory of Fields
-  - Quantum Mechanics
+  - [1: Mechanics, 3e](https://smile.amazon.com/dp/0750628960)
+  - [2: The Classical Theory of Fields, 4e](https://smile.amazon.com/dp/0750627689)
+  - [3: Quantum Mechanics: Non-Relativistic Theory, 3e](https://smile.amazon.com/dp/0750635398)
+  - [4: Quantum Electrodynamics, 2e](https://smile.amazon.com/dp/0750633719)
+  - [5: Statistical Physics Part 1, 3e](https://smile.amazon.com/dp/0750633727)
+  - [6: Fluid Mechanics, 2e](https://smile.amazon.com/dp/0750627670)
+  - [7: Theory of Elasticity, 3e](https://smile.amazon.com/dp/075062633X)
+  - [8: Electrodynamics of Continuous Media, 2e](https://smile.amazon.com/dp/0750626348)
+  - [9: Statistical Physics Part 2: Theory of the Condensed State](https://smile.amazon.com/dp/0750626364)
   
   [Several books of Landau and Lifshitz, Second Edition, at The Internet Archive](https://archive.org/search.php?query=creator%3A%22L.D.+Landau+%26+E.M.+Lifshitz%22).
 
