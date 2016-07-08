@@ -70,7 +70,7 @@ This document is even more just a "jumble of references" than the rest of this r
 - Purcell and Morin. *Electricity and Magnetism*
 - Griffiths. *Introduction to Electrodynamics*
 - Zangwill. *Modern Electrodynamics*
-- Schwartz. *Principles of Electrodynamics*
+- Schwartz. *Principles of Electrodynamics* ([Dover](https://smile.amazon.com/dp/0486654931))
 
 ### Optics
 
@@ -79,45 +79,47 @@ This document is even more just a "jumble of references" than the rest of this r
   [Jenkins and White, 1957 (3e). *Fundamentals of Optics* (at The Internet Archive)](https://archive.org/details/FundamentalsOfOptics)
 
 - Born, Wolf et al, 1999 (7e). [*Principles of Optics: Electromagnetic Theory of Propagation, Interference and Diffraction of Light* (at the US Library of Congress)](http://catdir.loc.gov/catdir/samples/cam041/98049429.pdf)
-- Born and Wolf, 1970 (4e). [*Principles of Optics* (at The Internet Archive)](https://archive.org/details/PrinciplesOfOptics)
-- Hecht. *Optics* (u)
-- Fowles. *Introduction to Modern Optics*
+- Born and Wolf, 1970 ([7e/1999](https://smile.amazon.com/dp/0521642221); [6e/1980](https://smile.amazon.com/dp/0080264816); [At archive.org](https://archive.org/details/PrinciplesOfOptics))
+- Hecht. *Optics* ([4e](https://smile.amazon.com/dp/0805385665))
+- Fowles. *Introduction to Modern Optics* ([Dover](https://smile.amazon.com/dp/0486659577))
 
 ### Quantum
 
-- Shankar. *Principles of Quantum Mechanics*
-- Griffiths. *Introduction to Quantum Mechanics*
-- Dirac. *The Principles of Quantum Mechanics*
-- Bohm. *Quantum Theory*
+- Shankar. *Principles of Quantum Mechanics* ([2e](https://smile.amazon.com/dp/0306447908))
+- Griffiths. *Introduction to Quantum Mechanics* ([2e](https://smile.amazon.com/dp/0131118927), [1e](https://smile.amazon.com/dp/0131244051)))
+- Dirac. *The Principles of Quantum Mechanics* ([Snowball paperback](https://smile.amazon.com/dp/1607965607))
+- Bohm. *Quantum Theory* ([Dover](https://smile.amazon.com/dp/0486659690))
+- Born. *Atomic Physics* ([Dover 8e](https://smile.amazon.com/dp/0486659844))
 - Schwartz. *Quantum Field Theory and the Standard Model* ([1e](https://smile.amazon.com/dp/1107034736))
 - Lancaster, Blundell. *Quantum Field Theory for the Gifted Amateur* ([1e](https://smile.amazon.com/dp/019969933X))
 
 #### Nuclear physics
 
-- Blatt and Weisskopf. *Theoretical Nuclear Physics*
-- Landau and Smorodinsky. *Lectures on Nuclear Theory*
+- Blatt and Weisskopf. *Theoretical Nuclear Physics* ([Dover](https://smile.amazon.com/dp/0486668274))
+- Landau and Smorodinsky. *Lectures on Nuclear Theory* ([Dover](https://smile.amazon.com/dp/0486675130))
+- Devanarayanan. *A Textbook on Nuclear Physics: A Textbook on Nuclear Physics for Graduate Students* ([1e](https://smile.amazon.com/dp/1517760720))
 
 ### Relativity
 
 #### Special Relativity
 
-- French. *Special Relativity*
-- Taylor and Wheeler. *Spacetime Physics*
+- French. *Special Relativity* ([1e/1968](https://smile.amazon.com/dp/0393097935))
+- Taylor and Wheeler. *Spacetime Physics* ([2e/1992](https://smile.amazon.com/dp/0716723271))
 
 #### General Relativity
 
-- Liddle. *An Introduction to Modern Cosmology*
-- Cheng. *Relativity, Gravitation and Cosmology: A Basic Introduction*
-- Schutz. *A First Course in General Relativity*
-- Wald. *General Relativity*
-- Misner. Thorne, Wheeler. *Gravitation*
-- Weinberg. *Cosmology*
-- Weinberg. *Gravitation and Cosmology: Principles and Applications of the General Theory of Relativity*
+- Liddle. *An Introduction to Modern Cosmology* ([3e/2015](https://smile.amazon.com/dp/1118502140), [2e/2003](https://smile.amazon.com/dp/0470848359))
+- Cheng. *Relativity, Gravitation and Cosmology: A Basic Introduction* ([2e](https://smile.amazon.com/dp/0199573646))
+- Schutz. *A First Course in General Relativity* ([2e/2009](https://smile.amazon.com/dp/0521887054), [1e/1985](https://smile.amazon.com/dp/0521277035))
+- Wald. *General Relativity* ([1e/1984](https://smile.amazon.com/dp/0226870332))
+- Misner. Thorne, Wheeler. *Gravitation* ([1e/1973](https://smile.amazon.com/dp/0716703440))
+- Weinberg. *Cosmology* ([1e/2008](https://smile.amazon.com/dp/0198526822))
+- Weinberg. *Gravitation and Cosmology: Principles and Applications of the General Theory of Relativity* ([1e/1972](https://smile.amazon.com/dp/0471925675))
 
 ### Mathematical physics
 
-- Joos and Freeman. *Theoretical Physics*
-- Menzel. *Mathematical Physics*
+- Joos and Freeman. *Theoretical Physics* ([Dover](https://smile.amazon.com/dp/0486652270))
+- Dennery and Krzywicki. *Mathematics for Physicists*
 
 ### Physics for mathematicians
 
@@ -140,7 +142,7 @@ There are math books written for physicists.
 - Fleisch. *A Student's Guide to Vectors and Tensors* ([1e](https://smile.amazon.com/dp/0521171903))
 - Hamill. *A Student's Guide to Lagrangians and Hamiltonians* ([1e](https://smile.amazon.com/dp/1107617529))
 - Fleisch. *A Student's Guide to Maxwell's Equations* ([1e](https://smile.amazon.com//dp/0521701473))
-- Dennery and Krzywicki. *Mathematics for Physicists*
+- Menzel. *Mathematical Physics* ([Dover](https://smile.amazon.com/dp/0486600564))
 - Byron and Fuller. *Mathematics of Classical and Quantum Physics*
 - Nakahara. *Geometry, Topology and Physics*
 - Doran and Lasenby. *Geometric Algebra for Physicists*
