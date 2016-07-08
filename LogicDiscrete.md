@@ -23,10 +23,11 @@ and also has a nice overview of less mainstream types of logics.
 
 ## Discrete Math
 
-* Rosen, *Discrete Mathematics and its Applications*
+* Rosen, *Discrete Mathematics and its Applications* ([6e](https://smile.amazon.com/dp/0073229725), [5e](https://smile.amazon.com/dp/0072424346))
 
   A pretty standard introduction to discrete math. I like this one because of its computer science focus. Older editions can be bought cheaply.
 
+* Graham, Knuth, Patashnik. *Concrete Mathematics: A Foundation for Computer Science*
 * Trudeau, *Introduction to Graph Theory*
 * Chartrand, *Introductory Graph Theory*
 * Chartrand, Zhang, *A First Course in Graph Theory*
