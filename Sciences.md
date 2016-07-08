@@ -119,7 +119,8 @@ This document is even more just a "jumble of references" than the rest of this r
 ### Mathematical physics
 
 - Joos and Freeman. *Theoretical Physics* ([Dover](https://smile.amazon.com/dp/0486652270))
-- Dennery and Krzywicki. *Mathematics for Physicists*
+- Menzel. *Mathematical Physics* ([Dover](https://smile.amazon.com/dp/0486600564))
+- Menzel. *Fundamental Formulas of Physics* ([2e Vol 1](https://smile.amazon.com/Fundamental-Formulas-Physics-Vol-1/dp/0486605957), [2e Vol 2](https://smile.amazon.com/dp/0486605965)) - Reference to formulas.
 
 ### Physics for mathematicians
 
@@ -142,7 +143,7 @@ There are math books written for physicists.
 - Fleisch. *A Student's Guide to Vectors and Tensors* ([1e](https://smile.amazon.com/dp/0521171903))
 - Hamill. *A Student's Guide to Lagrangians and Hamiltonians* ([1e](https://smile.amazon.com/dp/1107617529))
 - Fleisch. *A Student's Guide to Maxwell's Equations* ([1e](https://smile.amazon.com//dp/0521701473))
-- Menzel. *Mathematical Physics* ([Dover](https://smile.amazon.com/dp/0486600564))
+- Dennery and Krzywicki. *Mathematics for Physicists*
 - Byron and Fuller. *Mathematics of Classical and Quantum Physics*
 - Nakahara. *Geometry, Topology and Physics*
 - Doran and Lasenby. *Geometric Algebra for Physicists*
