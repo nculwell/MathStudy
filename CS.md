@@ -9,7 +9,8 @@ See also: [Logic and Discrete Math](LogicDiscrete.md)
 * Zelle. *Python Programming: An Introduction to Computer Science*
 * [*CS Unplugged*](http://csunplugged.org/books/) (for kids)
 * Eckel. *Thinking in Java* ([TIJ website](http://www.mindviewinc.com/Books/TIJ4/); old editions are free)
-* Haverbeke. *Eloquent Javascript* ([**FREE ONLINE**](http://eloquentjavascript.net/))
+* [Haverbeke. *Eloquent Javascript*](http://eloquentjavascript.net/)
+* Downey. *How to Think Like a Computer Scientist* ([C++ Version](http://greenteapress.com/thinkcpp/index.html), [OCaml Version](http://greenteapress.com/thinkocaml/index.html), [Learning with Python](http://greenteapress.com/thinkpython/thinkCSpy/index.html), [Python for Software Design](http://greenteapress.com/thinkpython/pythonsd.html))
 
 ### Theory
 
