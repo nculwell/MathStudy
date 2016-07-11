@@ -46,9 +46,18 @@ See also: [Logic and Discrete Math](LogicDiscrete.md)
   and computational complexity, devoting 20-40 pages to each of these topics.
   It costs too much, though; for the price, you might as well buy Sipser's 2nd Edition.
 
+* Kozen, 1997. *Automata and Computability*
+
+  Kozen's intro-level book. Somewhat shorter than others (e.g. Sipser, Hopcroft/Motwani/Ullman). Includes some different topics. Has homework sets, with some select hints and solutions provided.
+
+* Kozen, 2006. *Theory of Computation*
+
+  Graduate-level.
+
 #### Complexity
 
 * Papadimitriou, *Computational Complexity*
+
 * Arora and Barak, *Computational Complexity: A Modern Approach*
 
 ### Data structures and algorithms
