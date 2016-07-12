@@ -53,7 +53,7 @@ There are various English-language editions of Euclid available at archive.org; 
 
   A gentle introduction for beginners.
 
-- Prasolov. *Intuitive Topology* ([1e](https://smile.amazon.com/Intuitive-Topology-Mathematical-World-Vol/dp/0821803565))
+- Prasolov. *Intuitive Topology* ([1e](https://smile.amazon.com/dp/0821803565))
 
   An extremely gentle introduction for extreme beginners.
 
@@ -61,18 +61,19 @@ There are various English-language editions of Euclid available at archive.org; 
 
 ## Differential Geometry
 
-- Milnor. *Topology from the Differentiable Viewpoint*
-- Kreyszig. *Differential Geometry*
-- Spivak. *A Comprehensive Introduction to Differential Geometry* (in 6 volumes)
+- Milnor. *Topology from the Differentiable Viewpoint* ([PUP revised](https://smile.amazon.com/dp/0691048339))
+- Kreyszig. *Differential Geometry* ([Dover](https://smile.amazon.com/dp/0486667219))
+- Spivak. *A Comprehensive Introduction to Differential Geometry* (in 6 volumes) ([Vol I, 3e](https://smile.amazon.com/dp/0914098705); [Vol II, 3e](https://smile.amazon.com/dp/0914098713); etc.)
 - Guggenheimer. *Differential Geometry* ([Dover](https://smile.amazon.com/dp/0486634337))
-- Bishop & Goldberg. *Tensor Analysis on Manifolds*
-- Lee. *Introduction to Topological Manifolds*
-- Lee. *Introduction to Smooth Manifolds*
-- Lee. *Riemannian Manifolds: An Introduction to Curvature*
-- do Carmo. *Riemannian Geometry*
-- Matsumoto. *An Introduction to Morse Theory*
-- Kosinski. *Differential Manifolds*
-- Lovelock and Rund. *Tensors, Differential Forms, and Variational Principles*
+- Bishop & Goldberg. *Tensor Analysis on Manifolds* ([Dover](https://smile.amazon.com/dp/0486640396))
+- Lee. *Introduction to Topological Manifolds* ([2e](https://smile.amazon.com/dp/1441979395))
+- Lee. *Introduction to Smooth Manifolds* ([1e](https://smile.amazon.com/dp/0387954481))
+- Lee. *Riemannian Manifolds: An Introduction to Curvature* ([1e](https://smile.amazon.com/dp/0387983228))
+- Do Carmo. *Riemannian Geometry* ([](https://smile.amazon.com/dp/0817634908))
+- Do Carmo. *Differential Geometry of Curves and Surfaces* ([1e](https://smile.amazon.com/dp/0132125897))
+- Matsumoto. *An Introduction to Morse Theory* ([1e](https://smile.amazon.com/dp/0821810227))
+- Kosinski. *Differential Manifolds* ([Dover](https://smile.amazon.com/dp/0486462447))
+- Lovelock and Rund. *Tensors, Differential Forms, and Variational Principles* ([Dover](https://smile.amazon.com/dp/0486658406))
 - Struik. *Lectures on Classical Differential Geometry* ([Dover](https://www.amazon.com/dp/0486656098))
 
 ## Algebraic Topology
