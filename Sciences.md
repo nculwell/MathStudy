@@ -194,6 +194,8 @@ I decided to group these books here because the topics are pretty similar to tho
 
 - Stroud. *Advanced Engineering Mathematics* ([5e](https://smile.amazon.com/Advanced-Engineering-Mathematics-Kenneth-Stroud/dp/0831134496))
 
+- Greenberg. *Advanced Engineering Mathematics* ([2e intl at AbeBooks](http://www.abebooks.com/products/isbn/9780133214314), [2e](https://smile.amazon.com/dp/0133214311))
+
 ## Chemistry
 
 ### General
