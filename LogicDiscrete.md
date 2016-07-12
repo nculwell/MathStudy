@@ -23,6 +23,8 @@ and also has a nice overview of less mainstream types of logics.
 
 ## Discrete Math
 
+* (FREE) [Harvard CS 20 notes](https://www.seas.harvard.edu/courses/cs20/MIT6_042Notes.pdf)
+
 * Rosen, *Discrete Mathematics and its Applications* ([6e](https://smile.amazon.com/dp/0073229725), [5e](https://smile.amazon.com/dp/0072424346))
 
   A pretty standard introduction to discrete math. I like this one because of its computer science focus. Older editions can be bought cheaply.
