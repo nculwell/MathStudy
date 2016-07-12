@@ -31,11 +31,13 @@ There are various English-language editions of Euclid available at archive.org; 
 
   Another cheap alternative. One of Alan Hatcher's recommendations.
 
+- Crossley. *Essential Topology* ([1e corr](https://smile.amazon.com/dp/1852337826))
+
+  An introductory text with a reputation for easy reading.
+
 - Willard. *General Topology* ([Dover](https://smile.amazon.com/dp/0486434796))
 
-  Another affordable introduction.
-
-- Crossley. *Essential Topology* ([1e corr](https://smile.amazon.com/dp/1852337826))
+  Another affordable introduction. Maybe too much information for a true first book.
 
 - Jänich. *Topology* ([1e](https://smile.amazon.com/dp/0387908927))
 
