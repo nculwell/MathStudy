@@ -69,7 +69,7 @@ There are various English-language editions of Euclid available at archive.org; 
 - Lee. *Introduction to Topological Manifolds* ([2e](https://smile.amazon.com/dp/1441979395))
 - Lee. *Introduction to Smooth Manifolds* ([1e](https://smile.amazon.com/dp/0387954481))
 - Lee. *Riemannian Manifolds: An Introduction to Curvature* ([1e](https://smile.amazon.com/dp/0387983228))
-- Do Carmo. *Riemannian Geometry* ([](https://smile.amazon.com/dp/0817634908))
+- Do Carmo. *Riemannian Geometry* ([1e](https://smile.amazon.com/dp/0817634908))
 - Do Carmo. *Differential Geometry of Curves and Surfaces* ([1e](https://smile.amazon.com/dp/0132125897))
 - Matsumoto. *An Introduction to Morse Theory* ([1e](https://smile.amazon.com/dp/0821810227))
 - Kosinski. *Differential Manifolds* ([Dover](https://smile.amazon.com/dp/0486462447))
