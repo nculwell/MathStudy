@@ -35,6 +35,8 @@ There are various English-language editions of Euclid available at archive.org; 
 
   Another affordable introduction.
 
+- Crossley. *Essential Topology* ([1e corr](https://smile.amazon.com/dp/1852337826))
+
 - Jänich, *Topology* ([1e](https://smile.amazon.com/dp/0387908927))
 
   Another of Alan Hatcher's recommendations, he calls it "a pleasure to read."
@@ -60,6 +62,7 @@ There are various English-language editions of Euclid available at archive.org; 
 - Milnor. *Topology from the Differentiable Viewpoint*
 - Kreyszig. *Differential Geometry*
 - Spivak, *A Comprehensive Introduction to Differential Geometry* (in 6 volumes)
+- Guggenheimer. *Differential Geometry* ([Dover](https://smile.amazon.com/dp/0486634337))
 - Bishop & Goldberg, *Tensor Analysis on Manifolds*
 - Lee. *Introduction to Topological Manifolds*
 - Lee, *Introduction to Smooth Manifolds*
