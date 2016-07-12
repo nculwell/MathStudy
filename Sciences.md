@@ -190,7 +190,7 @@ I decided to group these books here because the topics are pretty similar to tho
 
 - Stroud and Booth. *Engineering Mathematics* ([7e](https://smile.amazon.com/dp/0831134704), [6e](https://smile.amazon.com/dp/0831133279))
 
-  This volume covers a comically large number of topics: basic number systems, high school algebra and trigonometry, calculus, matrices and vectors, statistics and probability.
+  This volume covers a comically large number of topics: basic number systems, high school algebra and trigonometry, matrices and vectors, calculus, differential equations, statistics and probability.
 
 - Stroud. *Advanced Engineering Mathematics* ([5e](https://smile.amazon.com/Advanced-Engineering-Mathematics-Kenneth-Stroud/dp/0831134496))
 
