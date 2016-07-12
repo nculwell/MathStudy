@@ -185,8 +185,13 @@ There are math books written for physicists.
 I decided to group these books here because the topics are pretty similar to those seen in many "math for physics" textbooks. (And they don't really fit anywhere else.)
 
 - Kreyszig. *Advanced Engineering Mathematics* ([9e](https://smile.amazon.com/dp/0471488852), [8e](https://smile.amazon.com/dp/0471154962))
-- Wylie. *Advanced Engineering Mathematics* ([6e](https://smile.amazon.com/Advanced-Engineering-Mathematics-Ray-Wylie/dp/0070722064))
-- Stroud. *Engineering Mathematics* ([7e](https://smile.amazon.com/Engineering-Mathematics-K-Stroud/dp/0831134704), [6e](https://smile.amazon.com/Engineering-Mathematics-K-Stroud/dp/0831133279))
+
+- Wylie and Barrett. *Advanced Engineering Mathematics* ([6e](https://smile.amazon.com/dp/0070722064))
+
+- Stroud and Booth. *Engineering Mathematics* ([7e](https://smile.amazon.com/dp/0831134704), [6e](https://smile.amazon.com/dp/0831133279))
+
+  This volume covers a comically large number of topics: basic number systems, high school algebra and trigonometry, calculus, matrices and vectors, statistics and probability.
+
 - Stroud. *Advanced Engineering Mathematics* ([5e](https://smile.amazon.com/Advanced-Engineering-Mathematics-Kenneth-Stroud/dp/0831134496))
 
 ## Chemistry
