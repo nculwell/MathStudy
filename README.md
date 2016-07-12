@@ -10,6 +10,8 @@ I hope to make the list more complete in the future, but for now, there are some
 
 ## Annotations
 
+[I've stopped bothering with this, since now I just link to Amazon or other listings for the books where you can see prices, but there are still some annotations hanging around so I'm leaving the legend here for now.]
+
 - (u) - This book is very expensive (price > $100), but used copies can be bought for a reasonable price.
 - (x) - This book is very expensive (price > $100), and used copies *cannot* [at the time of writing] be bought for a reasonable price.
 - (f) - This book is available free online.
