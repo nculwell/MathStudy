@@ -178,6 +178,7 @@ There are math books written for physicists.
 - Tikhonov and Samarskii. *Equations of Mathematical Physics* ([Dover](https://smile.amazon.com/Equations-Mathematical-Physics-Dover-Books/dp/0486664228))
 - Budak, Samarskii, Tikhonov. *A Collection of Problems in Mathematical Physics* ([Dover](https://smile.amazon.com/dp/0486658066))
 - Lebedev. *Worked Problems in Applied Mathematics* ([1e](https://smile.amazon.com/dp/0486637301))
+- Rudolph and Schmidt. *Differential Geometry and Mathematical Physics: Part I. Manifolds, Lie Groups and Hamiltonian Systems* ([1e](https://smile.amazon.com/dp/9400753446))
 
 #### Engineering mathematics
 
