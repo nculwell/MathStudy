@@ -2,9 +2,11 @@
 
 Info on resources for studying math, stats, CS, etc.
 
-I created this list for my own studies. I haven't read most of the books here yet, and probably never will read most of them. I've left it visible to the public, though, in case anyone else finds it useful. I make no promises: it may be full of bad advice and it probably contains some erroneous statements about points of fact.
+I created this list for my own studies. I haven't read most of the books here yet, and probably never will read most of them. I've made it visible to the public, though, in case anyone else finds it useful. I make no promises: it may be full of bad advice and it probably contains some erroneous statements about points of fact.
 
-I've also left out some subjects, like combinatorics. I hope to make the list more complete in the future. I also hope in the future to present a simpler list of "here's a list of books you can work through to cover all these subjects without repeating the same material too much or spending too much money".
+Keep in mind that I'm not very familiar with some of these subjects, so my organization might not make any sense. I usually start out by just collecting a bunch of titles, then I organize them as I begin to figure out how a typical sequence of study in that subfield should proceed.
+
+I hope to make the list more complete in the future, but for now, there are some subjects that are left out for no good reason. I also hope in the future to present a simpler list of "here's a list of books you can work through to cover all these subjects without repeating the same material too much or spending too much money".
 
 ## Annotations
 
