@@ -14,12 +14,27 @@ and also has a nice overview of less mainstream types of logics.
 
 * Enderton, *A Mathematical Introduction to Logic*
 * Mendelson, *Introduction to Mathematical Logic*
+* Goldrei. *Propositional and Predicate Calculus: A Model of Argument* ([1e](https://smile.amazon.com/dp/1852339217))
+* Copi and Cohen. *Introduction to Logic* ([12e](https://smile.amazon.com/dp/0131898345), [11e](https://smile.amazon.com/dp/0130337358))
 * van Dalen, *Logic and Structure*
 * Blackburn, de Rijke, and Venema, *Modal Logic*
 * Goldblatt, *Logics of Time and Computation*
 * Baier and Katoen, *Principles of Model Checking*
 * Harel, Kozen, Tiuryn, *Dynamic Logic*
 * Franzén, *Gödel's Theorem: An Incomplete Guide to Its Use and Abuse*
+
+## Set Theory
+
+* Halmos. *Naive Set Theory* ([Martino](https://smile.amazon.com/dp/1614271313), [Springer HC [OOP]](https://smile.amazon.com/dp/0387900926))
+* Pinter. *Set Theory* ([Dover](https://smile.amazon.com/dp/0486497089))
+* Suppes. *Axiomatic Set Theory* ([Dover](https://smile.amazon.com/dp/0486616304))
+* Enderton. *Elements of Set Theory* ([1e](https://smile.amazon.com/dp/0122384407))
+* Goldrei. *Classic Set Theory: For Guided Independent Study* ([1e](https://smile.amazon.com/dp/0412606100))
+* Kunen. *Set Theory* ([1e](https://smile.amazon.com/dp/1848900503))
+* Jech. *Set Theory* ([3e](https://smile.amazon.com/dp/3540440852))
+* Moore. *Zermelo's Axiom of Choice: Its Origins, Development, and Influence* ([Dover](https://smile.amazon.com/dp/0486488411)
+* Jech. *The Axiom of Choice* ([Dover](https://smile.amazon.com/dp/0486466248))
+* Cohen. *Set Theory and the Continuum Hypothesis* ([Dover](https://smile.amazon.com/dp/0486469212))
 
 ## Discrete Math
 
