@@ -1,7 +1,5 @@
 ## Computer science
 
-See also: [Logic and Discrete Math](LogicDiscrete.md)
-
 ### Basic programming
 
 * [*Structure and Interpretation of Computer Programs*](https://mitpress.mit.edu/sicp/full-text/book/book.html)
@@ -13,6 +11,8 @@ See also: [Logic and Discrete Math](LogicDiscrete.md)
 * Downey. *How to Think Like a Computer Scientist* ([C++ Version](http://greenteapress.com/thinkcpp/index.html), [OCaml Version](http://greenteapress.com/thinkocaml/index.html), [Learning with Python](http://greenteapress.com/thinkpython/thinkCSpy/index.html), [Python for Software Design](http://greenteapress.com/thinkpython/pythonsd.html))
 
 ### Theory
+
+See also: [Logic and Discrete Math](LogicDiscrete.md)
 
 #### Intro
 
