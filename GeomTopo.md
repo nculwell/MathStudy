@@ -17,7 +17,7 @@ There are various English-language editions of Euclid available at archive.org; 
 - Altshiller-Court. *College Geometry: An Introduction to the Modern Geometry of the Triangle and the Circle* ([2e Dover](https://smile.amazon.com/dp/0486458059/))
 - Johnson. *Advanced Euclidean Geometry* ([Dover](https://smile.amazon.com/dp/0486462374/))
 
-## Topology
+## General Topology
 
 - Munkres. *Topology* ([2e intl](https://smile.amazon.com/dp/8120320468), [2e](https://smile.amazon.com/dp/B004DX5K5K))
 
