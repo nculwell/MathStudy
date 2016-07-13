@@ -17,7 +17,7 @@ There are various English-language editions of Euclid available at archive.org; 
 - Altshiller-Court. *College Geometry: An Introduction to the Modern Geometry of the Triangle and the Circle* ([2e Dover](https://smile.amazon.com/dp/0486458059/))
 - Johnson. *Advanced Euclidean Geometry* ([Dover](https://smile.amazon.com/dp/0486462374/))
 - Hilbert and Cohn-Vossen. *Geometry and the Imagination* ([AMS Chelsea](https://smile.amazon.com/gp/product/0821819984))
-- Birkhoff and Beatley. *Basic Geometry* ([AMS Chelsea](https://smile.amazon.com/gp/product/0821821016); [Manual for teachers, at AMS store](http://bookstore.ams.org/chel-34/); [Answer book, at AMS store](http://bookstore.ams.org/chel-162/))
+- Birkhoff and Beatley. *Basic Geometry* ([AMS Chelsea ed](https://smile.amazon.com/gp/product/0821821016), [At AMS store](http://bookstore.ams.org/chel-120/); [Manual for Teachers [at AMS store]](http://bookstore.ams.org/chel-34/), [Manual for Teachers [at AbeBooks]](http://www.abebooks.com/products/isbn/9780821826928); [Answer book [at AMS store]](http://bookstore.ams.org/chel-162/), [Answer Book [at AbeBooks]](http://www.abebooks.com/products/isbn/9780828401623))
 
 ## General Topology
 
