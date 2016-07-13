@@ -31,6 +31,7 @@ and also has a nice overview of less mainstream types of logics.
 * Kleene. *Introduction to Metamathematics* ([1e](https://smile.amazon.com/dp/0923891579))
 * Johnstone. *Topos Theory* ([Dover](https://smile.amazon.com/dp/0486493369))
 * Goldblatt. *Topoi: The Categorial Analysis of Logic* ([Dover](https://smile.amazon.com/dp/0486450260))
+* Nederpelt and Geuvers. *Type Theory and Formal Proof: An Introduction* ([1e](https://smile.amazon.com/dp/110703650X))
 
 ## Set Theory
 
