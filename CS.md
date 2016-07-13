@@ -283,8 +283,6 @@ These focus on some more specialized areas of algorithms.
 
 * Ullman and Widom. *A First Course in Database Systems* ([3e/2007](https://smile.amazon.com/dp/013600637X))
 
-* Garcia-Molina, Ullman, Widom. *Database Systems: The Complete Book* ([1e](https://smile.amazon.com/dp/0130319953))
-
 * Ullman. *Principles of Database & Knowledge-Base Systems*
   * *Vol. 1: Classical Database Systems* ([1e/1990](https://smile.amazon.com/dp/0716781581))
   * *Vol. 2: The New Technologies* ([1e/1989](https://smile.amazon.com/dp/071678162X))
@@ -293,13 +291,15 @@ These focus on some more specialized areas of algorithms.
 
   AKA The Alice Book.
 
+* Garcia-Molina, Ullman, Widom. *Database Systems: The Complete Book* ([1e/2001](https://smile.amazon.com/dp/0130319953))
+
 * Gray and Reuter. *Transaction Processing: Concepts and Techniques* ([1e/1992](https://smile.amazon.com/dp/1558601902))
 
 * Bernstein and Newcomer. *Principles of Transaction Processing* ([2e/2009](https://smile.amazon.com/dp/1558606238))
 
-* Maier. *Theory of Relational Databases* ([1e](https://smile.amazon.com/dp/0914894420))
+* Maier. *Theory of Relational Databases* ([1e/1983](https://smile.amazon.com/dp/0914894420))
 
-* Hellerstein and Stonebraker (eds). *Readings in Database Systems* ([4e](https://smile.amazon.com/dp/0262693143))
+* Hellerstein and Stonebraker (eds). *Readings in Database Systems* ([4e/2005](https://smile.amazon.com/dp/0262693143))
 
 ### TODO
 
