@@ -274,9 +274,33 @@ These focus on some more specialized areas of algorithms.
 * Golub and Van Loan, 2012 (3e), 1996 (2e), 1989 (1e). *Matrix Computations*
 * Higham, 2002 (2e). *Accuracy and Stability of Numerical Algorithms*
 * Meikle, 2004. *A New Twist to Fourier Transforms*
-* Brigham, 1988. Fast Fourier Transform and Its Applications
+* Brigham, 1988. *The Fast Fourier Transform and Its Applications*
 * Trefethen, 2012, *Approximation Theory and Approximation Practice*
+
+### Databases
+
+* Elmasri and Nevathe. *Fundamentals of Database Systems* ([7e/2015](https://smile.amazon.com/dp/0133970779), [6e/2010](https://smile.amazon.com/dp/0136086209), [5e/2006](https://smile.amazon.com/dp/0321369572))
+
+* Ullman and Widom. *A First Course in Database Systems* ([3e/2007](https://smile.amazon.com/dp/013600637X))
+
+* Garcia-Molina, Ullman, Widom. *Database Systems: The Complete Book* ([1e](https://smile.amazon.com/dp/0130319953))
+
+* Ullman. *Principles of Database & Knowledge-Base Systems*
+  * *Vol. 1: Classical Database Systems* ([1e/1990](https://smile.amazon.com/dp/0716781581))
+  * *Vol. 2: The New Technologies* ([1e/1989](https://smile.amazon.com/dp/071678162X))
+
+* Abiteboul, Hull, Vianu. *Foundations of Databases: The Logical Level* ([1e/1994](https://smile.amazon.com/dp/0201537710))
+
+  AKA The Alice Book.
+
+* Gray and Reuter. *Transaction Processing: Concepts and Techniques* ([1e/1992](https://smile.amazon.com/dp/1558601902))
+
+* Bernstein and Newcomer. *Principles of Transaction Processing* ([2e/2009](https://smile.amazon.com/dp/1558606238))
+
+* Maier. *Theory of Relational Databases* ([1e](https://smile.amazon.com/dp/0914894420))
+
+* Hellerstein and Stonebraker (eds). *Readings in Database Systems* ([4e](https://smile.amazon.com/dp/0262693143))
 
 ### TODO
 
-Databases, systems, FP, AI
+Systems, FP, AI
