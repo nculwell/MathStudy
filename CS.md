@@ -273,7 +273,6 @@ These focus on some more specialized areas of algorithms.
 * Isaacson and Keller, 1966. *Analysis of Numerical Methods*
 * Golub and Van Loan, 2012 (3e), 1996 (2e), 1989 (1e). *Matrix Computations*
 * Higham, 2002 (2e). *Accuracy and Stability of Numerical Algorithms*
-* Gustafson, 2015. *The End of Error: Unum Computing*
 * Meikle, 2004. *A New Twist to Fourier Transforms*
 * Brigham, 1988. Fast Fourier Transform and Its Applications
 * Trefethen, 2012, *Approximation Theory and Approximation Practice*
