@@ -112,7 +112,9 @@ These books cover the basics, that is, the core algorithms that everyone needs t
   I don't think very many people who don't have a Ph.D. in CS have read all of the volumes...
   but if you have, it afford certain bragging rights.
 
-* TODO: ALGORITHMS -- Manber. INTRO -- SICP ( https://mitpress.mit.edu/sicp/ ), HTDP ( http://www.htdp.org/ ), others?.
+* Manber. *Introduction to Algorithms: A Creative Approach* ([1e](https://smile.amazon.com/dp/0201120372))
+
+  Focuses on how to design algorithms.
 
 #### Specialized algorithms
 
@@ -153,9 +155,9 @@ These focus on some more specialized areas of algorithms.
   This book is under constant revision. Currently the latest stable version is here:
   http://papl.cs.brown.edu/2015/
 
-* Friedman, Wand, Haynes, 1992. *Essentials of Programming Languages*
-  * Friedman, Wand, Haynes, 2001. *Essentials of Programming Languages*
-  * Friedman, Wand, 2008. *Essentials of Programming Languages*
+* Friedman, Wand, Haynes, 1992. *Essentials of Programming Languages* ([1e](https://smile.amazon.com/dp/0262061457), [1e at AbeBooks](http://www.abebooks.com/products/isbn/9780262061452))
+  * Friedman, Wand, Haynes, 2001. *Essentials of Programming Languages* ([2e](https://smile.amazon.com/dp/0262062178))
+  * Friedman, Wand, 2008. *Essentials of Programming Languages* ([3e](https://smile.amazon.com/dp/0262062798))
 
   An more in-depth book about writing interpreters in Scheme. Shriram Krishnamurthi turned me onto this one.
   I have the first edition, which is a classic and can currently be bought used for under $10. I don't
