@@ -10,7 +10,7 @@ There are various English-language editions of Euclid available at archive.org; 
 - Moise. *Elementary Geometry From An Advanced Viewpoint* ([3e](https://smile.amazon.com/dp/0201508672), [2e](https://smile.amazon.com/dp/0201047934))
 - Greenberg. *Euclidean And Non-Euclidean Geometries* ([4e](https://smile.amazon.com/dp/0716799480))
 - Coxeter. *Geometry Revisited* ([MAA 1967](https://smile.amazon.com/dp/0883856190/))
-- Coxeter. *Introduction to Geometry* ([Wiley 2e](https://smile.amazon.com/dp/0471504580/))
+- Coxeter. *Introduction to Geometry* ([Wiley 2e](https://smile.amazon.com/dp/0471504580/), [2e HC [OOP]](https://smile.amazon.com/gp/product/0471182834))
 - Coxeter. *Regular Polytopes* ([3e](https://smile.amazon.com/Regular-Polytopes-H-S-Coxeter/dp/0486614808/))
 - Coxeter. *Non-Euclidean Geometry* ([6e](https://smile.amazon.com/dp/0883855224/))
 - Coxeter. *Projective Geometry* ([2e](https://smile.amazon.com/dp/0387406239/))
