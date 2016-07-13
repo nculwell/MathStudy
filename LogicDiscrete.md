@@ -32,6 +32,9 @@ and also has a nice overview of less mainstream types of logics.
 * Johnstone. *Topos Theory* ([Dover](https://smile.amazon.com/dp/0486493369))
 * Goldblatt. *Topoi: The Categorial Analysis of Logic* ([Dover](https://smile.amazon.com/dp/0486450260))
 * Nederpelt and Geuvers. *Type Theory and Formal Proof: An Introduction* ([1e](https://smile.amazon.com/dp/110703650X))
+* Hindley. *Basic Simple Type Theory* ([1e](https://smile.amazon.com/dp/0521054222))
+* Simmons and Schalk. *An introduction to lambda-calculi and arithmetic* http://www.cs.man.ac.uk/~hsimmons/BOOKS/lcalculus.pdf
+* Simmons. *An introduction to Good old fashioned model theory* (incomplete) http://www.cs.man.ac.uk/~hsimmons/BOOKS/ModelTheory.pdf
 
 ## Set Theory
 
@@ -54,11 +57,19 @@ and also has a nice overview of less mainstream types of logics.
 
 * Awodey. *Category Theory* ([2e](https://smile.amazon.com/dp/0199237182))
 
-* Spivak. Theory for the Sciences ([1e](https://smile.amazon.com/dp/0262028131))
+* Spivak. *Category Theory for the Sciences* ([1e](https://smile.amazon.com/dp/0262028131))
 
   Note that this is by David Spivak, not Michael Spivak of [*Calculus*](Calculus.md#elite-calculus-textbooks) fame. A pre-publication version, before final editing and without solutions, is available online here:
 
   http://ocw.mit.edu/courses/mathematics/18-s996-category-theory-for-scientists-spring-2013/textbook/
+
+* Pierce. *Basic Category Theory for Computer Scientists* ([1e](https://smile.amazon.com/dp/0262660717))
+
+* Lawvere and Schanuel. *Conceptual Mathematics: A First Introduction to Categories* ([2e](https://smile.amazon.com/dp/052171916X))
+
+* Simmons. *An Introduction to Category Theory* ([1e](https://smile.amazon.com/dp/0521283043))
+
+* Simmons and Schalk. *Category theory in four easy movements* http://www.cs.man.ac.uk/~hsimmons/BOOKS/CatTheory.pdf
 
 ## Discrete Math
 
