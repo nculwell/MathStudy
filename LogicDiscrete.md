@@ -46,6 +46,20 @@ and also has a nice overview of less mainstream types of logics.
 * Jech. *The Axiom of Choice* ([Dover](https://smile.amazon.com/dp/0486466248))
 * Cohen. *Set Theory and the Continuum Hypothesis* ([Dover](https://smile.amazon.com/dp/0486469212))
 
+## Category Theory
+
+* Mac Lane. *Categories for the Working Mathematician* ([2e](https://smile.amazon.com/dp/0387984038))
+
+  The classic introduction by one of the creators of category theory.
+
+* Awodey. *Category Theory* ([2e](https://smile.amazon.com/dp/0199237182))
+
+* Spivak. Theory for the Sciences ([1e](https://smile.amazon.com/dp/0262028131))
+
+  Note that this is by David Spivak, not Michael Spivak of [*Calculus*](Calculus.md#elite-calculus-textbooks) fame. A pre-publication version, before final editing and without solutions, is available online here:
+
+  http://ocw.mit.edu/courses/mathematics/18-s996-category-theory-for-scientists-spring-2013/textbook/
+
 ## Discrete Math
 
 * (FREE) [Harvard CS 20 notes](https://www.seas.harvard.edu/courses/cs20/MIT6_042Notes.pdf)
