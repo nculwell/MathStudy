@@ -24,6 +24,12 @@ and also has a nice overview of less mainstream types of logics.
 * Harel, Kozen, Tiuryn, *Dynamic Logic* ([1e](https://smile.amazon.com/dp/0262527669))
 * Franzén, *Gödel's Theorem: An Incomplete Guide to Its Use and Abuse* ([1e](https://smile.amazon.com/dp/1568812388))
 * Manzano. *Model Theory* ([1e](https://smile.amazon.com/dp/0198538510))
+* Takeuti. *Proof Theory* ([2e Dover](https://smile.amazon.com/dp/0486490734))
+* Chang and Keisler. *Model Theory* ([3e Dover](https://smile.amazon.com/dp/0486488217))
+* Kleene. *Mathematical Logic* ([1e](https://smile.amazon.com/dp/0486425339))
+* Kleene. *Introduction to Metamathematics* ([1e](https://smile.amazon.com/dp/0923891579))
+* Johnstone. *Topos Theory* ([Dover](https://smile.amazon.com/dp/0486493369))
+* Goldblatt. *Topoi: The Categorial Analysis of Logic* ([Dover](https://smile.amazon.com/dp/0486450260))
 
 ## Set Theory
 
