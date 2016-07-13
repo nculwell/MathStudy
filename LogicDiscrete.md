@@ -12,16 +12,18 @@ and also has a nice overview of less mainstream types of logics.
 
   Free online here: https://www.math.wisc.edu/~miller/res/book.pdf.
 
-* Enderton, *A Mathematical Introduction to Logic*
-* Mendelson, *Introduction to Mathematical Logic*
+* Enderton, *A Mathematical Introduction to Logic* ([2e](https://smile.amazon.com/dp/0122384520), [1e at AbeBooks](http://www.abebooks.com/products/isbn/9780122384509))
+* Mendelson, *Introduction to Mathematical Logic* ([6e](https://smile.amazon.com/dp/1482237725), [5e](https://smile.amazon.com/dp/1584888768))
 * Goldrei. *Propositional and Predicate Calculus: A Model of Argument* ([1e](https://smile.amazon.com/dp/1852339217))
 * Copi and Cohen. *Introduction to Logic* ([12e](https://smile.amazon.com/dp/0131898345), [11e](https://smile.amazon.com/dp/0130337358))
-* van Dalen, *Logic and Structure*
-* Blackburn, de Rijke, and Venema, *Modal Logic*
-* Goldblatt, *Logics of Time and Computation*
-* Baier and Katoen, *Principles of Model Checking*
-* Harel, Kozen, Tiuryn, *Dynamic Logic*
-* Franzén, *Gödel's Theorem: An Incomplete Guide to Its Use and Abuse*
+* van Dalen, *Logic and Structure* ([5e](https://smile.amazon.com/dp/1447145577), [4e](https://smile.amazon.com/dp/3540208798), [3e](https://smile.amazon.com/dp/3540578390))
+* Blackburn, de Rijke, and Venema, *Modal Logic* ([1e](https://smile.amazon.com/dp/0521527147))
+* van Benthem. *Modal Logic for Open Minds* ([1e](https://smile.amazon.com/dp/157586598X))
+* Goldblatt, *Logics of Time and Computation* ([1e](https://smile.amazon.com/dp/0937073946))
+* Baier and Katoen, *Principles of Model Checking* ([1e](https://smile.amazon.com/dp/026202649X))
+* Harel, Kozen, Tiuryn, *Dynamic Logic* ([1e](https://smile.amazon.com/dp/0262527669))
+* Franzén, *Gödel's Theorem: An Incomplete Guide to Its Use and Abuse* ([1e](https://smile.amazon.com/dp/1568812388))
+* Manzano. *Model Theory* ([1e](https://smile.amazon.com/dp/0198538510))
 
 ## Set Theory
 
