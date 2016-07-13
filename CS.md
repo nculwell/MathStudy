@@ -131,6 +131,10 @@ These books cover the basics, that is, the core algorithms that everyone needs t
 
   A recent book that takes a relatively practical view (as opposed to mathematical). There are a bunch of mediocre Python-oriented CS books out there, but this one looks to be pretty good. Now that many people are learning Python as a first programming language, there's a pressing need for good books that use Python code to demonstrate concepts, so it's good to see some quality titles finally showing up.
 
+* Groner. *Learning JavaScript Data Structures and Algorithms* ([At PACKT](https://www.packtpub.com/application-development/learning-javascript-data-structures-and-algorithms), [At Amazon](https://smile.amazon.com/dp/1783554878))
+
+  If Javascript is the only language you know, then you'll need a Javascript-oriented book. This looks like a decent one.
+
 * Okasaki. *Purely Functional Data Structures* ([1e](https://smile.amazon.com/dp/0521663504))
 * Aho, Ullman, Hopcroft. *Data Structures and Algorithms* ([1e](https://smile.amazon.com/dp/0201000237))
 * Brass. *Advanced Data Structures* ([1e](https://smile.amazon.com/dp/0521880378))
