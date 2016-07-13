@@ -33,8 +33,12 @@ and also has a nice overview of less mainstream types of logics.
 * Goldblatt. *Topoi: The Categorial Analysis of Logic* ([Dover](https://smile.amazon.com/dp/0486450260))
 * Nederpelt and Geuvers. *Type Theory and Formal Proof: An Introduction* ([1e](https://smile.amazon.com/dp/110703650X))
 * Hindley. *Basic Simple Type Theory* ([1e](https://smile.amazon.com/dp/0521054222))
+
+### Course notes
+
 * Simmons and Schalk. *An introduction to lambda-calculi and arithmetic* http://www.cs.man.ac.uk/~hsimmons/BOOKS/lcalculus.pdf
 * Simmons. *An introduction to Good old fashioned model theory* (incomplete) http://www.cs.man.ac.uk/~hsimmons/BOOKS/ModelTheory.pdf
+* Simmons. *Basic Model Theory* http://www.cs.man.ac.uk/~hsimmons/MODEL-THEORY/model-theory.html
 
 ## Set Theory
 
@@ -69,7 +73,10 @@ and also has a nice overview of less mainstream types of logics.
 
 * Simmons. *An Introduction to Category Theory* ([1e](https://smile.amazon.com/dp/0521283043))
 
+### Course notes
+
 * Simmons and Schalk. *Category theory in four easy movements* http://www.cs.man.ac.uk/~hsimmons/BOOKS/CatTheory.pdf
+* Simmons. *Category Theory by Magic* http://www.cs.man.ac.uk/~hsimmons/MAGIC-CATS/CourseNotes-Nov-29.pdf
 
 ## Discrete Math
 
