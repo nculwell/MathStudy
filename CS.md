@@ -1,14 +1,24 @@
 ## Computer science
 
-### Basic programming
+### Basic programming and intros to CS
 
 * [*Structure and Interpretation of Computer Programs*](https://mitpress.mit.edu/sicp/full-text/book/book.html)
-* [*How to Design Programs*](http://www.htdp.org/)
+* Felleisen, Findler, Flatt, Krishnamurthi. *How to Design Programs: An Introduction to Programming and Computing* ([**FREE ONLINE**](http://www.htdp.org/), [1e](https://smile.amazon.com/dp/0262062186))
 * Zelle. *Python Programming: An Introduction to Computer Science*
 * [*CS Unplugged*](http://csunplugged.org/books/) (for kids)
 * Eckel. *Thinking in Java* ([TIJ website](http://www.mindviewinc.com/Books/TIJ4/); old editions are free)
 * [Haverbeke. *Eloquent Javascript*](http://eloquentjavascript.net/)
 * Downey. *How to Think Like a Computer Scientist* ([C++ Version](http://greenteapress.com/thinkcpp/index.html), [OCaml Version](http://greenteapress.com/thinkocaml/index.html), [Learning with Python](http://greenteapress.com/thinkpython/thinkCSpy/index.html), [Python for Software Design](http://greenteapress.com/thinkpython/pythonsd.html))
+
+* Friedman and Felleisen. *The Little Schemer* ([4e](https://smile.amazon.com/dp/0262560992))
+
+  Sequels:
+
+  * Friedman and Felleisen. *The Seasoned Schemer* ([1e](https://smile.amazon.com/dp/026256100X))
+  * Friedman, Byrd, Kiselyov. *The Reasoned Schemer* ([1e](https://smile.amazon.com/dp/0262562146))
+  * Friedman and Eastlund. *The Little Prover* ([1e](https://smile.amazon.com/dp/0262527952))
+
+* Aho and Ullman, 1994. *Foundations of Computer Science: C Edition* ([1e](https://smile.amazon.com/dp/0716782847))
 
 ### Theory
 
@@ -98,8 +108,9 @@ These books cover the basics, that is, the core algorithms that everyone needs t
 
 * Aho, Hopcroft, Ullman, 1974. *The Design and Analysis of Computer Algorithms*
 
-  A classic book on algorithms. I found the beginning of this one to be not so great for
-  learning the material the first time.
+  A classic book on algorithms.
+
+  * ([3e intl at AbeBooks](http://www.abebooks.com/products/isbn/9780321455369))
 
 * Skiena, 2008 (2e). *The Algorithm Design Manual*
 
@@ -116,6 +127,14 @@ These books cover the basics, that is, the core algorithms that everyone needs t
 
   Focuses on how to design algorithms.
 
+* Karumanchi. *Data Structure and Algorithmic Thinking with Python: Data Structure and Algorithmic Puzzles* ([1e](https://smile.amazon.com/dp/8192107590))
+
+  A recent book that takes a relatively practical view (as opposed to mathematical). There are a bunch of mediocre Python-oriented CS books out there, but this one looks to be pretty good. Now that many people are learning Python as a first programming language, there's a pressing need for good books that use Python code to demonstrate concepts, so it's good to see some quality titles finally showing up.
+
+* Okasaki. *Purely Functional Data Structures* ([1e](https://smile.amazon.com/dp/0521663504))
+* Aho, Ullman, Hopcroft. *Data Structures and Algorithms* ([1e](https://smile.amazon.com/dp/0201000237))
+* Brass. *Advanced Data Structures* ([1e](https://smile.amazon.com/dp/0521880378))
+
 #### Specialized algorithms
 
 These focus on some more specialized areas of algorithms.
@@ -127,6 +146,8 @@ These focus on some more specialized areas of algorithms.
 
   There's a 1998 Dover edition, which has some corrections but isn't substantially different from the original 1982 version. This book has a unique choice of topics. It starts out with the linear programming problem and the simplex algorithm, a topic usually covered more in applied mathematics. Then, about halfway through, it switches gears and begins to look at graph algorithms. The point, as expressed in the introduction, is to look at the similarities between these continuous and discrete optimization problems, and how the fine differences between them result in dramatic differences in computational complexity. Thus, I think it can be said that, in a sense, this book teaches algorithms as a means to the end of understanding complexity.
 
+* Bird. *Pearls of Functional Algorithm Design* ([1e](https://smile.amazon.com/dp/0521513383))
+
 ### Programming language theory
 
 * Pierce, *Types and Programming Languages*
@@ -135,6 +156,7 @@ These focus on some more specialized areas of algorithms.
 * Slonneger, Kurtz, 1995. *Formal Syntax and Semantics of Programming Languages*
 * Mitchell, 1996. *Foundations for Programming Languages*
 * Pierce (ed), 2004. *Advanced Topics in Types and Programming Languages*
+* Stepanov and Rose. *From Mathematics to Generic Programming* ([1e](https://smile.amazon.com/dp/0321942043))
 
 ### Compilers and interpreters
 
@@ -258,4 +280,4 @@ These focus on some more specialized areas of algorithms.
 
 ### TODO
 
-Data structures, databases, systems, FP, AI
+Databases, systems, FP, AI
