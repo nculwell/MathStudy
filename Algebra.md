@@ -52,3 +52,9 @@ See the [Linear Algebra section](LinearAlgebra.md).
 - Lam. *Lectures on Modules and Rings* ([1e](https://smile.amazon.com/dp/0387984283))
 - Lam. *Exercises in Modules and Rings* ([1e](https://smile.amazon.com/dp/0387988505))
 - Farb and Dennis. *Noncommutative Algebra* ([1e](https://smile.amazon.com/dp/038794057X))
+
+## Number theory
+
+- Hardy and Wright. *An Introduction to the Theory of Numbers* ([6e/2008 updated by Heath-Brown and Silverman](https://smile.amazon.com/dp/0199219869), [5e/1980](https://smile.amazon.com/dp/0198531710), [4e/1960 at Archive.org](https://archive.org/details/AnIntroductionToTheTheoryOfNumbers-4thEd-G.h.HardyE.m.Wright))
+- Ireland and Rosen. *A Classical Introduction to Modern Number Theory* ([2e](https://smile.amazon.com/dp/038797329X))
+- Davenport. *The Higher Arithmetic: An Introduction to the Theory of Numbers* ([8e](https://smile.amazon.com/dp/0521722365))
