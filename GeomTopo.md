@@ -93,6 +93,7 @@ Ghrist. *Elementary Applied Topology* ([At CreateSpace](https://www.createspace.
 
 ### Introductions
 - Beltrametti, Carletti, Gallarati, Bragadin, *Lectures on Curves, Surfaces and Projective Varieties* ([1e](https://smile.amazon.com/dp/3037190647/))
+- Garrity et al. *Algebraic Geometry: A Problem Solving Approach* ([1e](https://smile.amazon.com/gp/product/0821893963))
 - Shafarevich, Reid, *Basic Algebraic Geometry 1: Varieties in Projective Space* ([3e](https://smile.amazon.com/dp/3642379559/))
 - Shafarevich, Reid, *Basic Algebraic Geometry 2: Schemes and Complex Manifolds* ([3e](https://smile.amazon.com/dp/3642380093/))
 - Holme, *A Royal Road to Algebraic Geometry* ([1e](https://smile.amazon.com/dp/3642192246/))
