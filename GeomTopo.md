@@ -19,6 +19,14 @@ There are various English-language editions of Euclid available at archive.org; 
 - Hilbert and Cohn-Vossen. *Geometry and the Imagination* ([AMS Chelsea](https://smile.amazon.com/gp/product/0821819984))
 - Birkhoff and Beatley. *Basic Geometry* ([AMS Chelsea ed](https://smile.amazon.com/gp/product/0821821016), [At AMS store](http://bookstore.ams.org/chel-120/); [Manual for Teachers [at AMS store]](http://bookstore.ams.org/chel-34/), [Manual for Teachers [at AbeBooks]](http://www.abebooks.com/products/isbn/9780821826928); [Answer book [at AMS store]](http://bookstore.ams.org/chel-162/), [Answer Book [at AbeBooks]](http://www.abebooks.com/products/isbn/9780828401623))
 
+## Computational Geometry
+
+- de Berg, Cheong, van Kreveld, Overmars. *Computational Geometry: Algorithms and Applications* ([3e](https://smile.amazon.com/dp/3540779736))
+- Edelsbrunner. *A Short Course in Computational Geometry and Topology* ([1e](https://smile.amazon.com/dp/3319059564))
+- O'Rourke. *Computational Geometry in C* ([2e](https://smile.amazon.com/dp/0521649765))
+- Cheng, Dey, Shewchuk. *Delaunay Mesh Generation* ([1e](https://smile.amazon.com/Delaunay-Generation-Chapman-Computer-Information/dp/1584887303))
+- Botsch, Kobbelt, Pauly, Alliez, Levy. *Polygon Mesh Processing Hardcover* ([1e](https://smile.amazon.com/dp/1568814267))
+
 ## General Topology
 
 - Munkres. *Topology* ([2e intl](https://smile.amazon.com/dp/8120320468), [2e](https://smile.amazon.com/dp/B004DX5K5K))
@@ -87,7 +95,10 @@ There are various English-language editions of Euclid available at archive.org; 
 
 ## Applied and Computational Topology
 
-Ghrist. *Elementary Applied Topology* ([At CreateSpace](https://www.createspace.com/4978477), [At Amazon](https://smile.amazon.com/dp/1502880857))
+- Ghrist. *Elementary Applied Topology* ([At CreateSpace](https://www.createspace.com/4978477), [At Amazon](https://smile.amazon.com/dp/1502880857))
+- Edelsbrunner and Harer. *Computational Topology: An Introduction* ([1e](https://smile.amazon.com/dp/0821849255))
+- Zomorodian. *Topology for Computing* ([1e](https://smile.amazon.com/dp/0521136091))
+- Kaczynski, Mischaikow, Mrozek. *Computational Homology* ([1e](https://smile.amazon.com/dp/0387408533))
 
 ## Algebraic geometry
 
