@@ -17,7 +17,7 @@ See the [Linear Algebra section](LinearAlgebra.md).
 
 - Gallian, *Contemporary Abstract Algebra* ([8e paperback](https://smile.amazon.com/dp/8131520749/), [7e](https://smile.amazon.com/dp/0547165099/), [6e](https://smile.amazon.com/dp/0618514716/))
 
-- Shoup. ** ([**FREE ONLINE**](http://shoup.net/ntb/); [2e at Amazon](https://smile.amazon.com/dp/0521516447))
+- Shoup. *A Computational Introduction to Number Theory and Algebra* ([**FREE ONLINE**](http://shoup.net/ntb/); [2e at Amazon](https://smile.amazon.com/dp/0521516447))
 
 - Connell, *Elements of Abstract and Linear Algebra* ([**FREE ONLINE**](http://www.math.miami.edu/~ec/book/))
 
