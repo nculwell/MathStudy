@@ -41,3 +41,10 @@ See the [Linear Algebra section](LinearAlgebra.md).
 - Eisenbud, *Commutative Algebra: with a View Toward Algebraic Geometry* ([Springer paperback](https://smile.amazon.com/dp/0387942696/))
 - Atiyah and MacDonald, *Introduction To Commutative Algebra* ([Paperback](https://smile.amazon.com/dp/0201407515/))
 - Matsumura, tr. Reid. *Commutative Ring Theory* ([1e](https://smile.amazon.com/dp/0521367646/))
+
+### Noncommutative algebra
+
+- Lam. *A First Course in Noncommutative Rings* ([2e](https://smile.amazon.com/dp/0387953256))
+- Lam. *Lectures on Modules and Rings* ([1e](https://smile.amazon.com/dp/0387984283))
+- Lam. *Exercises in Modules and Rings* ([1e](https://smile.amazon.com/dp/0387988505))
+- Farb and Dennis. *Noncommutative Algebra* ([1e](https://smile.amazon.com/dp/038794057X))
