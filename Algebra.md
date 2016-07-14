@@ -69,7 +69,8 @@ See the [Linear Algebra section](LinearAlgebra.md).
 
 ### Beyond
 
-- Apostol. Introduction to Analytic Number Theory ([1e/1976 corr 1998](https://smile.amazon.com/dp/0387901639))
+- Apostol. *Introduction to Analytic Number Theory* ([1e/1976 corr 1998](https://smile.amazon.com/dp/0387901639))
 - Koblitz. *A Course in Number Theory and Cryptography* ([](https://smile.amazon.com/dp/0387942939))
 - Koblitz. *p-adic Numbers, p-adic Analysis, and Zeta-Functions* ([2e](https://smile.amazon.com/dp/0387960171))
 - Koblitz. *Introduction to Elliptic Curves and Modular Forms* ([2e](https://smile.amazon.com/dp/0387979662))
+- Edwards. *Riemann's Zeta Function* ([Dover](https://smile.amazon.com/dp/0486417409))
