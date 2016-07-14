@@ -80,6 +80,29 @@ There are various English-language editions of Euclid available at archive.org; 
 
 ## Algebraic Topology
 
-See [the Algebra page](Algebra.md#algebraic-topology).
+- Hatcher, *Algebraic Topology* (f) ([CUP Paperback](https://smile.amazon.com/dp/0521795400/), [**FREE ONLINE**](https://www.math.cornell.edu/~hatcher/AT/ATpage.html))
+- Bredon, *Topology and Geometry* ([1e](https://smile.amazon.com/Topology-Geometry-Graduate-Texts-Mathematics/dp/0387979263/))
+- Rotman, *An Introduction to Algebraic Topology* ([1e](https://smile.amazon.com/dp/0387966781/))
+- Fulton, *Algebraic Topology: A First Course* ([1e](https://smile.amazon.com/dp/0387943277/))
+
+## Applied and Computational Topology
 
 Ghrist. *Elementary Applied Topology* ([At CreateSpace](https://www.createspace.com/4978477), [At Amazon](https://smile.amazon.com/dp/1502880857))
+
+## Algebraic geometry
+
+### Introductions
+- Beltrametti, Carletti, Gallarati, Bragadin, *Lectures on Curves, Surfaces and Projective Varieties* ([1e](https://smile.amazon.com/dp/3037190647/))
+- Shafarevich, Reid, *Basic Algebraic Geometry 1: Varieties in Projective Space* ([3e](https://smile.amazon.com/dp/3642379559/))
+- Shafarevich, Reid, *Basic Algebraic Geometry 2: Schemes and Complex Manifolds* ([3e](https://smile.amazon.com/dp/3642380093/))
+- Holme, *A Royal Road to Algebraic Geometry* ([1e](https://smile.amazon.com/dp/3642192246/))
+- Fulton, [*Algebraic Curves, an Introduction to Algebraic Geometry*](http://www.math.lsa.umich.edu/~wfulton/CurveBook.pdf)
+- Gathmann, [Algebraic Geometry (SS 2014)](http://www.mathematik.uni-kl.de/agag/mitglieder/professoren/gathmann/notes/alggeom/)
+- Smith, 2014. *Introduction to Algebraic Geometry* ([1e Paperback](https://www.amazon.com/Introduction-Algebraic-Geometry-Justin-Smith/dp/1503381536), [**FREE ONLINE**](http://www.five-dimensions.org/Textbooks/))
+
+### Beyond
+- Hartshorne, *Algebraic Geometry* ([1e](https://smile.amazon.com/Algebraic-Geometry-Graduate-Texts-Mathematics/dp/0387902449/))
+- Liu, *Algebraic Geometry and Arithmetic Curves* ([1e](https://smile.amazon.com/dp/0199202494/)
+- Griffiths, Harris - *Principles of Algebraic Geometry* ([Intl ed @AbeBooks](http://www.abebooks.com/products/isbn/9788126546510?cm_sp=bdp-_-9788126546510-_-isbn10))
+- Görtz, Wedhorn - *Algebraic Geometry I, Schemes with Examples and Exercises* ([1e](https://smile.amazon.com/dp/3834806765/))
+- Vakil, [The Rising Sea: Foundations Of Algebraic Geometry Notes](https://math.stanford.edu/~vakil/216blog/)
