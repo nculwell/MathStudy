@@ -39,6 +39,5 @@ I'm not sure how well I chose the sections here, but at least they break the lis
 - Open Textbook Library (Minnesota): http://open.umn.edu/opentextbooks/
 - UPS list: http://linear.ups.edu/curriculum.html
 - OpenStax: https://openstax.org/
-- Body and Soul: http://www.bodysoulmath.org/books/
 - George Cain (GA Tech): https://people.math.gatech.edu/~cain/textbooks/onlinebooks.html
 - Green Tea Press (Free books by Allen Downey): http://greenteapress.com/wp/
