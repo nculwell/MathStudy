@@ -55,6 +55,20 @@ See the [Linear Algebra section](LinearAlgebra.md).
 
 ## Number theory
 
+### Introductions
+
 - Hardy and Wright. *An Introduction to the Theory of Numbers* ([6e/2008 updated by Heath-Brown and Silverman](https://smile.amazon.com/dp/0199219869), [5e/1980](https://smile.amazon.com/dp/0198531710), [4e/1960 at Archive.org](https://archive.org/details/AnIntroductionToTheTheoryOfNumbers-4thEd-G.h.HardyE.m.Wright))
 - Ireland and Rosen. *A Classical Introduction to Modern Number Theory* ([2e](https://smile.amazon.com/dp/038797329X))
-- Davenport. *The Higher Arithmetic: An Introduction to the Theory of Numbers* ([8e](https://smile.amazon.com/dp/0521722365))
+- Davenport. *The Higher Arithmetic: An Introduction to the Theory of Numbers* ([CUP 8e/2008](https://smile.amazon.com/dp/0521722365), [Dover 7e/1983 at AbeBooks](http://www.abebooks.com/products/isbn/9780486244525))
+- Dudley. *Elementary Number Theory* ([Dover 2e](https://smile.amazon.com/dp/048646931X))
+- Jones and Jones. *Elementary Number Theory* ([1e corr](https://smile.amazon.com/dp/3540761977))
+- Andrews. *Number Theory* ([Dover 1e](https://smile.amazon.com/dp/0486682528))
+- Stillwell. *Elements of Number Theory* https://smile.amazon.com/dp/0387955879
+- Crawford. *Introduction to Number Theory* ([At AOPS](https://www.artofproblemsolving.com/store/item/intro-number-theory), [At Amazon](https://smile.amazon.com/dp/1934124125))
+
+### Beyond
+
+- Apostol. Introduction to Analytic Number Theory ([1e/1976 corr 1998](https://smile.amazon.com/dp/0387901639))
+- Koblitz. *A Course in Number Theory and Cryptography* ([](https://smile.amazon.com/dp/0387942939))
+- Koblitz. *p-adic Numbers, p-adic Analysis, and Zeta-Functions* ([2e](https://smile.amazon.com/dp/0387960171))
+- Koblitz. *Introduction to Elliptic Curves and Modular Forms* ([2e](https://smile.amazon.com/dp/0387979662))
