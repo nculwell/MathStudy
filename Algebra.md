@@ -65,6 +65,7 @@ See the [Linear Algebra section](LinearAlgebra.md).
 - Andrews. *Number Theory* ([Dover 1e](https://smile.amazon.com/dp/0486682528))
 - Stillwell. *Elements of Number Theory* https://smile.amazon.com/dp/0387955879
 - Crawford. *Introduction to Number Theory* ([At AOPS](https://www.artofproblemsolving.com/store/item/intro-number-theory), [At Amazon](https://smile.amazon.com/dp/1934124125))
+- Pommersheim, Marks, Flapan. *Number Theory: A Lively Introduction with Proofs, Applications, and Stories* ([1e](https://smile.amazon.com/dp/0470424133))
 
 ### Beyond
 
