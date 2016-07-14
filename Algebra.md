@@ -41,6 +41,8 @@ See the [Linear Algebra section](LinearAlgebra.md).
 - Eisenbud, *Commutative Algebra: with a View Toward Algebraic Geometry* ([Springer paperback](https://smile.amazon.com/dp/0387942696/))
 - Atiyah and MacDonald, *Introduction To Commutative Algebra* ([Paperback](https://smile.amazon.com/dp/0201407515/))
 - Matsumura, tr. Reid. *Commutative Ring Theory* ([1e](https://smile.amazon.com/dp/0521367646/))
+- Miller and Sturmfels. *Combinatorial Commutative Algebra* ([1e](https://smile.amazon.com/dp/0387237070))
+- Ene and Herzog. *Grobner Bases in Commutative Algebra* ([1e](https://smile.amazon.com/dp/0821872877))
 
 ### Noncommutative algebra
 
