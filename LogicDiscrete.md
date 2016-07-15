@@ -102,24 +102,32 @@ These are somewhat more mature approaches to discrete math.
 
 #### Combinatorics and Graph Theory
 
-* Lovász, Pelikán, Vesztergombi. *Discrete Mathematics: Elementary and Beyond*
+* Lovász, Pelikán, Vesztergombi. *Discrete Mathematics: Elementary and Beyond* ([1e](https://smile.amazon.com/dp/0387955852))
 
-* Martin. *Counting: The Art of Enumerative Combinatorics*
+* Martin. *Counting: The Art of Enumerative Combinatorics* ([1e](https://smile.amazon.com/dp/038795225X))
 
 * Wilf. *generatingfunctionology* ([**2e FREE ONLINE**](https://www.math.upenn.edu/~wilf/DownldGF.html) [3e](https://smile.amazon.com/generatingfunctionology-Third-Herbert-S-Wilf/dp/1568812795/))
 
-* Chen. *Principles and Techniques in Combinatorics*
+* Chen and Koh. *Principles and Techniques in Combinatorics* ([1e](https://smile.amazon.com/dp/9810211392))
 
-* Stanley. *Enumerative Combinatorics: Volume 1*
+* Bogart. [*Combinatorics Through Guided Discovery*](https://math.dartmouth.edu/news-resources/electronic/kpbogart/)
 
-* Trudeau. *Introduction to Graph Theory*
-* Chartrand. *Introductory Graph Theory*
-* Chartrand, Zhang. *A First Course in Graph Theory*
+* Stanley. *Enumerative Combinatorics: Volume 1* ([2e](https://smile.amazon.com/dp/1107602629))
+
+* Trudeau. *Introduction to Graph Theory* ([Dover](https://smile.amazon.com/dp/0486678709))
+
+* Chartrand, 1984. *Introductory Graph Theory* ([Dover](https://smile.amazon.com/dp/0486247759))
+
+* Chartrand, Zhang, 2012. *A First Course in Graph Theory* ([Dover](https://smile.amazon.com/dp/0486483681))
+
+  More in-depth than Chartrand's other intro book. Includes solutions to odd-numbered exercises.
 
 * Hartsfield and Ringel. *Pearls in Graph Theory: A Comprehensive Introduction* ([Dover ed](https://smile.amazon.com/dp/0486432327/))
 
-  More in-depth than Chartrand's other intro book.
+* Diestel. *Graph Theory* ([4e](https://smile.amazon.com/dp/3642142788), [3e](https://smile.amazon.com/dp/3540261834))
 
-* Diestel. *Graph Theory*
+  Can be previewed free online. See: http://diestel-graph-theory.com/
 
-* Bogart. [*Combinatorics Through Guided Discovery*](https://math.dartmouth.edu/news-resources/electronic/kpbogart/)
+* Bollobas. *Modern Graph Theory* ([1e](https://smile.amazon.com/dp/0387984887))
+
+* Bondy and Murty. *Graph Theory* ([1e](https://smile.amazon.com/dp/1846289696))
