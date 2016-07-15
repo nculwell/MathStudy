@@ -58,15 +58,35 @@ See the [Linear Algebra section](LinearAlgebra.md).
 
 ### Introductions
 
-- Hardy and Wright. *An Introduction to the Theory of Numbers* ([6e/2008 updated by Heath-Brown and Silverman](https://smile.amazon.com/dp/0199219869), [5e/1980](https://smile.amazon.com/dp/0198531710), [4e/1960 at Archive.org](https://archive.org/details/AnIntroductionToTheTheoryOfNumbers-4thEd-G.h.HardyE.m.Wright))
 - Ireland and Rosen. *A Classical Introduction to Modern Number Theory* ([2e](https://smile.amazon.com/dp/038797329X))
+
+  Perhaps the most popular introduction to number theory.
+
+- Hardy and Wright. *An Introduction to the Theory of Numbers* ([6e/2008 updated by Heath-Brown and Silverman](https://smile.amazon.com/dp/0199219869), [5e/1980](https://smile.amazon.com/dp/0198531710), [4e/1960 at Archive.org](https://archive.org/details/AnIntroductionToTheTheoryOfNumbers-4thEd-G.h.HardyE.m.Wright))
+
+  A classic introduction to number theory. One of the most popular books. The 6th edition has been updated with recent developments.
+
 - Davenport. *The Higher Arithmetic: An Introduction to the Theory of Numbers* ([CUP 8e/2008](https://smile.amazon.com/dp/0521722365), [Dover 7e/1983 at AbeBooks](http://www.abebooks.com/products/isbn/9780486244525))
+
+  Another classic introduction to number theory. It's quite short.
+
 - Dudley. *Elementary Number Theory* ([Dover 2e](https://smile.amazon.com/dp/048646931X))
+
 - Jones and Jones. *Elementary Number Theory* ([1e corr](https://smile.amazon.com/dp/3540761977))
+
 - Andrews. *Number Theory* ([Dover 1e](https://smile.amazon.com/dp/0486682528))
+
+  A combinatorial approach to elementary number theory. Includes the theory of partitions.
+
 - Stillwell. *Elements of Number Theory* https://smile.amazon.com/dp/0387955879
+
 - Crawford. *Introduction to Number Theory* ([At AOPS](https://www.artofproblemsolving.com/store/item/intro-number-theory), [At Amazon](https://smile.amazon.com/dp/1934124125))
+
 - Pommersheim, Marks, Flapan. *Number Theory: A Lively Introduction with Proofs, Applications, and Stories* ([1e](https://smile.amazon.com/dp/0470424133))
+
+- Samuel, tr. Silberger. *Algebraic Theory of Numbers* ([Dover](https://smile.amazon.com/dp/0486466663))
+
+  Another short, classic introduction to number theory. A bit old-fashioned. It emphases algebraic structures, as the title suggests.
 
 ### Beyond
 
