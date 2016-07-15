@@ -18,6 +18,7 @@ and also has a nice overview of less mainstream types of logics.
 * Copi and Cohen. *Introduction to Logic* ([12e](https://smile.amazon.com/dp/0131898345), [11e](https://smile.amazon.com/dp/0130337358))
 * Lover. *Elementary Logic: For Software Development* ([1e](https://smile.amazon.com/dp/1848000812))
 * van Dalen, *Logic and Structure* ([5e](https://smile.amazon.com/dp/1447145577), [4e](https://smile.amazon.com/dp/3540208798), [3e](https://smile.amazon.com/dp/3540578390))
+* Manin and Zilber, tr. Koblitz. *A Course in Mathematical Logic for Mathematicians* ([2e/2010](https://smile.amazon.com/dp/1461424798))
 * Blackburn, de Rijke, and Venema, *Modal Logic* ([1e](https://smile.amazon.com/dp/0521527147))
 * van Benthem. *Modal Logic for Open Minds* ([1e](https://smile.amazon.com/dp/157586598X))
 * Goldblatt, *Logics of Time and Computation* ([1e](https://smile.amazon.com/dp/0937073946))
