@@ -87,17 +87,17 @@ These are generally grab-bags of topics relevant for beginning CS students: logi
 
 * (FREE) [Harvard CS 20 notes](https://www.seas.harvard.edu/courses/cs20/MIT6_042Notes.pdf)
 * Rosen. *Discrete Mathematics and its Applications* ([6e](https://smile.amazon.com/dp/0073229725), [5e](https://smile.amazon.com/dp/0072424346)) - Probably the most popular book of this type.
-* Epp. *Discrete Mathematics with Applications* ([3e](https://smile.amazon.com/dp/0534359450), [3e solns](https://smile.amazon.com/Student-dp/0534360289), [2e](https://smile.amazon.com/dp/0534944469)) - Noted for its clarity. Seems to be well-liked by struggling students.
+* Epp. *Discrete Mathematics with Applications* ([3e](https://smile.amazon.com/dp/0534359450), [3e solns](https://smile.amazon.com/Student-dp/0534360289), [2e](https://smile.amazon.com/dp/0534944469), [ERRATA](http://condor.depaul.edu/sepp/DMwA3e.htm)) - Noted for its clarity. Seems to be well-liked by struggling students.
 * Grimaldi. *Discrete and Combinatorial Mathematics: An Applied Introduction* ([4e](https://smile.amazon.com/dp/0201199122), [3e](https://smile.amazon.com/dp/B00404GGWI), [2e](https://smile.amazon.com/dp/0201119544)) - Older. Includes some interesting topics in the final chapters.
 
-This one covers a similar range of topics, but is aimed more at math majors.
+Some introductions that are a bit different:
 
-* Scheinerman. *Mathematics: A Discrete Introduction* ([3e](https://smile.amazon.com/dp/0840049420), [2e](https://smile.amazon.com/dp/0534398987))
+* Scheinerman. *Mathematics: A Discrete Introduction* ([3e](https://smile.amazon.com/dp/0840049420), [2e](https://smile.amazon.com/dp/0534398987)) - Covers a similar range of topics, but is aimed more at math majors.
+* Ross. *Topics in Finite and Discrete Mathematics* ([1e Dover](https://www.amazon.com/dp/052177571X)) - Unusual topics include finance, linear programming and statistics.
 
 These are somewhat more mature approaches to discrete math.
 
-* Aho and Ullman, 1994. *Foundations of Computer Science: C Edition* ([1e](https://smile.amazon.com/dp/0716782847))
-
+* Aho and Ullman, 1994. *Foundations of Computer Science: C Edition* ([**FREE ONLINE**](http://infolab.stanford.edu/~ullman/focs.html), [1e](https://smile.amazon.com/dp/0716782847))
 * Graham, Knuth, Patashnik. *Concrete Mathematics: A Foundation for Computer Science* ([2e](https://smile.amazon.com/dp/0201558025))
 
 #### Combinatorics and Graph Theory
