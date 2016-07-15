@@ -357,8 +357,46 @@ These focus on some more specialized areas of algorithms.
 
 * McKusick, Neville-Neil, Watson. *The Design and Implementation of the FreeBSD Operating System* ([2e/2014](https://smile.amazon.com/dp/0321968972))
 
+* Comer. *Operating System Design: The Xinu Approach* ([2e](https://smile.amazon.com/dp/1498712436))
+
+### Systems programming in userspace
+
+* Stevens and Rago. *Advanced Programming in the UNIX Environment* ([3e](https://smile.amazon.com/dp/0321637739))
+
 * Kerrisk. *The Linux Programming Interface: A Linux and UNIX System Programming Handbook* ([1e](https://smile.amazon.com/dp/1593272200))
 
-* Comer. *Operating System Design: The Xinu Approach* ([2e](https://smile.amazon.com/dp/1498712436))
+* Stevens, Fenner, Rudoff. *Unix Network Programming, Volume 1: The Sockets Networking API* ([3e](https://smile.amazon.com/dp/0131411551))
+
+* Stevens. *UNIX Network Programming, Volume 2: Interprocess Communications* ([2e](https://smile.amazon.com/dp/0130810819))
+
+* Stevens. *UNIX Network Programming* ([1e](https://smile.amazon.com/dp/0139498761))
+
+  The original version of the two-volume second edition listed above.
+
+* Fall and Stevens. *TCP/IP Illustrated, Vol. 1: The Protocols* ([2e/2011](https://smile.amazon.com/dp/0321336313), [1e/1993 [Stevens only]](https://smile.amazon.com/dp/0321336313))
+* Wright and Stevens. *TCP/IP Illustrated, Vol. 2: The Implementation* ([1e/1995](https://smile.amazon.com/dp/020163354X))
+* Stevens. *TCP/IP Illustrated, Vol. 3: TCP for Transactions, HTTP, NNTP, and the UNIX Domain Protocols* ([1e/1996](https://smile.amazon.com/dp/0201634953))
+
+## Hardware
+
+* Patterson and Hennessy. *Computer Organization and Design: The Hardware/Software Interface* ([5e/2013](https://smile.amazon.com/dp/0124077269), [4e/2008](https://smile.amazon.com/dp/0123747503), [3e revised/2007](https://smile.amazon.com/dp/0123706068), [2e/1997](https://smile.amazon.com/dp/1558604286))
+
+  * ARM Edition ([1e/2016](https://smile.amazon.com/dp/0128017333))
+
+* Hennessy and Patterson. *Computer Architecture: A Quantitative Approach* ([5e/2011](https://smile.amazon.com/dp/012383872X), [4e/2006](https://smile.amazon.com/gp/product/0123704901), [3e/2002](https://smile.amazon.com/dp/1558605967), [2e/1996](https://smile.amazon.com/dp/1558603298))
+
+* Stokes. *Inside the Machine: An Illustrated Introduction to Microprocessors and Computer Architecture* ([1e/2006](https://smile.amazon.com/dp/1593276680))
+
+* Weste and Harris. *CMOS VLSI Design: A Circuits and Systems Perspective* ([4e](https://smile.amazon.com/dp/0321547748))
+
+* Shen and Lipasti. *Modern Processor Design: Fundamentals of Superscalar Processors* ([1e/2013](https://smile.amazon.com/dp/1478607831))
+
+* Harris and Harris. *Digital Design and Computer Architecture* ([2e/2012](https://smile.amazon.com/dp/0123944244))
+
+* Dubois (Author), Murali Annavaram (Author), Per Stenström. *Parallel Computer Organization and Design* ([1e/2012](https://smile.amazon.com/dp/0521886759))
+
+* Culler, Singh, Gupta. *Parallel Computer Architecture: A Hardware/Software Approach* ([1e](https://smile.amazon.com/dp/1558603433))
+
+* Jacob, Ng, Wang. *Memory Systems: Cache, DRAM, Disk* ([1e/2007](https://smile.amazon.com/dp/0123797519))
 
 TODO: Systems, FP, AI
