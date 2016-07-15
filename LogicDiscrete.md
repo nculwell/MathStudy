@@ -90,7 +90,7 @@ These are generally grab-bags of topics relevant for beginning CS students: logi
 * Epp. *Discrete Mathematics with Applications* ([3e](https://smile.amazon.com/dp/0534359450), [3e solns](https://smile.amazon.com/Student-dp/0534360289), [2e](https://smile.amazon.com/dp/0534944469)) - Noted for its clarity. Seems to be well-liked by struggling students.
 * Grimaldi. *Discrete and Combinatorial Mathematics: An Applied Introduction* ([4e](https://smile.amazon.com/dp/0201199122), [3e](https://smile.amazon.com/dp/B00404GGWI), [2e](https://smile.amazon.com/dp/0201119544)) - Older. Includes some interesting topics in the final chapters.
 
-This one is aimed more at math majors.
+This one covers a similar range of topics, but is aimed more at math majors.
 
 * Scheinerman. *Mathematics: A Discrete Introduction* ([3e](https://smile.amazon.com/dp/0840049420), [2e](https://smile.amazon.com/dp/0534398987))
 
