@@ -150,6 +150,8 @@ These focus on some more specialized areas of algorithms.
 
 * Bird. *Pearls of Functional Algorithm Design* ([1e](https://smile.amazon.com/dp/0521513383))
 
+* Petkovsek, Wilf, Zeilberger. *A = B* ([1e](https://smile.amazon.com/B-Marko-Petkovsek/dp/1568810636))
+
 ## Programming language theory
 
 * Pierce, *Types and Programming Languages*
