@@ -75,3 +75,14 @@ See the [Linear Algebra section](LinearAlgebra.md).
 - Koblitz. *p-adic Numbers, p-adic Analysis, and Zeta-Functions* ([2e](https://smile.amazon.com/dp/0387960171))
 - Koblitz. *Introduction to Elliptic Curves and Modular Forms* ([2e](https://smile.amazon.com/dp/0387979662))
 - Edwards. *Riemann's Zeta Function* ([Dover](https://smile.amazon.com/dp/0486417409))
+- Andrews. *The Theory of Partitions* ([1e](https://smile.amazon.com/dp/052163766X))
+- Andrews and Eriksson. *Integer Partitions* ([2e](https://smile.amazon.com/dp/0521600901))
+
+#### Ramanujan
+
+Online copies of Ramanujan's work can be found here: http://www.imsc.res.in/~rao/ramanujan/contentindex.html
+
+- Berndt. *Number Theory in the Spirit of Ramanujan* ([1e](https://smile.amazon.com/gp/product/0821841785)) - An introduction to Ramanujan's work for someone already acquainted with number theory.
+- Ramanujan, ed. Hardy, Aiyar, Wilson. *Collected Papers of Srinivasa Ramanujan* ([1e](https://smile.amazon.com/gp/product/1107536510))
+- Hardy. *Ramanujan: Twelve Lectures on Subjects Suggested by His Life and Work* ([AMS Chelsea](https://smile.amazon.com/gp/product/0821820230))
+- Andrews and Berndt. *Ramanujan's Lost Notebook* ([Part I](https://smile.amazon.com/dp/038725529X), etc.)
