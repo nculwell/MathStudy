@@ -87,11 +87,12 @@ and also has a nice overview of less mainstream types of logics.
 
   A pretty standard introduction to discrete math. I like this one because of its computer science focus. Older editions can be bought cheaply.
 
-* Graham, Knuth, Patashnik. *Concrete Mathematics: A Foundation for Computer Science*
+* Aho and Ullman, 1994. *Foundations of Computer Science: C Edition* ([1e](https://smile.amazon.com/dp/0716782847))
+* Graham, Knuth, Patashnik. *Concrete Mathematics: A Foundation for Computer Science* ([2e](https://smile.amazon.com/dp/0201558025))
 * Trudeau, *Introduction to Graph Theory*
 * Chartrand, *Introductory Graph Theory*
 * Chartrand, Zhang, *A First Course in Graph Theory*
-* Hartsfield and Ringel. *Pearls in Graph Theory: A Comprehensive Introduction* [Dover ed](https://smile.amazon.com/Pearls-Graph-Theory-Comprehensive-Introduction/dp/0486432327/)
+* Hartsfield and Ringel. *Pearls in Graph Theory: A Comprehensive Introduction* ([Dover ed](https://smile.amazon.com/dp/0486432327/))
 
   More in-depth than Chartrand's other intro book.
 
