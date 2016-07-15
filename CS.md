@@ -335,4 +335,30 @@ These focus on some more specialized areas of algorithms.
 
   Prereqs include abstract algebra, number theory, algorithms and computational complexity. Covers hidden monomial, combinatorial-algebraic and elliptic and hyperelliptic cryptosystems. An appendix introduces hyperelliptic curves.
 
+## Operating Systems
+
+### General introductions
+
+* Stallings. *Operating Systems: Internals and Design Principles* ([8e/2014](https://smile.amazon.com/dp/0133805913), [7e/2011](https://smile.amazon.com/dp/013230998X))
+* Tanenbaum and Bos. *Modern Operating Systems* ([4e/2014](https://smile.amazon.com/dp/013359162X), [3e/2007](https://smile.amazon.com/dp/0136006639))
+* Silberschatz, Galvin, Gagne. *Operating System Concepts* ([9e/2012](https://smile.amazon.com/dp/1118063333), [8e/2008](https://smile.amazon.com/dp/0470128720), [7e/2004](https://smile.amazon.com/dp/0471694665))
+
+### Implementation
+
+* Tanenbaum and Woodhull. *Operating Systems Design and Implementation* (The MINIX book) ([3e/2006](https://smile.amazon.com/dp/0131429388))
+
+### Specific systems
+
+* Bach. *The Design of the UNIX Operating System* ([1e/1986](https://smile.amazon.com/dp/0132017997))
+
+  A classic book that explains the UNIX design philosophy. In its specifics, it is outdated, but it remains important because the UNIX philosophy has been so important in the development of software.
+
+* Love. *Linux Kernel Development* ([3e](https://smile.amazon.com/dp/0672329468))
+
+* McKusick, Neville-Neil, Watson. *The Design and Implementation of the FreeBSD Operating System* ([2e/2014](https://smile.amazon.com/dp/0321968972))
+
+* Kerrisk. *The Linux Programming Interface: A Linux and UNIX System Programming Handbook* ([1e](https://smile.amazon.com/dp/1593272200))
+
+* Comer. *Operating System Design: The Xinu Approach* ([2e](https://smile.amazon.com/dp/1498712436))
+
 TODO: Systems, FP, AI
