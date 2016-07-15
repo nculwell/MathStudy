@@ -361,6 +361,10 @@ These focus on some more specialized areas of algorithms.
 
 ### Systems programming in userspace
 
+* Kernighan and Pike. *The Unix Programming Environment* ([1e/1983](https://smile.amazon.com/dp/013937681X))
+
+  This one is similar to Bach's *The Design of the UNIX Operating System* in that the software it describes is obsolete, but the principles are still very influential.
+
 * Stevens and Rago. *Advanced Programming in the UNIX Environment* ([3e](https://smile.amazon.com/dp/0321637739))
 
 * Kerrisk. *The Linux Programming Interface: A Linux and UNIX System Programming Handbook* ([1e](https://smile.amazon.com/dp/1593272200))
@@ -376,6 +380,8 @@ These focus on some more specialized areas of algorithms.
 * Fall and Stevens. *TCP/IP Illustrated, Vol. 1: The Protocols* ([2e/2011](https://smile.amazon.com/dp/0321336313), [1e/1993 [Stevens only]](https://smile.amazon.com/dp/0321336313))
 * Wright and Stevens. *TCP/IP Illustrated, Vol. 2: The Implementation* ([1e/1995](https://smile.amazon.com/dp/020163354X))
 * Stevens. *TCP/IP Illustrated, Vol. 3: TCP for Transactions, HTTP, NNTP, and the UNIX Domain Protocols* ([1e/1996](https://smile.amazon.com/dp/0201634953))
+
+* Bryant and O'Hallaron. *Computer Systems: A Programmer's Perspective* ([3e/2015](https://smile.amazon.com/dp/013409266X), [2e/2010](https://smile.amazon.com/dp/0136108040), [1e/2002](https://smile.amazon.com/dp/013034074X))
 
 ## Hardware
 
