@@ -81,26 +81,42 @@ and also has a nice overview of less mainstream types of logics.
 
 ## Discrete Math
 
+#### Discrete Math for Computer Science
+
+These are generally grab-bags of topics relevant for beginning CS students: logic, proofs, number theory, combinatorics, graph theory.
+
 * (FREE) [Harvard CS 20 notes](https://www.seas.harvard.edu/courses/cs20/MIT6_042Notes.pdf)
 
-* Rosen, *Discrete Mathematics and its Applications* ([6e](https://smile.amazon.com/dp/0073229725), [5e](https://smile.amazon.com/dp/0072424346))
+* Rosen. *Discrete Mathematics and its Applications* ([6e](https://smile.amazon.com/dp/0073229725), [5e](https://smile.amazon.com/dp/0072424346))
 
-  A pretty standard introduction to discrete math. I like this one because of its computer science focus. Older editions can be bought cheaply.
+  A pretty standard introduction to discrete math. I like this one because of its computing focus. Older editions can be bought cheaply.
+
+* Other standard textbooks used by CS departments:
 
 * Aho and Ullman, 1994. *Foundations of Computer Science: C Edition* ([1e](https://smile.amazon.com/dp/0716782847))
+
 * Graham, Knuth, Patashnik. *Concrete Mathematics: A Foundation for Computer Science* ([2e](https://smile.amazon.com/dp/0201558025))
-* Trudeau, *Introduction to Graph Theory*
-* Chartrand, *Introductory Graph Theory*
-* Chartrand, Zhang, *A First Course in Graph Theory*
+
+#### Combinatorics and Graph Theory
+
+* Lovász, Pelikán, Vesztergombi. *Discrete Mathematics: Elementary and Beyond*
+
+* Martin. *Counting: The Art of Enumerative Combinatorics*
+
+* Wilf. *generatingfunctionology* ([**2e FREE ONLINE**](https://www.math.upenn.edu/~wilf/DownldGF.html) [3e](https://smile.amazon.com/generatingfunctionology-Third-Herbert-S-Wilf/dp/1568812795/))
+
+* Chen. *Principles and Techniques in Combinatorics*
+
+* Stanley. *Enumerative Combinatorics: Volume 1*
+
+* Trudeau. *Introduction to Graph Theory*
+* Chartrand. *Introductory Graph Theory*
+* Chartrand, Zhang. *A First Course in Graph Theory*
+
 * Hartsfield and Ringel. *Pearls in Graph Theory: A Comprehensive Introduction* ([Dover ed](https://smile.amazon.com/dp/0486432327/))
 
   More in-depth than Chartrand's other intro book.
 
-* Martin, *Counting: The Art of Enumerative Combinatorics*
-* Wilf, *generatingfunctionology* ([**2e FREE ONLINE**](https://www.math.upenn.edu/~wilf/DownldGF.html) [3e](https://smile.amazon.com/generatingfunctionology-Third-Herbert-S-Wilf/dp/1568812795/))
-* Chen, *Principles and Techniques in Combinatorics*
-* Lovász, Pelikán, Vesztergombi, *Discrete Mathematics: Elementary and Beyond*
-* Graham, Knuth, Patashnik, *Concrete Mathematics: A Foundation for Computer Science*
-* Stanley, *Enumerative Combinatorics: Volume 1*
-* Diestel, *Graph Theory*
+* Diestel. *Graph Theory*
+
 * Bogart. [*Combinatorics Through Guided Discovery*](https://math.dartmouth.edu/news-resources/electronic/kpbogart/)
