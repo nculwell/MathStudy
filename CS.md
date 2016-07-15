@@ -18,11 +18,11 @@
   * Friedman, Byrd, Kiselyov. *The Reasoned Schemer* ([1e](https://smile.amazon.com/dp/0262562146))
   * Friedman and Eastlund. *The Little Prover* ([1e](https://smile.amazon.com/dp/0262527952))
 
-### Theory
+## Theory
 
 See also: [Logic and Discrete Math](LogicDiscrete.md)
 
-#### Intro
+### Intro
 
 * Sipser, 2012 (3e) / 2006 (2e) / 1996 (1e). *Introduction to the Theory of Computation*
 
@@ -62,17 +62,17 @@ See also: [Logic and Discrete Math](LogicDiscrete.md)
 
   Graduate-level.
 
-#### Complexity
+### Complexity
 
 * Papadimitriou, *Computational Complexity*
 
 * Arora and Barak, *Computational Complexity: A Modern Approach*
 
-### Data structures and algorithms
+## Data structures and algorithms
 
 Data structures and algorithms are two sides of the same coin. (In 1976, Niklaus Wirth published a book on the subject called *Algorithms + Data Structures = Programs*.)
 
-#### Standard topics
+### Standard topics
 
 These books cover the basics, that is, the core algorithms that everyone needs to know: sorting, tree traversal, etc.
 
@@ -137,7 +137,7 @@ These books cover the basics, that is, the core algorithms that everyone needs t
 * Aho, Ullman, Hopcroft. *Data Structures and Algorithms* ([1e](https://smile.amazon.com/dp/0201000237))
 * Brass. *Advanced Data Structures* ([1e](https://smile.amazon.com/dp/0521880378))
 
-#### Specialized algorithms
+### Specialized algorithms
 
 These focus on some more specialized areas of algorithms.
 
@@ -150,7 +150,7 @@ These focus on some more specialized areas of algorithms.
 
 * Bird. *Pearls of Functional Algorithm Design* ([1e](https://smile.amazon.com/dp/0521513383))
 
-### Programming language theory
+## Programming language theory
 
 * Pierce, *Types and Programming Languages*
 * Turbak, Gifford, Sheldon, 2008. *Design Concepts in Programming Languages*
@@ -160,7 +160,7 @@ These focus on some more specialized areas of algorithms.
 * Pierce (ed), 2004. *Advanced Topics in Types and Programming Languages*
 * Stepanov and Rose. *From Mathematics to Generic Programming* ([1e](https://smile.amazon.com/dp/0321942043))
 
-### Compilers and interpreters
+## Compilers and interpreters
 
 * Krishnamurthi, 2012. *Programming Languages: Application and Interpretation*
 
@@ -267,7 +267,7 @@ These focus on some more specialized areas of algorithms.
 
   The main reference on garbage collection.
 
-### Numerical methods
+## Numerical methods
 
 * Trefethen and Bau, 1997. *Numerical Linear Algebra*
 * Hamming, 1987. *Numerical Methods for Scientists and Engineers*
@@ -279,7 +279,7 @@ These focus on some more specialized areas of algorithms.
 * Brigham, 1988. *The Fast Fourier Transform and Its Applications*
 * Trefethen, 2012, *Approximation Theory and Approximation Practice*
 
-### Databases
+## Databases
 
 * Elmasri and Nevathe. *Fundamentals of Database Systems* ([7e/2015](https://smile.amazon.com/dp/0133970779), [6e/2010](https://smile.amazon.com/dp/0136086209), [5e/2006](https://smile.amazon.com/dp/0321369572))
 
@@ -303,9 +303,9 @@ These focus on some more specialized areas of algorithms.
 
 * Hellerstein and Stonebraker (eds). *Readings in Database Systems* ([4e/2005](https://smile.amazon.com/dp/0262693143))
 
-### Cryptography
+## Cryptography
 
-#### Practical
+### Practical
 
 * Ferguson, Schneier, Kohno. *Cryptography Engineering: Design Principles and Practical Applications* ([1e/2010](https://smile.amazon.com/dp/0470474246))
 
@@ -321,7 +321,7 @@ These focus on some more specialized areas of algorithms.
 
 * Katz, Lindell. *Introduction to Modern Cryptography* ([2e/2014](https://smile.amazon.com/dp/1466570261))
 
-#### Mathematical
+### Mathematical
 
 * Klein. *A Cryptography Primer: Secrets and Promises* ([1e](https://smile.amazon.com/dp/1107603455))
 
@@ -335,6 +335,4 @@ These focus on some more specialized areas of algorithms.
 
   Prereqs include abstract algebra, number theory, algorithms and computational complexity. Covers hidden monomial, combinatorial-algebraic and elliptic and hyperelliptic cryptosystems. An appendix introduces hyperelliptic curves.
 
-### TODO
-
-Systems, FP, AI
+TODO: Systems, FP, AI
