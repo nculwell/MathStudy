@@ -28,7 +28,7 @@ See the [Linear Algebra section](LinearAlgebra.md).
 - Artin, *Algebra* ([2e [expensive!]](https://smile.amazon.com/dp/0132413779/), [2e intl](https://smile.amazon.com/dp/9332549834/), [2e intl @AbeBooks](http://www.abebooks.com/servlet/SearchResults?an=Michael%20Artin&bi=0&bx=off&ds=30&n=100121501&recentlyadded=all&sortby=17&tn=Algebra))
 - Jacobson, *Basic Algebra I* ([2e Dover](https://smile.amazon.com/dp/0486471896/))
 - Jacobson, *Basic Algebra II* ([2e Dover](https://smile.amazon.com/dp/048647187X/))
-- Dummit and Foote, *Algebra* ([3e intl](https://smile.amazon.com/dp/8126532289/))
+- Dummit and Foote, *Algebra* ([3e intl](https://smile.amazon.com/dp/8126532289/), [3e [expensive!]](https://smile.amazon.com/dp/B007CJ4C1U), [2e](https://smile.amazon.com/dp/0471368571))
 - Mac Lane and Birkhoff, *Algebra 3e* ([3e](https://smile.amazon.com/dp/0821816462/))
 - Lang, *Algebra* ([3e](https://smile.amazon.com/dp/038795385X/))
 - Hungerford, *Algebra* ([Springer hardcover](https://smile.amazon.com/dp/0387905189/)
