@@ -134,8 +134,6 @@ These are somewhat more mature approaches to discrete math.
 
 * Flajolet and Sedgewick. *Analytic Combinatorics* ([1e](https://smile.amazon.com/dp/0521898064))
 
-* Andrews and Eriksson. *Integer Partitions* ([2e](https://smile.amazon.com/dp/0521600901))
-
 * Stanley. *Algebraic Combinatorics: Walks, Trees, Tableaux, and More* ([1e](https://smile.amazon.com/dp/146146997X))
 
 * Stanley. *Catalan Numbers* ([1e](https://smile.amazon.com/dp/1107427746))
