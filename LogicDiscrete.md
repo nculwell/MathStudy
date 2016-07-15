@@ -112,7 +112,7 @@ These are somewhat more mature approaches to discrete math.
 
 * Bogart. [*Combinatorics Through Guided Discovery*](https://math.dartmouth.edu/news-resources/electronic/kpbogart/)
 
-* Stanley. *Enumerative Combinatorics: Volume 1* ([2e](https://smile.amazon.com/dp/1107602629))
+* Stanley. *Enumerative Combinatorics* ([Vol I, 2e](https://smile.amazon.com/dp/1107602629), [Vol II, 1e](https://smile.amazon.com/dp/B00HMUGS4S))
 
 * Trudeau. *Introduction to Graph Theory* ([Dover](https://smile.amazon.com/dp/0486678709))
 
@@ -131,3 +131,15 @@ These are somewhat more mature approaches to discrete math.
 * Bollobas. *Modern Graph Theory* ([1e](https://smile.amazon.com/dp/0387984887))
 
 * Bondy and Murty. *Graph Theory* ([1e](https://smile.amazon.com/dp/1846289696))
+
+* Flajolet and Sedgewick. *Analytic Combinatorics* ([1e](https://smile.amazon.com/dp/0521898064))
+
+* Andrews and Eriksson. *Integer Partitions* ([2e](https://smile.amazon.com/dp/0521600901))
+
+* Stanley. *Algebraic Combinatorics: Walks, Trees, Tableaux, and More* ([1e](https://smile.amazon.com/dp/146146997X))
+
+* Stanley. *Catalan Numbers* ([1e](https://smile.amazon.com/dp/1107427746))
+
+* Aigner. *A Course in Enumeration* ([1e](https://smile.amazon.com/dp/3540390324))
+
+* Cameron. *Combinatorics: Topics, Techniques, Algorithms* ([1e](https://smile.amazon.com/dp/0521457610))
