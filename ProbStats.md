@@ -21,6 +21,12 @@
 
   The most classic entry in this section. Many still consider it to be the best. Vol I is introductory (though maybe it would go down smoother after another book in this list), while Vol II is considered grad-level as it involves measure theory.
 
+- Pishro-Nik. *Introduction to Probability, Statistics, and Random Processes* ([1e](https://smile.amazon.com/dp/0990637204), [1e solns](https://smile.amazon.com/dp/0990637212))
+
+- Blitzstein and Hwang. *Introduction to Probability* ([1e](https://smile.amazon.com/dp/1466575573))
+
+- Bertsekas and Tsitsiklis. *Introduction to Probability* ([2e](https://smile.amazon.com/dp/188652923X), [1e](https://smile.amazon.com/dp/188652940X))
+
 #### Further
 
 - Ross, *Introduction to Probability Models* ([9e](https://smile.amazon.com/dp/0125980620))
