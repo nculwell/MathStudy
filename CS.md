@@ -305,6 +305,38 @@ These focus on some more specialized areas of algorithms.
 
 * Hellerstein and Stonebraker (eds). *Readings in Database Systems* ([4e/2005](https://smile.amazon.com/dp/0262693143))
 
+### Cryptography
+
+#### Practical
+
+* Ferguson, Schneier, Kohno. *Cryptography Engineering: Design Principles and Practical Applications* ([1e/2010](https://smile.amazon.com/dp/0470474246))
+
+  * Ferguson and Schneier. *Practical Cryptography* ([1e](https://smile.amazon.com/dp/0471223573))
+
+  A good starting book in crytography. The 2010 book is essentially the second edition of the 2003 one.
+
+* Schneier. *Applied Cryptography: Protocols, Algorithms, and Source Code in C* ([2e/1996](https://smile.amazon.com/dp/0471117099), [20th Anniversary HC](https://smile.amazon.com/dp/1119096723))
+
+  The 20th Anniversary edition is just a hardcover reissue of the 1996 second edition, not an update on the content. This is a classic text in cryptography, but the fact that it's 20 years old limits its usefulness. It's more in-depth than Ferguson and Schneier, though.
+
+* Paar, Pelzl, Preneel. *Understanding Cryptography: A Textbook for Students and Practitioners* ([1e/2010](https://smile.amazon.com/dp/3642041000))
+
+* Katz, Lindell. *Introduction to Modern Cryptography* ([2e/2014](https://smile.amazon.com/dp/1466570261))
+
+#### Mathematical
+
+* Klein. *A Cryptography Primer: Secrets and Promises* ([1e](https://smile.amazon.com/dp/1107603455))
+
+  A short conceptual introduction to cryptography that focuses on the mathematics, but has little in the way of prerequisites. It works through the necessary mathematical topics and then gives an overview of major real-world cryptography systems.
+
+* Koblitz. *A Course in Number Theory and Cryptography* ([2e](https://smile.amazon.com/dp/0387942939))
+
+  Assumes an introductory course in number theory. Major topics are public key cryptosystems, primality and factoring, and elliptic curves.
+
+* Koblitz et al. *Algebraic Aspects of Cryptography* ([1e](https://smile.amazon.com/dp/3540634460))
+
+  Prereqs include abstract algebra, number theory, algorithms and computational complexity. Covers hidden monomial, combinatorial-algebraic and elliptic and hyperelliptic cryptosystems. An appendix introduces hyperelliptic curves.
+
 ### TODO
 
 Systems, FP, AI
