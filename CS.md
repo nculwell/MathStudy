@@ -311,7 +311,7 @@ These focus on some more specialized areas of algorithms.
 
 * Ferguson, Schneier, Kohno. *Cryptography Engineering: Design Principles and Practical Applications* ([1e/2010](https://smile.amazon.com/dp/0470474246))
 
-  * Ferguson and Schneier. *Practical Cryptography* ([1e](https://smile.amazon.com/dp/0471223573))
+  * Ferguson and Schneier. *Practical Cryptography* ([1e/2003](https://smile.amazon.com/dp/0471223573))
 
   A good starting book in crytography. The 2010 book is essentially the second edition of the 2003 one.
 
