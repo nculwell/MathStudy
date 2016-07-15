@@ -1,6 +1,6 @@
-## Computer science
+# Computer science
 
-### Basic programming and intros to CS
+## Basic programming and intros to CS
 
 * [*Structure and Interpretation of Computer Programs*](https://mitpress.mit.edu/sicp/full-text/book/book.html)
 * Felleisen, Findler, Flatt, Krishnamurthi. *How to Design Programs: An Introduction to Programming and Computing* ([**FREE ONLINE**](http://www.htdp.org/), [1e](https://smile.amazon.com/dp/0262062186))
@@ -17,8 +17,6 @@
   * Friedman and Felleisen. *The Seasoned Schemer* ([1e](https://smile.amazon.com/dp/026256100X))
   * Friedman, Byrd, Kiselyov. *The Reasoned Schemer* ([1e](https://smile.amazon.com/dp/0262562146))
   * Friedman and Eastlund. *The Little Prover* ([1e](https://smile.amazon.com/dp/0262527952))
-
-* Aho and Ullman, 1994. *Foundations of Computer Science: C Edition* ([1e](https://smile.amazon.com/dp/0716782847))
 
 ### Theory
 
