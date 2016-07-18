@@ -121,3 +121,4 @@ There are various English-language editions of Euclid available at archive.org; 
 - Griffiths, Harris - *Principles of Algebraic Geometry* ([Intl ed @AbeBooks](http://www.abebooks.com/products/isbn/9788126546510?cm_sp=bdp-_-9788126546510-_-isbn10))
 - Görtz, Wedhorn - *Algebraic Geometry I, Schemes with Examples and Exercises* ([1e](https://smile.amazon.com/dp/3834806765/))
 - Vakil, [The Rising Sea: Foundations Of Algebraic Geometry Notes](https://math.stanford.edu/~vakil/216blog/)
+- Eisenbud and Harris. *3264 and All That: A Second Course in Algebraic Geometry* ([1e](https://smile.amazon.com/dp/1107602726))
