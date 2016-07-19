@@ -86,7 +86,7 @@ and also has a nice overview of less mainstream types of logics.
 These are generally grab-bags of topics relevant for beginning CS students: logic, proofs, number theory, boolean algebra, combinatorics, graph theory. I only list older, cheap editions. These books tend to be elementary and shallow, because they are devoted to brief coverage of a large variety of topics.
 
 * (FREE) [Harvard CS 20 notes](https://www.seas.harvard.edu/courses/cs20/MIT6_042Notes.pdf)
-* Rosen. *Discrete Mathematics and its Applications* ([6e](https://smile.amazon.com/dp/0073229725), [5e](https://smile.amazon.com/dp/0072424346)) - Probably the most popular book of this type.
+* Rosen. *Discrete Mathematics and its Applications* ([6e](https://smile.amazon.com/dp/0073229725), [5e](https://smile.amazon.com/dp/0072424346), [5e solns [odd problems only]](https://smile.amazon.com/dp/0072474777)) - Probably the most popular book of this type.
 * Epp. *Discrete Mathematics with Applications* ([3e](https://smile.amazon.com/dp/0534359450), [3e solns](https://smile.amazon.com/Student-dp/0534360289), [2e](https://smile.amazon.com/dp/0534944469), [ERRATA](http://condor.depaul.edu/sepp/DMwA3e.htm)) - Noted for its clarity. Seems to be well-liked by struggling students.
 * Grimaldi. *Discrete and Combinatorial Mathematics: An Applied Introduction* ([4e](https://smile.amazon.com/dp/0201199122), [3e](https://smile.amazon.com/dp/B00404GGWI), [2e](https://smile.amazon.com/dp/0201119544)) - Older. Includes some interesting topics in the final chapters.
 
