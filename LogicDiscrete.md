@@ -97,17 +97,13 @@ Typical topics are: logic and proof, set theory, functions, introduction to algo
 #### Discrete math with a different focus
 
 * Scheinerman. *Mathematics: A Discrete Introduction* ([3e](https://smile.amazon.com/dp/0840049420), [2e](https://smile.amazon.com/dp/0534398987)) - Covers a similar range of topics, but is aimed more at math majors.
-* Ross. *Topics in Finite and Discrete Mathematics* ([1e Dover](https://www.amazon.com/dp/052177571X)) - Unusual topics include finance, linear programming and statistical inference.
+* Ross. *Topics in Finite and Discrete Mathematics* ([1e Dover](https://www.amazon.com/dp/052177571X)) - Unusual topics include finance, linear programming and statistical inference. No coverage of logic or proofs.
 
 #### More advanced approaches to discrete math for computer science
 
-* Aho and Ullman, 1994. *Foundations of Computer Science: C Edition* ([**FREE ONLINE**](http://infolab.stanford.edu/~ullman/focs.html), [1e](https://smile.amazon.com/dp/0716782847))
+* Aho and Ullman, 1994. *Foundations of Computer Science: C Edition* ([**FREE ONLINE**](http://infolab.stanford.edu/~ullman/focs.html), [1e](https://smile.amazon.com/dp/0716782847)) - Combines discrete math with programming.
 
-  Combines discrete math with programming.
-
-* Graham, Knuth, Patashnik. *Concrete Mathematics: A Foundation for Computer Science* ([2e](https://smile.amazon.com/dp/0201558025))
-
-  One of the most well-loved books in math and computer science.
+* Graham, Knuth, Patashnik. *Concrete Mathematics: A Foundation for Computer Science* ([2e](https://smile.amazon.com/dp/0201558025)) - One of the most well-loved books in math and computer science.
 
 ### Combinatorics and Graph Theory
 
