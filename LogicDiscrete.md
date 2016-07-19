@@ -8,6 +8,14 @@
 that you'd want to see in a first course, gives a tour of major philosophical applications of logic,
 and also has a nice overview of less mainstream types of logics.
 
+* Copi and Cohen. *Introduction to Logic* ([12e](https://www.amazon.com/dp/0131898345))
+
+  A standard introduction to logic.
+
+* Hurley. *A Concise Introduction to Logic* ([9e](https://www.amazon.com/dp/0534585051))
+
+  Another standard introduction to logic.
+
 * Keisler, Kunen, Millar, Miller, Robbin, *Mathematical Logic and Computability*
 
   Free online here: https://www.math.wisc.edu/~miller/res/book.pdf.
