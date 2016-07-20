@@ -19,6 +19,7 @@ There are various English-language editions of Euclid available at archive.org; 
 - Hilbert and Cohn-Vossen. *Geometry and the Imagination* ([AMS Chelsea](https://smile.amazon.com/gp/product/0821819984))
 - Birkhoff and Beatley. *Basic Geometry* ([AMS Chelsea ed](https://smile.amazon.com/gp/product/0821821016), [At AMS store](http://bookstore.ams.org/chel-120/); [Manual for Teachers [at AMS store]](http://bookstore.ams.org/chel-34/), [Manual for Teachers [at AbeBooks]](http://www.abebooks.com/products/isbn/9780821826928); [Answer book [at AMS store]](http://bookstore.ams.org/chel-162/), [Answer Book [at AbeBooks]](http://www.abebooks.com/products/isbn/9780828401623))
 - Cremona, 1885. *Elements Of Projective Geometry* ([At archive.org](https://archive.org/details/elementsproject02cremgoog))
+- Casey, 1886. *A Sequel to the First Six Books of the Elements of Euclid* ([At archive.org](https://archive.org/details/sequeltofirstsix00caserich))
 
 ## Computational Geometry
 
