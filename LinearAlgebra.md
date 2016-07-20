@@ -103,3 +103,9 @@ Others:
 - Trefethen and Bau. *Numerical Linear Algebra* ([1e](https://smile.amazon.com/Numerical-Linear-Algebra-Lloyd-Trefethen/dp/0898713617/))
 - Golub and Van Loan. *Matrix Computations*
 - Nocedal and Wright. *Numerical Optimization*
+
+## Random matrix theory
+
+- Anderson, Guionnet, Zeitouni. *An Introduction to Random Matrices* ([1e](https://smile.amazon.com/dp/0521194520))
+- Baik, Deift, Suidan. *Combinatorics and Random Matrix Theory* ([1e](https://smile.amazon.com/dp/0821848410))
+- Tao. *Topics in Random Matrix Theory* ([1e](https://smile.amazon.com/dp/0821874306))
