@@ -46,6 +46,7 @@ See the [Linear Algebra section](LinearAlgebra.md).
 - Matsumura, tr. Reid. *Commutative Ring Theory* ([1e](https://smile.amazon.com/dp/0521367646/))
 - Miller and Sturmfels. *Combinatorial Commutative Algebra* ([1e](https://smile.amazon.com/dp/0387237070))
 - Ene and Herzog. *Grobner Bases in Commutative Algebra* ([1e](https://smile.amazon.com/dp/0821872877))
+- Zariski and Samuel. *Commutative Algebra* ([Vol I](https://smile.amazon.com/dp/0387900896), [Vol II](https://smile.amazon.com/dp/038790171X))
 
 ### Noncommutative algebra
 
