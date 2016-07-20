@@ -157,3 +157,5 @@ Typical topics are: logic and proof, set theory, functions, introduction to algo
 * Aigner. *A Course in Enumeration* ([1e](https://smile.amazon.com/dp/3540390324))
 
 * Cameron. *Combinatorics: Topics, Techniques, Algorithms* ([1e](https://smile.amazon.com/dp/0521457610))
+
+See also: [random matrix theory](https://github.com/nculwell/MathStudy/blob/master/LinearAlgebra.md#random-matrix-theory)
