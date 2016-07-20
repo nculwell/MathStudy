@@ -107,19 +107,27 @@ There are various English-language editions of Euclid available at archive.org; 
 ## Algebraic geometry
 
 ### Introductions
-- Beltrametti, Carletti, Gallarati, Bragadin, *Lectures on Curves, Surfaces and Projective Varieties* ([1e](https://smile.amazon.com/dp/3037190647/))
+- Beltrametti, Carletti, Gallarati, Bragadin. *Lectures on Curves, Surfaces and Projective Varieties* ([1e](https://smile.amazon.com/dp/3037190647/))
 - Garrity et al. *Algebraic Geometry: A Problem Solving Approach* ([1e](https://smile.amazon.com/gp/product/0821893963))
-- Shafarevich, Reid, *Basic Algebraic Geometry 1: Varieties in Projective Space* ([3e](https://smile.amazon.com/dp/3642379559/))
-- Shafarevich, Reid, *Basic Algebraic Geometry 2: Schemes and Complex Manifolds* ([3e](https://smile.amazon.com/dp/3642380093/))
-- Holme, *A Royal Road to Algebraic Geometry* ([1e](https://smile.amazon.com/dp/3642192246/))
-- Fulton, [*Algebraic Curves, an Introduction to Algebraic Geometry*](http://www.math.lsa.umich.edu/~wfulton/CurveBook.pdf)
-- Gathmann, [Algebraic Geometry (SS 2014)](http://www.mathematik.uni-kl.de/agag/mitglieder/professoren/gathmann/notes/alggeom/)
-- Smith, 2014. *Introduction to Algebraic Geometry* ([1e Paperback](https://www.amazon.com/Introduction-Algebraic-Geometry-Justin-Smith/dp/1503381536), [**FREE ONLINE**](http://www.five-dimensions.org/Textbooks/))
+- Shafarevich, Reid. *Basic Algebraic Geometry 1: Varieties in Projective Space* ([3e](https://smile.amazon.com/dp/3642379559/))
+- Shafarevich, Reid. *Basic Algebraic Geometry 2: Schemes and Complex Manifolds* ([3e](https://smile.amazon.com/dp/3642380093/))
+- Holme. *A Royal Road to Algebraic Geometry* ([1e](https://smile.amazon.com/dp/3642192246/))
+- Fulton. [*Algebraic Curves, an Introduction to Algebraic Geometry*](http://www.math.lsa.umich.edu/~wfulton/CurveBook.pdf)
+- Gathmann. [Algebraic Geometry (SS 2014)](http://www.mathematik.uni-kl.de/agag/mitglieder/professoren/gathmann/notes/alggeom/)
+- Smith, 2014. *Introduction to Algebraic Geometry* ([1e Paperback](https://www.amazon.com/dp/1503381536), [**FREE ONLINE**](http://www.five-dimensions.org/Textbooks/))
+
+### Classical (pre-Grothendieck)
+
+- Lang, 1958. *Introduction to Algebraic Geometry* ([Martino](https://smile.amazon.com/dp/1614276277))
+- Weil, 1946, 1962. *Foundations of algebraic geometry* ([](https://smile.amazon.com/dp/B0007DO3Q2))
+- Lefschetz, 1953. *Algebraic Geometry* ([Dover](https://smile.amazon.com/dp/0486446115))
+- Hodge and Pedoe, 1947. *Methods of Algebraic Geometry* ([Vol I](https://smile.amazon.com/dp/0521469007), [Vol II](https://smile.amazon.com/gp/product/0521469015), [Vol III](https://smile.amazon.com/dp/0521467756))
+- Baker, 1922-1925. *Principles of Geometry* (At archive.org: [Vol 1](https://archive.org/details/principlesofgeom01bake), [Vol 2](https://archive.org/details/principlesofgeom02bake), [Vol 3](https://archive.org/details/principlesofgeom03bake), [Vol 4](https://archive.org/details/principlesofgeom04bake), [Vol 5](https://archive.org/details/principlesofgeom05bake), [Vol 6](https://archive.org/details/principlesofgeom06bake))
 
 ### Beyond
-- Hartshorne, *Algebraic Geometry* ([1e](https://smile.amazon.com/Algebraic-Geometry-Graduate-Texts-Mathematics/dp/0387902449/))
-- Liu, *Algebraic Geometry and Arithmetic Curves* ([1e](https://smile.amazon.com/dp/0199202494/)
-- Griffiths, Harris - *Principles of Algebraic Geometry* ([Intl ed @AbeBooks](http://www.abebooks.com/products/isbn/9788126546510?cm_sp=bdp-_-9788126546510-_-isbn10))
-- Görtz, Wedhorn - *Algebraic Geometry I, Schemes with Examples and Exercises* ([1e](https://smile.amazon.com/dp/3834806765/))
-- Vakil, [The Rising Sea: Foundations Of Algebraic Geometry Notes](https://math.stanford.edu/~vakil/216blog/)
+- Hartshorne. *Algebraic Geometry* ([1e](https://smile.amazon.com/dp/0387902449/))
+- Liu. *Algebraic Geometry and Arithmetic Curves* ([1e](https://smile.amazon.com/dp/0199202494/)
+- Griffiths, Harris. *Principles of Algebraic Geometry* ([Intl ed @AbeBooks](http://www.abebooks.com/products/isbn/9788126546510))
+- Görtz, Wedhorn. *Algebraic Geometry I, Schemes with Examples and Exercises* ([1e](https://smile.amazon.com/dp/3834806765/))
+- Vakil. [The Rising Sea: Foundations Of Algebraic Geometry Notes](https://math.stanford.edu/~vakil/216blog/)
 - Eisenbud and Harris. *3264 and All That: A Second Course in Algebraic Geometry* ([1e](https://smile.amazon.com/dp/1107602726))
