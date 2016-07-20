@@ -142,7 +142,11 @@ Typical topics are: logic and proof, set theory, functions, introduction to algo
 
 * Bollobas. *Modern Graph Theory* ([1e](https://smile.amazon.com/dp/0387984887))
 
+* Bollobas. *Extremal Graph Theory* ([Dover](https://smile.amazon.com/dp/0486435962))
+
 * Bondy and Murty. *Graph Theory* ([1e](https://smile.amazon.com/dp/1846289696))
+
+* Lovász. *Combinatorial Problems and Exercises* ([AMS Chelsea](https://smile.amazon.com/dp/0821842625))
 
 * Flajolet and Sedgewick. *Analytic Combinatorics* ([1e](https://smile.amazon.com/dp/0521898064))
 
