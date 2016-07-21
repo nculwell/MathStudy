@@ -42,6 +42,11 @@
 
 - Andreescu. *Essential Linear Algebra with Applications: A Problem-Solving Approach* ([1e](https://smile.amazon.com/dp/0817643605))
 
+- Treil. *Linear Algebra Done Wrong*
+
+  The title is a play on Axler's *Linear Algebra Done Right*. Free online at the author's page:
+  https://www.math.brown.edu/~treil/papers/LADW/LADW.html
+
 Many people also favor the Schaum's Outline for linear algebra as well as Schaum's *3,000 Solved Problems in Linear Algebra*.
 
 Some calculus books include an introduction to linear algebra. Among these are Apostol's *Calculus* and Hubbard and Hubbard's *Vector Calculus*.
