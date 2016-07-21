@@ -124,6 +124,10 @@ Typical topics are: logic and proof, set theory, functions, introduction to algo
 
 * Lovász, Pelikán, Vesztergombi. *Discrete Mathematics: Elementary and Beyond* ([1e](https://smile.amazon.com/dp/0387955852))
 
+* Brualdi. *Introductory Combinatorics* ([4e](https://smile.amazon.com/dp/0131001191), [3e](https://smile.amazon.com/dp/0131814885); [4e errata](https://www.math.wisc.edu/~brualdi/4ederrata.pdf))
+
+* Niven. *The Mathematics of Choice: How to Count Without Counting* ([MAA 1e](https://smile.amazon.com/dp/0883856158))
+
 * Martin. *Counting: The Art of Enumerative Combinatorics* ([1e](https://smile.amazon.com/dp/038795225X))
 
 * Wilf. *generatingfunctionology* ([**2e FREE ONLINE**](https://www.math.upenn.edu/~wilf/DownldGF.html) [3e](https://smile.amazon.com/generatingfunctionology-Third-Herbert-S-Wilf/dp/1568812795/))
