@@ -40,6 +40,8 @@
 
   A Russian approach to linear algebra. Like many Russian textbooks, it jumps right in and makes no attempt to hold your hand. Even though the content may be appropriate for first-time learners, many students in the US won't be prepared for a book like this when they start LA. Also tends toward the abstract and doesn't cover the SVD. Includes hints and solutions for exercises.
 
+- Andreescu. *Essential Linear Algebra with Applications: A Problem-Solving Approach* ([1e](https://smile.amazon.com/dp/0817643605))
+
 Many people also favor the Schaum's Outline for linear algebra as well as Schaum's *3,000 Solved Problems in Linear Algebra*.
 
 Some calculus books include an introduction to linear algebra. Among these are Apostol's *Calculus* and Hubbard and Hubbard's *Vector Calculus*.
