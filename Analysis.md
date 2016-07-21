@@ -181,13 +181,15 @@ These books are generally considered graduate level, and cover measure theory. (
   
   A *huge*, brand-new collection of problems on analysis (each book is over 1000 pages). This looks to be the kind of thing you're only interested in if you'll be specializing in real analysis. "This nearly encyclopedic coverage of exercises in mathematical analysis is the first of its kind and is accessible to a wide readership. Graduate students will find the collection of problems valuable in preparation for their preliminary or qualifying exams as well as for testing their deeper understanding of the material."
 
-#### Fourier analysis
+- Rădulescu, Rădulescu, Andreescu. *Problems in Real Analysis: Advanced Calculus on the Real Axis* ([1e](https://smile.amazon.com/dp/0387773789))
+
+### Fourier analysis
 
 - Stein and Shakarchi, *Fourier Analysis: An Introduction* ([1e](https://smile.amazon.com/dp/069111384X))
 - Hubbard, *The World According to Wavelets* ([1e](https://smile.amazon.com/dp/1568810725))
 - Tolstov, *Fourier Analysis* ([Dover](https://smile.amazon.com/dp/0486633179))
 
-#### Manifolds
+### Manifolds
 
 - Munkres, *Analysis On Manifolds* ([1e](https://smile.amazon.com/dp/0201315963))
 - Spivak, *Calculus On Manifolds: A Modern Approach To Classical Theorems Of Advanced Calculus* ([1e](https://smile.amazon.com/dp/0805390219))
