@@ -2,19 +2,14 @@
 
 ## Logic
 
+### Philosophical logic
+
 * Gensler, *Introduction to Logic*
 
   This is a really nice first course in logic, which covers all the core material
 that you'd want to see in a first course, gives a tour of major philosophical applications of logic,
 and also has a nice overview of less mainstream types of logics.
 
-* Keisler, Kunen, Millar, Miller, Robbin, *Mathematical Logic and Computability*
-
-  Free online here: https://www.math.wisc.edu/~miller/res/book.pdf.
-
-* Enderton, *A Mathematical Introduction to Logic* ([2e](https://smile.amazon.com/dp/0122384520), [1e at AbeBooks](http://www.abebooks.com/products/isbn/9780122384509))
-* Mendelson, *Introduction to Mathematical Logic* ([6e](https://smile.amazon.com/dp/1482237725), [5e](https://smile.amazon.com/dp/1584888768))
-* Goldrei. *Propositional and Predicate Calculus: A Model of Argument* ([1e](https://smile.amazon.com/dp/1852339217))
 * Copi and Cohen. *Introduction to Logic* ([12e](https://smile.amazon.com/dp/0131898345), [11e](https://smile.amazon.com/dp/0130337358))
 
   A standard introduction to logic.
@@ -23,7 +18,18 @@ and also has a nice overview of less mainstream types of logics.
 
   Another standard introduction to logic.
 
+### Mathematical logic
+
+* Keisler, Kunen, Millar, Miller, Robbin, *Mathematical Logic and Computability*
+
+  Free online here: https://www.math.wisc.edu/~miller/res/book.pdf.
+
+* Enderton, *A Mathematical Introduction to Logic* ([2e](https://smile.amazon.com/dp/0122384520), [1e at AbeBooks](http://www.abebooks.com/products/isbn/9780122384509))
+* Mendelson, *Introduction to Mathematical Logic* ([6e](https://smile.amazon.com/dp/1482237725), [5e](https://smile.amazon.com/dp/1584888768))
+* Goldrei. *Propositional and Predicate Calculus: A Model of Argument* ([1e](https://smile.amazon.com/dp/1852339217))
 * Lover. *Elementary Logic: For Software Development* ([1e](https://smile.amazon.com/dp/1848000812))
+* Smullyan. *First-order logic* ([Dover](https://smile.amazon.com/dp/0486683702))
+* Tarski. *Introduction to logic* ([Dover 2e revised](https://smile.amazon.com/dp/048628462X), [4e [with Jan Tarski]](https://smile.amazon.com/dp/019504472X))
 * van Dalen, *Logic and Structure* ([5e](https://smile.amazon.com/dp/1447145577), [4e](https://smile.amazon.com/dp/3540208798), [3e](https://smile.amazon.com/dp/3540578390))
 * Manin and Zilber, tr. Koblitz. *A Course in Mathematical Logic for Mathematicians* ([2e/2010](https://smile.amazon.com/dp/1461424798))
 * Blackburn, de Rijke, and Venema, *Modal Logic* ([1e](https://smile.amazon.com/dp/0521527147))
@@ -41,6 +47,8 @@ and also has a nice overview of less mainstream types of logics.
 * Goldblatt. *Topoi: The Categorial Analysis of Logic* ([Dover](https://smile.amazon.com/dp/0486450260))
 * Nederpelt and Geuvers. *Type Theory and Formal Proof: An Introduction* ([1e](https://smile.amazon.com/dp/110703650X))
 * Hindley. *Basic Simple Type Theory* ([1e](https://smile.amazon.com/dp/0521054222))
+* Schöning. *Logic for Computer Scientists*
+* Robbin. *Mathematical Logic: A First Course* ([Dover](https://smile.amazon.com/dp/048645018X))
 
 ### Course notes
 
