@@ -4,7 +4,7 @@
 
 ### Philosophical logic
 
-* Gensler, *Introduction to Logic*
+* Gensler, *Introduction to Logic* ([2e](https://smile.amazon.com/dp/0415996511), [1e](https://smile.amazon.com/dp/0415226759))
 
   This is a really nice first course in logic, which covers all the core material
 that you'd want to see in a first course, gives a tour of major philosophical applications of logic,
