@@ -73,6 +73,10 @@ and also has a nice overview of less mainstream types of logics.
 
 #### Logic course notes
 
+* Simpson: http://www.personal.psu.edu/t20/notes/
+
+  Mathematical Logic; Incompleteness and Undecidability; Foundations of Mathematics; Model Theory; Computability, Unsolvability, and Randomness; some "topics" courses.
+
 * Simmons and Schalk. *An introduction to lambda-calculi and arithmetic* http://www.cs.man.ac.uk/~hsimmons/BOOKS/lcalculus.pdf
 * Simmons. *An introduction to Good old fashioned model theory* (incomplete) http://www.cs.man.ac.uk/~hsimmons/BOOKS/ModelTheory.pdf
 * Simmons. *Basic Model Theory* http://www.cs.man.ac.uk/~hsimmons/MODEL-THEORY/model-theory.html
