@@ -13,12 +13,7 @@ that you'd want to see in a first course, gives a tour of major philosophical ap
 and also has a nice overview of less mainstream types of logics.
 
 * Copi and Cohen. *Introduction to Logic* ([12e](https://smile.amazon.com/dp/0131898345), [11e](https://smile.amazon.com/dp/0130337358))
-
-  A standard introduction to logic.
-
 * Hurley. *A Concise Introduction to Logic* ([10e](https://www.amazon.com/dp/0495503835), [9e](https://www.amazon.com/dp/0534585051))
-
-  Another standard introduction to logic.
 
 ### Mathematical logic
 
