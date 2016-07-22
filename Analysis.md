@@ -8,6 +8,9 @@
 These aren't actually analysis books, but in the math curriculum that's often where they get used, since intro to real analysis is often the place where math students start to write (and really have to understand) proofs.
 
 - Velleman, *How to Prove It* ([2e](https://smile.amazon.com/dp/0521675995/), [1e](https://smile.amazon.com/dp/0521446635/))
+
+  A series of blog posts discussing solutions to Velleman's exercises: http://technotes-himanshu.blogspot.co.uk/search/label/htpi
+
 - Solow, *How to Read and Do Proofs: An Introduction to Mathematical Thought Processes* ([6e](https://smile.amazon.com/dp/1118164024/), [5e](https://smile.amazon.com/dp/0470392169/), [4e](https://smile.amazon.com/dp/0471680583/))
 
 #### Introductory analysis
