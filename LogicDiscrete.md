@@ -2,6 +2,8 @@
 
 ## Logic
 
+A nice guide to studying logic: http://www.logicmatters.net/tyl/
+
 ### Philosophical logic
 
 * Gensler, *Introduction to Logic* ([2e](https://smile.amazon.com/dp/0415996511), [1e](https://smile.amazon.com/dp/0415226759))
