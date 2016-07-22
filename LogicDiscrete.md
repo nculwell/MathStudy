@@ -22,7 +22,6 @@ and also has a nice overview of less mainstream types of logics.
   Free online here: https://www.math.wisc.edu/~miller/res/book.pdf.
 
 * Enderton, *A Mathematical Introduction to Logic* ([2e](https://smile.amazon.com/dp/0122384520), [1e at AbeBooks](http://www.abebooks.com/products/isbn/9780122384509))
-* Mendelson, *Introduction to Mathematical Logic* ([6e](https://smile.amazon.com/dp/1482237725), [5e](https://smile.amazon.com/dp/1584888768))
 * Chiswell and Hodges. *Mathematical Logic* ([1e](https://smile.amazon.com/dp/0199215626))
 * Goldrei. *Propositional and Predicate Calculus: A Model of Argument* ([1e](https://smile.amazon.com/dp/1852339217))
 * Lover. *Elementary Logic: For Software Development* ([1e](https://smile.amazon.com/dp/1848000812))
@@ -36,6 +35,7 @@ and also has a nice overview of less mainstream types of logics.
 * Robbin. *Mathematical Logic: A First Course* ([Dover](https://smile.amazon.com/dp/048645018X))
 * Boolos, Burgess, Jeffrey. *Computability and Logic* ([5e](https://smile.amazon.com/dp/0521701465))
 * Shapiro. *Foundations without Foundationalism: A Case for Second-Order Logic* ([1e](https://smile.amazon.com/dp/0198250290))
+* Hedman. *A First Course in Logic: An Introduction to Model Theory, Proof Theory, Computability, and Complexity* ([1e](https://smile.amazon.com/dp/0198529813))
 
 #### Modal Logic
 
