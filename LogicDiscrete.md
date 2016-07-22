@@ -32,25 +32,46 @@ and also has a nice overview of less mainstream types of logics.
 * Tarski. *Introduction to logic* ([Dover 2e revised](https://smile.amazon.com/dp/048628462X), [4e [with Jan Tarski]](https://smile.amazon.com/dp/019504472X))
 * van Dalen, *Logic and Structure* ([5e](https://smile.amazon.com/dp/1447145577), [4e](https://smile.amazon.com/dp/3540208798), [3e](https://smile.amazon.com/dp/3540578390))
 * Manin and Zilber, tr. Koblitz. *A Course in Mathematical Logic for Mathematicians* ([2e/2010](https://smile.amazon.com/dp/1461424798))
+* Kleene. *Mathematical Logic* ([1e](https://smile.amazon.com/dp/0486425339))
+* Kleene. *Introduction to Metamathematics* ([1e](https://smile.amazon.com/dp/0923891579))
+* Schöning. *Logic for Computer Scientists*
+* Robbin. *Mathematical Logic: A First Course* ([Dover](https://smile.amazon.com/dp/048645018X))
+
+#### Modal Logic
+
 * Blackburn, de Rijke, and Venema, *Modal Logic* ([1e](https://smile.amazon.com/dp/0521527147))
 * van Benthem. *Modal Logic for Open Minds* ([1e](https://smile.amazon.com/dp/157586598X))
+
+#### Model Theory
+
+* Manzano. *Model Theory* ([1e](https://smile.amazon.com/dp/0198538510))
+* Chang and Keisler. *Model Theory* ([3e Dover](https://smile.amazon.com/dp/0486488217))
+* Hodges. *A Shorter Model Theory* ([1e](https://smile.amazon.com/dp/0521587131))
+* Hodges. *Model Theory* ([1e](https://smile.amazon.com/dp/0521066360))
+* Marker. *Model Theory: An Introduction* ([1e](https://smile.amazon.com/dp/0387987606))
+
+#### Proof Theory
+
+* Takeuti. *Proof Theory* ([2e Dover](https://smile.amazon.com/dp/0486490734))
+
+#### Topos Theory
+
+* Johnstone. *Topos Theory* ([Dover](https://smile.amazon.com/dp/0486493369))
+* Goldblatt. *Topoi: The Categorial Analysis of Logic* ([Dover](https://smile.amazon.com/dp/0486450260))
+
+#### Type Theory
+
+* Nederpelt and Geuvers. *Type Theory and Formal Proof: An Introduction* ([1e](https://smile.amazon.com/dp/110703650X))
+* Hindley. *Basic Simple Type Theory* ([1e](https://smile.amazon.com/dp/0521054222))
+
+#### Misc logic
+
 * Goldblatt, *Logics of Time and Computation* ([1e](https://smile.amazon.com/dp/0937073946))
 * Baier and Katoen, *Principles of Model Checking* ([1e](https://smile.amazon.com/dp/026202649X))
 * Harel, Kozen, Tiuryn, *Dynamic Logic* ([1e](https://smile.amazon.com/dp/0262527669))
 * Franzén, *Gödel's Theorem: An Incomplete Guide to Its Use and Abuse* ([1e](https://smile.amazon.com/dp/1568812388))
-* Manzano. *Model Theory* ([1e](https://smile.amazon.com/dp/0198538510))
-* Takeuti. *Proof Theory* ([2e Dover](https://smile.amazon.com/dp/0486490734))
-* Chang and Keisler. *Model Theory* ([3e Dover](https://smile.amazon.com/dp/0486488217))
-* Kleene. *Mathematical Logic* ([1e](https://smile.amazon.com/dp/0486425339))
-* Kleene. *Introduction to Metamathematics* ([1e](https://smile.amazon.com/dp/0923891579))
-* Johnstone. *Topos Theory* ([Dover](https://smile.amazon.com/dp/0486493369))
-* Goldblatt. *Topoi: The Categorial Analysis of Logic* ([Dover](https://smile.amazon.com/dp/0486450260))
-* Nederpelt and Geuvers. *Type Theory and Formal Proof: An Introduction* ([1e](https://smile.amazon.com/dp/110703650X))
-* Hindley. *Basic Simple Type Theory* ([1e](https://smile.amazon.com/dp/0521054222))
-* Schöning. *Logic for Computer Scientists*
-* Robbin. *Mathematical Logic: A First Course* ([Dover](https://smile.amazon.com/dp/048645018X))
 
-### Course notes
+#### Logic course notes
 
 * Simmons and Schalk. *An introduction to lambda-calculi and arithmetic* http://www.cs.man.ac.uk/~hsimmons/BOOKS/lcalculus.pdf
 * Simmons. *An introduction to Good old fashioned model theory* (incomplete) http://www.cs.man.ac.uk/~hsimmons/BOOKS/ModelTheory.pdf
