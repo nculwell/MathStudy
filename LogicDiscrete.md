@@ -16,7 +16,7 @@ and also has a nice overview of less mainstream types of logics.
 
   A standard introduction to logic.
 
-* Hurley. *A Concise Introduction to Logic* ([9e](https://www.amazon.com/dp/0534585051))
+* Hurley. *A Concise Introduction to Logic* ([10e](https://www.amazon.com/dp/0495503835), [9e](https://www.amazon.com/dp/0534585051))
 
   Another standard introduction to logic.
 
