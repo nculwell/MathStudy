@@ -39,8 +39,10 @@ and also has a nice overview of less mainstream types of logics.
 
 #### Modal Logic
 
-* Blackburn, de Rijke, and Venema, *Modal Logic* ([1e](https://smile.amazon.com/dp/0521527147))
+* Girle. *Modal Logics and Philosophy* ([2e](https://smile.amazon.com/dp/0773536531))
+* Blackburn, de Rijke, and Venema. *Modal Logic* ([1e](https://smile.amazon.com/dp/0521527147))
 * van Benthem. *Modal Logic for Open Minds* ([1e](https://smile.amazon.com/dp/157586598X))
+* Cocchiarella, Freund. *Modal Logic: An Introduction to its Syntax and Semantics* ([1e](https://smile.amazon.com/dp/0195366573))
 
 #### Model Theory
 
