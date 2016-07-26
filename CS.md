@@ -64,7 +64,11 @@ See also: [Logic and Discrete Math](LogicDiscrete.md)
 
 * Cutland, 1980. *Computability* ([1e](https://smile.amazon.com/dp/0521294657))
 
-  Seems to be the standard text on computability.
+  Seems to be the standard introduction to computability.
+
+* Rogers, 1987. *Theory of Recursive Functions and Effective Computability* ([1e](https://smile.amazon.com/dp/0262680521))
+
+  More in-depth computability.
 
 ### Complexity
 
