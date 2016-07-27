@@ -56,7 +56,7 @@ See the [Linear Algebra section](LinearAlgebra.md).
 * Wilson. *The Finite Simple Groups* ([1e](https://smile.amazon.com/dp/1848009879))
 * Lyndon, Schupp. *Combinatorial Group Theory* ([Dover](https://smile.amazon.com/dp/3540411585))
 
-### Representation theory (Lie groups)
+### Representation theory (Lie theory)
 
 * Tapp. *Matrix Groups for Undergraduates* ([2e](https://smile.amazon.com/dp/1470427222), [1e](https://smile.amazon.com/dp/0821837850))
 * Fulton and Harris. *Representation Theory: A First Course* ([1e](https://smile.amazon.com/dp/0387974954))
