@@ -39,6 +39,17 @@ See the [Linear Algebra section](LinearAlgebra.md).
 * Ash. *Abstract Algebra: The Basic Graduate Year* (with solutions) http://www.math.uiuc.edu/~r-ash/Algebra.html
 * Ash. *A Course in Algebraic Number Theory* (with solutions) http://www.math.uiuc.edu/~r-ash/ANT.html
 
+### Group theory
+
+* Carter. *Visual Group Theory* ([1e](https://smile.amazon.com/dp/088385757X))
+* Scott. *Group Theory* ([Dover](https://smile.amazon.com/dp/0486653773)) - Theorem-proof.
+* Rose. *A Course on Group Theory* ([Dover](https://smile.amazon.com/dp/0486681947)) - Covers the basics.
+* Lyndon, Schupp. *Combinatorial Group Theory* ([Dover](https://smile.amazon.com/dp/3540411585))
+* Rotman. *An Introduction to the Theory of Groups* ([4e](https://smile.amazon.com/dp/0387942858))
+* Humphreys. *A Course in Group Theory* ([1e](https://smile.amazon.com/dp/0198534590))
+* Dixon. *Problems in Group Theory* ([Dover](https://smile.amazon.com/dp/0486459160))
+* Isaacs. *Character Theory of Finite Groups* ([Dover](https://smile.amazon.com/dp/0486680142))
+
 ### Commutative algebra
 
 - Eisenbud, *Commutative Algebra: with a View Toward Algebraic Geometry* ([Springer paperback](https://smile.amazon.com/dp/0387942696/))
