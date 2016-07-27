@@ -172,11 +172,24 @@ These books are generally considered graduate level, and cover measure theory. (
 
 - Moise. *Introductory Problem Courses in Analysis and Topology* ([1e PB](https://smile.amazon.com/dp/0387907017))
 
+- Shakarchi. *Problems and Solutions for Undergraduate Analysis* ([1e](https://smile.amazon.com/dp/0387982353))
+  - Shakarchi. *Problems and Solutions for Complex Analysis* ([1e](https://smile.amazon.com/dp/0387988319))
+
+  All the exercises from Serge Lang's *Undergraduate Analysis* and *Complex Analysis* respectively, with solutions. These are apparently intended for use with Lang's textbooks, but since the problems are included I guess you could use them on their own as well. (Significant because they cost as much as the textbooks themselves.)
+
+- Volkovyskii, Lunts, Aramanovich. *A Collection of Problems on Complex Analysis*
+
 - Gelbaum. *Problems in Real and Complex Analysis* ([1e HC](https://smile.amazon.com/dp/038797766X))
 
 - Kirillov and Gvishiani. *Theorems and Problems in Functional Analysis* ([1e](https://smile.amazon.com/dp/038790638X))
 
+- Yeh. *Problems and Proofs in Real Analysis: Theory of Measure and Integration* ([1e](https://smile.amazon.com/gp/product/9814578509))
+
+  A graduate-level set of problems and solutions.
+
 - Furdui. *Limits, Series, and Fractional Part Integrals: Problems in Mathematical Analysis* ([1e](https://smile.amazon.com/dp/1461467616))
+
+- Aliprantis and Burkinshaw. *Problems in Real Analysis* ([2e](https://smile.amazon.com/dp/0120502534))
 
 - Kaczor and Nowak. *Problems in Mathematical Analysis* ([Vol I](https://smile.amazon.com/dp/0821820508); [Vol II](https://smile.amazon.com/dp/0821820516); [Vol III](https://smile.amazon.com/dp/0821832980))
 
