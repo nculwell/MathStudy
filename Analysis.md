@@ -178,6 +178,8 @@ These books are generally considered graduate level, and cover measure theory. (
 
 - Furdui. *Limits, Series, and Fractional Part Integrals: Problems in Mathematical Analysis* ([1e](https://smile.amazon.com/dp/1461467616))
 
+- Kaczor, Nowak. *Problems in Mathematical Analysis* ([Vol I](https://smile.amazon.com/dp/0821820508); [Vol II](https://smile.amazon.com/dp/0821820516); [Vol III](https://smile.amazon.com/dp/0821832980))
+
 - Gasinski and Papageorgiou.
   - *Exercises in Analysis: Part 1* ([1e](https://smile.amazon.com/dp/3319061755))
   - *Exercises in Analysis: Part 2: Nonlinear Analysis* ([1e](https://smile.amazon.com/dp/3319278150))
