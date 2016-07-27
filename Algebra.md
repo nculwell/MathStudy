@@ -56,6 +56,34 @@ See the [Linear Algebra section](LinearAlgebra.md).
 * Wilson. *The Finite Simple Groups* ([1e](https://smile.amazon.com/dp/1848009879))
 * Lyndon, Schupp. *Combinatorial Group Theory* ([Dover](https://smile.amazon.com/dp/3540411585))
 
+### Representation theory (Lie groups)
+
+* Fulton and Harris. *Representation Theory: A First Course* ([1e](https://smile.amazon.com/dp/0387974954))
+* Humphreys. *Introduction to Lie Algebras and Representation Theory* ([1e](https://smile.amazon.com/dp/0387900535))
+* Serre. *Linear Representations of Finite Groups* ([1e](https://smile.amazon.com/dp/0387901906))
+* Procesi. *Lie Groups: An Approach through Invariants and Representations* ([1e](https://smile.amazon.com/dp/0387260404))
+
+Foundations of Differentiable Manifolds and Lie Groups (Graduate Texts in Mathematics) (v. 94) 
+by Frank W. Warner  (Author
+https://smile.amazon.com/Foundations-Differentiable-Manifolds-Graduate-Mathematics/dp/0387908943/ref=wl_mb_wl_huc_mrai_2_dp
+
+Naive Lie Theory (Undergraduate Texts in Mathematics) 2008th Edition
+by John Stillwell  (Author
+https://smile.amazon.com/Naive-Theory-Undergraduate-Texts-Mathematics/dp/0387782141
+
+Matrix Groups for Undergraduates (Student Mathematical Library,) 
+by Kristopher Tapp  (Author
+https://smile.amazon.com/Matrix-Undergraduates-Student-Mathematical-Library/dp/0821837850
+
+Lie Groups: Beyond an Introduction 2nd Edition
+by Anthony W. Knapp  (Author
+2e https://smile.amazon.com/dp/0817642595
+
+Symmetry, Representations, and Invariants (Graduate Texts in Mathematics) 2009th Edition
+by Roe Goodman  (Author), Nolan R. Wallach (Author
+https://smile.amazon.com/dp/038779851X
+
+
 ### Commutative algebra
 
 - Eisenbud, *Commutative Algebra: with a View Toward Algebraic Geometry* ([Springer paperback](https://smile.amazon.com/dp/0387942696/))
