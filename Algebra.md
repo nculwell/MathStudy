@@ -67,6 +67,8 @@ See the [Linear Algebra section](LinearAlgebra.md).
 * Stillwell. *Naive Lie Theory* ([1e](https://smile.amazon.com/dp/0387782141))
 * Knapp. *Lie Groups: Beyond an Introduction* ([2e](https://smile.amazon.com/dp/0817642595))
 * Goodman and Wallach. *Symmetry, Representations, and Invariants* ([1e](https://smile.amazon.com/dp/038779851X))
+* Pollatsek. *Lie Groups: A Problem Oriented Introduction via Matrix Groups* ([1e](https://smile.amazon.com/dp/0883857596))
+* Jacobson. *Lie Algebras* ([Dover](https://smile.amazon.com/dp/0486638324))
 
 ### Commutative algebra
 
