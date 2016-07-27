@@ -253,6 +253,8 @@ See also: [Differential Geometry](https://github.com/nculwell/MathStudy/blob/mas
 
   Contain solutions. Author's page: http://www.math.uiuc.edu/~r-ash/CV.html
 
+- Markushevich. *Theory of Functions of a Complex Variable ([AMS Chelsea revised English edition](https://smile.amazon.com/dp/082183780X))
+
 ### Functional Analysis
 - Stein and Shakarchi, *Functional Analysis: Introduction to Further Topics in Analysis* ([1e](https://smile.amazon.com/dp/0691113874))
 - Akhiezer and Glazman, *Theory of Linear Operators in Hilbert Space* ([Dover](https://smile.amazon.com/dp/0486677486/))
