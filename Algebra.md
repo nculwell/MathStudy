@@ -33,6 +33,10 @@ See the [Linear Algebra section](LinearAlgebra.md).
 - Lang, *Algebra* ([3e](https://smile.amazon.com/dp/038795385X/))
 - Hungerford, *Algebra* ([Springer hardcover](https://smile.amazon.com/dp/0387905189/))
 
+### Other books
+
+* Beachy. *Abstract Algebra: Study Guide* ([1e](https://smile.amazon.com/dp/1493574116)) - Contains problems with solutions.
+
 ### Free resources
 
 * J. S. Milne, course notes: http://www.jmilne.org/math/CourseNotes/index.html
@@ -42,13 +46,15 @@ See the [Linear Algebra section](LinearAlgebra.md).
 ### Group theory
 
 * Carter. *Visual Group Theory* ([1e](https://smile.amazon.com/dp/088385757X))
-* Scott. *Group Theory* ([Dover](https://smile.amazon.com/dp/0486653773)) - Theorem-proof.
 * Rose. *A Course on Group Theory* ([Dover](https://smile.amazon.com/dp/0486681947)) - Covers the basics.
-* Lyndon, Schupp. *Combinatorial Group Theory* ([Dover](https://smile.amazon.com/dp/3540411585))
 * Rotman. *An Introduction to the Theory of Groups* ([4e](https://smile.amazon.com/dp/0387942858))
+* Scott. *Group Theory* ([Dover](https://smile.amazon.com/dp/0486653773)) - Theorem-proof.
+* Robinson. *A Course in the Theory of Groups* ([2e](https://smile.amazon.com/dp/0387944613)) - A solid second course in group theory.
 * Humphreys. *A Course in Group Theory* ([1e](https://smile.amazon.com/dp/0198534590))
 * Dixon. *Problems in Group Theory* ([Dover](https://smile.amazon.com/dp/0486459160))
 * Isaacs. *Character Theory of Finite Groups* ([Dover](https://smile.amazon.com/dp/0486680142))
+* Wilson. *The Finite Simple Groups* ([1e](https://smile.amazon.com/dp/1848009879))
+* Lyndon, Schupp. *Combinatorial Group Theory* ([Dover](https://smile.amazon.com/dp/3540411585))
 
 ### Commutative algebra
 
