@@ -172,7 +172,7 @@ These books are generally considered graduate level, and cover measure theory. (
 
 - Moise. *Introductory Problem Courses in Analysis and Topology* ([1e PB](https://smile.amazon.com/dp/0387907017))
 
-- Gelbaum. *Problems in Real and Complex Analysis* ([1e HC](https://smile.amazon.com/dp/038797766X)
+- Gelbaum. *Problems in Real and Complex Analysis* ([1e HC](https://smile.amazon.com/dp/038797766X))
 
 - Kirillov and Gvishiani. *Theorems and Problems in Functional Analysis* ([1e](https://smile.amazon.com/dp/038790638X))
 
@@ -244,7 +244,7 @@ See also: [Differential Geometry](https://github.com/nculwell/MathStudy/blob/mas
 - Stein and Shakarchi, *Functional Analysis: Introduction to Further Topics in Analysis* ([1e](https://smile.amazon.com/dp/0691113874))
 - Akhiezer and Glazman, *Theory of Linear Operators in Hilbert Space* ([Dover](https://smile.amazon.com/dp/0486677486/))
 - Griffel, *Applied Functional Analysis* ([Dover](https://smile.amazon.com/dp/0486422585))
-- Shilov, *Elementary Functional Analysis* ([Dover](https://smile.amazon.com/dp/0486689239/)
+- Shilov, *Elementary Functional Analysis* ([Dover](https://smile.amazon.com/dp/0486689239/))
 - Rudin, *Functional Analysis* ([McGraw-Hill intl @AbeBooks](http://www.abebooks.com/products/isbn/9780070619883))
 - Halmos, *Introduction to Hilbert Space and the Theory of Spectral Multiplicity* ([Martino](https://smile.amazon.com/dp/1614274711))
 - Halmos, *A Hilbert Space Problem Book* ([2e](https://smile.amazon.com/dp/0387906851))
