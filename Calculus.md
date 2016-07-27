@@ -161,6 +161,7 @@ It may be that the problems in whatever textbook you're using don't give you as 
 - Kelley, *The Humongous Book of Calculus Problems* (c)
 - Bluman, *Problem Book for First Year Calculus*
 - Jones, *Calculus: 1,001 Practice Problems For Dummies* ([1e](https://smile.amazon.com/dp/111849671X)) -- By PatrickJMT of YouTube fame.
+- REA. *The Calculus Problem Solver* ([Unspecified edition](https://smile.amazon.com/dp/0878915052))
 
 John Erdman of Portland State University has posted a number of free problem books as PDFs on his website (answers to odd-numbered exercises given): http://web.pdx.edu/~erdman/
 
