@@ -62,6 +62,9 @@ I put this book in its own category because it's a bit unique in its appeal. It 
 ## Problems
 
 - Erdman. *Exercises and Problems in Linear Algebra* http://web.pdx.edu/~erdman/LINALG/Linalg_licensepage.html
+- Zhang. *Linear Algebra: Challenging Problems for Students* ([1e](https://smile.amazon.com/dp/0801854598))
+- Lipschutz. *3,000 Solved Problems in Linear Algebra* ([1e](https://smile.amazon.com/dp/0070380236))
+- Halmos. *Linear Algebra Problem Book* ([1e](https://smile.amazon.com/dp/0883853221))
 
 ## Advanced linear algebra (beyond a first course)
 
