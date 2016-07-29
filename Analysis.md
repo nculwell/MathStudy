@@ -264,6 +264,7 @@ See also: [Differential Geometry](https://github.com/nculwell/MathStudy/blob/mas
 - Halmos, *Introduction to Hilbert Space and the Theory of Spectral Multiplicity* ([Martino](https://smile.amazon.com/dp/1614274711))
 - Halmos, *A Hilbert Space Problem Book* ([2e](https://smile.amazon.com/dp/0387906851))
 - Erdman. *Functional Analysis and Operator Algebras: An Introduction* http://web.pdx.edu/~erdman/FAOA/functional_analysis_operator_algebras_pdf.pdf
+- Aliprantis and Border. *Infinite Dimensional Analysis: A Hitchhiker's Guide* ([3e](https://smile.amazon.com/dp/3540326960))
 
 ### Dynamical systems
 
