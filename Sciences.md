@@ -174,12 +174,14 @@ There are math books written for physicists.
 - Arfken et al. *Mathematical Methods for Physicists: A Comprehensive Guide* ([7e](https://smile.amazon.com/dp/0123846544), [7e intl @AbeBooks](http://www.abebooks.com/products/isbn/9789381269558), [6e](https://smile.amazon.com/dp/0120598760), [4e @AbeBooks](http://www.abebooks.com/products/isbn/9780120598151), [3e @AbeBooks](http://www.abebooks.com/products/isbn/9780120598205))
 - Lebedev, *Special Functions & Their Applications*
 - Lanczos, *The Variational Principles of Mechanics* ([4e Dover](https://smile.amazon.com/dp/0486650677))
-- Hildebrand, *Methods of Applied Mathematics* ([2e Dover](https://smile.amazon.com/dp/0486670023)) (Matrices, calculus of variations integral equations. Lots of difficult problems)
+- Hildebrand, *Methods of Applied Mathematics* ([2e Dover](https://smile.amazon.com/dp/0486670023)) (Matrices, calculus of variations integral equations. Lots of difficult problems.)
 - Tikhonov and Samarskii. *Equations of Mathematical Physics* ([Dover](https://smile.amazon.com/Equations-Mathematical-Physics-Dover-Books/dp/0486664228))
 - Budak, Samarskii, Tikhonov. *A Collection of Problems in Mathematical Physics* ([Dover](https://smile.amazon.com/dp/0486658066))
 - Lebedev. *Worked Problems in Applied Mathematics* ([1e](https://smile.amazon.com/dp/0486637301))
 - Rudolph and Schmidt. *Differential Geometry and Mathematical Physics: Part I. Manifolds, Lie Groups and Hamiltonian Systems* ([1e](https://smile.amazon.com/dp/9400753446))
 - Inui, Tanabe, Onodera. *Group Theory and Its Applications in Physics* ([1e](https://smile.amazon.com/dp/3540604456))
+- Hamermesh. *Group Theory and Its Application to Physical Problems* ([Dover](https://smile.amazon.com/gp/product/0486661814)) (The original on this subject. Probably not the best one around these days but it's cheap.)
+- Gilmore. *Lie Groups, Lie Algebras, and Some of Their Applications* ([Dover](https://smile.amazon.com/dp/0486445291))
 
 #### Engineering mathematics
 
