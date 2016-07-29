@@ -26,6 +26,10 @@
 
   A colorful "modern textbook" approach to linear algebra. Don't bother with the 4th Edition, as it's very expensive and largely the same as the Third Edition.
 
+- Singh. *Linear Algebra: Step by Step* ([1e](https://smile.amazon.com/dp/0199654441))
+
+  A recent book. Looks like it has a lot of good diagrams (which are often lacking in older textbooks).
+
 - Meyer. *Matrix Analysis and Applied Linear Algebra Book and Solutions Manual*
 
   A good book, but expensive. This used to be available online for free, but the author took it down due to unspecified abuses of the license agreement.
