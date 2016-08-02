@@ -46,7 +46,7 @@ These are texts in the old style, aimed at mathematicians. Some of them are olde
 
   A Russian approach to linear algebra. Like many Russian textbooks, it jumps right in and makes no attempt to hold your hand. Even though the content may be appropriate for first-time learners, many students in the US won't be prepared for a book like this when they start LA. Also tends toward the abstract and doesn't cover the SVD. Includes hints and solutions for exercises.
 
-- Friedberg, Insel, Spence. *Linear Algebra* ([4e](https://smile.amazon.com/Linear-Algebra-4th-Stephen-Friedberg/dp/0130084514/), [4e intl](https://smile.amazon.com/Linear-Algebra-Lawrence-Stephen-Friedberg/dp/9332549648/), [3e](https://smile.amazon.com/Linear-Algebra-3rd-Stephen-Friedberg/dp/0132338599/))
+- Friedberg, Insel, Spence. *Linear Algebra* ([4e](https://smile.amazon.com/dp/0130084514/), [4e intl](https://smile.amazon.com/dp/9332549648/), [3e](https://smile.amazon.com/dp/0132338599/))
 
 - Treil. *Linear Algebra Done Wrong*
 
@@ -91,11 +91,15 @@ Most of these will probably be more accessible to someone who has read one of th
 
   This is a grad-level abstract linear algebra text by *Peter Lax*, not the introductory book by *David Lay*! The "applications" here are the pure mathematician's idea of a "application", which means applying the theory to a problem in mathematics, not applying mathematics to the real world.
 
-- Roman. *Advanced Linear Algebra* ([3e](https://smile.amazon.com/Advanced-Linear-Algebra-Graduate-Mathematics/dp/0387728287/), [AbeBooks](http://www.abebooks.com/servlet/SearchResults?an=Roman&bi=0&bx=off&ds=20&recentlyadded=all&sortby=17&sts=t&tn=Advanced+Linear+Algebra))
+- Roman. *Advanced Linear Algebra* ([3e](https://smile.amazon.com/Advanced-Linear-Algebra-Graduate-Mathematics/dp/0387728287/), [3e intl at AbeBooks](http://www.abebooks.com/products/isbn/9788132202974))
 
-  Another grad-level abstract linear algebra book. In spirit it is similar to Axler's *Linear Algebra Done Right*, but from a more advanced perspective. (There is an international edition of this, I probably got in from AbeBooks.)
+  Another grad-level abstract linear algebra book. In spirit it is similar to Axler's *Linear Algebra Done Right*, but from a more advanced perspective.
 
 - Gantmacher. *Applications of the Theory of Matrices* ([Dover ed](https://smile.amazon.com/dp/0486445542/))
+
+- Loehr. *Advanced Linear Algebra* ([1e](https://smile.amazon.com/dp/1466559012))
+
+  Explores linear algebra in conjunction with many topics in algebra and some in analysis.
 
 - Lang. *Linear Algebra* ([3e](https://smile.amazon.com/Linear-Algebra-Undergraduate-Texts-Mathematics/dp/0387964126/))
 
