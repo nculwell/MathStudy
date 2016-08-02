@@ -48,6 +48,8 @@ These are texts in the old style, aimed at mathematicians. Some of them are olde
 
 - Friedberg, Insel, Spence. *Linear Algebra* ([4e](https://smile.amazon.com/dp/0130084514/), [4e intl](https://smile.amazon.com/dp/9332549648/), [3e](https://smile.amazon.com/dp/0132338599/))
 
+- Lang. *Linear Algebra* ([3e](https://smile.amazon.com/dp/0387964126/), [Solutions](https://smile.amazon.com/dp/0387947604))
+
 - Treil. *Linear Algebra Done Wrong*
 
   The title is a play on Axler's *Linear Algebra Done Right*. Free online at the author's page:
@@ -63,7 +65,7 @@ Some calculus books include an introduction to linear algebra. Among these are A
 
 I put this book in its own category because it's a bit unique in its appeal. It fills a need that is particular to the current mathematics curriculum. The ordinary intro books these days do not cover enough advanced material for students to comfortably go directly on to the more advanced books listed below. What's more, many students don't have enough exposure to reading and writing proofs yet. Axler's book serves as both a course in abstract linear algebra that covers the essential topics, and a course in proof-reading and proof-writing. However, its contents might be superfluous for someone who started using one of the more thorough introductory books such as Hoffman and Kunze or Shilov.
 
-- Axler. *Linear Algebra Done Right* ([3e](https://smile.amazon.com/Linear-Algebra-Right-Undergraduate-Mathematics/dp/3319110799/), [2e](https://smile.amazon.com/Linear-Algebra-Right-Undergraduate-Mathematics/dp/0387982582/),  [ERRATA](http://linear.axler.net/))
+- Axler. *Linear Algebra Done Right* ([3e](https://smile.amazon.com/dp/3319110799/), [2e](https://smile.amazon.com/dp/0387982582/),  [ERRATA](http://linear.axler.net/))
 
   An outstanding introduction to an *abstract* approach to linear algebra. This book is all about proofs, you won't find calculations here. It is intended as a second course in linear algebra, to follow a more computation-oriented course, and I agree that this is its best use. You *could* start LA here, but you'd end up having read a whole book and still not knowing how to solve a linear equation. One of the distinctive things about Axler's approach is that he introduces the theory of eigenvalues without using determinants (preferring instead to use the fundamental theorem of algebra). Determinants are then introduced in the last chapter. Also, the quality of the Third Edition hardcover is supposedly really nice.
 
@@ -79,19 +81,19 @@ I put this book in its own category because it's a bit unique in its appeal. It 
 
 Most of these will probably be more accessible to someone who has read one of the above intro books, *and* Axler's *Linear Algebra Done Right*.
 
-- Halmos. *Finite-Dimensional Vector Spaces* ([Martino ed](https://smile.amazon.com/Finite-Dimensional-Vector-Spaces-Halmos/dp/1614272816/), [Benediction ed](https://smile.amazon.com/Finite-Dimensional-Vector-Spaces-Paul-Halmos/dp/178139573X/), [Springer hardcover (OOP)](https://smile.amazon.com/Finite-Dimensional-Vector-Spaces-P-R-Halmos/dp/B004HOYQX2/))
+- Halmos. *Finite-Dimensional Vector Spaces* ([Martino ed](https://smile.amazon.com/dp/1614272816/), [Benediction ed](https://smile.amazon.com/dp/178139573X/), [Springer hardcover (OOP)](https://smile.amazon.com/dp/B004HOYQX2/))
 
   This is another abstract approach to LA that emphasizes connections to analysis and intends to prepare the student for a course in functional analysis. Interesting problems and a colorful exposition. Martino Fine Books has a good reputation for their physical product, but I don't know anything about the physical quality of the Benediction Classics edition. (My own copy is the old Springer hardcover.)
 
-- Horn and Johnson. *Matrix Analysis* ([2e](https://smile.amazon.com/Matrix-Analysis-Roger-Horn/dp/0521548233/), [1e](https://smile.amazon.com/Matrix-Analysis-Roger-Horn/dp/0521386322/))
+- Horn and Johnson. *Matrix Analysis* ([2e](https://smile.amazon.com/dp/0521548233/), [1e](https://smile.amazon.com/Matrix-Analysis-Roger-Horn/dp/0521386322/))
 
-- Horn and Johnson. *Topics in Matrix Analysis* ([1e](https://smile.amazon.com/Topics-Matrix-Analysis-Roger-Horn/dp/052130587X/))
+- Horn and Johnson. *Topics in Matrix Analysis* ([1e](https://smile.amazon.com/dp/052130587X/))
 
-- Lax. *Linear Algebra and Its Applications* ([2e](https://smile.amazon.com/Linear-Algebra-Its-Applications-Peter/dp/0471751561/))
+- Lax. *Linear Algebra and Its Applications* ([2e](https://smile.amazon.com/dp/0471751561/))
 
   This is a grad-level abstract linear algebra text by *Peter Lax*, not the introductory book by *David Lay*! The "applications" here are the pure mathematician's idea of a "application", which means applying the theory to a problem in mathematics, not applying mathematics to the real world.
 
-- Roman. *Advanced Linear Algebra* ([3e](https://smile.amazon.com/Advanced-Linear-Algebra-Graduate-Mathematics/dp/0387728287/), [3e intl at AbeBooks](http://www.abebooks.com/products/isbn/9788132202974))
+- Roman. *Advanced Linear Algebra* ([3e](https://smile.amazon.com/dp/0387728287/), [3e intl at AbeBooks](http://www.abebooks.com/products/isbn/9788132202974))
 
   Another grad-level abstract linear algebra book. In spirit it is similar to Axler's *Linear Algebra Done Right*, but from a more advanced perspective.
 
@@ -101,9 +103,7 @@ Most of these will probably be more accessible to someone who has read one of th
 
   Explores linear algebra in conjunction with many topics in algebra and some in analysis.
 
-- Lang. *Linear Algebra* ([3e](https://smile.amazon.com/Linear-Algebra-Undergraduate-Texts-Mathematics/dp/0387964126/))
-
-- Franklin. *Matrix Theory* ([Dover ed](https://smile.amazon.com/Matrix-Theory-Dover-Books-Mathematics/dp/0486411796/))
+- Franklin. *Matrix Theory* ([Dover ed](https://smile.amazon.com/dp/0486411796/))
 
   A physics-oriented overview of matrix theory, followed by a chapter on physics applications and a chapter on numerical methods.
 
