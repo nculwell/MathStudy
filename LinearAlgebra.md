@@ -2,6 +2,8 @@
 
 ## Introductions
 
+### Applied focus
+
 - Strang. *Introduction to Linear Algebra* (with OCW lectures) ([4e](https://smile.amazon.com/dp/0980232716/))
 
   The latest incarnation of Gilbert Strang's linear algebra textbook. I haven't seen this one myself, but it goes with his highly-regarded online LA course. It is reportedly somewhat more elementary than his older *Linear Algebra and its Applications*.
@@ -16,7 +18,7 @@
 
 - Beezer. *A First Course in Linear Algebra* ([**FREE ONLINE**](http://linear.ups.edu/))
 
-  Another free (GFDL) linear algebra textbook, by Robert Beezer of University of Puget Sound.
+  Another free (GFDL) linear algebra textbook, by Robert Beezer of University of Puget Sound. A bit peculiar in that Beezer has chosen to replace all numeric chapter, section and theorem references with alphabetic abbrevations. This looks odd at first, but I suspect once you get used to it it's superior to using numbers (which have no meaning). Also, he has given every theorem a name, which is a welcome change from proofs full of references to "Theorem 4.2.3".
 
 - Klein. *Coding the Matrix* (With Brown/Coursera course; great course but not much use as a stand-alone text. Also, it's not required for the course.)
 
@@ -34,7 +36,11 @@
 
   A good book, but expensive. This used to be available online for free, but the author took it down due to unspecified abuses of the license agreement.
 
-- Friedberg, Insel, Spence. *Linear Algebra* ([4e](https://smile.amazon.com/Linear-Algebra-4th-Stephen-Friedberg/dp/0130084514/), [4e intl](https://smile.amazon.com/Linear-Algebra-Lawrence-Stephen-Friedberg/dp/9332549648/), [3e](https://smile.amazon.com/Linear-Algebra-3rd-Stephen-Friedberg/dp/0132338599/))
+- Andreescu. *Essential Linear Algebra with Applications: A Problem-Solving Approach* ([1e](https://smile.amazon.com/dp/0817643605))
+
+### Abstract focus
+
+These are texts in the old style, aimed at mathematicians. Some of them are older texts that have stood the test of time.
 
 - Hoffman and Kunze. *Linear Algebra* ([2e](https://smile.amazon.com/dp/0135367972/), [2e intl ed](https://smile.amazon.com/Linear-Algebra-2nd-Hoffman-Kunze/dp/8120302702/))
 
@@ -44,7 +50,7 @@
 
   A Russian approach to linear algebra. Like many Russian textbooks, it jumps right in and makes no attempt to hold your hand. Even though the content may be appropriate for first-time learners, many students in the US won't be prepared for a book like this when they start LA. Also tends toward the abstract and doesn't cover the SVD. Includes hints and solutions for exercises.
 
-- Andreescu. *Essential Linear Algebra with Applications: A Problem-Solving Approach* ([1e](https://smile.amazon.com/dp/0817643605))
+- Friedberg, Insel, Spence. *Linear Algebra* ([4e](https://smile.amazon.com/Linear-Algebra-4th-Stephen-Friedberg/dp/0130084514/), [4e intl](https://smile.amazon.com/Linear-Algebra-Lawrence-Stephen-Friedberg/dp/9332549648/), [3e](https://smile.amazon.com/Linear-Algebra-3rd-Stephen-Friedberg/dp/0132338599/))
 
 - Treil. *Linear Algebra Done Wrong*
 
@@ -53,7 +59,7 @@
 
 Many people also favor the Schaum's Outline for linear algebra as well as Schaum's *3,000 Solved Problems in Linear Algebra*.
 
-Some calculus books include an introduction to linear algebra. Among these are Apostol's *Calculus* and Hubbard and Hubbard's *Vector Calculus*.
+Some calculus books include an introduction to linear algebra. Among these are Apostol's *Calculus* and Hubbard and Hubbard's *Vector Calculus*. (Most calculus books include *some* introduction to linear algebra but it's usually cursory.)
 
 ## Axler
 
