@@ -16,10 +16,6 @@
 
   Jim Hefferon wrote this free (GFDL/CC BY-SA 2.5) linear algebra text [http://joshua.smcvt.edu/linearalgebra/] which is available as a PDF file or as Latex source. It has exercises with worked answers.
 
-- Beezer. *A First Course in Linear Algebra* ([**FREE ONLINE**](http://linear.ups.edu/))
-
-  Another free (GFDL) linear algebra textbook, by Robert Beezer of University of Puget Sound. A bit peculiar in that Beezer has chosen to replace all numeric chapter, section and theorem references with alphabetic abbrevations. This looks odd at first, but I suspect once you get used to it it's superior to using numbers (which have no meaning). Also, he has given every theorem a name, which is a welcome change from proofs full of references to "Theorem 4.2.3".
-
 - Klein. *Coding the Matrix* (With Brown/Coursera course; great course but not much use as a stand-alone text. Also, it's not required for the course.)
 
 - Lay. *Linear Algebra and Its Applications* ([3e upd](https://smile.amazon.com/Linear-Algebra-Applications-Updated-CD-ROM/dp/0321287134/), [4e](https://smile.amazon.com/Linear-Algebra-Its-Applications-4th/dp/0321385179/), [5e](https://smile.amazon.com/Linear-Algebra-Its-Applications-5th/dp/032198238X/))
@@ -57,7 +53,9 @@ These are texts in the old style, aimed at mathematicians. Some of them are olde
   The title is a play on Axler's *Linear Algebra Done Right*. Free online at the author's page:
   https://www.math.brown.edu/~treil/papers/LADW/LADW.html
 
-Many people also favor the Schaum's Outline for linear algebra as well as Schaum's *3,000 Solved Problems in Linear Algebra*.
+- Beezer. *A First Course in Linear Algebra* ([**FREE ONLINE**](http://linear.ups.edu/))
+
+  Another free (GFDL) linear algebra textbook, by Robert Beezer of University of Puget Sound. There are many experimental aspects in this book, including its style of "numbering" (everything is referred to by alphabetic abbreviations instead of numbers) and its web-oriented organization. I have no idea how this would work as a text but it seems intriguing as a companion to a more traditional text. (If you're going the free route, Hefferon would probably make a good companion.)
 
 Some calculus books include an introduction to linear algebra. Among these are Apostol's *Calculus* and Hubbard and Hubbard's *Vector Calculus*. (Most calculus books include *some* introduction to linear algebra but it's usually cursory.)
 
@@ -73,7 +71,8 @@ I put this book in its own category because it's a bit unique in its appeal. It 
 
 - Erdman. *Exercises and Problems in Linear Algebra* http://web.pdx.edu/~erdman/LINALG/Linalg_licensepage.html
 - Zhang. *Linear Algebra: Challenging Problems for Students* ([1e](https://smile.amazon.com/dp/0801854598))
-- Lipschutz. *3,000 Solved Problems in Linear Algebra* ([1e](https://smile.amazon.com/dp/0070380236))
+- Lipschutz. Schaum's *3,000 Solved Problems in Linear Algebra* ([1e](https://smile.amazon.com/dp/0070380236))
+- Lipschutz and Lipson. *Schaum's Outline of Linear Algebra* ([5e](https://smile.amazon.com/dp/0071794565), [4e](https://smile.amazon.com/dp/007154352X))
 - Halmos. *Linear Algebra Problem Book* ([1e](https://smile.amazon.com/dp/0883853221))
 
 ## Advanced linear algebra (beyond a first course)
