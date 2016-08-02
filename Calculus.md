@@ -195,6 +195,7 @@ This site has links to lots of other sites with problem sets and practice exams:
 - Logan, *Applied Partial Differential Equations* ([3e](https://smile.amazon.com/dp/3319124927), [2e](https://smile.amazon.com/dp/0387209530))
 - John, *Partial Differential Equations* ([4e](https://smile.amazon.com/dp/0387906096))
 - Bleecker and Csordas, *Basic Partial Differential Equations* ([1e](https://smile.amazon.com/dp/1571460365))
+- Zachmanoglou and Thoe. *Introduction to Partial Differential Equations with Applications* ([Dover](https://smile.amazon.com/dp/0486652513))
 
 #### Advanced (more prequisites)
 
