@@ -74,6 +74,7 @@ There are various English-language editions of Euclid available at archive.org; 
 ## Differential Geometry
 
 - Pressley. *Elementary Differential Geometry* ([2e/2010](https://smile.amazon.com/dp/184882890X))
+- Guillemin and Pollack. *Differential Topology* ([AMS Chelsea](https://smile.amazon.com/dp/0821851934))
 - Millman and Parker. *Elements of Differential Geometry* ([1e](https://smile.amazon.com/dp/0132641437))
 - O'Neill. *Elementary Differential Geometry* ([2e](https://smile.amazon.com/dp/0120887355))
 - Milnor. *Topology from the Differentiable Viewpoint* ([PUP revised](https://smile.amazon.com/dp/0691048339))
