@@ -94,10 +94,12 @@ There are various English-language editions of Euclid available at archive.org; 
 
 ## Algebraic Topology
 
-- Hatcher, *Algebraic Topology* (f) ([CUP Paperback](https://smile.amazon.com/dp/0521795400/), [**FREE ONLINE**](https://www.math.cornell.edu/~hatcher/AT/ATpage.html))
-- Bredon, *Topology and Geometry* ([1e](https://smile.amazon.com/Topology-Geometry-Graduate-Texts-Mathematics/dp/0387979263/))
-- Rotman, *An Introduction to Algebraic Topology* ([1e](https://smile.amazon.com/dp/0387966781/))
-- Fulton, *Algebraic Topology: A First Course* ([1e](https://smile.amazon.com/dp/0387943277/))
+- Hatcher. *Algebraic Topology* (f) ([CUP Paperback](https://smile.amazon.com/dp/0521795400/), [**FREE ONLINE**](https://www.math.cornell.edu/~hatcher/AT/ATpage.html))
+- Bredon. *Topology and Geometry* ([1e](https://smile.amazon.com/Topology-Geometry-Graduate-Texts-Mathematics/dp/0387979263/))
+- Rotman. *An Introduction to Algebraic Topology* ([1e](https://smile.amazon.com/dp/0387966781/))
+- Fulton. *Algebraic Topology: A First Course* ([1e](https://smile.amazon.com/dp/0387943277/))
+- May. *A Concise Course in Algebraic Topology* ([1e](https://smile.amazon.com/dp/0226511839))
+- May and Ponto. *More Concise Algebraic Topology: Localization, Completion, and Model Categories* ([1e](https://smile.amazon.com/dp/0226511782))
 
 ## Applied and Computational Topology
 
