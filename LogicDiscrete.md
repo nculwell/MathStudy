@@ -157,13 +157,15 @@ Typical topics are: logic and proof, set theory, functions, introduction to algo
 
 * Martin. *Counting: The Art of Enumerative Combinatorics* ([1e](https://smile.amazon.com/dp/038795225X))
 
-* Wilf. *generatingfunctionology* ([**2e FREE ONLINE**](https://www.math.upenn.edu/~wilf/DownldGF.html) [3e](https://smile.amazon.com/generatingfunctionology-Third-Herbert-S-Wilf/dp/1568812795/))
-
 * Chen and Koh. *Principles and Techniques in Combinatorics* ([1e](https://smile.amazon.com/dp/9810211392))
 
 * Bogart. [*Combinatorics Through Guided Discovery*](https://math.dartmouth.edu/news-resources/electronic/kpbogart/)
 
+* Wilf. *generatingfunctionology* ([**2e FREE ONLINE**](https://www.math.upenn.edu/~wilf/DownldGF.html) [3e](https://smile.amazon.com/generatingfunctionology-Third-Herbert-S-Wilf/dp/1568812795/))
+
 * Stanley. *Enumerative Combinatorics* ([Vol I, 2e](https://smile.amazon.com/dp/1107602629), [Vol II, 1e](https://smile.amazon.com/dp/B00HMUGS4S))
+
+* Cameron. *Combinatorics: Topics, Techniques, Algorithms* ([1e](https://smile.amazon.com/dp/0521457610))
 
 * Trudeau. *Introduction to Graph Theory* ([Dover](https://smile.amazon.com/dp/0486678709))
 
@@ -194,7 +196,5 @@ Typical topics are: logic and proof, set theory, functions, introduction to algo
 * Stanley. *Catalan Numbers* ([1e](https://smile.amazon.com/dp/1107427746))
 
 * Aigner. *A Course in Enumeration* ([1e](https://smile.amazon.com/dp/3540390324))
-
-* Cameron. *Combinatorics: Topics, Techniques, Algorithms* ([1e](https://smile.amazon.com/dp/0521457610))
 
 See also: [random matrix theory](https://github.com/nculwell/MathStudy/blob/master/LinearAlgebra.md#random-matrix-theory)
