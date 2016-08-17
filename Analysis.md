@@ -255,6 +255,8 @@ See also: [Differential Geometry](https://github.com/nculwell/MathStudy/blob/mas
 
 - Markushevich. *Theory of Functions of a Complex Variable ([AMS Chelsea revised English edition](https://smile.amazon.com/dp/082183780X))
 
+- Ablowitz and Fokas. *Complex Variables: Introduction and Applications* ([2e](https://smile.amazon.com/dp/0521534291))
+
 ### Functional Analysis
 - Stein and Shakarchi, *Functional Analysis: Introduction to Further Topics in Analysis* ([1e](https://smile.amazon.com/dp/0691113874))
 - Akhiezer and Glazman, *Theory of Linear Operators in Hilbert Space* ([Dover](https://smile.amazon.com/dp/0486677486/))
@@ -270,3 +272,10 @@ See also: [Differential Geometry](https://github.com/nculwell/MathStudy/blob/mas
 
 - Strogatz. *Nonlinear Dynamics and Chaos: With Applications to Physics, Biology, Chemistry, and Engineering* ([2e](https://smile.amazon.com/dp/0813349109), [1e](https://smile.amazon.com/dp/0738204536))
 - Sternberg. *Dynamical Systems* ([Dover](https://smile.amazon.com/dp/0486477053))
+
+### Asymptotic methods, perturbation theory
+
+- Bender and Orszag. *Advanced Mathematical Methods for Scientists and Engineers: Asymptotic Methods and Perturbation Theory* ([1e](https://smile.amazon.com/dp/0387989315))
+- de Bruijn. *Asymptotic Methods in Analysis* ([Dover](https://smile.amazon.com/dp/0486642216))
+- Simmonds and Mann. *A First Look at Perturbation Theory* ([Dover 2e](https://smile.amazon.com/dp/0486675513))
+- Bellman. *Perturbation Techniques in Mathematics, Engineering and Physics* ([Dover](https://smile.amazon.com/dp/0486432580))
