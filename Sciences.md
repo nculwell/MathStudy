@@ -150,6 +150,7 @@ There's an entire genre of physics books that are written for (and by) mathemati
 - Sternberg. *Curvature in Mathematics and Physics*
 - Meyer. *Introduction to Mathematical Fluid Dynamics*
 - Courant and Hilbert. *Methods of Mathematical Physics* ([Wiley PB V1](https://smile.amazon.com/dp/0471504475), [Wiley PB V2](https://smile.amazon.com/dp/0471504394), [Wiley HC V1](https://smile.amazon.com/dp/047017952X), [Wiley HC V1](https://smile.amazon.com/dp/0470179856))
+- Levi. *Classical Mechanics With Calculus of Variations and Optimal Control: An Intuitive Introduction* ([1e](https://smile.amazon.com/dp/0821891383))
 
 ### Math for physics
 
