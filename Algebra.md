@@ -72,6 +72,7 @@ See the [Linear Algebra section](LinearAlgebra.md).
 * Borel. *Linear Algebraic Groups* ([2e](https://smile.amazon.com/dp/0387973702))
 * Humphreys. *Linear Algebraic Groups* ([1e](https://smile.amazon.com/dp/0387901086))
 * Hall. *Lie Groups, Lie Algebras, and Representations: An Elementary Introduction* ([2e](https://smile.amazon.com/dp/3319134663))
+* Chevalley. *Theory of Lie Groups* ([PUP 1946](https://smile.amazon.com/dp/0691049904))
 
 ### Commutative algebra
 
