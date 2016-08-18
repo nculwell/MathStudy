@@ -56,7 +56,7 @@ See the [Linear Algebra section](LinearAlgebra.md).
 * Wilson. *The Finite Simple Groups* ([1e](https://smile.amazon.com/dp/1848009879))
 * Lyndon, Schupp. *Combinatorial Group Theory* ([Dover](https://smile.amazon.com/dp/3540411585))
 
-### Representation theory (Lie theory)
+### Lie theory (Lie groups/algebras, representation theory, linear algebraic groups)
 
 * Tapp. *Matrix Groups for Undergraduates* ([2e](https://smile.amazon.com/dp/1470427222), [1e](https://smile.amazon.com/dp/0821837850))
 * Fulton and Harris. *Representation Theory: A First Course* ([1e](https://smile.amazon.com/dp/0387974954))
@@ -69,6 +69,9 @@ See the [Linear Algebra section](LinearAlgebra.md).
 * Goodman and Wallach. *Symmetry, Representations, and Invariants* ([1e](https://smile.amazon.com/dp/038779851X))
 * Pollatsek. *Lie Groups: A Problem Oriented Introduction via Matrix Groups* ([1e](https://smile.amazon.com/dp/0883857596))
 * Jacobson. *Lie Algebras* ([Dover](https://smile.amazon.com/dp/0486638324))
+* Borel. *Linear Algebraic Groups* ([2e](https://smile.amazon.com/dp/0387973702))
+* Humphreys. *Linear Algebraic Groups* ([1e](https://smile.amazon.com/dp/0387901086))
+* Hall. *Lie Groups, Lie Algebras, and Representations: An Elementary Introduction* ([2e](https://smile.amazon.com/dp/3319134663))
 
 ### Commutative algebra
 
