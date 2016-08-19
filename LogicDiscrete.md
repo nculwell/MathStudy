@@ -135,6 +135,7 @@ Typical topics are: logic and proof, set theory, functions, introduction to algo
 * Rosen. *Discrete Mathematics and its Applications* ([6e](https://smile.amazon.com/dp/0073229725), [5e](https://smile.amazon.com/dp/0072424346), [5e solns [odd problems only]](https://smile.amazon.com/dp/0072474777)) - Probably the most popular book of this type.
 * Epp. *Discrete Mathematics with Applications* ([3e](https://smile.amazon.com/dp/0534359450), [3e solns](https://smile.amazon.com/Student-dp/0534360289), [2e](https://smile.amazon.com/dp/0534944469), [ERRATA](http://condor.depaul.edu/sepp/DMwA3e.htm)) - Noted for its clarity. Seems to be well-liked by struggling students.
 * Grimaldi. *Discrete and Combinatorial Mathematics: An Applied Introduction* ([4e](https://smile.amazon.com/dp/0201199122), [3e](https://smile.amazon.com/dp/B00404GGWI), [2e](https://smile.amazon.com/dp/0201119544)) - Older. Concludes with an introduction to abstract algebra with applications including cryptography.
+* Hunter. *Essentials Of Discrete Mathematics* ([2e](https://smile.amazon.com/dp/1449604420)) - Has some interesting applications outside of computer science (DNA, social networks, language, music).
 
 #### Discrete math with a different focus
 
@@ -196,5 +197,13 @@ Typical topics are: logic and proof, set theory, functions, introduction to algo
 * Stanley. *Catalan Numbers* ([1e](https://smile.amazon.com/dp/1107427746))
 
 * Aigner. *A Course in Enumeration* ([1e](https://smile.amazon.com/dp/3540390324))
+
+* Bollobás. *Random Graphs([2e](https://smile.amazon.com/gp/product/0521797225))
+* Flajolet and Sedgewick. *Analytic Combinatorics* ([1e](https://smile.amazon.com/dp/0521898064))
+* Jukna. *Extremal Combinatorics: With Applications in Computer Science* ([2e](https://smile.amazon.com/dp/3642173632))
+* Mansour. *Combinatorics of Set Partitions* ([1e](https://smile.amazon.com/dp/1439863334))
+* Bollobás. *Combinatorics: Set Systems, Hypergraphs, Families of Vectors and Combinatorial Probability* ([1e](https://smile.amazon.com/dp/0521337038))
+* Anderson. *Combinatorics of Finite Sets* ([Dover](https://smile.amazon.com/dp/0486422577))
+* Matousek, Nešetřil, Pellegrini, eds. *Geometry, Structure and Randomness in Combinatorics* ([1e](https://smile.amazon.com/dp/8876425241))
 
 See also: [random matrix theory](https://github.com/nculwell/MathStudy/blob/master/LinearAlgebra.md#random-matrix-theory)
