@@ -148,25 +148,31 @@ Typical topics are: logic and proof, set theory, functions, introduction to algo
 
 * Graham, Knuth, Patashnik. *Concrete Mathematics: A Foundation for Computer Science* ([2e](https://smile.amazon.com/dp/0201558025)) - One of the most well-loved books in math and computer science.
 
-### Combinatorics and Graph Theory
+### Combinatorics
 
 * Lovász, Pelikán, Vesztergombi. *Discrete Mathematics: Elementary and Beyond* ([1e](https://smile.amazon.com/dp/0387955852))
-
 * Brualdi. *Introductory Combinatorics* ([4e](https://smile.amazon.com/dp/0131001191), [3e](https://smile.amazon.com/dp/0131814885); [4e errata](https://www.math.wisc.edu/~brualdi/4ederrata.pdf))
-
 * Niven. *The Mathematics of Choice: How to Count Without Counting* ([MAA 1e](https://smile.amazon.com/dp/0883856158))
-
 * Martin. *Counting: The Art of Enumerative Combinatorics* ([1e](https://smile.amazon.com/dp/038795225X))
-
 * Chen and Koh. *Principles and Techniques in Combinatorics* ([1e](https://smile.amazon.com/dp/9810211392))
-
 * Bogart. [*Combinatorics Through Guided Discovery*](https://math.dartmouth.edu/news-resources/electronic/kpbogart/)
-
 * Wilf. *generatingfunctionology* ([**2e FREE ONLINE**](https://www.math.upenn.edu/~wilf/DownldGF.html) [3e](https://smile.amazon.com/generatingfunctionology-Third-Herbert-S-Wilf/dp/1568812795/))
-
 * Stanley. *Enumerative Combinatorics* ([Vol I, 2e](https://smile.amazon.com/dp/1107602629), [Vol II, 1e](https://smile.amazon.com/dp/B00HMUGS4S))
-
 * Cameron. *Combinatorics: Topics, Techniques, Algorithms* ([1e](https://smile.amazon.com/dp/0521457610))
+* Lovász. *Combinatorial Problems and Exercises* ([AMS Chelsea](https://smile.amazon.com/dp/0821842625))
+* Flajolet and Sedgewick. *Analytic Combinatorics* ([1e](https://smile.amazon.com/dp/0521898064))
+* Stanley. *Algebraic Combinatorics: Walks, Trees, Tableaux, and More* ([1e](https://smile.amazon.com/dp/146146997X))
+* Stanley. *Catalan Numbers* ([1e](https://smile.amazon.com/dp/1107427746))
+* Aigner. *A Course in Enumeration* ([1e](https://smile.amazon.com/dp/3540390324))
+* Jukna. *Extremal Combinatorics: With Applications in Computer Science* ([2e](https://smile.amazon.com/dp/3642173632))
+* Mansour. *Combinatorics of Set Partitions* ([1e](https://smile.amazon.com/dp/1439863334))
+* Bollobás. *Combinatorics: Set Systems, Hypergraphs, Families of Vectors and Combinatorial Probability* ([1e](https://smile.amazon.com/dp/0521337038))
+* Anderson. *Combinatorics of Finite Sets* ([Dover](https://smile.amazon.com/dp/0486422577))
+* Matousek, Nešetřil, Pellegrini, eds. *Geometry, Structure and Randomness in Combinatorics* ([1e](https://smile.amazon.com/dp/8876425241))
+
+### Graph Theory
+
+#### Introductions
 
 * Trudeau. *Introduction to Graph Theory* ([Dover](https://smile.amazon.com/dp/0486678709))
 
@@ -178,32 +184,15 @@ Typical topics are: logic and proof, set theory, functions, introduction to algo
 
 * Hartsfield and Ringel. *Pearls in Graph Theory: A Comprehensive Introduction* ([Dover ed](https://smile.amazon.com/dp/0486432327/))
 
+#### Beyond
+
 * Diestel. *Graph Theory* ([4e](https://smile.amazon.com/dp/3642142788), [3e](https://smile.amazon.com/dp/3540261834))
 
   Can be previewed free online. See: http://diestel-graph-theory.com/
 
-* Bollobas. *Modern Graph Theory* ([1e](https://smile.amazon.com/dp/0387984887))
-
-* Bollobas. *Extremal Graph Theory* ([Dover](https://smile.amazon.com/dp/0486435962))
-
+* Bollobás. *Modern Graph Theory* ([1e](https://smile.amazon.com/dp/0387984887))
+* Bollobás. *Extremal Graph Theory* ([Dover](https://smile.amazon.com/dp/0486435962))
 * Bondy and Murty. *Graph Theory* ([1e](https://smile.amazon.com/dp/1846289696))
-
-* Lovász. *Combinatorial Problems and Exercises* ([AMS Chelsea](https://smile.amazon.com/dp/0821842625))
-
-* Flajolet and Sedgewick. *Analytic Combinatorics* ([1e](https://smile.amazon.com/dp/0521898064))
-
-* Stanley. *Algebraic Combinatorics: Walks, Trees, Tableaux, and More* ([1e](https://smile.amazon.com/dp/146146997X))
-
-* Stanley. *Catalan Numbers* ([1e](https://smile.amazon.com/dp/1107427746))
-
-* Aigner. *A Course in Enumeration* ([1e](https://smile.amazon.com/dp/3540390324))
-
 * Bollobás. *Random Graphs([2e](https://smile.amazon.com/gp/product/0521797225))
-* Flajolet and Sedgewick. *Analytic Combinatorics* ([1e](https://smile.amazon.com/dp/0521898064))
-* Jukna. *Extremal Combinatorics: With Applications in Computer Science* ([2e](https://smile.amazon.com/dp/3642173632))
-* Mansour. *Combinatorics of Set Partitions* ([1e](https://smile.amazon.com/dp/1439863334))
-* Bollobás. *Combinatorics: Set Systems, Hypergraphs, Families of Vectors and Combinatorial Probability* ([1e](https://smile.amazon.com/dp/0521337038))
-* Anderson. *Combinatorics of Finite Sets* ([Dover](https://smile.amazon.com/dp/0486422577))
-* Matousek, Nešetřil, Pellegrini, eds. *Geometry, Structure and Randomness in Combinatorics* ([1e](https://smile.amazon.com/dp/8876425241))
 
 See also: [random matrix theory](https://github.com/nculwell/MathStudy/blob/master/LinearAlgebra.md#random-matrix-theory)
