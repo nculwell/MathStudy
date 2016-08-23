@@ -37,6 +37,7 @@
 - Karlin and Taylor, *A First Course in Stochastic Processes* ([2e](https://smile.amazon.com/dp/0123985528)) (used price fluctuates a lot but can sometimes be in the $15-30 range)
 - Karlin and Taylor, *A Second Course in Stochastic Processes* ([2e](https://smile.amazon.com/dp/0123986508)) (used price fluctuates a lot but can sometimes be in the $20-30 range)
 - Karlin and Taylor, *An Introduction to Stochastic Modeling* (3e preferred: [3e](https://smile.amazon.com/dp/0126848874))
+- Gallager. *Stochastic Processes: Theory for Applications* ([1e](https://smile.amazon.com/dp/1107039754)) - Goes with MIT OCW courses [6.262 "Discrete Stochastic Processes"](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-262-discrete-stochastic-processes-spring-2011/) and [6.432 "Stochastic Processes, Detection, and Estimation"](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-262-discrete-stochastic-processes-spring-2011/).
 
 #### Applied
 - Trivedi. *Probability and Statistics with Reliability, Queueing, and Computer Science Applications* ([2e](https://smile.amazon.com/dp/0471333417))
