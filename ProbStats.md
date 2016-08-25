@@ -25,7 +25,7 @@
 
 - Blitzstein and Hwang. *Introduction to Probability* ([1e](https://smile.amazon.com/dp/1466575573))
 
-- Bertsekas and Tsitsiklis. *Introduction to Probability* ([2e](https://smile.amazon.com/dp/188652923X), [1e](https://smile.amazon.com/dp/188652940X))
+- Bertsekas and Tsitsiklis. *Introduction to Probability* ([2e](https://smile.amazon.com/dp/188652923X), [1e](https://smile.amazon.com/dp/188652940X)) - Goes with MIT OCW course [6.041/6.431 "Probabilistic Systems Analysis and Applied Probability"](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/).
 
 #### Further
 
