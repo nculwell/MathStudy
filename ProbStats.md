@@ -41,8 +41,8 @@
 
 #### Applied
 - Trivedi. *Probability and Statistics with Reliability, Queueing, and Computer Science Applications* ([2e](https://smile.amazon.com/dp/0471333417))
-- Mitzenmacher & Upfal, *Probability and Computing: Randomized Algorithms and Probabilistic Analysis*
-- Ross, *Applied Probability Models with Optimization Applications* (c)
+- Mitzenmacher & Upfal, *Probability and Computing: Randomized Algorithms and Probabilistic Analysis* ([1e](https://smile.amazon.com/dp/0521835402))
+- Ross, *Applied Probability Models with Optimization Applications* ([Dover](https://smile.amazon.com/dp/0486673146))
 
 #### With measure theory
 
