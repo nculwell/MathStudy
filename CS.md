@@ -288,6 +288,7 @@ These focus on some more specialized areas of algorithms.
 * Meikle, 2004. *A New Twist to Fourier Transforms*
 * Brigham, 1988. *The Fast Fourier Transform and Its Applications*
 * Trefethen, 2012, *Approximation Theory and Approximation Practice*
+* Hoffman and Frankel. *Numerical Methods for Engineers and Scientists* ([2e/2001](https://smile.amazon.com/dp/0824704436))
 
 ## Databases
 
