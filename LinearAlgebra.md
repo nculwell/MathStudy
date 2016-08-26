@@ -117,15 +117,9 @@ Others:
 - Macdonald. *Linear and Geometric Algebra*
 - Kaplansky. *Linear Algebra and Geometry: A Second Course*
 
-## Numerical
+## Numerical linear algebra
 
-- Watkins. *Fundamentals of Matrix Computations* ([3e](https://smile.amazon.com/dp/0470528338/))
-- Stewart. *Matrix Algorithms: Volume I: Basic Decompositions* ([1e](https://smile.amazon.com/Matrix-Algorithms-1-Basic-Decompositions/dp/0898714141/))
-- Stewart. *Matrix Algorithms, Volume II: Eigensystems* ([1e](https://smile.amazon.com/dp/0898715032/))
-- Demmel. *Applied Numerical Linear Algebra* ([1e](https://smile.amazon.com/dp/0898713897/))
-- Trefethen and Bau. *Numerical Linear Algebra* ([1e](https://smile.amazon.com/Numerical-Linear-Algebra-Lloyd-Trefethen/dp/0898713617/))
-- Golub and Van Loan. *Matrix Computations*
-- Nocedal and Wright. *Numerical Optimization*
+See [Numerical Methods](CS.md#numerical-methods) in the CS section.
 
 ## Random matrix theory
 
