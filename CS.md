@@ -279,24 +279,26 @@ These focus on some more specialized areas of algorithms.
 
 ## Numerical methods
 
-* Trefethen and Bau, 1997. *Numerical Linear Algebra*
+### General
+
 * Hamming, 1987. *Numerical Methods for Scientists and Engineers*
 * Nocedal and Wright, 2006. *Numerical Optimization*
 * Isaacson and Keller, 1966. *Analysis of Numerical Methods*
-* Golub and Van Loan, 2012 (3e), 1996 (2e), 1989 (1e). *Matrix Computations*
 * Higham, 2002 (2e). *Accuracy and Stability of Numerical Algorithms*
 * Meikle, 2004. *A New Twist to Fourier Transforms*
 * Brigham, 1988. *The Fast Fourier Transform and Its Applications*
 * Trefethen, 2012, *Approximation Theory and Approximation Practice*
 * Hoffman and Frankel. *Numerical Methods for Engineers and Scientists* ([2e/2001](https://smile.amazon.com/dp/0824704436))
+- Nocedal and Wright. *Numerical Optimization* ([2e](https://smile.amazon.com/dp/0387303030), [1e](https://smile.amazon.com/dp/0387987932))
 
+### Linear algebra
+
+- Trefethen and Bau. *Numerical Linear Algebra* ([1e/1997](https://smile.amazon.com/dp/0898713617/))
 - Watkins. *Fundamentals of Matrix Computations* ([3e](https://smile.amazon.com/dp/0470528338/))
-- Stewart. *Matrix Algorithms: Volume I: Basic Decompositions* ([1e](https://smile.amazon.com/Matrix-Algorithms-1-Basic-Decompositions/dp/0898714141/))
+- Stewart. *Matrix Algorithms: Volume I: Basic Decompositions* ([1e](https://smile.amazon.com/dp/0898714141/))
 - Stewart. *Matrix Algorithms, Volume II: Eigensystems* ([1e](https://smile.amazon.com/dp/0898715032/))
 - Demmel. *Applied Numerical Linear Algebra* ([1e](https://smile.amazon.com/dp/0898713897/))
-- Trefethen and Bau. *Numerical Linear Algebra* ([1e](https://smile.amazon.com/Numerical-Linear-Algebra-Lloyd-Trefethen/dp/0898713617/))
-- Golub and Van Loan. *Matrix Computations*
-- Nocedal and Wright. *Numerical Optimization*
+* Golub and Van Loan. *Matrix Computations* ([4e/2012](https://smile.amazon.com/dp/1421407949), [3e/1996](https://smile.amazon.com/dp/0801854148), [2e/1989](https://smile.amazon.com/dp/0801837391))
 
 ## Databases
 
