@@ -136,6 +136,7 @@ Typical topics are: logic and proof, set theory, functions, introduction to algo
 * Epp. *Discrete Mathematics with Applications* ([3e](https://smile.amazon.com/dp/0534359450), [3e solns](https://smile.amazon.com/Student-dp/0534360289), [2e](https://smile.amazon.com/dp/0534944469), [ERRATA](http://condor.depaul.edu/sepp/DMwA3e.htm)) - Noted for its clarity. Seems to be well-liked by struggling students.
 * Grimaldi. *Discrete and Combinatorial Mathematics: An Applied Introduction* ([4e](https://smile.amazon.com/dp/0201199122), [3e](https://smile.amazon.com/dp/B00404GGWI), [2e](https://smile.amazon.com/dp/0201119544)) - Older. Concludes with an introduction to abstract algebra with applications including cryptography.
 * Hunter. *Essentials Of Discrete Mathematics* ([2e](https://smile.amazon.com/dp/1449604420)) - Has some interesting applications outside of computer science (DNA, social networks, language, music).
+* Bender and Williamson. *Mathematics for Algorithm and Systems Analysis* ([Dover](https://smile.amazon.com/dp/0486442500)) - A somewhat less-flashy DM for computer science.
 
 #### Discrete math with a different focus
 
