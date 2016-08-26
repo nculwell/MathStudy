@@ -151,6 +151,8 @@ Typical topics are: logic and proof, set theory, functions, introduction to algo
 
 ### Combinatorics
 
+#### Beginning
+
 * Lovász, Pelikán, Vesztergombi. *Discrete Mathematics: Elementary and Beyond* ([1e](https://smile.amazon.com/dp/0387955852))
 * Brualdi. *Introductory Combinatorics* ([4e](https://smile.amazon.com/dp/0131001191), [3e](https://smile.amazon.com/dp/0131814885); [4e errata](https://www.math.wisc.edu/~brualdi/4ederrata.pdf))
 * Niven. *The Mathematics of Choice: How to Count Without Counting* ([MAA 1e](https://smile.amazon.com/dp/0883856158))
@@ -160,6 +162,10 @@ Typical topics are: logic and proof, set theory, functions, introduction to algo
 * Wilf. *generatingfunctionology* ([**2e FREE ONLINE**](https://www.math.upenn.edu/~wilf/DownldGF.html) [3e](https://smile.amazon.com/generatingfunctionology-Third-Herbert-S-Wilf/dp/1568812795/))
 * Stanley. *Enumerative Combinatorics* ([Vol I, 2e](https://smile.amazon.com/dp/1107602629), [Vol II, 1e](https://smile.amazon.com/dp/B00HMUGS4S))
 * Cameron. *Combinatorics: Topics, Techniques, Algorithms* ([1e](https://smile.amazon.com/dp/0521457610))
+* Bona. *Combinatorics of Permutations* ([2e](https://smile.amazon.com/dp/1439850518))
+* Bona. *A Walk through Combinatorics: An Introduction to Enumeration and Graph Theory* ([3e](https://smile.amazon.com/dp/9814460001))
+* Bona. *Introduction to Enumerative and Analytic Combinatorics* ([2e](https://smile.amazon.com/dp/148224909X))
+* Bona. *Handbook of Enumerative Combinatorics* ([1e](https://smile.amazon.com/dp/1482220857))
 * Lovász. *Combinatorial Problems and Exercises* ([AMS Chelsea](https://smile.amazon.com/dp/0821842625))
 * Flajolet and Sedgewick. *Analytic Combinatorics* ([1e](https://smile.amazon.com/dp/0521898064))
 * Stanley. *Algebraic Combinatorics: Walks, Trees, Tableaux, and More* ([1e](https://smile.amazon.com/dp/146146997X))
