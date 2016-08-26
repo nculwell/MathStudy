@@ -279,3 +279,7 @@ See also: [Differential Geometry](https://github.com/nculwell/MathStudy/blob/mas
 - de Bruijn. *Asymptotic Methods in Analysis* ([Dover](https://smile.amazon.com/dp/0486642216))
 - Simmonds and Mann. *A First Look at Perturbation Theory* ([Dover 2e](https://smile.amazon.com/dp/0486675513))
 - Bellman. *Perturbation Techniques in Mathematics, Engineering and Physics* ([Dover](https://smile.amazon.com/dp/0486432580))
+
+### Numerical analysis
+
+See [Numerical Methods](CS.md#numerical-methods) in the CS section.
