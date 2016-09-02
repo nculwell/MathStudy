@@ -62,7 +62,7 @@ See also: [Logic and Discrete Math](LogicDiscrete.md)
 
   Graduate-level.
 
-* Cutland, 1980. *Computability* ([1e](https://smile.amazon.com/dp/0521294657))
+* Cutland, 1980. *Computability: An Introduction to Recursive Function Theory* ([1e](https://smile.amazon.com/dp/0521294657))
 
   Seems to be the standard introduction to computability.
 
