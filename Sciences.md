@@ -183,7 +183,7 @@ There are math books written for physicists.
 - Inui, Tanabe, Onodera. *Group Theory and Its Applications in Physics* ([1e](https://smile.amazon.com/dp/3540604456))
 - Hamermesh. *Group Theory and Its Application to Physical Problems* ([Dover](https://smile.amazon.com/gp/product/0486661814)) (The original on this subject. Probably not the best one around these days but it's cheap.)
 - Gilmore. *Lie Groups, Lie Algebras, and Some of Their Applications* ([Dover](https://smile.amazon.com/dp/0486445291))
-- Geroch. *Mathematical Physics* ([1e](https://smile.amazon.com/dp/0226288625/))
+- Geroch. *Mathematical Physics* ([1e](https://smile.amazon.com/dp/0226288625/)) (Category-theoretic approach to physics.)
 
 #### Engineering mathematics
 
