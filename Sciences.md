@@ -8,7 +8,7 @@ This document is even more just a "jumble of references" than the rest of this r
 
 #### Introductions
 
-- [OpenStax. *College Physics*](https://openstax.org/details/college-physics) (two-semester introductory algebra-based physics course)
+- [OpenStax (Urone, Hinrichs). *College Physics*](https://openstax.org/details/college-physics) (two-semester introductory algebra-based physics course)
 - OpenStax (Ling, Sanny, Moebs). *University Physics* ([Vol 1](https://openstax.org/details/university-physics-volume-1), [Vol 2](https://openstax.org/details/university-physics-volume-2), [Vol 3](https://openstax.org/details/university-physics-volume-3)) (Still in the draft stage. "University Physics is designed for the two- or three-semester calculus-based physics course. The text has been developed to meet the scope and sequence of most university physics courses and provides a foundation for a career in mathematics, science, or engineering.")
 - Wolfson and Pasachoff. *Physics for Scientists and Engineers, 3e*
   (the text used with [Ramamurti Shankar's online courses at Yale](http://oyc.yale.edu/physics))
