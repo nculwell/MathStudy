@@ -12,8 +12,8 @@ This document is even more just a "jumble of references" than the rest of this r
 - OpenStax (Ling, Sanny, Moebs). *University Physics* ([Vol 1](https://openstax.org/details/university-physics-volume-1), [Vol 2](https://openstax.org/details/university-physics-volume-2), [Vol 3](https://openstax.org/details/university-physics-volume-3)) (Still in the draft stage. "University Physics is designed for the two- or three-semester calculus-based physics course. The text has been developed to meet the scope and sequence of most university physics courses and provides a foundation for a career in mathematics, science, or engineering.")
 - Wolfson and Pasachoff. *Physics for Scientists and Engineers, 3e* ([3e](https://smile.amazon.com/dp/0321035712))
   (This is the text used with [Ramamurti Shankar's online courses at Yale](http://oyc.yale.edu/physics). Used copied used to be cheap, but are now expensive as of September 2016.)
-- Shankar. *Fundamentals of Physics: Mechanics, Relativity, and Thermodynamics* (based on Shankar's first online course, [Fundamentals of Physics I](http://oyc.yale.edu/physics/phys-200))
-- Shankar. *Fundamentals of Physics II: Electromagnetism, Optics, and Quantum Mechanics* (based on Shankar's first online course, [Fundamentals of Physics II](http://oyc.yale.edu/physics/phys-201))
+- [Shankar. *Fundamentals of Physics: Mechanics, Relativity, and Thermodynamics*](https://smile.amazon.com/dp/0300192207) (based on Shankar's first online course, [Fundamentals of Physics I](http://oyc.yale.edu/physics/phys-200))
+- [Shankar. *Fundamentals of Physics II: Electromagnetism, Optics, and Quantum Mechanics*](https://smile.amazon.com/dp/0300212364) (based on Shankar's first online course, [Fundamentals of Physics II](http://oyc.yale.edu/physics/phys-201))
 - Bueche and Hecht. *Schaum's Outline of College Physics*
 
 #### Landau and Lifshitz
