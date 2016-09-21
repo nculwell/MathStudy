@@ -118,6 +118,10 @@ Modern probability theory builds its mathematical foundation on measure theory, 
 
   A popular introduction to mathematical statistics.
 
+- McElreath. *Statistical Rethinking: A Bayesian Course with Examples in R and Stan* ([1e](https://smile.amazon.com/dp/1482253445))
+
+  An overview of the philosophical and practical aspects of statistics from a modern beyesian perspective.
+
 - Cassela and Berger, *Statistical Inference* ([2e](https://smile.amazon.com/dp/0534243126), [2e intl](https://smile.amazon.com/dp/8131503941))
 
   A standard grad-level introduction to mathematical/theoretical statistics.
