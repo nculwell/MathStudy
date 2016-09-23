@@ -183,7 +183,7 @@ Schaum's has several of their "outlines" which are appropriate for this level. S
   - *General Mathematics* ([1e](https://smile.amazon.com/dp/0199142785))
 - Esty, Precalculus ([6e](https://smile.amazon.com/dp/1256671207))
 - Foerster, Algebra and Trigonometry ([Classics ed](https://smile.amazon.com/dp/0131657100))
-- Lang and Murrow, *Geometry: A High School Course* ([2e](https://smile.amazon.com/dp/0387966544), [Solutions manual](https://smile.amazon.com/dp/0387966544))
+- Lang and Murrow, *Geometry: A High School Course* ([2e](https://smile.amazon.com/dp/0387966544), [Solutions manual](https://smile.amazon.com/dp/0387941819))
 - Moise, *Elementary Geometry from an Advanced Standpoint* ([3e PB](https://smile.amazon.com/dp/0201508672), [2e HC](https://smile.amazon.com/dp/0201047934))
 - Moise and Downs. *Geometry* [3e](https://smile.amazon.com/dp/0201253356)
 
