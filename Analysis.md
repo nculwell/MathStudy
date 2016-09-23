@@ -276,6 +276,7 @@ See also: [Differential Geometry](https://github.com/nculwell/MathStudy/blob/mas
 - Sternberg. *Dynamical Systems* ([Dover](https://smile.amazon.com/dp/0486477053))
 - Wiggins. *Introduction to Applied Nonlinear Dynamical Systems and Chaos* ([2e](https://smile.amazon.com/dp/0387001778))
 - Glendinning. *Stability, Instability and Chaos: An Introduction to the Theory of Nonlinear Differential Equations* ([2e](https://smile.amazon.com/dp/0521425662))
+- Hirsch, Smale, Devaney. *Differential Equations, Dynamical Systems, and an Introduction to Chaos* ([3e](https://smile.amazon.com/dp/0123820103))
 
 ### Asymptotic methods, perturbation theory
 
