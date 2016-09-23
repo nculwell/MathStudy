@@ -271,7 +271,11 @@ See also: [Differential Geometry](https://github.com/nculwell/MathStudy/blob/mas
 ### Dynamical systems
 
 - Strogatz. *Nonlinear Dynamics and Chaos: With Applications to Physics, Biology, Chemistry, and Engineering* ([2e](https://smile.amazon.com/dp/0813349109), [1e](https://smile.amazon.com/dp/0738204536))
+- Holmgren. *A First Course in Discrete Dynamical Systems* ([2e](https://smile.amazon.com/dp/0387947809))
+- Devaney. *An Introduction to Chaotic Dynamical Systems* ([2e](https://smile.amazon.com/dp/0813340853))
 - Sternberg. *Dynamical Systems* ([Dover](https://smile.amazon.com/dp/0486477053))
+- Wiggins. *Introduction to Applied Nonlinear Dynamical Systems and Chaos* ([2e](https://smile.amazon.com/dp/0387001778))
+- Glendinning. *Stability, Instability and Chaos: An Introduction to the Theory of Nonlinear Differential Equations* ([2e](https://smile.amazon.com/dp/0521425662))
 
 ### Asymptotic methods, perturbation theory
 
