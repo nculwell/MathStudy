@@ -201,6 +201,8 @@ This site has links to lots of other sites with problem sets and practice exams:
 - John. *Partial Differential Equations* ([4e](https://smile.amazon.com/dp/0387906096))
 - Bleecker and Csordas. *Basic Partial Differential Equations* ([1e](https://smile.amazon.com/dp/1571460365))
 - Zachmanoglou and Thoe. *Introduction to Partial Differential Equations with Applications* ([Dover](https://smile.amazon.com/dp/0486652513))
+- Asmar. *Partial Differential Equations with Fourier Series and Boundary Value Problems* ([3e Dover](https://smile.amazon.com/dp/0486807371))
+- Hillen, Leonard, van Roessel. *Partial Differential Equations: Theory and Completely Solved Problems* ([1e](https://smile.amazon.com/dp/1118063309))
 
 #### Advanced (more prequisites)
 
