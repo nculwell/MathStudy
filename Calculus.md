@@ -183,6 +183,7 @@ This site has links to lots of other sites with problem sets and practice exams:
 - Tenenbaum, *Ordinary Differential Equations* ([Dover](https://smile.amazon.com/dp/0486649407))
 - Hurewicz, *Lectures on Ordinary Differential Equations* ([Dover](https://smile.amazon.com/dp/0486664201))
 - Coddington, *An Introduction to Ordinary Differential Equations* ([Dover](https://smile.amazon.com/dp/0486659429))
+- Brauer and Nohel. *The Qualitative Theory of Ordinary Differential Equations: An Introduction* ([Dover](https://smile.amazon.com/dp/0486658465))
 - Arnold. *Ordinary Differential Equations* ([MIT Press, tr. Silverman](https://smile.amazon.com/dp/0262510189), [Springer, tr. Cooke](https://smile.amazon.com/dp/3540345639)) - Springer is a later version.
 - Coddington and Levinson, *Theory of Ordinary Differential Equations* ([Krieger 1984](https://smile.amazon.com/dp/0898747554))
 
@@ -199,6 +200,7 @@ This site has links to lots of other sites with problem sets and practice exams:
 
 #### Advanced (more prequisites)
 
+- Vasy. *Partial Differential Equations: An Accessible Route Through Theory and Applications( ([1e](https://smile.amazon.com/dp/1470418819))
 - Gustafson, *Introduction to Partial Differential Equations and Hilbert Space Methods* ([Dover](https://smile.amazon.com/dp/0486612716))
 - Taylor, *Partial Differential Equations* (Vol I: *Basic Theory* [2e](https://smile.amazon.com/dp/1441970541); Vol II: *Qualitative Studies of Linear Equations* [2e](https://smile.amazon.com/dp/1441970517); Vol III: *Nonlinear Equations* [2e](https://smile.amazon.com/dp/1441970487))
 - Evans, *Partial Differential Equations: Second Edition* ([2e](https://smile.amazon.com/dp/0821849743))
