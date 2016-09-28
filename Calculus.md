@@ -210,7 +210,7 @@ This site has links to lots of other sites with problem sets and practice exams:
 - Gustafson. *Introduction to Partial Differential Equations and Hilbert Space Methods* ([Dover](https://smile.amazon.com/dp/0486612716))
 - Taylor. *Partial Differential Equations* (Vol I: *Basic Theory* [2e](https://smile.amazon.com/dp/1441970541); Vol II: *Qualitative Studies of Linear Equations* [2e](https://smile.amazon.com/dp/1441970517); Vol III: *Nonlinear Equations* [2e](https://smile.amazon.com/dp/1441970487))
 - Evans. *Partial Differential Equations: Second Edition* ([2e](https://smile.amazon.com/dp/0821849743))
-- Folland. *Introduction to Partial Differential Equations* (u)
+- Folland. *Introduction to Partial Differential Equations* ([2e](https://smile.amazon.com/dp/0691043612))
 - McOwen. *Partial Differential Equations: Methods and Applications* ([2e](https://smile.amazon.com/dp/0130093351))
 
 ## Advanced Calculus
