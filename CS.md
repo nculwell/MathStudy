@@ -22,7 +22,7 @@
 
 See also: [Logic and Discrete Math](LogicDiscrete.md)
 
-### Intro
+### General
 
 * Sipser, 2012 (3e) / 2006 (2e) / 1996 (1e). *Introduction to the Theory of Computation*
 
@@ -136,6 +136,10 @@ These books cover the basics, that is, the core algorithms that everyone needs t
 * Karumanchi. *Data Structure and Algorithmic Thinking with Python: Data Structure and Algorithmic Puzzles* ([1e](https://smile.amazon.com/dp/8192107590))
 
   A recent book that takes a relatively practical view (as opposed to mathematical). There are a bunch of mediocre Python-oriented CS books out there, but this one looks to be pretty good. Now that many people are learning Python as a first programming language, there's a pressing need for good books that use Python code to demonstrate concepts, so it's good to see some quality titles finally showing up.
+
+* Di Pierro. *Annotated Algorithms in Python: with Applications in Physics, Biology, and Finance*
+
+  Another practical Python algorithms book. Covers an impressively wide variety of algorithms, including the basics (data structures, searching and sorting), numerical methods, probability and statistics, random numbers and distributions, Monte Carlo simulations, and parallel algorithms.
 
 * Groner. *Learning JavaScript Data Structures and Algorithms* ([At PACKT](https://www.packtpub.com/application-development/learning-javascript-data-structures-and-algorithms), [At Amazon](https://smile.amazon.com/dp/1783554878))
 
