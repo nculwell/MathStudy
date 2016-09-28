@@ -175,6 +175,10 @@ This site has links to lots of other sites with problem sets and practice exams:
 
 - Boyce and DiPrima, *Elementary Differential Equations and Boundary Value Problems* ([9e](https://smile.amazon.com/dp/0470383348), [8e](https://smile.amazon.com/dp/0471433381))
 
+- Edwards and Penney. *Differential Equations and Linear Algebra* ([2e](https://smile.amazon.com/dp/0131481460))
+
+- Edwards, Penney, Calvis. *Differential Equations and Boundary Value Problems: Computing and Modeling* ([5e](https://smile.amazon.com/dp/0321796985), [4e (Edwards/Penney)](https://smile.amazon.com/dp/0131561073))
+
 - Piskunov, *Differential and Integral Calculus* (Vol I: [Mir/CBS](https://smile.amazon.com/dp/8123904924); Vol II: [Mir/CBS](https://smile.amazon.com/dp/8123904932))
 
   From what I gather, this pair of volumes is legendary for its quality (though problems are too easy), but the physical quality of this edition is terrible.
