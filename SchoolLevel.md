@@ -159,6 +159,11 @@ I don't know if anyone still uses these other old books or not, but some people 
 - Todhunter. *Algebra for beginners* ([1880 ed @Archive.org (Toronto)](https://archive.org/details/algebraforbeginn00todhuoft))
 - Todhunter. *Algebra For the Use of Colleges and Schools* ([1889 ed @Archive.org (Toronto)](https://archive.org/details/algebraforuseofc00todhuoft))
 
+### Newer classic texts, not yet in the public domain
+
+- Durell and Robson. *Advanced Trigonometry* ([Dover](https://smile.amazon.com/dp/0486432297))
+- Levi. *Elements of Algebra* ([AMS Chelsea](https://smile.amazon.com/dp/0828401039))
+
 ## Schaum's Outlines
 
 Schaum's has several of their "outlines" which are appropriate for this level. Schaum's outlines are full of worked problems, which you can use to study or to practice. (The answers are right there, though, so you have to cover them up if you want to use them for practice.) The outlines also provide some explanation of the topics, so in theory you could even use them as textbooks, though that isn't really what they're designed for.
