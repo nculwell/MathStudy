@@ -163,6 +163,7 @@ I don't know if anyone still uses these other old books or not, but some people 
 
 - Durell and Robson. *Advanced Trigonometry* ([Dover](https://smile.amazon.com/dp/0486432297))
 - Levi. *Elements of Algebra* ([AMS Chelsea](https://smile.amazon.com/dp/0828401039))
+- Fine. *College Algebra* ([AMS Chelsea](https://smile.amazon.com/dp/0821838636))
 
 ## Schaum's Outlines
 
