@@ -154,7 +154,7 @@ There's an entire genre of physics books that are written for (and by) mathemati
 
 ### Math for physics
 
-There are math books written for physicists. See also: [Engineering mathematics]()
+There are math books written for physicists. See also: [Engineering mathematics](https://github.com/nculwell/MathStudy/blob/master/Sciences.md#engineering-mathematics)
 
 - Schey. *Div, Grad, Curl, and All That: An Informal Text on Vector Calculus* ([4e](https://smile.amazon.com/dp/0393925161), [3e](https://smile.amazon.com/dp/0393969975), [2e](https://smile.amazon.com/dp/0393962512), [1e](https://smile.amazon.com/dp/0393093670))
 - Shankar. *Basic Training in Mathematics: A Fitness Program for Science Students* ([1e](https://smile.amazon.com/dp/0306450364)
@@ -300,7 +300,7 @@ Not science but this seemed like a convenient place to put this section.
 
 ### Engineering mathematics
 
-The topics are pretty similar to those seen in many ["math for physics" textbooks]().
+The topics are pretty similar to those seen in many ["math for physics" textbooks](https://github.com/nculwell/MathStudy/blob/master/Sciences.md#math-for-physics).
 
 - Kreyszig. *Advanced Engineering Mathematics* ([9e](https://smile.amazon.com/dp/0471488852), [8e](https://smile.amazon.com/dp/0471154962))
 
