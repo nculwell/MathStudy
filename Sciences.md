@@ -334,7 +334,7 @@ The topics are pretty similar to those seen in many ["math for physics" textbook
 - Shigley, Mischke. *Mechanical Engineering Design* ([5e](https://smile.amazon.com/dp/0070568995))
 - Peery. *Aircraft Structures* ([Dover](https://smile.amazon.com/dp/0486485803))
 - Bureau of Naval Personnel. *Basic Electricity* ([2e Revised Dover](https://smile.amazon.com/dp/0486209733))
-- Soler. *Fundamentals of aerospace engineering: An introductory course to aeronautical engineering* ([1e](https://smile.amazon.com/dp/1493727753))
+- Soler. *Fundamentals of aerospace engineering: An introductory course to aeronautical engineering* ([1e](https://smile.amazon.com/dp/1493727753)) http://www.aerospaceengineering.es/
 - Kastner. *Space Mathematics: Math Problems Based on Space Science* ([Dover](https://smile.amazon.com/dp/0486490335))
 - Bate, Mueller, White. *Fundamentals of Astrodynamics* ([Dover](https://smile.amazon.com/dp/0486600610))
 - Thomson. *Introduction to Space Dynamics* ([Dover](https://smile.amazon.com/dp/0486651134))
