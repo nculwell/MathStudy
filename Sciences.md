@@ -48,7 +48,6 @@ This document is even more just a "jumble of references" than the rest of this r
 
 - Landau and Lifshitz (above)
 - Balasubramanian and Dempsey. *Mechanics: An Extended Introduction* (no solutions available yet)
-- Den Hartog. *Mechanics*
 - Morin, *Introduction to Classical Mechanics: With Problems and Solutions*
 - Kleppner and Kolenkow. *An Introduction to Mechanics*
 - Synge and Griffith, 1949. [*Principles Of Mechanics* (at The Internet Archive)](https://archive.org/details/principlesofmech031468mbp)
@@ -313,3 +312,23 @@ The topics are pretty similar to those seen in many ["math for physics" textbook
 - Stroud. *Advanced Engineering Mathematics* ([5e](https://smile.amazon.com/Advanced-Engineering-Mathematics-Kenneth-Stroud/dp/0831134496))
 
 - Greenberg. *Advanced Engineering Mathematics* ([2e intl at AbeBooks](http://www.abebooks.com/products/isbn/9780133214314), [2e](https://smile.amazon.com/dp/0133214311))
+
+### Other
+
+- Gross, Hauger, Schröder, Wall, Rajapakse. *Engineering Mechanics*
+  - *Vol 1: Statics* ([2e](https://smile.amazon.com/dp/3642303188))
+  - *Vol 2: Mechanics of Materials* ([1e](https://smile.amazon.com/dp/3642128858))
+  - *Vol 3: Dynamics* ([2e](https://smile.amazon.com/dp/3642537111))
+- Nelson, Best, McLean. *Schaum's Outline of Engineering Mechanics* ([5e](https://smile.amazon.com/dp/0070461937))
+- REA. *The Mechanics Problem Solver* ([Revised Edition, 2007](https://smile.amazon.com/dp/0878915192))
+- Hibbeler. *Engineering Mechanics: Statics And Dynamics* ([9e](https://smile.amazon.com/dp/0130200069))
+- Den Hartog. *Mechanics* ([Dover](https://smile.amazon.com/dp/0486607542))
+- Den Hartog. *Strength of Materials* ([Dover](https://smile.amazon.com/dp/0486607550))
+- Timoshenko. *Strength of Materials*
+  - *Vol 1: Elementary Theory and Problems* ([3e](https://smile.amazon.com/dp/8123910304))
+  - *Vol 2: Advanced Theory and Problems* ([3e](https://smile.amazon.com/dp/8123910770))
+- Norton. *Machine Design: An Integrated Approach* ([5e](https://smile.amazon.com/dp/013335671X), [4e](https://smile.amazon.com/dp/0136123708), [3e](https://smile.amazon.com/dp/0131481908))
+- Norton. *Design of Machinery: An Introduction to the Synthesis and Analysis of Mechanisms and Machines* ([5e](https://www.amazon.com/dp/007742171X), [3e](https://www.amazon.com/dp/0072864478))
+- Uicker, Pennock, Shigley. *Theory of Machines and Mechanisms* ([4e](https://smile.amazon.com/dp/0195371232), [3e](https://smile.amazon.com/dp/B011MCNYIE))
+- Budynas, Nisbett. *Shigley's Mechanical Engineering Design* ([10e](https://smile.amazon.com/dp/0073398209), [10e Intl, SI units](https://www.amazon.com//dp/933922163X))
+- Shigley, Mischke. *Mechanical Engineering Design* ([5e](https://smile.amazon.com/dp/0070568995))
