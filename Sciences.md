@@ -154,7 +154,7 @@ There's an entire genre of physics books that are written for (and by) mathemati
 
 ### Math for physics
 
-There are math books written for physicists.
+There are math books written for physicists. See also: [Engineering mathematics]()
 
 - Schey. *Div, Grad, Curl, and All That: An Informal Text on Vector Calculus* ([4e](https://smile.amazon.com/dp/0393925161), [3e](https://smile.amazon.com/dp/0393969975), [2e](https://smile.amazon.com/dp/0393962512), [1e](https://smile.amazon.com/dp/0393093670))
 - Shankar. *Basic Training in Mathematics: A Fitness Program for Science Students* ([1e](https://smile.amazon.com/dp/0306450364)
@@ -184,22 +184,6 @@ There are math books written for physicists.
 - Hamermesh. *Group Theory and Its Application to Physical Problems* ([Dover](https://smile.amazon.com/gp/product/0486661814)) (The original on this subject. Probably not the best one around these days but it's cheap.)
 - Gilmore. *Lie Groups, Lie Algebras, and Some of Their Applications* ([Dover](https://smile.amazon.com/dp/0486445291))
 - Geroch. *Mathematical Physics* ([1e](https://smile.amazon.com/dp/0226288625/)) (Category-theoretic approach to physics.)
-
-#### Engineering mathematics
-
-I decided to group these books here because the topics are pretty similar to those seen in many "math for physics" textbooks. (And they don't really fit anywhere else.)
-
-- Kreyszig. *Advanced Engineering Mathematics* ([9e](https://smile.amazon.com/dp/0471488852), [8e](https://smile.amazon.com/dp/0471154962))
-
-- Wylie and Barrett. *Advanced Engineering Mathematics* ([6e](https://smile.amazon.com/dp/0070722064))
-
-- Stroud and Booth. *Engineering Mathematics* ([7e](https://smile.amazon.com/dp/0831134704), [6e](https://smile.amazon.com/dp/0831133279))
-
-  This volume covers a comically large number of topics: basic number systems, high school algebra and trigonometry, matrices and vectors, calculus, differential equations, statistics and probability.
-
-- Stroud. *Advanced Engineering Mathematics* ([5e](https://smile.amazon.com/Advanced-Engineering-Mathematics-Kenneth-Stroud/dp/0831134496))
-
-- Greenberg. *Advanced Engineering Mathematics* ([2e intl at AbeBooks](http://www.abebooks.com/products/isbn/9780133214314), [2e](https://smile.amazon.com/dp/0133214311))
 
 ## Chemistry
 
@@ -309,3 +293,23 @@ I decided to group these books here because the topics are pretty similar to tho
 
 - Gordis. *Epidemiology* ([4e](https://smile.amazon.com/dp/1416040021))
 - Hennekens, Buring, Mayrent. *Epidemiology in Medicine* ([1e](https://smile.amazon.com/dp/0316356360))
+
+## Engineering
+
+Not science but this seemed like a convenient place to put this section.
+
+### Engineering mathematics
+
+The topics are pretty similar to those seen in many ["math for physics" textbooks]().
+
+- Kreyszig. *Advanced Engineering Mathematics* ([9e](https://smile.amazon.com/dp/0471488852), [8e](https://smile.amazon.com/dp/0471154962))
+
+- Wylie and Barrett. *Advanced Engineering Mathematics* ([6e](https://smile.amazon.com/dp/0070722064))
+
+- Stroud and Booth. *Engineering Mathematics* ([7e](https://smile.amazon.com/dp/0831134704), [6e](https://smile.amazon.com/dp/0831133279))
+
+  This volume covers a comically large number of topics: basic number systems, high school algebra and trigonometry, matrices and vectors, calculus, differential equations, statistics and probability.
+
+- Stroud. *Advanced Engineering Mathematics* ([5e](https://smile.amazon.com/Advanced-Engineering-Mathematics-Kenneth-Stroud/dp/0831134496))
+
+- Greenberg. *Advanced Engineering Mathematics* ([2e intl at AbeBooks](http://www.abebooks.com/products/isbn/9780133214314), [2e](https://smile.amazon.com/dp/0133214311))
