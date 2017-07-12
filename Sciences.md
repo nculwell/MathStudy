@@ -253,7 +253,8 @@ There are math books written for physicists. See also: [Engineering mathematics]
 
 ### Zoology
 
-- [Schmidt-Nielsen. *Animal Physiology: Adaptation and Environment*](https://smile.amazon.com/dp/0521570980)
+- [Schmidt-Nielsen. *How Animals Work*](https://smile.amazon.com/dp/0521096928) - Overview of principles of biology.
+- [Schmidt-Nielsen. *Animal Physiology: Adaptation and Environment*](https://smile.amazon.com/dp/0521570980) - College textbook.
 
 ### Genetics
 
