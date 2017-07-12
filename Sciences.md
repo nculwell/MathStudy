@@ -249,10 +249,15 @@ There are math books written for physicists. See also: [Engineering mathematics]
   (for nonmajors)
 - [OpenStax. *Biology*](https://openstax.org/details/biology)
   (for a typical two-semester biology course for science majors)
+- [Campbell et al. *Biology*](https://www.amazon.com/dp/0805366245/)
+
+### Zoology
+
+- [Schmidt-Nielsen. *Animal Physiology: Adaptation and Environment*](https://smile.amazon.com/dp/0521570980)
 
 ### Genetics
 
-- Snustad and Simmons. *Principles of Genetics* [5e](https://smile.amazon.com/Principles-Genetics-D-Peter-Snustad/dp/0470388250/)
+- Snustad and Simmons. *Principles of Genetics* [5e](https://smile.amazon.com/dp/0470388250/)
 - Griffiths, Wessler, Carroll and Doebley. *Introduction to Genetic Analysis*
 - Snyder and Champness. *Molecular Genetics of Bacteria*
 - Watson. *Molecular Biology of the Gene*
