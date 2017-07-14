@@ -268,8 +268,8 @@ There are math books written for physicists. See also: [Engineering mathematics]
 - [Schmidt-Nielsen. *Animal Physiology: Adaptation and Environment*](https://smile.amazon.com/dp/0521570980) - College textbook.
 - Raven, Evers, Eichhorn. *Biology of Plants* [8e](https://amazon.com/dp/1429219610) [7e](https://amazon.com/dp/0716710072) [6e](https://amazon.com/dp/1572590416)
 - Kardong. *Vertebrates: Comparative Anatomy, Function, Evolution* [6e](https://smile.amazon.com/dp/0073524239/) [5e](https://smile.amazon.com/dp/0073040584)
-- Chapman et al. *The Insects: Structure and Function* [5e](https://smile.amazon.com/dp/052111389X/)
-- Triplehorn, Johnson. *Borror and DeLong's Introduction to the Study of Insects* [7e](https://smile.amazon.com/dp/0030968356/)
+- Chapman et al. *The Insects: Structure and Function* [5e](https://smile.amazon.com/dp/052111389X/) "excellent text for covering the highlights of insect physiology, development, biochemistry, and morphology"
+- Triplehorn, Johnson. *Borror and DeLong's Introduction to the Study of Insects* [7e](https://smile.amazon.com/dp/0030968356/) "extensive taxonomic treatment - a standard reference"
 - Klowden. *Physiological Systems in Insects* [3e](https://smile.amazon.com/dp/0124158196/)
 - Nation. *Insect Physiology and Biochemistry* [3e](https://smile.amazon.com/dp/1482247585/)
 
