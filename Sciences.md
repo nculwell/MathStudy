@@ -272,6 +272,7 @@ There are math books written for physicists. See also: [Engineering mathematics]
 - Triplehorn, Johnson. *Borror and DeLong's Introduction to the Study of Insects* [7e](https://smile.amazon.com/dp/0030968356/) "extensive taxonomic treatment - a standard reference"
 - Klowden. *Physiological Systems in Insects* [3e](https://smile.amazon.com/dp/0124158196/)
 - Nation. *Insect Physiology and Biochemistry* [3e](https://smile.amazon.com/dp/1482247585/)
+- Gilbert, Barresi. *Developmental Biology* ([11e](https://smile.amazon.com/dp/1605354708/), [10e](https://smile.amazon.com/dp/0878939784/), [9e](https://smile.amazon.com/dp/0878933840/)) - "the gesalt of developmental biology as a whole"
 
 ### Cell
 
