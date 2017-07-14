@@ -288,6 +288,7 @@ There are math books written for physicists. See also: [Engineering mathematics]
 - Ferrier. *Biochemistry (Lippincott Illustrated Reviews Series)* [6e](https://smile.amazon.com/Biochemistry-Lippincott-Illustrated-Reviews-Ferrier/dp/1451175620/) [5e](https://smile.amazon.com/Biochemistry-Lippincott-Illustrated-Reviews-Richard/dp/160831412X/)
 - Lieberman and Ricer. *BRS Biochemistry, Molecular Biology, and Genetics* [6e](https://smile.amazon.com/Biochemistry-Molecular-Biology-Genetics-Review/dp/1451175361/)
 - Branden and Tooze. *Introduction to Protein Structure*
+- Segel. *Biochemical Calculations: How to Solve Mathematical Problems in General Biochemistry* ([2e](https://smile.amazon.com/dp/0471774219/)) - "Designed to supplement and complement any standard biochemistry text or lecture notes, this book helps provide a balanced picture of modern biochemistry by use of elementary mathematics in understanding properties and behavior of biological molecules."
 
 ### Neuroscience
 
