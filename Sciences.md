@@ -206,7 +206,7 @@ There are math books written for physicists. See also: [Engineering mathematics]
 ### Organic
 
 - Klein. *Organic Chemistry* ([1e](https://www.amazon.com/dp/0471756148), [1e solns](https://www.amazon.com/dp/047175739X))
-- Klein. *Organic Chemistry As a Second Language* ([4e Vol 1](https://www.amazon.com/dp/1119110661/), [4e Vol 2](https://www.amazon.com/dp/1119110653/), [3e Vol 1](https://www.amazon.com/dp/111801040X), [3e Vol 2](https://www.amazon.com/dp/1118144341); [2e Vol 1](https://www.amazon.com/dp/0470129298), [2e Vol 2](https://www.amazon.com/dp/0471738085); [1e Vol 1](https://www.amazon.com/dp/111801040X), [1e Vol 2](https://www.amazon.com/dp/1118144341))
+- Klein. *Organic Chemistry As a Second Language* ([4e Vol 1](https://www.amazon.com/dp/1119110661/), [4e Vol 2](https://www.amazon.com/dp/1119110653/), [3e Vol 1](https://www.amazon.com/dp/111801040X), [3e Vol 2](https://www.amazon.com/dp/1118144341); [2e Vol 1](https://www.amazon.com/dp/0470129298), [2e Vol 2](https://www.amazon.com/dp/0471738085))
 - DeWick. *Essentials of Organic Chemistry: For Students of Pharmacy, Medicinal Chemistry and Biological Chemistry* ([1e](https://www.amazon.com/dp/0470016663)) - "nice diagrams"
 - Loudon. *Organic Chemistry* ([5e/2009](https://www.amazon.com/dp/0981519431), [5e solns](https://www.amazon.com/dp/098151944X); [4e/2001](https://www.amazon.com/dp/0195119991), [4e solns](https://www.amazon.com/dp/0195120000))
 - Wepplo. *A Handbook of Organic Chemistry Mechanisms*
