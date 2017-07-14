@@ -267,6 +267,7 @@ There are math books written for physicists. See also: [Engineering mathematics]
 - [Schmidt-Nielsen. *How Animals Work*](https://smile.amazon.com/dp/0521096928) - Overview of principles of biology.
 - [Schmidt-Nielsen. *Animal Physiology: Adaptation and Environment*](https://smile.amazon.com/dp/0521570980) - College textbook.
 - Raven, Evers, Eichhorn. *Biology of Plants* [8e](https://amazon.com/dp/1429219610) [7e](https://amazon.com/dp/0716710072) [6e](https://amazon.com/dp/1572590416)
+- Kardong. *Vertebrates: Comparative Anatomy, Function, Evolution* [6e](https://smile.amazon.com/dp/0073524239/) [5e](https://smile.amazon.com/dp/0073040584)
 
 ### Cell
 
