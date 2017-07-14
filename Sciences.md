@@ -251,11 +251,6 @@ There are math books written for physicists. See also: [Engineering mathematics]
   (for a typical two-semester biology course for science majors)
 - [Campbell et al. *Biology*](https://www.amazon.com/dp/0805366245/)
 
-### Zoology
-
-- [Schmidt-Nielsen. *How Animals Work*](https://smile.amazon.com/dp/0521096928) - Overview of principles of biology.
-- [Schmidt-Nielsen. *Animal Physiology: Adaptation and Environment*](https://smile.amazon.com/dp/0521570980) - College textbook.
-
 ### Genetics
 
 - Snustad and Simmons. *Principles of Genetics* [5e](https://smile.amazon.com/dp/0470388250/)
@@ -269,6 +264,9 @@ There are math books written for physicists. See also: [Engineering mathematics]
   (for a two-semester course for life science and allied health majors)
 - Hill et al. *Animal Physiology*
 - Taiz and Zeiger. *Plant Physiology* [4e](https://smile.amazon.com/Plant-Physiology-4th-Lincoln-Taiz/dp/0878938567/) [3e](https://smile.amazon.com/Plant-Physiology-Lincoln-Taiz/dp/0878938230/)
+- [Schmidt-Nielsen. *How Animals Work*](https://smile.amazon.com/dp/0521096928) - Overview of principles of biology.
+- [Schmidt-Nielsen. *Animal Physiology: Adaptation and Environment*](https://smile.amazon.com/dp/0521570980) - College textbook.
+- Raven, Evers, Eichhorn. *Biology of Plants* [8e](https://amazon.com/dp/1429219610) [7e](https://amazon.com/dp/0716710072) [6e](https://amazon.com/dp/1572590416)
 
 ### Cell
 
