@@ -300,10 +300,10 @@ There are math books written for physicists. See also: [Engineering mathematics]
 ### Microbiology
 
 - OpenStax Microbiology
-- Tortora et al. *Microbiology: An Introduction* ([10e](https://smile.amazon.com/dp/0321550072/), [9e](https://smile.amazon.com/dp/0805347917/), [8e](https://smile.amazon.com/dp/0805376135/)) - Seems to be the standard textbook; also seems to be a Pearson edition mill.
+- Tortora et al. *Microbiology: An Introduction* ([10e](https://smile.amazon.com/dp/0321550072/), [9e](https://smile.amazon.com/dp/0805347917/), [8e](https://smile.amazon.com/dp/0805376135/)) - Seems to be the standard textbook; also seems to be a Pearson edition mill. "#1 selling non-majors microbiology book"
 - Nester, Anderson et al. *Microbiology: A Human Perspective*  ([8e](https://smile.amazon.com/dp/0073522597/), [7e](https://smile.amazon.com/dp/0073375314/), [6e](https://smile.amazon.com/dp/0077250419/))- "for the non-major/allied health student"
 - Bauman. *Microbiology with Diseases by Body System* ([5e](https://smile.amazon.com/dp/0134477200/), [4e](https://smile.amazon.com/dp/032191855X/), [3e](https://smile.amazon.com/dp/0321712714/))
-- Bauman. *Microbiology with Diseases by Taxonomy* ([5e](https://smile.amazon.com/dp/0134019199/), [4e](https://smile.amazon.com/dp/0321819314/), [3e](https://smile.amazon.com/dp/0321640438/))
+- Bauman. *Microbiology with Diseases by Taxonomy* ([5e](https://smile.amazon.com/dp/0134019199/), [4e](https://smile.amazon.com/dp/0321819314/), [3e](https://smile.amazon.com/dp/0321640438/)) - "For courses in introductory microbiology."
 
 ### Evolution
 
