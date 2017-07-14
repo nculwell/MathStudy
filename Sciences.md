@@ -334,6 +334,7 @@ There are math books written for physicists. See also: [Engineering mathematics]
 - Dugatkin. *Principles of Animal Behavior* ([3e](https://www.amazon.com/dp/0393920453), [2e](https://www.amazon.com/dp/0393934411))
 - Nordell, Valone. *Animal Behavior: Concepts, Methods, and Applications* (1e)
 - Alcock. *Animal Behavior: An Evolutionary Approach* ([10e](https://amazon.com/dp/0878939660), [9e](https://amazon.com/dp/0878932259), [8e](https://amazon.com/dp/), [7e](https://amazon.com/dp/0878930116)
+- Bolhuis, Giraldeau (editors). *The Behavior of Animals: Mechanisms, Function And Evolution* ([1e](https://smile.amazon.com/dp/0631231250))
 
 ## Engineering
 
