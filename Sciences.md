@@ -221,8 +221,8 @@ There are math books written for physicists. See also: [Engineering mathematics]
 
 ### Physical
 
-- McQuarrie and Simon. *Physical Chemistry: A Molecular Approach* (also, accompanying problems & solutions book)
-- Harris and Bertolucci. *Symmetry and Spectroscopy: An Introduction to Vibrational and Electronic Spectroscopy*
+- McQuarrie and Simon. *Physical Chemistry: A Molecular Approach* ([1e](https://smile.amazon.com/dp/0935702997)) (Problems and solutions book: [1e](https://smile.amazon.com/dp/0935702431)) - Teaches math and physical chemistry together.
+- Harris and Bertolucci. *Symmetry and Spectroscopy: An Introduction to Vibrational and Electronic Spectroscopy* ([Dover](https://smile.amazon.com/dp/048666144X))
 - Sands. *Introduction to Crystallography*
 
 ### Quantum
