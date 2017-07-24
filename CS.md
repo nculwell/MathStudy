@@ -293,7 +293,8 @@ These focus on some more specialized areas of algorithms.
 * Brigham, 1988. *The Fast Fourier Transform and Its Applications*
 * Trefethen, 2012, *Approximation Theory and Approximation Practice*
 * Hoffman and Frankel. *Numerical Methods for Engineers and Scientists* ([2e/2001](https://smile.amazon.com/dp/0824704436))
-- Nocedal and Wright. *Numerical Optimization* ([2e](https://smile.amazon.com/dp/0387303030), [1e](https://smile.amazon.com/dp/0387987932))
+* Nocedal and Wright. *Numerical Optimization* ([2e](https://smile.amazon.com/dp/0387303030), [1e](https://smile.amazon.com/dp/0387987932))
+* Numerical Recipes: [http://numerical.recipes/](http://numerical.recipes/)
 
 ### Linear algebra
 
@@ -302,7 +303,7 @@ These focus on some more specialized areas of algorithms.
 - Stewart. *Matrix Algorithms: Volume I: Basic Decompositions* ([1e](https://smile.amazon.com/dp/0898714141/))
 - Stewart. *Matrix Algorithms, Volume II: Eigensystems* ([1e](https://smile.amazon.com/dp/0898715032/))
 - Demmel. *Applied Numerical Linear Algebra* ([1e](https://smile.amazon.com/dp/0898713897/))
-* Golub and Van Loan. *Matrix Computations* ([4e/2012](https://smile.amazon.com/dp/1421407949), [3e/1996](https://smile.amazon.com/dp/0801854148), [2e/1989](https://smile.amazon.com/dp/0801837391))
+- Golub and Van Loan. *Matrix Computations* ([4e/2012](https://smile.amazon.com/dp/1421407949), [3e/1996](https://smile.amazon.com/dp/0801854148), [2e/1989](https://smile.amazon.com/dp/0801837391))
 
 ## Databases
 
