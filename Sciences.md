@@ -309,6 +309,7 @@ There are math books written for physicists. See also: [Engineering mathematics]
 - Bauman. *Microbiology with Diseases by Body System* ([5e](https://smile.amazon.com/dp/0134477200/), [4e](https://smile.amazon.com/dp/032191855X/), [3e](https://smile.amazon.com/dp/0321712714/))
 - Bauman. *Microbiology with Diseases by Taxonomy* ([5e](https://smile.amazon.com/dp/0134019199/), [4e](https://smile.amazon.com/dp/0321819314/), [3e](https://smile.amazon.com/dp/0321640438/)) - "For courses in introductory microbiology."
 - Schaechter, Neidhardt et al. *Microbe* ([2e](https://smile.amazon.com/dp/1555819125/), [2e @ASM](http://asmscience.org/content/book/10.1128/9781555819132), [1e](https://smile.amazon.com/dp/1555813208/)) - for majors
+- Madigan et al. *Brock Biology of Microorganisms* ([14e/2014](https://smile.amazon.com/dp/0321897390), [13e/2010](https://smile.amazon.com/dp/032164963X), [12e/2008](https://smile.amazon.com/dp/0132324601), [11e/2006](https://smile.amazon.com/dp/0131443291)) - also for majors, looks like another Pearson edition mill
 
 #### Beyond intro
 
