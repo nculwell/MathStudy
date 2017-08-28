@@ -348,13 +348,24 @@ There are math books written for physicists. See also: [Engineering mathematics]
 - Feldhamer, Drickamer, Vessey, Merritt, Krajewski. *Mammalogy: Adaptation, Diversity, Ecology* ([4e/2014](https://smile.amazon.com/dp/1421415887), [3e/2007](https://smile.amazon.com/Mammalogy-Adaptation-Diversity-George-Feldhamer/dp/0801886953))
 - Martin, Pine, DeBlase. *A Manual of Mammalogy: With Keys to Families of the World* ([3e](https://smile.amazon.com/Manual-Mammalogy-Keys-Families-World/dp/1577667689))
 - Macdonald (ed). *The \[Princeton] Encyclopedia of Mammals Paperback* ([2009](https://smile.amazon.com/dp/0691140693), [2001](https://smile.amazon.com/dp/0760719691))
+- https://smile.amazon.com/Mammalogy-Bartlett-Learning-Biological-Science/dp/1284032094
 - Peterson field guides
   - https://smile.amazon.com/Peterson-Field-Guide-to-Mammals-of-North-America-Fourth-Edition/dp/0395935962
   - https://smile.amazon.com/Peterson-Reptiles-Amphibians-Eastern-Central/dp/0544129970
   - https://smile.amazon.com/Peterson-Freshwater-Fishes-Second-Guides/dp/0547242069
   - https://smile.amazon.com/Field-Guide-Insects-America-Mexico/dp/0395911702
   - https://smile.amazon.com/Peterson-Eastern-Central-America-Guides/dp/0547152469
-  - 
+- Golden guides
+  - https://smile.amazon.com/Spiders-Their-Authoritative-Easy-Use/dp/1582381569
+  - https://smile.amazon.com/Insects-Golden-Guide-Martins-Press/dp/1582381291
+  - https://smile.amazon.com/Reptiles-Amphibians-Authoritative-Easy-Use/dp/1582381313
+  - https://smile.amazon.com/Mammals-Illustrated-Authoritative-Easy-Use/dp/1582381445
+  - https://smile.amazon.com/Birds-Illustrated-Authoritative-Easy-Use/dp/1582381283
+  - https://smile.amazon.com/Snakes-Golden-Guide-Martins-Press/dp/0312306083
+- https://smile.amazon.com/Arachnids-Jan-Beccaloni/dp/0520261402
+- https://smile.amazon.com/Biology-Spiders-Rainer-Foelix/dp/0199734828
+- https://smile.amazon.com/Entomology-Study-Insects-Jael-Payne/dp/1635491088
+- https://smile.amazon.com/Insects-Natural-History-Diversity-Photographic/dp/1552979008
 
 ## Engineering
 
