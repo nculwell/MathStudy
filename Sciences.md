@@ -337,6 +337,25 @@ There are math books written for physicists. See also: [Engineering mathematics]
 - Alcock. *Animal Behavior: An Evolutionary Approach* ([10e](https://amazon.com/dp/0878939660), [9e](https://amazon.com/dp/0878932259), [8e](https://amazon.com/dp/), [7e](https://amazon.com/dp/0878930116)
 - Bolhuis, Giraldeau (editors). *The Behavior of Animals: Mechanisms, Function And Evolution* ([1e](https://smile.amazon.com/dp/0631231250))
 
+### Portions of the tree of life
+
+- Gill. *Ornithology* 3e https://smile.amazon.com/Ornithology-Frank-B-Gill/dp/0716749831
+- Lovette, Fitzpatrick. *Handbook of Bird Biology* 3e https://smile.amazon.com/Handbook-Bird-Biology-Cornell-Ornithology/dp/1118291050
+- Proctor, Lynch. *Manual of Ornithology: Avian Structure and Function* 1e https://smile.amazon.com/Manual-Ornithology-Avian-Structure-Function/dp/0300076193
+- Helfman, Collette, Facey, Bowen. The Diversity of Fishes: Biology, Evolution, and Ecology 2e https://smile.amazon.com/Diversity-Fishes-Biology-Evolution-Ecology/dp/1405124946
+- Moyle, Cech. *Fishes: An Introduction to Ichthyology* ([4e/1999](https://smile.amazon.com/dp/0130112828), [5e/2003](https://smile.amazon.com/dp/0131008471))
+- Pough, Andrews, Cadle, Crump, Savitsky, Wells. *Herpetology* ([3e/2003](https://smile.amazon.com/dp/0131008498), [4e/2009](https://smile.amazon.com/dp/0131566490))
+- Feldhamer, Drickamer, Vessey, Merritt, Krajewski. *Mammalogy: Adaptation, Diversity, Ecology* ([4e/2014](https://smile.amazon.com/dp/1421415887), [3e/2007](https://smile.amazon.com/Mammalogy-Adaptation-Diversity-George-Feldhamer/dp/0801886953))
+- Martin, Pine, DeBlase. *A Manual of Mammalogy: With Keys to Families of the World* ([3e](https://smile.amazon.com/Manual-Mammalogy-Keys-Families-World/dp/1577667689))
+- Macdonald (ed). *The \[Princeton] Encyclopedia of Mammals Paperback* ([2009](https://smile.amazon.com/dp/0691140693), [2001](https://smile.amazon.com/dp/0760719691))
+- Peterson field guides
+  - https://smile.amazon.com/Peterson-Field-Guide-to-Mammals-of-North-America-Fourth-Edition/dp/0395935962
+  - https://smile.amazon.com/Peterson-Reptiles-Amphibians-Eastern-Central/dp/0544129970
+  - https://smile.amazon.com/Peterson-Freshwater-Fishes-Second-Guides/dp/0547242069
+  - https://smile.amazon.com/Field-Guide-Insects-America-Mexico/dp/0395911702
+  - https://smile.amazon.com/Peterson-Eastern-Central-America-Guides/dp/0547152469
+  - 
+
 ## Engineering
 
 Not science but this seemed like a convenient place to put this section.
