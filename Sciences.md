@@ -266,7 +266,6 @@ There are math books written for physicists. See also: [Engineering mathematics]
 - Taiz and Zeiger. *Plant Physiology* [4e](https://smile.amazon.com/Plant-Physiology-4th-Lincoln-Taiz/dp/0878938567/) [3e](https://smile.amazon.com/Plant-Physiology-Lincoln-Taiz/dp/0878938230/)
 - [Schmidt-Nielsen. *How Animals Work*](https://smile.amazon.com/dp/0521096928) - Overview of principles of biology.
 - [Schmidt-Nielsen. *Animal Physiology: Adaptation and Environment*](https://smile.amazon.com/dp/0521570980) - College textbook.
-- Raven, Evers, Eichhorn. *Biology of Plants* [8e](https://amazon.com/dp/1429219610) [7e](https://amazon.com/dp/0716710072) [6e](https://amazon.com/dp/1572590416)
 - Kardong. *Vertebrates: Comparative Anatomy, Function, Evolution* [6e](https://smile.amazon.com/dp/0073524239/) [5e](https://smile.amazon.com/dp/0073040584)
 - Gilbert, Barresi. *Developmental Biology* ([11e](https://smile.amazon.com/dp/1605354708/), [10e](https://smile.amazon.com/dp/0878939784/), [9e](https://smile.amazon.com/dp/0878933840/)) - "the gesalt of developmental biology as a whole"
 
@@ -328,6 +327,10 @@ There are math books written for physicists. See also: [Engineering mathematics]
 
 ### Botany
 
+- Raven, Evers, Eichhorn. *Biology of Plants* ([8e](https://amazon.com/dp/1429219610), [7e](https://amazon.com/dp/0716710072), [6e](https://amazon.com/dp/1572590416))
+- Gurevitch, Scheiner, Fox. *The Ecology of Plants* ([2e](https://smile.amazon.com/dp/0878932941))
+- Judd, Campbell, Kellogg, Stevens, Donoghue. *Plant Systematics: A Phylogenetic Approach* ([4e](https://smile.amazon.com/dp/1605353892), [3e](https://smile.amazon.com/dp/0878934073), [2e](https://smile.amazon.com/dp/0878934030), [1e](https://smile.amazon.com/dp/0878934049))
+
 ### Zoology
 
 #### Animal Behavior
@@ -352,17 +355,17 @@ There are math books written for physicists. See also: [Engineering mathematics]
 - Feldhamer, Drickamer, Vessey, Merritt, Krajewski. *Mammalogy: Adaptation, Diversity, Ecology* ([4e/2014](https://smile.amazon.com/dp/1421415887), [3e/2007](https://smile.amazon.com/Mammalogy-Adaptation-Diversity-George-Feldhamer/dp/0801886953))
 - Martin, Pine, DeBlase. *A Manual of Mammalogy: With Keys to Families of the World* ([3e](https://smile.amazon.com/Manual-Mammalogy-Keys-Families-World/dp/1577667689))
 - Macdonald (ed). *The \[Princeton] Encyclopedia of Mammals Paperback* ([2009](https://smile.amazon.com/dp/0691140693), [2001](https://smile.amazon.com/dp/0760719691))
-- https://smile.amazon.com/Mammalogy-Bartlett-Learning-Biological-Science/dp/1284032094
+- Vaughan, Ryan, Czaplewski. *Mammalogy* ([6e/2013](https://smile.amazon.com/dp/1284032094), [5e](https://smile.amazon.com/dp/0763762997), [4e](https://smile.amazon.com/dp/003025034X))
 ##### Arthropods
 ###### Not insects
-- https://smile.amazon.com/Arachnids-Jan-Beccaloni/dp/0520261402
-- https://smile.amazon.com/Biology-Spiders-Rainer-Foelix/dp/0199734828
+- Beccaloni. *Arachnids* ([1e/2009](https://smile.amazon.com/dp/0520261402))
+- Foelix. *Biology of Spiders* ([3e/2010](https://smile.amazon.com/dp/0199734828))
 ###### Insects
 - Gullan, Cranston. *The Insects: An Outline of Entomology* ([5e](https://smile.amazon.com/dp/111884615X), [4e](https://smile.amazon.com/dp/1444330365))
-- https://smile.amazon.com/Entomology-Study-Insects-Jael-Payne/dp/1635491088
-- https://smile.amazon.com/Insects-Natural-History-Diversity-Photographic/dp/1552979008
-- Chapman et al. *The Insects: Structure and Function* [5e](https://smile.amazon.com/dp/052111389X/) "excellent text for covering the highlights of insect physiology, development, biochemistry, and morphology"
-- Triplehorn, Johnson. *Borror and DeLong's Introduction to the Study of Insects* [7e](https://smile.amazon.com/dp/0030968356/) "extensive taxonomic treatment - a standard reference"
+- Payne (ed). *Entomology: Study of Insects* ([1e/2017](https://smile.amazon.com/dp/1635491088))
+- Marshall. *Insects: Their Natural History and Diversity: With a Photographic Guide to Insects of Eastern North America* ([2e/2017](https://smile.amazon.com/dp/1770859624), [1e/2006](https://smile.amazon.com/dp/1552979008)) - Seems more focused on photography and identification than biology, but I'm not sure because I can't view most of the book online.
+- Chapman et al. *The Insects: Structure and Function* ([5e](https://smile.amazon.com/dp/052111389X/)) "excellent text for covering the highlights of insect physiology, development, biochemistry, and morphology"
+- Triplehorn, Johnson. *Borror and DeLong's Introduction to the Study of Insects* ([7e](https://smile.amazon.com/dp/0030968356/)) "extensive taxonomic treatment - a standard reference"
 - Klowden. *Physiological Systems in Insects* [3e](https://smile.amazon.com/dp/0124158196/)
 - Nation. *Insect Physiology and Biochemistry* [3e](https://smile.amazon.com/dp/1482247585/)
 ##### Peterson field guides
