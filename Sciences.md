@@ -268,10 +268,6 @@ There are math books written for physicists. See also: [Engineering mathematics]
 - [Schmidt-Nielsen. *Animal Physiology: Adaptation and Environment*](https://smile.amazon.com/dp/0521570980) - College textbook.
 - Raven, Evers, Eichhorn. *Biology of Plants* [8e](https://amazon.com/dp/1429219610) [7e](https://amazon.com/dp/0716710072) [6e](https://amazon.com/dp/1572590416)
 - Kardong. *Vertebrates: Comparative Anatomy, Function, Evolution* [6e](https://smile.amazon.com/dp/0073524239/) [5e](https://smile.amazon.com/dp/0073040584)
-- Chapman et al. *The Insects: Structure and Function* [5e](https://smile.amazon.com/dp/052111389X/) "excellent text for covering the highlights of insect physiology, development, biochemistry, and morphology"
-- Triplehorn, Johnson. *Borror and DeLong's Introduction to the Study of Insects* [7e](https://smile.amazon.com/dp/0030968356/) "extensive taxonomic treatment - a standard reference"
-- Klowden. *Physiological Systems in Insects* [3e](https://smile.amazon.com/dp/0124158196/)
-- Nation. *Insect Physiology and Biochemistry* [3e](https://smile.amazon.com/dp/1482247585/)
 - Gilbert, Barresi. *Developmental Biology* ([11e](https://smile.amazon.com/dp/1605354708/), [10e](https://smile.amazon.com/dp/0878939784/), [9e](https://smile.amazon.com/dp/0878933840/)) - "the gesalt of developmental biology as a whole"
 
 ### Cell
@@ -330,43 +326,58 @@ There are math books written for physicists. See also: [Engineering mathematics]
 - Gordis. *Epidemiology* ([4e](https://smile.amazon.com/dp/1416040021))
 - Hennekens, Buring, Mayrent. *Epidemiology in Medicine* ([1e](https://smile.amazon.com/dp/0316356360))
 
-### Animal Behavior
+### Botany
+
+### Zoology
+
+#### Animal Behavior
 
 - Dugatkin. *Principles of Animal Behavior* ([3e](https://www.amazon.com/dp/0393920453), [2e](https://www.amazon.com/dp/0393934411))
 - Nordell, Valone. *Animal Behavior: Concepts, Methods, and Applications* (1e)
 - Alcock. *Animal Behavior: An Evolutionary Approach* ([10e](https://amazon.com/dp/0878939660), [9e](https://amazon.com/dp/0878932259), [8e](https://amazon.com/dp/), [7e](https://amazon.com/dp/0878930116)
 - Bolhuis, Giraldeau (editors). *The Behavior of Animals: Mechanisms, Function And Evolution* ([1e](https://smile.amazon.com/dp/0631231250))
 
-### Portions of the tree of life
+#### Animal subgroups
 
+##### Birds
 - Gill. *Ornithology* 3e https://smile.amazon.com/Ornithology-Frank-B-Gill/dp/0716749831
 - Lovette, Fitzpatrick. *Handbook of Bird Biology* 3e https://smile.amazon.com/Handbook-Bird-Biology-Cornell-Ornithology/dp/1118291050
 - Proctor, Lynch. *Manual of Ornithology: Avian Structure and Function* 1e https://smile.amazon.com/Manual-Ornithology-Avian-Structure-Function/dp/0300076193
-- Helfman, Collette, Facey, Bowen. The Diversity of Fishes: Biology, Evolution, and Ecology 2e https://smile.amazon.com/Diversity-Fishes-Biology-Evolution-Ecology/dp/1405124946
+##### Fishes
+- Helfman, Collette, Facey, Bowen. *The Diversity of Fishes: Biology, Evolution, and Ecology* ([2e]( https://smile.amazon.com/dp/1405124946))
 - Moyle, Cech. *Fishes: An Introduction to Ichthyology* ([4e/1999](https://smile.amazon.com/dp/0130112828), [5e/2003](https://smile.amazon.com/dp/0131008471))
+##### Reptiles, amphibians
 - Pough, Andrews, Cadle, Crump, Savitsky, Wells. *Herpetology* ([3e/2003](https://smile.amazon.com/dp/0131008498), [4e/2009](https://smile.amazon.com/dp/0131566490))
+##### Mammals
 - Feldhamer, Drickamer, Vessey, Merritt, Krajewski. *Mammalogy: Adaptation, Diversity, Ecology* ([4e/2014](https://smile.amazon.com/dp/1421415887), [3e/2007](https://smile.amazon.com/Mammalogy-Adaptation-Diversity-George-Feldhamer/dp/0801886953))
 - Martin, Pine, DeBlase. *A Manual of Mammalogy: With Keys to Families of the World* ([3e](https://smile.amazon.com/Manual-Mammalogy-Keys-Families-World/dp/1577667689))
 - Macdonald (ed). *The \[Princeton] Encyclopedia of Mammals Paperback* ([2009](https://smile.amazon.com/dp/0691140693), [2001](https://smile.amazon.com/dp/0760719691))
 - https://smile.amazon.com/Mammalogy-Bartlett-Learning-Biological-Science/dp/1284032094
-- Peterson field guides
+##### Arthropods
+###### Not insects
+- https://smile.amazon.com/Arachnids-Jan-Beccaloni/dp/0520261402
+- https://smile.amazon.com/Biology-Spiders-Rainer-Foelix/dp/0199734828
+###### Insects
+- Gullan, Cranston. *The Insects: An Outline of Entomology* ([5e](https://smile.amazon.com/dp/111884615X), [4e](https://smile.amazon.com/dp/1444330365))
+- https://smile.amazon.com/Entomology-Study-Insects-Jael-Payne/dp/1635491088
+- https://smile.amazon.com/Insects-Natural-History-Diversity-Photographic/dp/1552979008
+- Chapman et al. *The Insects: Structure and Function* [5e](https://smile.amazon.com/dp/052111389X/) "excellent text for covering the highlights of insect physiology, development, biochemistry, and morphology"
+- Triplehorn, Johnson. *Borror and DeLong's Introduction to the Study of Insects* [7e](https://smile.amazon.com/dp/0030968356/) "extensive taxonomic treatment - a standard reference"
+- Klowden. *Physiological Systems in Insects* [3e](https://smile.amazon.com/dp/0124158196/)
+- Nation. *Insect Physiology and Biochemistry* [3e](https://smile.amazon.com/dp/1482247585/)
+##### Peterson field guides
   - https://smile.amazon.com/Peterson-Field-Guide-to-Mammals-of-North-America-Fourth-Edition/dp/0395935962
   - https://smile.amazon.com/Peterson-Reptiles-Amphibians-Eastern-Central/dp/0544129970
   - https://smile.amazon.com/Peterson-Freshwater-Fishes-Second-Guides/dp/0547242069
   - https://smile.amazon.com/Field-Guide-Insects-America-Mexico/dp/0395911702
   - https://smile.amazon.com/Peterson-Eastern-Central-America-Guides/dp/0547152469
-- Golden guides
+##### Golden guides
   - https://smile.amazon.com/Spiders-Their-Authoritative-Easy-Use/dp/1582381569
   - https://smile.amazon.com/Insects-Golden-Guide-Martins-Press/dp/1582381291
   - https://smile.amazon.com/Reptiles-Amphibians-Authoritative-Easy-Use/dp/1582381313
   - https://smile.amazon.com/Mammals-Illustrated-Authoritative-Easy-Use/dp/1582381445
   - https://smile.amazon.com/Birds-Illustrated-Authoritative-Easy-Use/dp/1582381283
   - https://smile.amazon.com/Snakes-Golden-Guide-Martins-Press/dp/0312306083
-- https://smile.amazon.com/Arachnids-Jan-Beccaloni/dp/0520261402
-- https://smile.amazon.com/Biology-Spiders-Rainer-Foelix/dp/0199734828
-- Gullan, Cranston. *The Insects: An Outline of Entomology* ([5e](https://smile.amazon.com/dp/111884615X), [4e](https://smile.amazon.com/dp/1444330365))
-- https://smile.amazon.com/Entomology-Study-Insects-Jael-Payne/dp/1635491088
-- https://smile.amazon.com/Insects-Natural-History-Diversity-Photographic/dp/1552979008
 
 ## Engineering
 
