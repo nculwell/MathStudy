@@ -364,6 +364,7 @@ There are math books written for physicists. See also: [Engineering mathematics]
   - https://smile.amazon.com/Snakes-Golden-Guide-Martins-Press/dp/0312306083
 - https://smile.amazon.com/Arachnids-Jan-Beccaloni/dp/0520261402
 - https://smile.amazon.com/Biology-Spiders-Rainer-Foelix/dp/0199734828
+- Gullan, Cranston. *The Insects: An Outline of Entomology* ([5e](https://smile.amazon.com/dp/111884615X), [4e](https://smile.amazon.com/dp/1444330365))
 - https://smile.amazon.com/Entomology-Study-Insects-Jael-Payne/dp/1635491088
 - https://smile.amazon.com/Insects-Natural-History-Diversity-Photographic/dp/1552979008
 
