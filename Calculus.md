@@ -223,6 +223,6 @@ The term "advanced calculus" seems to be somewhat vague. Sometimes it means calc
 
 ## Calculus of variations
 
-https://www.amazon.com/Calculus-Variations-Applications-Physics-Engineering/dp/0486630692
-https://smile.amazon.com/Calculus-Variations-Dover-Books-Mathematics/dp/0486414485
-https://smile.amazon.com/Variational-Principles-Mechanics-Dover-Physics/dp/0486650677
+<https://www.amazon.com/Calculus-Variations-Applications-Physics-Engineering/dp/0486630692>
+<https://smile.amazon.com/Calculus-Variations-Dover-Books-Mathematics/dp/0486414485>
+<https://smile.amazon.com/Variational-Principles-Mechanics-Dover-Physics/dp/0486650677>

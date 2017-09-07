@@ -6,7 +6,7 @@
 
 The OpenStax project offers free, high-quality textbooks for a variety of subjects. Here's the link to the math section:
 
-https://openstax.org/subjects/math
+<https://openstax.org/subjects/math>
 
 They also sell them through their own Amazon storefront for $58 each (as of June 2016). Currently there are no cheap used copies available, but hopefully this will change in the future as these books become more popular.
 
@@ -209,25 +209,25 @@ Schaum's has several of their "outlines" which are appropriate for this level. S
 
 - Tanton. *Trigonometry: A Clever Study Guide* ([1e](https://smile.amazon.com/Trigonometry-Clever-Study-Guide-Problem/dp/0883858363))
 
-https://smile.amazon.com/Stanford-Mathematics-Problem-Book-Solutions/dp/0486469247
-https://smile.amazon.com/USSR-Olympiad-Problem-Book-Mathematics/dp/0486277097
-https://smile.amazon.com/Moscow-Puzzles-Mathematical-Recreations-Recreational/dp/0486270785
-https://smile.amazon.com/Olympiad-Contest-Problems-Elementary-Schools/dp/0962666211
-https://smile.amazon.com/Colossal-Book-Mathematics-Paradoxes-Problems/dp/0393020231
-https://smile.amazon.com/Contest-Problem-Book-VIII-MAA/dp/0883858258
-https://smile.amazon.com/Contest-Problem-Book-MAA-Bk/dp/0883858266
-https://smile.amazon.com/Challenging-Mathematical-Problems-Elementary-Solutions/dp/0486655369
-https://smile.amazon.com/Green-Mathematical-Problems-Dover-Mathematics/dp/0486695735
-https://smile.amazon.com/Mathematical-Problems-Dover-Books-Mathematics/dp/0486694151
-https://smile.amazon.com/Challenging-Problems-Algebra-Dover-Mathematics/dp/0486691489
-https://smile.amazon.com/Problem-Solving-Through-Recreational-Mathematics/dp/0486409171
-https://smile.amazon.com/Competition-Math-Middle-School-Batterson/dp/1441488871
-https://smile.amazon.com/Mathematical-Logic-Puzzles-Dover-Recreational/dp/0486281523
-https://smile.amazon.com/IMO-Compendium-International-Mathematical-Mathematics/dp/1441998535
-https://smile.amazon.com/Competitive-Mathematics-Gifted-Students-Level/dp/0692240071
-https://smile.amazon.com/Solve-Mathematical-Problems-Dover-Mathematics/dp/0486284336
-https://smile.amazon.com/Art-Craft-Problem-Solving/dp/0471789011
-https://smile.amazon.com/Problem-Solving-Strategies-Problem-Books-Mathematics/dp/0387982191
+<https://smile.amazon.com/Stanford-Mathematics-Problem-Book-Solutions/dp/0486469247>
+<https://smile.amazon.com/USSR-Olympiad-Problem-Book-Mathematics/dp/0486277097>
+<https://smile.amazon.com/Moscow-Puzzles-Mathematical-Recreations-Recreational/dp/0486270785>
+<https://smile.amazon.com/Olympiad-Contest-Problems-Elementary-Schools/dp/0962666211>
+<https://smile.amazon.com/Colossal-Book-Mathematics-Paradoxes-Problems/dp/0393020231>
+<https://smile.amazon.com/Contest-Problem-Book-VIII-MAA/dp/0883858258>
+<https://smile.amazon.com/Contest-Problem-Book-MAA-Bk/dp/0883858266>
+<https://smile.amazon.com/Challenging-Mathematical-Problems-Elementary-Solutions/dp/0486655369>
+<https://smile.amazon.com/Green-Mathematical-Problems-Dover-Mathematics/dp/0486695735>
+<https://smile.amazon.com/Mathematical-Problems-Dover-Books-Mathematics/dp/0486694151>
+<https://smile.amazon.com/Challenging-Problems-Algebra-Dover-Mathematics/dp/0486691489>
+<https://smile.amazon.com/Problem-Solving-Through-Recreational-Mathematics/dp/0486409171>
+<https://smile.amazon.com/Competition-Math-Middle-School-Batterson/dp/1441488871>
+<https://smile.amazon.com/Mathematical-Logic-Puzzles-Dover-Recreational/dp/0486281523>
+<https://smile.amazon.com/IMO-Compendium-International-Mathematical-Mathematics/dp/1441998535>
+<https://smile.amazon.com/Competitive-Mathematics-Gifted-Students-Level/dp/0692240071>
+<https://smile.amazon.com/Solve-Mathematical-Problems-Dover-Mathematics/dp/0486284336>
+<https://smile.amazon.com/Art-Craft-Problem-Solving/dp/0471789011>
+<https://smile.amazon.com/Problem-Solving-Strategies-Problem-Books-Mathematics/dp/0387982191>
 
 ### AMS Mathematical World series
 
@@ -243,7 +243,7 @@ Some titles that have caught my attention:
 
 ## Cambridge reading list (pre-university)
 
-http://www.maths.cam.ac.uk/undergrad/admissions/readinglist.pdf
+<http://www.maths.cam.ac.uk/undergrad/admissions/readinglist.pdf>
 
 ## Sequences from major publishers
 
