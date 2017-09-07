@@ -105,14 +105,14 @@ Modern probability theory builds its mathematical foundation on measure theory, 
 
 - Diez, Barr, Çetinkaya-Rundel. *OpenIntro Statistics* (f)
 
-  Get it free online (or order it) here: https://www.openintro.org/stat/textbook.php?stat_book=os
+  Get it free online (or order it) here: <https://www.openintro.org/stat/textbook.php?stat_book=os>
 
   There are also a couple of other editions that de-emphasize math in order to teach students who have less background. (You can find them as well via the link above.)
 
 - OpenStax, *Introductory Statistics* (f)
 
-  - Free PDF: https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/IntroductoryStatistics-OP.pdf
-  - Buy on Amazon: http://www.amazon.com/Introductory-Statistics-OpenStax/dp/1938168208
+  - Free PDF: <https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/IntroductoryStatistics-OP.pdf>
+  - Buy on Amazon: <http://www.amazon.com/Introductory-Statistics-OpenStax/dp/1938168208>
 
 - DeGroot and Schervish, *Probability and Statistics* ([2e](https://smile.amazon.com/dp/020111366X), [3e](https://smile.amazon.com/dp/B01FETPSRG), [4e](https://smile.amazon.com/dp/0321500466), [4e intl at AbeBooks](http://www.abebooks.com/products/isbn/9780321500465))
 
@@ -171,12 +171,12 @@ AKA statistical learning, data mining, predictive modeling.
 * James, Witten, Hastie and Tibshirani, 2013. *An Introduction to Statistical Learning: with Applications in R*
 
   AKA ISL or ISLR. Probably the most popular introduction to maching learning.
-  http://www-bcf.usc.edu/~gareth/ISL/
+  <http://www-bcf.usc.edu/~gareth/ISL/>
 
 * Hastie, Tibshirani and Friedman, 2009. *The Elements of Statistical Learning: Data Mining, Inference, and Prediction*
 
   AKA ESL. The standard textbook for serious machine learning courses.
-  http://statweb.stanford.edu/~tibs/ElemStatLearn/
+  <http://statweb.stanford.edu/~tibs/ElemStatLearn/>
 
 * Goodfellow, Bengio and Courville, forthcoming/online. *Deep Learning*
 
@@ -185,12 +185,12 @@ AKA statistical learning, data mining, predictive modeling.
 * Barber, 2012. *Bayesian Reasoning and Machine Learning*
 
   AKA BRML. A popular machine learning textbook from a Bayesian viewpoint.
-  http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage
+  <http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage>
 
 * MacKay, 2003. *Information Theory, Inference, and Learning Algorithms*
   
   An older, but respected, introduction to ML from an information theory viewpoint.
-  http://www.inference.phy.cam.ac.uk/itila/p0.html
+  <http://www.inference.phy.cam.ac.uk/itila/p0.html>
 
 * Boyd and Vandenberghe, *Convex Optimization*
 
@@ -251,6 +251,6 @@ AKA statistical learning, data mining, predictive modeling.
 
 * Manning, Raghavan, Schütze, 2008. *Introduction to Information Retrieval* ([1e](https://smile.amazon.com/dp/0521865719))
 
-  Free on the web: http://nlp.stanford.edu/IR-book/
+  Free on the web: <http://nlp.stanford.edu/IR-book/>
 
 * Büttcher, Clarke, Cormack, 2010. *Information Retrieval: Implementing and Evaluating Search Engines* ([1e](https://smile.amazon.com/dp/0262528878))

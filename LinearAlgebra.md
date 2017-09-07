@@ -53,7 +53,7 @@ These are texts in the old style, aimed at mathematicians. Some of them are olde
 - Treil. *Linear Algebra Done Wrong*
 
   The title is a play on Axler's *Linear Algebra Done Right*. Free online at the author's page:
-  https://www.math.brown.edu/~treil/papers/LADW/LADW.html
+  <https://www.math.brown.edu/~treil/papers/LADW/LADW.html>
 
 - Beezer. *A First Course in Linear Algebra* ([**FREE ONLINE**](http://linear.ups.edu/))
 
@@ -71,7 +71,7 @@ I put this book in its own category because it's a bit unique in its appeal. It 
 
 ## Problems
 
-- Erdman. *Exercises and Problems in Linear Algebra* http://web.pdx.edu/~erdman/LINALG/Linalg_licensepage.html
+- Erdman. *Exercises and Problems in Linear Algebra* <http://web.pdx.edu/~erdman/LINALG/Linalg_licensepage.html>
 - Zhang. *Linear Algebra: Challenging Problems for Students* ([1e](https://smile.amazon.com/dp/0801854598))
 - Lipschutz. Schaum's *3,000 Solved Problems in Linear Algebra* ([1e](https://smile.amazon.com/dp/0070380236))
 - Lipschutz and Lipson. *Schaum's Outline of Linear Algebra* ([5e](https://smile.amazon.com/dp/0071794565), [4e](https://smile.amazon.com/dp/007154352X))
@@ -109,7 +109,7 @@ Most of these will probably be more accessible to someone who has read one of th
 
 - Erdman. *Elements of Linear and Multilinear Algebra
 
-  Free notes: http://web.pdx.edu/~erdman/ELMA/multilinear_algebra_pdf.pdf
+  Free notes: <http://web.pdx.edu/~erdman/ELMA/multilinear_algebra_pdf.pdf>
 
 Others:
 - Gentle. *Matrix Algebra: Theory, Computations, and Applications in Statistics*

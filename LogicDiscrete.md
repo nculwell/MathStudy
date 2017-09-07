@@ -2,7 +2,7 @@
 
 ## Logic
 
-A nice guide to studying logic: http://www.logicmatters.net/tyl/
+A nice guide to studying logic: <http://www.logicmatters.net/tyl/>
 
 ### Philosophical logic
 
@@ -19,7 +19,7 @@ and also has a nice overview of less mainstream types of logics.
 
 * Keisler, Kunen, Millar, Miller, Robbin, *Mathematical Logic and Computability*
 
-  Free online here: https://www.math.wisc.edu/~miller/res/book.pdf.
+  Free online here: <https://www.math.wisc.edu/~miller/res/book.pdf.>
 
 * Enderton, *A Mathematical Introduction to Logic* ([2e](https://smile.amazon.com/dp/0122384520), [1e at AbeBooks](http://www.abebooks.com/products/isbn/9780122384509))
 * Chiswell and Hodges. *Mathematical Logic* ([1e](https://smile.amazon.com/dp/0199215626))
@@ -75,13 +75,13 @@ and also has a nice overview of less mainstream types of logics.
 
 #### Logic course notes
 
-* Simpson: http://www.personal.psu.edu/t20/notes/
+* Simpson: <http://www.personal.psu.edu/t20/notes/>
 
   Mathematical Logic; Incompleteness and Undecidability; Foundations of Mathematics; Model Theory; Computability, Unsolvability, and Randomness; some "topics" courses.
 
-* Simmons and Schalk. *An introduction to lambda-calculi and arithmetic* http://www.cs.man.ac.uk/~hsimmons/BOOKS/lcalculus.pdf
-* Simmons. *An introduction to Good old fashioned model theory* (incomplete) http://www.cs.man.ac.uk/~hsimmons/BOOKS/ModelTheory.pdf
-* Simmons. *Basic Model Theory* http://www.cs.man.ac.uk/~hsimmons/MODEL-THEORY/model-theory.html
+* Simmons and Schalk. *An introduction to lambda-calculi and arithmetic* <http://www.cs.man.ac.uk/~hsimmons/BOOKS/lcalculus.pdf>
+* Simmons. *An introduction to Good old fashioned model theory* (incomplete) <http://www.cs.man.ac.uk/~hsimmons/BOOKS/ModelTheory.pdf>
+* Simmons. *Basic Model Theory* <http://www.cs.man.ac.uk/~hsimmons/MODEL-THEORY/model-theory.html>
 
 ## Set Theory
 
@@ -108,7 +108,7 @@ and also has a nice overview of less mainstream types of logics.
 
   Note that this is by David Spivak, not Michael Spivak of [*Calculus*](Calculus.md#elite-calculus-textbooks) fame. A pre-publication version, before final editing and without solutions, is available online here:
 
-  http://ocw.mit.edu/courses/mathematics/18-s996-category-theory-for-scientists-spring-2013/textbook/
+  <http://ocw.mit.edu/courses/mathematics/18-s996-category-theory-for-scientists-spring-2013/textbook/>
 
 * Pierce. *Basic Category Theory for Computer Scientists* ([1e](https://smile.amazon.com/dp/0262660717))
 
@@ -118,8 +118,8 @@ and also has a nice overview of less mainstream types of logics.
 
 ### Course notes
 
-* Simmons and Schalk. *Category theory in four easy movements* http://www.cs.man.ac.uk/~hsimmons/BOOKS/CatTheory.pdf
-* Simmons. *Category Theory by Magic* http://www.cs.man.ac.uk/~hsimmons/MAGIC-CATS/CourseNotes-Nov-29.pdf
+* Simmons and Schalk. *Category theory in four easy movements* <http://www.cs.man.ac.uk/~hsimmons/BOOKS/CatTheory.pdf>
+* Simmons. *Category Theory by Magic* <http://www.cs.man.ac.uk/~hsimmons/MAGIC-CATS/CourseNotes-Nov-29.pdf>
 
 ## Discrete Math
 
@@ -195,7 +195,7 @@ Typical topics are: logic and proof, set theory, functions, introduction to algo
 
 * Diestel. *Graph Theory* ([4e](https://smile.amazon.com/dp/3642142788), [3e](https://smile.amazon.com/dp/3540261834))
 
-  Can be previewed free online. See: http://diestel-graph-theory.com/
+  Can be previewed free online. See: <http://diestel-graph-theory.com/>
 
 * Bollobás. *Modern Graph Theory* ([1e](https://smile.amazon.com/dp/0387984887))
 * Bollobás. *Extremal Graph Theory* ([Dover](https://smile.amazon.com/dp/0486435962))

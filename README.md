@@ -25,12 +25,12 @@ I'm not sure how well I chose the sections here, but at least they break the lis
 
 ## Lists of free resources
 
-- http://hbpms.blogspot.com/ - A list similar to this one that links to many free books.
-- Open Textbook Library (Minnesota): http://open.umn.edu/opentextbooks/
-- UPS list: http://linear.ups.edu/curriculum.html
-- OpenStax: https://openstax.org/
-- George Cain (GA Tech): https://people.math.gatech.edu/~cain/textbooks/onlinebooks.html
-- Green Tea Press (Free books by Allen Downey): http://greenteapress.com/wp/
+- <http://hbpms.blogspot.com/> - A list similar to this one that links to many free books.
+- Open Textbook Library (Minnesota): <http://open.umn.edu/opentextbooks/>
+- UPS list: <http://linear.ups.edu/curriculum.html>
+- OpenStax: <https://openstax.org/>
+- George Cain (GA Tech): <https://people.math.gatech.edu/~cain/textbooks/onlinebooks.html>
+- Green Tea Press (Free books by Allen Downey): <http://greenteapress.com/wp/>
 
 ## Annotations
 
