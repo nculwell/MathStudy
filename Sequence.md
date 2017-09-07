@@ -22,4 +22,4 @@
 
 ## University web pages that present possible courses of study
 
-* http://www.math.harvard.edu/pamphlets/courses.html
+* <http://www.math.harvard.edu/pamphlets/courses.html>

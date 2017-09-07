@@ -71,7 +71,7 @@ These take the attitude that emphasis on rigorous proofs gets in the way of unde
 
 - Thompson and Gardner, *Calculus Made Easy* ([Revised](https://smile.amazon.com/Calculus-Made-Easy-Silvanus-Thompson/dp/0312185480))
 
-  An intuitive introduction to calculus. This isn't thorough enough to be a course textbook, but it makes a good companion to a textbook. It's for someone who's just beginning calculus. The original version (by just Thompson) is in the public domain. It's shorter and some people feel that it does a better job of keeping things simple. Keep in mind that it's old! It was published in 1914. Its casual style emphasizes its old-fashionedness. Some might find this charming, others annoying. You can get it online here: https://archive.org/details/CalculusMadeEasy
+  An intuitive introduction to calculus. This isn't thorough enough to be a course textbook, but it makes a good companion to a textbook. It's for someone who's just beginning calculus. The original version (by just Thompson) is in the public domain. It's shorter and some people feel that it does a better job of keeping things simple. Keep in mind that it's old! It was published in 1914. Its casual style emphasizes its old-fashionedness. Some might find this charming, others annoying. You can get it online here: <https://archive.org/details/CalculusMadeEasy>
 
 - Kline, *Calculus: An Intuitive and Physical Approach* ([Dover](https://smile.amazon.com/dp/0486404536))
 
@@ -111,14 +111,14 @@ These take the attitude that emphasis on rigorous proofs gets in the way of unde
 
 ### Free books
 
-- https://openstax.org/subjects
-- http://www.bodysoulmath.org/books/
+- <https://openstax.org/subjects>
+- <http://www.bodysoulmath.org/books/>
 
 ### Online calculus resources
 
 MIT OCW has a series of online lectures for calculus. The lecturing isn't outstanding, but the material covered is good for the most part. The lectures can be watched on YouTube here:
-- https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1
-- https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38
+- <https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1>
+- <https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38>
 
 Other online lecture offerings include ones from [Ohio State](https://mslc.osu.edu/online/lessons) and [Khan Academy](https://www.khanacademy.org/math/). Both seemed a bit slow and basic for my taste, whereas MIT's was more my speed, but then again I'd already taken some calculus in high school so I wasn't starting from scratch.
 
@@ -128,7 +128,7 @@ The University of Wisconsin-Madison also has free calculus texts that you can ge
 - [Source code for the UW-Madison texts](https://github.com/SigurdAngenent/wisconsin-calculus)
 - [Whitman College's Community Calculus page](https://www.whitman.edu/mathematics/multivariable/)
 - [Fremlin's problems with solutions (several subjects, Latex files)](https://www.essex.ac.uk/maths/people/fremlin/materials/index.htm)
-- http://brianveitch.com/calculus/
+- <http://brianveitch.com/calculus/>
 
 ### Vector calculus
 
@@ -147,7 +147,7 @@ For multivariate calculus, there seems to be a general consensus that the texts 
 - Matthews. *Vector Calculus* ([1e](https://smile.amazon.com/dp/3540761802))
 - Bressoud. *Second Year Calculus: From Celestial Mechanics to Special Relativity* ([1e](https://smile.amazon.com/dp/038797606X))
 - Flanigan and Kazdan. *Calculus Two: Linear and Nonlinear Functions* ([2e](https://smile.amazon.com/dp/0387973885))
-- Bray. *Multivariable Calculus* ([1e at CreateSpace](https://www.createspace.com/4173421), [1e](https://smile.amazon.com/dp/1482550741)) Author's page: https://services.math.duke.edu/~cbray/mv/
+- Bray. *Multivariable Calculus* ([1e at CreateSpace](https://www.createspace.com/4173421), [1e](https://smile.amazon.com/dp/1482550741)) Author's page: <https://services.math.duke.edu/~cbray/mv/>
 
 *The Feynman Lectures* also discuss vector calculus in the context of electromagnetism, which is supposedly a great way to tie it in with your understanding of the physical, if you already have some background in physics. See [Physics](Sciences.md#physics).
 
@@ -163,9 +163,9 @@ It may be that the problems in whatever textbook you're using don't give you as 
 - Jones, *Calculus: 1,001 Practice Problems For Dummies* ([1e](https://smile.amazon.com/dp/111849671X)) -- By PatrickJMT of YouTube fame.
 - REA. *The Calculus Problem Solver* ([Unspecified edition](https://smile.amazon.com/dp/0878915052))
 
-John Erdman of Portland State University has posted a number of free problem books as PDFs on his website (answers to odd-numbered exercises given): http://web.pdx.edu/~erdman/
+John Erdman of Portland State University has posted a number of free problem books as PDFs on his website (answers to odd-numbered exercises given): <http://web.pdx.edu/~erdman/>
 
-This site has links to lots of other sites with problem sets and practice exams: http://www.calculus.org
+This site has links to lots of other sites with problem sets and practice exams: <http://www.calculus.org>
 
 ## Differential Equations
 

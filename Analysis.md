@@ -9,7 +9,7 @@ These aren't actually analysis books, but in the math curriculum that's often wh
 
 - Velleman, *How to Prove It* ([2e](https://smile.amazon.com/dp/0521675995/), [1e](https://smile.amazon.com/dp/0521446635/))
 
-  A series of blog posts discussing solutions to Velleman's exercises: http://technotes-himanshu.blogspot.co.uk/search/label/htpi
+  A series of blog posts discussing solutions to Velleman's exercises: <http://technotes-himanshu.blogspot.co.uk/search/label/htpi>
 
 - Solow, *How to Read and Do Proofs: An Introduction to Mathematical Thought Processes* ([6e](https://smile.amazon.com/dp/1118164024/), [5e](https://smile.amazon.com/dp/0470392169/), [4e](https://smile.amazon.com/dp/0471680583/))
 
@@ -61,7 +61,7 @@ These books present the standard undergraduate course in real analysis. They inc
 
   Another classic text (1974), with more extensive explanations than Rudin.
   
-  This page has some solutions for exercises: http://www.csie.ntu.edu.tw/~b89089/solution.html
+  This page has some solutions for exercises: <http://www.csie.ntu.edu.tw/~b89089/solution.html>
 
 - Pugh, *Real Mathematical Analysis* ([2e](https://smile.amazon.com/dp/3319177702), [1e](https://smile.amazon.com/dp/0387952977))
 
@@ -75,8 +75,8 @@ These books present the standard undergraduate course in real analysis. They inc
 
   Tao's approach is a rigorous construction of analysis beginning with the foundations of the number system. Proofs are largely left as exercises, and it lacks much intuitive discussion, so I don't think it's appropriate for self-study except in combination with some other book. It's published by Hundustan Book Agency and sold in the USA via AMS ([AMS store page](http://bookstore.ams.org/hin-66)). It can be ordered from India via these links:
 
-  - I: http://www.abebooks.com/products/isbn/9789380250649
-  - II: http://www.abebooks.com/products/isbn/9789380250656
+  - I: <http://www.abebooks.com/products/isbn/9789380250649>
+  - II: <http://www.abebooks.com/products/isbn/9789380250656>
 
 - Shilov, *Elementary Real and Complex Analysis* ([Dover](https://smile.amazon.com/dp/0486689220))
 
@@ -251,7 +251,7 @@ See also: [Differential Geometry](https://github.com/nculwell/MathStudy/blob/mas
 
 - Ash and Novinger, *Complex Variables* ([**FREE ONLINE**](http://www.math.uiuc.edu/~r-ash/CV.html), [2e Dover](https://smile.amazon.com/dp/0486462501))
 
-  Contain solutions. Author's page: http://www.math.uiuc.edu/~r-ash/CV.html
+  Contain solutions. Author's page: <http://www.math.uiuc.edu/~r-ash/CV.html>
 
 - Markushevich. *Theory of Functions of a Complex Variable ([AMS Chelsea revised English edition](https://smile.amazon.com/dp/082183780X))
 
@@ -265,7 +265,7 @@ See also: [Differential Geometry](https://github.com/nculwell/MathStudy/blob/mas
 - Rudin, *Functional Analysis* ([McGraw-Hill intl @AbeBooks](http://www.abebooks.com/products/isbn/9780070619883))
 - Halmos, *Introduction to Hilbert Space and the Theory of Spectral Multiplicity* ([Martino](https://smile.amazon.com/dp/1614274711))
 - Halmos, *A Hilbert Space Problem Book* ([2e](https://smile.amazon.com/dp/0387906851))
-- Erdman. *Functional Analysis and Operator Algebras: An Introduction* http://web.pdx.edu/~erdman/FAOA/functional_analysis_operator_algebras_pdf.pdf
+- Erdman. *Functional Analysis and Operator Algebras: An Introduction* <http://web.pdx.edu/~erdman/FAOA/functional_analysis_operator_algebras_pdf.pdf>
 - Aliprantis and Border. *Infinite Dimensional Analysis: A Hitchhiker's Guide* ([3e](https://smile.amazon.com/dp/3540326960))
 
 ### Dynamical systems

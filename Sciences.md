@@ -213,10 +213,10 @@ There are math books written for physicists. See also: [Engineering mathematics]
 - Wade. ([7e/2009](https://www.amazon.com/dp/032159231X), [7e solns](https://www.amazon.com/dp/0321598717), [6e/2005](https://www.amazon.com/dp/0131478710), [6e solns](https://www.amazon.com/dp/0131478826))
 - Anslyn, Dougherty. *Modern Physical Organic Chemistry* ([1e illustrated](https://www.amazon.com/dp/1891389319), [1e solns](https://www.amazon.com/dp/189138936X))
 - [Soderberg. *Organic Chemistry With a Biological Emphasis*](
-  http://chemwiki.ucdavis.edu/Textbook_Maps/Organic_Chemistry_Textbook_Maps/Map%3A_Organic_Chemistry_With_a_Biological_Emphasis_(Soderberg))
+  <http://chemwiki.ucdavis.edu/Textbook_Maps/Organic_Chemistry_Textbook_Maps/Map%3A_Organic_Chemistry_With_a_Biological_Emphasis_(Soderberg))>
 - Clayden and Greeves. *Organic Chemistry*
 - Carey. *Organic Chemistry* (u)
-- MSU: http://www2.chemistry.msu.edu/faculty/reusch/VirtTxtJml/intro1.htm
+- MSU: <http://www2.chemistry.msu.edu/faculty/reusch/VirtTxtJml/intro1.htm>
 - Gilbert and Martin. *Experimental Organic Chemistry: A Miniscale and Microscale Approach* ([5e](https://www.amazon.com/dp/1439049149), [4e](https://www.amazon.com/dp/B0036HQ2KG))
 
 ### Physical
@@ -238,8 +238,8 @@ There are math books written for physicists. See also: [Engineering mathematics]
 
 ### Links
 
-- http://www.masterorganicchemistry.com/resource-guide/
-- http://chemwiki.ucdavis.edu/Textbook_Maps
+- <http://www.masterorganicchemistry.com/resource-guide/>
+- <http://chemwiki.ucdavis.edu/Textbook_Maps>
 
 ## Biology
 
@@ -343,11 +343,11 @@ There are math books written for physicists. See also: [Engineering mathematics]
 #### Animal subgroups
 
 ##### Birds
-- Gill. *Ornithology* 3e https://smile.amazon.com/Ornithology-Frank-B-Gill/dp/0716749831
-- Lovette, Fitzpatrick. *Handbook of Bird Biology* 3e https://smile.amazon.com/Handbook-Bird-Biology-Cornell-Ornithology/dp/1118291050
-- Proctor, Lynch. *Manual of Ornithology: Avian Structure and Function* 1e https://smile.amazon.com/Manual-Ornithology-Avian-Structure-Function/dp/0300076193
+- Gill. *Ornithology* 3e <https://smile.amazon.com/Ornithology-Frank-B-Gill/dp/0716749831>
+- Lovette, Fitzpatrick. *Handbook of Bird Biology* 3e <https://smile.amazon.com/Handbook-Bird-Biology-Cornell-Ornithology/dp/1118291050>
+- Proctor, Lynch. *Manual of Ornithology: Avian Structure and Function* 1e <https://smile.amazon.com/Manual-Ornithology-Avian-Structure-Function/dp/0300076193>
 ##### Fishes
-- Helfman, Collette, Facey, Bowen. *The Diversity of Fishes: Biology, Evolution, and Ecology* ([2e]( https://smile.amazon.com/dp/1405124946))
+- Helfman, Collette, Facey, Bowen. *The Diversity of Fishes: Biology, Evolution, and Ecology* ([2e]( <https://smile.amazon.com/dp/1405124946))>
 - Moyle, Cech. *Fishes: An Introduction to Ichthyology* ([4e/1999](https://smile.amazon.com/dp/0130112828), [5e/2003](https://smile.amazon.com/dp/0131008471))
 ##### Reptiles, amphibians
 - Pough, Andrews, Cadle, Crump, Savitsky, Wells. *Herpetology* ([3e/2003](https://smile.amazon.com/dp/0131008498), [4e/2009](https://smile.amazon.com/dp/0131566490))
@@ -369,18 +369,18 @@ There are math books written for physicists. See also: [Engineering mathematics]
 - Klowden. *Physiological Systems in Insects* [3e](https://smile.amazon.com/dp/0124158196/)
 - Nation. *Insect Physiology and Biochemistry* [3e](https://smile.amazon.com/dp/1482247585/)
 ##### Peterson field guides
-  - https://smile.amazon.com/Peterson-Field-Guide-to-Mammals-of-North-America-Fourth-Edition/dp/0395935962
-  - https://smile.amazon.com/Peterson-Reptiles-Amphibians-Eastern-Central/dp/0544129970
-  - https://smile.amazon.com/Peterson-Freshwater-Fishes-Second-Guides/dp/0547242069
-  - https://smile.amazon.com/Field-Guide-Insects-America-Mexico/dp/0395911702
-  - https://smile.amazon.com/Peterson-Eastern-Central-America-Guides/dp/0547152469
+  - <https://smile.amazon.com/Peterson-Field-Guide-to-Mammals-of-North-America-Fourth-Edition/dp/0395935962>
+  - <https://smile.amazon.com/Peterson-Reptiles-Amphibians-Eastern-Central/dp/0544129970>
+  - <https://smile.amazon.com/Peterson-Freshwater-Fishes-Second-Guides/dp/0547242069>
+  - <https://smile.amazon.com/Field-Guide-Insects-America-Mexico/dp/0395911702>
+  - <https://smile.amazon.com/Peterson-Eastern-Central-America-Guides/dp/0547152469>
 ##### Golden guides
-  - https://smile.amazon.com/Spiders-Their-Authoritative-Easy-Use/dp/1582381569
-  - https://smile.amazon.com/Insects-Golden-Guide-Martins-Press/dp/1582381291
-  - https://smile.amazon.com/Reptiles-Amphibians-Authoritative-Easy-Use/dp/1582381313
-  - https://smile.amazon.com/Mammals-Illustrated-Authoritative-Easy-Use/dp/1582381445
-  - https://smile.amazon.com/Birds-Illustrated-Authoritative-Easy-Use/dp/1582381283
-  - https://smile.amazon.com/Snakes-Golden-Guide-Martins-Press/dp/0312306083
+  - <https://smile.amazon.com/Spiders-Their-Authoritative-Easy-Use/dp/1582381569>
+  - <https://smile.amazon.com/Insects-Golden-Guide-Martins-Press/dp/1582381291>
+  - <https://smile.amazon.com/Reptiles-Amphibians-Authoritative-Easy-Use/dp/1582381313>
+  - <https://smile.amazon.com/Mammals-Illustrated-Authoritative-Easy-Use/dp/1582381445>
+  - <https://smile.amazon.com/Birds-Illustrated-Authoritative-Easy-Use/dp/1582381283>
+  - <https://smile.amazon.com/Snakes-Golden-Guide-Martins-Press/dp/0312306083>
 
 ## Engineering
 
@@ -423,7 +423,7 @@ The topics are pretty similar to those seen in many ["math for physics" textbook
 - Shigley, Mischke. *Mechanical Engineering Design* ([5e](https://smile.amazon.com/dp/0070568995))
 - Peery. *Aircraft Structures* ([Dover](https://smile.amazon.com/dp/0486485803))
 - Bureau of Naval Personnel. *Basic Electricity* ([2e Revised Dover](https://smile.amazon.com/dp/0486209733))
-- Soler. *Fundamentals of aerospace engineering: An introductory course to aeronautical engineering* ([1e](https://smile.amazon.com/dp/1493727753)) http://www.aerospaceengineering.es/
+- Soler. *Fundamentals of aerospace engineering: An introductory course to aeronautical engineering* ([1e](https://smile.amazon.com/dp/1493727753)) <http://www.aerospaceengineering.es/>
 - Kastner. *Space Mathematics: Math Problems Based on Space Science* ([Dover](https://smile.amazon.com/dp/0486490335))
 - Bate, Mueller, White. *Fundamentals of Astrodynamics* ([Dover](https://smile.amazon.com/dp/0486600610))
 - Thomson. *Introduction to Space Dynamics* ([Dover](https://smile.amazon.com/dp/0486651134))

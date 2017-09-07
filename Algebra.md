@@ -21,7 +21,7 @@ See the [Linear Algebra section](LinearAlgebra.md).
 
 - Connell, *Elements of Abstract and Linear Algebra* ([**FREE ONLINE**](http://www.math.miami.edu/~ec/book/))
 
-  I haven't looked at this one at all yet, but it's free: http://www.math.miami.edu/~ec/book/
+  I haven't looked at this one at all yet, but it's free: <http://www.math.miami.edu/~ec/book/>
 
 ### Major textbooks
 
@@ -39,9 +39,9 @@ See the [Linear Algebra section](LinearAlgebra.md).
 
 ### Free resources
 
-* J. S. Milne, course notes: http://www.jmilne.org/math/CourseNotes/index.html
-* Ash. *Abstract Algebra: The Basic Graduate Year* (with solutions) http://www.math.uiuc.edu/~r-ash/Algebra.html
-* Ash. *A Course in Algebraic Number Theory* (with solutions) http://www.math.uiuc.edu/~r-ash/ANT.html
+* J. S. Milne, course notes: <http://www.jmilne.org/math/CourseNotes/index.html>
+* Ash. *Abstract Algebra: The Basic Graduate Year* (with solutions) <http://www.math.uiuc.edu/~r-ash/Algebra.html>
+* Ash. *A Course in Algebraic Number Theory* (with solutions) <http://www.math.uiuc.edu/~r-ash/ANT.html>
 
 ### Group theory
 
@@ -115,7 +115,7 @@ See the [Linear Algebra section](LinearAlgebra.md).
 
   A combinatorial approach to elementary number theory. Includes the theory of partitions.
 
-- Stillwell. *Elements of Number Theory* https://smile.amazon.com/dp/0387955879
+- Stillwell. *Elements of Number Theory* <https://smile.amazon.com/dp/0387955879>
 
 - Crawford. *Introduction to Number Theory* ([At AOPS](https://www.artofproblemsolving.com/store/item/intro-number-theory), [At Amazon](https://smile.amazon.com/dp/1934124125))
 
@@ -137,7 +137,7 @@ See the [Linear Algebra section](LinearAlgebra.md).
 
 #### Ramanujan
 
-Online copies of Ramanujan's work can be found here: http://www.imsc.res.in/~rao/ramanujan/contentindex.html
+Online copies of Ramanujan's work can be found here: <http://www.imsc.res.in/~rao/ramanujan/contentindex.html>
 
 - Berndt. *Number Theory in the Spirit of Ramanujan* ([1e](https://smile.amazon.com/gp/product/0821841785)) - An introduction to Ramanujan's work for someone already acquainted with number theory.
 - Ramanujan, ed. Hardy, Aiyar, Wilson. *Collected Papers of Srinivasa Ramanujan* ([1e](https://smile.amazon.com/gp/product/1107536510))

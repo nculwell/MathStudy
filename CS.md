@@ -91,7 +91,7 @@ These books cover the basics, that is, the core algorithms that everyone needs t
   There are various other versions that feature specific example languages:
   *Algorithms in C++*, *Algorithms in Java*, *Algorithms in C*.
   This version uses Java, so I guess it supersedes the previous *Algorithms in Java*.
-  Its website -- http://algs4.cs.princeton.edu/ --
+  Its website -- <http://algs4.cs.princeton.edu/> --
   has links to Sedgewick's two free online algorithms courses.
   Considering its use of code to illustrate algorithms, its reasonable price and its accompanying
   courses, for most people this will probably be the best choice for a first book in algorithms.
@@ -179,7 +179,7 @@ These focus on some more specialized areas of algorithms.
 * Krishnamurthi, 2012. *Programming Languages: Application and Interpretation*
 
   AKA PLAI.
-  The last version of this incarnation of the book. It goes with an online course, which is available here: https://cs.brown.edu/courses/cs173/2012/
+  The last version of this incarnation of the book. It goes with an online course, which is available here: <https://cs.brown.edu/courses/cs173/2012/>
 
   Together, these make an excellent introduction to the design and implementation of programming languages
   using an interpreter. This version of the book (and course) use a Racket language called typed PLAI,
@@ -191,7 +191,7 @@ These focus on some more specialized areas of algorithms.
   a new implementation language, Pyret.
 
   This book is under constant revision. Currently the latest stable version is here:
-  http://papl.cs.brown.edu/2015/
+  <http://papl.cs.brown.edu/2015/>
 
 * Friedman, Wand, Haynes, 1992. *Essentials of Programming Languages* ([1e](https://smile.amazon.com/dp/0262061457), [1e at AbeBooks](http://www.abebooks.com/products/isbn/9780262061452))
   * Friedman, Wand, Haynes, 2001. *Essentials of Programming Languages* ([2e](https://smile.amazon.com/dp/0262062178))
@@ -273,7 +273,7 @@ These focus on some more specialized areas of algorithms.
   (In the context of interpreters, CPS is dicussed in PLAI and EOPL.) One of the nice things about this
   book is that, in large part, it describes the design of Standard ML of New Jersey
   (AKA SML/NJ: a popular implementation of Standard ML).
-  Since SML/NJ is open source, you can go to http://www.smlnj.org/ and
+  Since SML/NJ is open source, you can go to <http://www.smlnj.org/> and
   see a working example of many of the principles described in the book.
 
 * Jones, Hosking, Moss, 2011. *The Garbage Collection Handbook: The Art of Automatic Memory Management*

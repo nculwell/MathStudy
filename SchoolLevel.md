@@ -66,7 +66,7 @@ Since there is often a lot of overlap between courses on "Algebra II" and "Preca
 
 AoPS also has a set of books called *Beast Academy* which is planned to cover grades 2-5, although currently only grades 3 and 4 are complete. I have no idea if those are any good.
 
-These can be found here: https://www.artofproblemsolving.com/
+These can be found here: <https://www.artofproblemsolving.com/>
 
 The Art of Problem Solving website also offers online courses that go with these books.
 
@@ -152,7 +152,7 @@ Chrystal's *Introduction to Algebra* and *Algebra: an Elementary Text-book* form
 
 I don't know if anyone still uses these other old books or not, but some people like them.
 
-- Charles Smith. *A Treatise on Algebra* https://archive.org/details/atreatiseonalge00smitgoog
+- Charles Smith. *A Treatise on Algebra* <https://archive.org/details/atreatiseonalge00smitgoog>
 - Wells. *A First Course in Algebra*
 - Wells. *Second Course in Algebra*
 - Wells. *University Algebra*
@@ -180,7 +180,7 @@ Schaum's has several of their "outlines" which are appropriate for this level. S
 
 ## Free
 
-- Corral. *Trigonometry* http://www.mecmath.net/trig/
+- Corral. *Trigonometry* <http://www.mecmath.net/trig/>
 
 ## More-or-less standard curriculum
 
@@ -233,7 +233,7 @@ https://smile.amazon.com/Problem-Solving-Strategies-Problem-Books-Mathematics/dp
 
 From the AMS website: "This accessible series brings the beauty and wonder of mathematics to the advanced high school student, the mathematics teacher, the scientist or engineer, and the lay reader with a strong interest in mathematics. Mathematical World features well-written, challenging expository works that illustrate the fascination and usefulness of mathematics."
 
-Here's a link to the whole series on the AMS website: http://bookstore.ams.org/MAWRLD
+Here's a link to the whole series on the AMS website: <http://bookstore.ams.org/MAWRLD>
 
 Some titles that have caught my attention:
 

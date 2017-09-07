@@ -13,7 +13,7 @@
 
 - Morin. *Probability: For the Enthusiastic Beginner* ([At Createspace](https://www.createspace.com/5987678), [At Amazon](https://smile.amazon.com/dp/1523318678))
 
-  An excellent-looking non-calculus introduction to probability. As a non-calculus approach, it focuses on discrete distributions, but it discusses the Gaussian distribution from the perspective of discrete approximation. (I think this is a pretty useful way to do it.) The author's website has some sample chapters (including TOC) that you can view: http://www.people.fas.harvard.edu/~djmorin/book.html
+  An excellent-looking non-calculus introduction to probability. As a non-calculus approach, it focuses on discrete distributions, but it discusses the Gaussian distribution from the perspective of discrete approximation. (I think this is a pretty useful way to do it.) The author's website has some sample chapters (including TOC) that you can view: <http://www.people.fas.harvard.edu/~djmorin/book.html>
 
 - Ash. *The Probability Tutoring Book: An Intuitive Course for Engineers and Scientists* ([Revised paperback](https://smile.amazon.com/dp/0780310519), [Original hardcover](https://smile.amazon.com/dp/0879422939))
 
@@ -180,7 +180,7 @@ AKA statistical learning, data mining, predictive modeling.
 
 * Goodfellow, Bengio and Courville, forthcoming/online. *Deep Learning*
 
-  Due for publication in 2016 (or 2017?). This book isn't even out in paper form yet (MIT Press will publish it soon), but you can read it for free online here: http://www.deeplearningbook.org/
+  Due for publication in 2016 (or 2017?). This book isn't even out in paper form yet (MIT Press will publish it soon), but you can read it for free online here: <http://www.deeplearningbook.org/>
 
 * Barber, 2012. *Bayesian Reasoning and Machine Learning*
 
@@ -196,7 +196,7 @@ AKA statistical learning, data mining, predictive modeling.
 
   While this book is not exactly about machine learning, many (most?) ML techniques rely on the optimization techniques covered here. The book's web page also links to a free online course.
   
-  https://web.stanford.edu/~boyd/cvxbook/
+  <https://web.stanford.edu/~boyd/cvxbook/>
 
 ### Other big books
 
@@ -204,7 +204,7 @@ AKA statistical learning, data mining, predictive modeling.
 
   This is a guide to machine learning at the level of detail necessary to implement techniques in R. Much attention is paid to how to make each method perform well. The body of each chapter is a description of the techniques involved, then at the end of the chapter is a "Computing" section which describes how to do what you just learned in R. The author's approach is to tell you just as much as you need to know to use the techniques, then point you to primary literature where you can read the details.
   
-  http://appliedpredictivemodeling.com/
+  <http://appliedpredictivemodeling.com/>
 
 * Reed and Marks, 1999. *Neural Smithing: Supervised Learning in Feedforward Artificial Neural Networks* ([1e](https://smile.amazon.com/dp/0262181908))
 
@@ -212,7 +212,7 @@ AKA statistical learning, data mining, predictive modeling.
 
 * Murphy, 2012. *Machine Learning: a Probabilistic Perspective* ([1e](https://smile.amazon.com/dp/0262018020))
 
-  https://www.cs.ubc.ca/~murphyk/MLbook/
+  <https://www.cs.ubc.ca/~murphyk/MLbook/>
 
 * Izenman, 2008. *Modern Multivariate Statistical Techniques: Regression, Classification, and Manifold Learning* ([1e](https://smile.amazon.com/dp/0387781889))
 
@@ -221,7 +221,7 @@ AKA statistical learning, data mining, predictive modeling.
 * Bishop, 2006. *Pattern Recognition and Machine Learning* ([1e](https://smile.amazon.com/dp/0387310738))
 
   AKA PRML. Bayesian viewpoint. This book used to be very influential but it's getting a bit dated, and I get the impression that it's generally regarded as not the best-written ML book around.
-  http://research.microsoft.com/en-us/um/people/cmbishop/PRML/index.htm
+  <http://research.microsoft.com/en-us/um/people/cmbishop/PRML/index.htm>
 
 * Bishop, 1996. *Neural Networks for Pattern Recognition* ([1e](https://smile.amazon.com/dp/0198538642))
 
@@ -229,7 +229,7 @@ AKA statistical learning, data mining, predictive modeling.
 
 * Abu-Mostafa, Magdon-Ismail, Lin, 2012. *Learning From Data* ([1e](https://smile.amazon.com/dp/1600490069))
 
-  Now out of print? Goes with an online course from Caltech: https://work.caltech.edu/telecourse.html
+  Now out of print? Goes with an online course from Caltech: <https://work.caltech.edu/telecourse.html>
 
 * Mohri, Rostamizadeh, Talwalkar, 2012. *Foundations of Machine Learning* ([1e](https://smile.amazon.com/dp/026201825X))
 
@@ -241,7 +241,7 @@ AKA statistical learning, data mining, predictive modeling.
 
 * Jurafsky and Martin, 2008. *Speech and Language Processing* ([2e](https://smile.amazon.com/dp/0131873210))
 
-  The main book on NLP. A 3rd edition is in progress, and the draft can be seen here: https://web.stanford.edu/~jurafsky/slp3/
+  The main book on NLP. A 3rd edition is in progress, and the draft can be seen here: <https://web.stanford.edu/~jurafsky/slp3/>
 
 * Manning and Schütze, 1999. *Foundations of Statistical Natural Language Processing* ([1e](https://smile.amazon.com/dp/0262133601))
 
