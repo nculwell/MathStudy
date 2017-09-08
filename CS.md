@@ -40,12 +40,10 @@ See also: [Logic and Discrete Math](LogicDiscrete.md)
 
   Another classic, this one is known for its readability. Covers formal languages, automata theory and Turing machines.
 
-* Brookshear, 1989. *Theory of Computation: Formal Languages, Automata, and Complexity*
+* Brookshear, 1989. *Theory of Computation: Formal Languages, Automata, and Complexity* ([1e](https://smile.amazon.com/dp/0805301437))
 
-  Well-liked for its accessibility. Unfortunately, it's still pretty expensive for such an old book:
-  about $90 used at the time of this writing. That its price has held up so long is a testament to its
-  quality, but it also makes it harder to justify owning it when newer books covering the same material
-  can be bought for $10-20.
+  Well-liked for its accessibility. At some times in the past it was hard to find used at a good price,
+  although currently (2017-09-08) it's pretty affordable.
 
 * Kinber, Smith, 2001. *Theory of Computing: A Gentle Introduction*
 
@@ -69,6 +67,8 @@ See also: [Logic and Discrete Math](LogicDiscrete.md)
 * Rogers, 1987. *Theory of Recursive Functions and Effective Computability* ([1e](https://smile.amazon.com/dp/0262680521))
 
   More in-depth computability.
+
+* Davis, Sigal, Weyuker. *Computability, Complexity, and Languages: Fundamentals of Theoretical Computer Science* ([2e](https://smile.amazon.com/dp/0122063821))
 
 ### Complexity
 
@@ -193,12 +193,13 @@ These focus on some more specialized areas of algorithms.
   This book is under constant revision. Currently the latest stable version is here:
   <http://papl.cs.brown.edu/2015/>
 
-* Friedman, Wand, Haynes, 1992. *Essentials of Programming Languages* ([1e](https://smile.amazon.com/dp/0262061457), [1e at AbeBooks](http://www.abebooks.com/products/isbn/9780262061452))
+* Friedman, Wand, Haynes. *Essentials of Programming Languages* 
+  * Friedman, Wand, Haynes, 1992. *Essentials of Programming Languages* ([1e](https://smile.amazon.com/dp/0262061457), [1e at AbeBooks](http://www.abebooks.com/products/isbn/9780262061452))
   * Friedman, Wand, Haynes, 2001. *Essentials of Programming Languages* ([2e](https://smile.amazon.com/dp/0262062178))
   * Friedman, Wand, 2008. *Essentials of Programming Languages* ([3e](https://smile.amazon.com/dp/0262062798))
 
   An more in-depth book about writing interpreters in Scheme. Shriram Krishnamurthi turned me onto this one.
-  I have the first edition, which is a classic and can currently be bought used for under $10. I don't
+  I have the first edition, which is a classic and can often be bought used for under $10. I don't
   know how the later editions stack up. Judging from some online reviews, the first might really be the best.
   
   First edition search info:

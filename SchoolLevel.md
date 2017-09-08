@@ -8,7 +8,7 @@ The OpenStax project offers free, high-quality textbooks for a variety of subjec
 
 <https://openstax.org/subjects/math>
 
-They also sell them through their own Amazon storefront for $58 each (as of June 2016). Currently there are no cheap used copies available, but hopefully this will change in the future as these books become more popular.
+Print copies are available on Amazon but many are on longer in print and there aren't a lot of used copies floating around.
 
 Currently, they offer textbooks for Pre-algebra, College Algebra, Algebra-Trigonometry, Precalculus and Calculus I-III. Notably, there is no Geometry text.
 
