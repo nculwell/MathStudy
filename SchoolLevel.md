@@ -1,6 +1,14 @@
 # Grade school math
 
-## High school math
+## High school math subjects
+
+### Introductory algebra
+
+### Continuing algebra and trigonometry
+
+### Geometry
+
+## Sources for texts and resources
 
 ### OpenStax
 
