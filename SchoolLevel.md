@@ -2,13 +2,45 @@
 
 ## High school math subjects
 
+The standard US textbooks used by schools are pretty widely derided, although I
+do give links to some of them near the bottom of this document. I've focused on
+other alternatives here. I begin with Pre-Algebra (basically a one-year
+overview of all mathematics that is expected to be mastered before beginning
+algebra) because, although it's not usually considered high school level, it is
+the first course that has many adult-style textbooks dedicated to it.
+
+### Pre-algebra
+ 
+* The Art of Problem Solving: Volumes 1 and 2
+- Dolciani. *Pre-Algebra: An Accelerated Course* [1987](https://smile.amazon.com/dp/039543050X)
+* Japanese Mathematics (translations from University of Chicago)
+  <http://ucsmp.uchicago.edu/resources/translations/>
+
 ### Introductory algebra
+
+* The Art of Problem Solving: Algebra
+* Gelfand
 
 ### Continuing algebra and trigonometry
 
+Encompassing the portion of the US curriculum referred to by the terms Algebra 2, Trigonometry and Precalculus.
+
+* The Art of Problem Solving: Intermediate Algebra
+* The Art of Problem Solving: Precalculus
+* Axler Precalculus
+* OpenStax Algebra and Trigonometry
+
 ### Geometry
 
+* The Art of Problem Solving: Introduction to Geometry
+* Lang and Murrow, *Geometry: A High School Course* ([2e](https://smile.amazon.com/dp/0387966544), [Solutions manual](https://smile.amazon.com/dp/0387941819))
+* Kiselev's Geometry I
+
 ## Sources for texts and resources
+
+### UCSMP
+
+<http://ucsmp.uchicago.edu/about/overview/>
 
 ### OpenStax
 
