@@ -11,7 +11,10 @@ the first course that has many adult-style textbooks dedicated to it.
 
 ### Series that cover all subjects
 
+See below for more information about these.
+
 * The Art of Problem Solving ([At AoPS](https://artofproblemsolving.com/store/item/intro-geometry))
+* OpenStax
 * Japanese Mathematics (translations from University of Chicago)
   <http://ucsmp.uchicago.edu/resources/translations/>
 
@@ -23,7 +26,7 @@ the first course that has many adult-style textbooks dedicated to it.
 ### Introductory algebra
 
 * The Art of Problem Solving: Algebra
-* Gelfand
+* Gelfand, Algebra
 
 ### Continuing algebra and trigonometry
 
@@ -31,8 +34,11 @@ Encompassing the portion of the US curriculum referred to by the terms Algebra 2
 
 * The Art of Problem Solving: Intermediate Algebra
 * The Art of Problem Solving: Precalculus
-* Axler Precalculus
 * OpenStax Algebra and Trigonometry
+* Lang, Basic Mathematics
+* Gelfand, Trigonometry
+* Simmons, Precalculus in a Nutshell
+* Foerster, Algebra and Trigonometry ([Classics ed](https://smile.amazon.com/dp/0131657100))
 
 ### Geometry
 
@@ -40,8 +46,9 @@ Encompassing the portion of the US curriculum referred to by the terms Algebra 2
 * Lang and Murrow, *Geometry: A High School Course* ([2e](https://smile.amazon.com/dp/0387966544), [Solutions manual](https://smile.amazon.com/dp/0387941819))
 * Kiselev's Geometry I
 - Meyer. *Geometry and Its Applications* (2e, 2006: ISBN 978-0123694270, [Worldcat](https://www.worldcat.org/oclc/212425111), [Amazon](https://smile.amazon.com/dp/0123694272))
-- Stillwell. *Numbers and Geometry* (1e, 1997: ISBN 978-0387982892, [Worldcat](https://www.worldcat.org/oclc/468834725), [Amazon](https://smile.amazon.com/dp/0387982892))
 - Stillwell. *The Four Pillars of Geometry* (1e 2005: ISBN 978-0387255309, [Worldcat](https://www.worldcat.org/oclc/209834142), [Amazon](https://smile.amazon.com/dp/0387255303))
+- Brannan, Esplen, Gray. *Geometry* (2014, ISBN 978-1118679197, [Worldcat](https://www.worldcat.org/isbn/9781118679197), [Amazon](https://smile.amazon.com/dp/1118679199))
+- Leonard, Lewis, Liu, Tokarsky. *Classical Geometry: Euclidean, Transformational, Inversive, and Projective* (1e 1997: [ISBN 978-0760706602](https://www.worldcat.org/isbn/978-0760706602), [Amazon](https://smile.amazon.com/dp/0760706603); 2e 2003: [ISBN 978-1592441303](https://www.worldcat.org/isbn/978-1592441303), [Amazon](https://smile.amazon.com/dp/1592441300))
 
 ## Sources for texts and resources
 
