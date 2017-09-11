@@ -9,12 +9,16 @@ overview of all mathematics that is expected to be mastered before beginning
 algebra) because, although it's not usually considered high school level, it is
 the first course that has many adult-style textbooks dedicated to it.
 
+### Series that cover all subjects
+
+* The Art of Problem Solving ([At AoPS](https://artofproblemsolving.com/store/item/intro-geometry))
+* Japanese Mathematics (translations from University of Chicago)
+  <http://ucsmp.uchicago.edu/resources/translations/>
+
 ### Pre-algebra
  
 * The Art of Problem Solving: Volumes 1 and 2
 - Dolciani. *Pre-Algebra: An Accelerated Course* [1987](https://smile.amazon.com/dp/039543050X)
-* Japanese Mathematics (translations from University of Chicago)
-  <http://ucsmp.uchicago.edu/resources/translations/>
 
 ### Introductory algebra
 
@@ -35,6 +39,9 @@ Encompassing the portion of the US curriculum referred to by the terms Algebra 2
 * The Art of Problem Solving: Introduction to Geometry
 * Lang and Murrow, *Geometry: A High School Course* ([2e](https://smile.amazon.com/dp/0387966544), [Solutions manual](https://smile.amazon.com/dp/0387941819))
 * Kiselev's Geometry I
+- Meyer. *Geometry and Its Applications* (2e, 2006: ISBN 978-0123694270, [Worldcat](https://www.worldcat.org/oclc/212425111), [Amazon](https://smile.amazon.com/dp/0123694272))
+- Stillwell. *Numbers and Geometry* (1e, 1997: ISBN 978-0387982892, [Worldcat](https://www.worldcat.org/oclc/468834725), [Amazon](https://smile.amazon.com/dp/0387982892))
+- Stillwell. *The Four Pillars of Geometry* (1e 2005: ISBN 978-0387255309, [Worldcat](https://www.worldcat.org/oclc/209834142), [Amazon](https://smile.amazon.com/dp/0387255303))
 
 ## Sources for texts and resources
 
