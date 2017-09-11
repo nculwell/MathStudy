@@ -53,6 +53,7 @@ See the [Linear Algebra section](LinearAlgebra.md).
 * Humphreys. *A Course in Group Theory* ([1e](https://smile.amazon.com/dp/0198534590))
 * Dixon. *Problems in Group Theory* ([Dover](https://smile.amazon.com/dp/0486459160))
 * Isaacs. *Character Theory of Finite Groups* ([Dover](https://smile.amazon.com/dp/0486680142))
+* Kurzweil, Stellmacher. *The Theory of Finite Groups: An Introduction* (2004)
 * Wilson. *The Finite Simple Groups* ([1e](https://smile.amazon.com/dp/1848009879))
 * Lyndon, Schupp. *Combinatorial Group Theory* ([Dover](https://smile.amazon.com/dp/3540411585))
 

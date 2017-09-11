@@ -4,7 +4,7 @@
 There are various English-language editions of Euclid available at archive.org; for now I haven't listed them here, but you can search for yourself.
 
 - Euclid, tr. Heath. *The Elements*. Dover. ([Vol I / Books 1-2](https://smile.amazon.com/dp/0486600882), [Vol II / Books 3-9](https://smile.amazon.com/dp/0486600890), [Vol III / Books 10-13](https://smile.amazon.com/Euclid-Thirteen-Books-Elements-10-13/dp/0486600904))
-- Euclid, tr. Heath. *The Elements. Green Lion Press. ([Single volume](https://smile.amazon.com/dp/1888009195))
+- Euclid, tr. Heath. *The Elements* Green Lion Press. ([Single volume](https://smile.amazon.com/dp/1888009195))
 - Kiselev and Givental. *Kiselev's Geometry* (Vol I: [Sumizdat 1e](https://smile.amazon.com/dp/0977985202); Vol II: [Sumizdat 1e](https://smile.amazon.com/dp/0977985210)) - Look for seller "sumizdat_dot_org", that's the publisher.
 - Hartshorne. *Geometry: Euclid and Beyond* ([1e](https://smile.amazon.com/dp/0387986502))
 - Moise. *Elementary Geometry From An Advanced Viewpoint* ([3e](https://smile.amazon.com/dp/0201508672), [2e](https://smile.amazon.com/dp/0201047934))
@@ -20,6 +20,9 @@ There are various English-language editions of Euclid available at archive.org; 
 - Birkhoff and Beatley. *Basic Geometry* ([AMS Chelsea ed](https://smile.amazon.com/gp/product/0821821016), [At AMS store](http://bookstore.ams.org/chel-120/); [Manual for Teachers [at AMS store]](http://bookstore.ams.org/chel-34/), [Manual for Teachers [at AbeBooks]](http://www.abebooks.com/products/isbn/9780821826928); [Answer book [at AMS store]](http://bookstore.ams.org/chel-162/), [Answer Book [at AbeBooks]](http://www.abebooks.com/products/isbn/9780828401623))
 - Cremona, 1885. *Elements Of Projective Geometry* ([At archive.org](https://archive.org/details/elementsproject02cremgoog))
 - Casey, 1886. *A Sequel to the First Six Books of the Elements of Euclid* ([At archive.org](https://archive.org/details/sequeltofirstsix00caserich))
+- Meyer. *Geometry and Its Applications* (2e, 2006: ISBN 978-0123694270, [Worldcat](https://www.worldcat.org/oclc/212425111), [Amazon](https://smile.amazon.com/dp/0123694272))
+- Stillwell. *Numbers and Geometry* (1e, 1997: ISBN 978-0387982892, [Worldcat](https://www.worldcat.org/oclc/468834725), [Amazon](https://smile.amazon.com/dp/0387982892))
+- Stillwell. *The Four Pillars of Geometry* (1e 2005: ISBN 978-0387255309, [Worldcat](https://www.worldcat.org/oclc/209834142), [Amazon](https://smile.amazon.com/dp/0387255303))
 
 ## Computational Geometry
 
@@ -135,3 +138,4 @@ There are various English-language editions of Euclid available at archive.org; 
 - Görtz, Wedhorn. *Algebraic Geometry I, Schemes with Examples and Exercises* ([1e](https://smile.amazon.com/dp/3834806765/))
 - Vakil. [The Rising Sea: Foundations Of Algebraic Geometry Notes](https://math.stanford.edu/~vakil/216blog/)
 - Eisenbud and Harris. *3264 and All That: A Second Course in Algebraic Geometry* ([1e](https://smile.amazon.com/dp/1107602726))
+
