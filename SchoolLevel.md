@@ -27,6 +27,7 @@ See below for more information about these.
 
 * The Art of Problem Solving: Algebra
 * Gelfand, Algebra
+* Foerster, Algebra (2006 Classic Edition: [ISBN 978-0131657083](https://www.worldcat.org/isbn/978-0131657083), [Amazon](https://smile.amazon.com/dp/020132458X); 1999 Classic Edition: [ISBN 978-0201324587](https://www.worldcat.org/isbn/978-0201324587), [Amazon](https://smile.amazon.com/dp/020132458X); 1994 Classic Edition: [ISBN 978-0201860948](https://www.worldcat.org/isbn/978-0201860948), [Amazon](https://smile.amazon.com/dp/0201860945))
 
 ### Continuing algebra and trigonometry
 
@@ -37,8 +38,9 @@ Encompassing the portion of the US curriculum referred to by the terms Algebra 2
 * OpenStax Algebra and Trigonometry
 * Lang, Basic Mathematics
 * Gelfand, Trigonometry
+- Axler, Precalculus. (1e: [Amazon](https://smile.amazon.com/dp/0470180722); 2e: [Amazon](https://smile.amazon.com/dp/047064804X))
 * Simmons, Precalculus in a Nutshell
-* Foerster, Algebra and Trigonometry ([Classics ed](https://smile.amazon.com/dp/0131657100))
+* Foerster, Algebra and Trigonometry (2005 Classics Edition: [ISBN 978-0131657106](https://www.worldcat.org/isbn/978-0131657106), [Amazon](https://smile.amazon.com/dp/0131657100))
 
 ### Geometry
 
@@ -183,6 +185,19 @@ Barbeau has another book, *Pell's Equation*, that is similar in spirit, and (uns
 
 ## Old books in the public domain
 
+Leonhard Euler wrote an introduction to algebra called (in English) Elements of Algebra:
+
+- Free online
+  - Scott Hecht's MS Word typesetting: https://archive.org/details/ElementsOfAlgebraLeonhardEuler2015
+  - Copies of 1800's editions of Hewlett's translation:
+      <https://archive.org/details/elementsalgebra00lagrgoog>
+      <https://archive.org/details/in.ernet.dli.2015.513805>
+      <https://archive.org/details/elementsalgebra00lagrgoog>
+- Print editions
+  - Springer hardcover facsimile print: <https://smile.amazon.com/dp/0387960147>
+  - Scott Hecht's MS Word typesetting: <https://smile.amazon.com/dp/150890118X>
+  - Looks to be printed from an Archive.org photocopy (original typesetting but poor quality with marks and underlining): <https://smile.amazon.com/dp/1544862199>
+
 These are apparently still really popular in India. Since they are in the public domain, you can find them available online for free. PDFs are available on archive.org, probably elsewhere as well. They are still in print, though not always as cheap as you'd hope given that the copyrights have expired. Be warned that since they're old, the writing style isn't what you'd expect from a contemporary book.
 
 - Hall and Knight, *Elementary Algebra for Schools* ([@Archive.org (Michigan)](https://archive.org/details/elementaryalgeb00kniggoog))
@@ -259,14 +274,17 @@ Schaum's has several of their "outlines" which are appropriate for this level. S
 - Richeson, *Euler's Gem: The Polyhedron Formula and the Birth of Topology* ([PUP HC](https://smile.amazon.com/dp/0691126771), [PUP PB](https://smile.amazon.com/dp/0691154570))
 - Stroud and Booth, *Engineering Mathematics* ([7e](https://smile.amazon.com/dp/0831134704), [6e](https://smile.amazon.com/dp/0831133279), [5e](https://smile.amazon.com/dp/0831131527))
 
-## Problem books, math competition prep
+## Problem books, problem solving, math competition prep
 
 - Tanton. *Trigonometry: A Clever Study Guide* ([1e](https://smile.amazon.com/Trigonometry-Clever-Study-Guide-Problem/dp/0883858363))
+- Math Olympiad Contest Problems 
+  - Vol 1: For Elementary and Middle Schools <https://smile.amazon.com/Olympiad-Contest-Problems-Elementary-Schools/dp/0962666211>
+  - Vol 2: <https://smile.amazon.com/Math-Olympiad-Contest-Problems-REVISED/dp/B00XHGQKXU>
+  - Vol 3: <https://smile.amazon.com/Contest-Problems-Division-Richard-Kalman/dp/1882144120>
+  - Stanford Mathematics Problem Book <https://smile.amazon.com/Stanford-Mathematics-Problem-Book-Solutions/dp/0486469247>
 
-<https://smile.amazon.com/Stanford-Mathematics-Problem-Book-Solutions/dp/0486469247>
 <https://smile.amazon.com/USSR-Olympiad-Problem-Book-Mathematics/dp/0486277097>
 <https://smile.amazon.com/Moscow-Puzzles-Mathematical-Recreations-Recreational/dp/0486270785>
-<https://smile.amazon.com/Olympiad-Contest-Problems-Elementary-Schools/dp/0962666211>
 <https://smile.amazon.com/Colossal-Book-Mathematics-Paradoxes-Problems/dp/0393020231>
 <https://smile.amazon.com/Contest-Problem-Book-VIII-MAA/dp/0883858258>
 <https://smile.amazon.com/Contest-Problem-Book-MAA-Bk/dp/0883858266>
@@ -310,6 +328,11 @@ I don't know if these are good, but they are affordable.
 - Addison Wesley 1993-94: [Algebra](https://smile.amazon.com/dp/0201812487), [Algebra teacher's](https://smile.amazon.com/dp/0201812495), [Geometry](https://smile.amazon.com/dp/0201812606), [Geometry teacher's](https://smile.amazon.com/dp/0201812614), [Algebra and Trigonometry](https://smile.amazon.com/dp/0201812525), [Algebra and Trigonometry teacher's](https://smile.amazon.com/dp/0201812533)
 - McGraw-Hill Glencoe 2004-05: [Algebra 1](https://smile.amazon.com/dp/0078651131), [Geometry](https://smile.amazon.com/dp/0078651069), [Algebra 2](https://smile.amazon.com/dp/0078656095)
 - Prentice-Hall 2003-2007: [Pre-algebra](https://smile.amazon.com/dp/0130686085), [Algebra](https://smile.amazon.com/dp/013052316X), [Algebra 2](https://smile.amazon.com/dp/013062568X), [Geometry](https://smile.amazon.com/dp/0131339974)
+- Bliter. Introductory & Intermediate Algebra for College Students
+  (4e 2012: [Amazon](https://smile.amazon.com/dp/0321758943))
+- Blitzer. Introductory Algebra for College Students
+  (5e 2008: [Amazon](https://smile.amazon.com/dp/0132356791))
+- Rockswold, Krieger. Beginning and Intermediate Algebra with Applications & Visualization (2e 2006: <https://smile.amazon.com/dp/0321500059>)
 
 # Elementary
 
