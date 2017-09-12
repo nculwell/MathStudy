@@ -88,9 +88,11 @@ JEE prep
 - https://www.amazon.in/Skills-Mathematics-TRIGONOMETRY-Main-Advanced/dp/9351761444
 - https://www.amazon.in/Objective-Mathematics-Advanced-Engineering-Examinations/dp/8193233409
 
+Current NCERT textbooks can be viewed and downloaded here: <http://epathshala.nic.in/e-pathshala-4/flipbook/>
+
 Elementary
 - NCERT Math Magic
-  - Class 1: https://www.amazon.in/Math-Magic-Textbook-Mathematics-Class/dp/8174504761
+  - Class 1: [Amazon India](https://www.amazon.in/dp/8174504761), [Amazon](https://smile.amazon.com/dp/8174504761)
   - Class 1 workbook: <https://www.amazon.in/NCERT-Practice-Workbook-Mathematics-Magic/dp/9311122092>
   - Class 2: https://www.amazon.in/Math-Magic-Textbook-Mathematics-Class/dp/8174506799
   - Class 2 workbook: <https://www.amazon.in/NCERT-Practice-Workbook-Mathematics-Magic/dp/9311122068>
