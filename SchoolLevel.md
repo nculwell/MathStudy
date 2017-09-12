@@ -348,27 +348,28 @@ Schaum's has several of their "outlines" which are appropriate for this level. S
 - Yaglom and Yaglom. Challenging Mathematical Problems With Elementary Solutions
   (Volume I, Dover 1987: ISBN 978-0486655369, [Amazon](0486655369);
   Volume II, Dover 1987: ISBN 978-0486655376, [Amazon](0486655377))
-- <https://smile.amazon.com/USSR-Olympiad-Problem-Book-Mathematics/dp/0486277097>
-- <https://smile.amazon.com/Moscow-Puzzles-Mathematical-Recreations-Recreational/dp/0486270785>
-- <https://smile.amazon.com/Colossal-Book-Mathematics-Paradoxes-Problems/dp/0393020231>
-- <https://smile.amazon.com/Contest-Problem-Book-VIII-MAA/dp/0883858258>
-- <https://smile.amazon.com/Contest-Problem-Book-MAA-Bk/dp/0883858266>
-- <https://smile.amazon.com/Green-Mathematical-Problems-Dover-Mathematics/dp/0486695735>
-- <https://smile.amazon.com/Mathematical-Problems-Dover-Books-Mathematics/dp/0486694151>
-- <https://smile.amazon.com/Problem-Solving-Through-Recreational-Mathematics/dp/0486409171>
-- <https://smile.amazon.com/Competition-Math-Middle-School-Batterson/dp/1441488871>
-- <https://smile.amazon.com/Mathematical-Logic-Puzzles-Dover-Recreational/dp/0486281523>
-- <https://smile.amazon.com/IMO-Compendium-International-Mathematical-Mathematics/dp/1441998535>
-- <https://smile.amazon.com/Competitive-Mathematics-Gifted-Students-Level/dp/0692240071>
-- <https://smile.amazon.com/Solve-Mathematical-Problems-Dover-Mathematics/dp/0486284336>
-- <https://smile.amazon.com/Art-Craft-Problem-Solving/dp/0471789011>
-- <https://smile.amazon.com/Problem-Solving-Strategies-Problem-Books-Mathematics/dp/0387982191>
-- <https://smile.amazon.com/Creative-Problem-Solving-School-Mathematics/dp/1882144104>
+
 - <https://smile.amazon.com/American-Mathematics-Competitions-AMC-Preparation/dp/150061419X>
-- <https://smile.amazon.com/Great-Problems-Elementary-Mathematics-Dover/dp/0486613488>
+- <https://smile.amazon.com/Art-Craft-Problem-Solving/dp/0471789011>
+- <https://smile.amazon.com/Brainteasers-Arithmetic-Geometry-Problems-Solutions/dp/1623210291>
+- <https://smile.amazon.com/Colossal-Book-Mathematics-Paradoxes-Problems/dp/0393020231>
+- <https://smile.amazon.com/Competition-Math-Middle-School-Batterson/dp/1441488871>
+- <https://smile.amazon.com/Competitive-Mathematics-Gifted-Students-Level/dp/0692240071>
+- <https://smile.amazon.com/Contest-Problem-Book-MAA-Bk/dp/0883858266>
+- <https://smile.amazon.com/Contest-Problem-Book-VIII-MAA/dp/0883858258>
+- <https://smile.amazon.com/Creative-Problem-Solving-School-Mathematics/dp/1882144104>
 - <https://smile.amazon.com/Euclidean-Geometry-Mathematical-Olympiads-Problem/dp/0883858398>
 - <https://smile.amazon.com/Geometry-Techniques-Math-Gifted-Students/dp/1534790624>
-- <https://smile.amazon.com/Brainteasers-Arithmetic-Geometry-Problems-Solutions/dp/1623210291>
+- <https://smile.amazon.com/Great-Problems-Elementary-Mathematics-Dover/dp/0486613488>
+- <https://smile.amazon.com/Green-Mathematical-Problems-Dover-Mathematics/dp/0486695735>
+- <https://smile.amazon.com/IMO-Compendium-International-Mathematical-Mathematics/dp/1441998535>
+- <https://smile.amazon.com/Mathematical-Logic-Puzzles-Dover-Recreational/dp/0486281523>
+- <https://smile.amazon.com/Mathematical-Problems-Dover-Books-Mathematics/dp/0486694151>
+- <https://smile.amazon.com/Moscow-Puzzles-Mathematical-Recreations-Recreational/dp/0486270785>
+- <https://smile.amazon.com/Problem-Solving-Strategies-Problem-Books-Mathematics/dp/0387982191>
+- <https://smile.amazon.com/Problem-Solving-Through-Recreational-Mathematics/dp/0486409171>
+- <https://smile.amazon.com/Solve-Mathematical-Problems-Dover-Mathematics/dp/0486284336>
+- <https://smile.amazon.com/USSR-Olympiad-Problem-Book-Mathematics/dp/0486277097>
 
 ### AMS Mathematical World series
 
