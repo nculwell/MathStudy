@@ -1,6 +1,3 @@
-{% comment %} vim: et ts=2 sts=2 sw=2 ai
-{% endcomment %}
-
 # India
 
 
@@ -65,15 +62,20 @@ S. L. Loney
 Joseph Edwards
 - https://www.amazon.in/Differential-Calculus-Beginners-Joseph-Edwards/dp/9350942461
 - https://www.amazon.in/Integral-Calculus-Beginners-Joseph-Edwards/dp/9350941457
+- https://www.amazon.in/Integral-Calculus-Beginners-Joseph-Edwards/dp/8174731245
 
 Misc
 - https://www.amazon.in/Higher-Algebra-Barnard/dp/9350943190
+- https://www.amazon.in/Skills-Mathematics-TRIGONOMETRY-Main-Advanced/dp/9351761444
 
 ## Indian publications
 
 - https://www.amazon.in/Concepts-Physics-1-H-C-Verma/dp/8177091875
 - https://www.amazon.in/Concepts-Physics-2-H-C-Verma/dp/8177092324
 - https://www.amazon.in/Modern-Approach-Chemical-Calculations-Mukerjee/dp/8177096419
+
+School books
+- https://www.amazon.in/Mathematics-Class-Based-NCERT-Syllabus/dp/9383182490
 
 JEE prep
 - https://www.amazon.in/Play-Graphs-JEE-Main-Advanced/dp/9311126128
@@ -83,4 +85,20 @@ JEE prep
 - https://www.amazon.in/Algebra-Main-Advanced-S-K-Goyal/dp/9311126594
 - https://www.amazon.in/Coordinate-Geometry-JEE-Main-Advanced/dp/9311127612
 - https://www.amazon.in/Comprehensive-Algebra-Vol-Vinay-Kumar/dp/1259064220
+- https://www.amazon.in/Skills-Mathematics-TRIGONOMETRY-Main-Advanced/dp/9351761444
+- https://www.amazon.in/Objective-Mathematics-Advanced-Engineering-Examinations/dp/8193233409
+
+Elementary
+- NCERT Math Magic
+  - Class 1: https://www.amazon.in/Math-Magic-Textbook-Mathematics-Class/dp/8174504761
+  - Class 1 workbook: <https://www.amazon.in/NCERT-Practice-Workbook-Mathematics-Magic/dp/9311122092>
+  - Class 2: https://www.amazon.in/Math-Magic-Textbook-Mathematics-Class/dp/8174506799
+  - Class 2 workbook: <https://www.amazon.in/NCERT-Practice-Workbook-Mathematics-Magic/dp/9311122068>
+  - Class 3: https://www.amazon.in/Math-Magic-Textbook-Mathematics-Class/dp/8174505105
+  - Class 3 workbook: <https://www.amazon.in/NCERT-Practice-Workbook-Mathematics-Magic/dp/9311122025>
+- https://www.amazon.in/International-Mathematics-Olympiad-Work-Book/dp/9386379864
+- https://www.amazon.in/S-Chands-Mental-Mathematics-Class/dp/8121931258
+- https://www.amazon.in/BMAs-Olympiad-Mock-Test-20-20/dp/9382058761
+- https://www.amazon.in/Class-Learning-Mathematics-Smarter-Life/dp/9385875272
+- https://www.amazon.in/New-Composite-Mathematics-Class-2/dp/9352534832
 
