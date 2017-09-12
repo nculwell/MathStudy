@@ -41,6 +41,7 @@ Encompassing the portion of the US curriculum referred to by the terms Algebra 2
 - Axler, Precalculus. (1e: [Amazon](https://smile.amazon.com/dp/0470180722); 2e: [Amazon](https://smile.amazon.com/dp/047064804X))
 * Simmons, Precalculus in a Nutshell
 * Foerster, Algebra and Trigonometry (2005 Classics Edition: [ISBN 978-0131657106](https://www.worldcat.org/isbn/978-0131657106), [Amazon](https://smile.amazon.com/dp/0131657100))
+* <https://archive.org/details/TrigonometricFunctions-ProblemSolvingApproach>
 
 ### Geometry
 
@@ -371,6 +372,7 @@ Schaum's has several of their "outlines" which are appropriate for this level. S
 - <https://smile.amazon.com/Mathematical-Logic-Puzzles-Dover-Recreational/dp/0486281523>
 - <https://smile.amazon.com/Mathematical-Problems-Dover-Books-Mathematics/dp/0486694151>
 - <https://smile.amazon.com/Moscow-Puzzles-Mathematical-Recreations-Recreational/dp/0486270785>
+- <https://smile.amazon.com/Practice-Word-Problems-Competitive-Mathematics/dp/0615873863>
 - <https://smile.amazon.com/Problem-Solving-Strategies-Problem-Books-Mathematics/dp/0387982191>
 - <https://smile.amazon.com/Problem-Solving-Through-Recreational-Mathematics/dp/0486409171>
 - <https://smile.amazon.com/Solve-Mathematical-Problems-Dover-Mathematics/dp/0486284336>
@@ -412,6 +414,10 @@ I don't know if these are good, but they are affordable.
 
 # Elementary
 
+## Problems
+
+- Borac. *Competitive Mathematics for Gifted Students - Level 1 Combo: ages 7-9* (2014, [ISBN 978-0692240076](https://www.worldcat.org/isbn/978-0692240076), [Amazon](https://smile.amazon.com/Competitive-Mathematics-Gifted-Students-Level/dp/0692240071))
+
 ### UCSMP
 
 #### Everyday Mathematics
@@ -427,4 +433,5 @@ I don't know if these are good, but they are affordable.
 
 - Vol 1 <https://smile.amazon.com/dp/0198392567>
 - Vol 2 <https://smile.amazon.com/dp/0198392575>
+
 
