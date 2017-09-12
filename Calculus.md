@@ -10,7 +10,9 @@ The OpenStax series follows a very common sequencing of topics, which I list her
 - Volume 2: [more] integration, differential equations, sequences and series, parametric equations, polar coordinates.
 - Volume 3: parametric equations and polar coordinates, vectors, functions of several variables, multiple integration, second-order differential equations.
 
-Here are some books in this category, including the most popular ones that I know of.  I've tried to link mainly to the best-priced editions so you can get a book for $5-10.
+Here are some books in this category, including the most popular ones that I
+know of.  I've tried to link mainly to the best-priced editions so you can get
+a book for $5-10 (though prices change).
 
 - OpenStax: Strang, Herman et al. *Calculus*. (**FREE ONLINE**: [Vol 1](https://openstax.org/details/calculus-volume-1); [Vol 2](https://openstax.org/details/calculus-volume-2); [Vol 3](https://openstax.org/details/calculus-volume-3))
 - Strang, *Calculus* (**FREE ONLINE**: [Website](http://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/), [Direct link to PDF](http://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf))
@@ -81,7 +83,7 @@ These take the attitude that emphasis on rigorous proofs gets in the way of unde
 
   Focuses on supporting calculus with geometric and physical explanations, and motivating it with the historical problems that motivated the development of calculus. Problems focus on understanding. Early emphasis on differential equations.
 
-- Zeldovich and Yaglom, *Higher Math for Beginners*
+- Zeldovich and Yaglom. *Higher Math for Beginners* ([Archive.org](https://archive.org/details/ZeldovichYaglomHigherMathematics))
 
 ##### Others
 
