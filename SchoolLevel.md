@@ -417,6 +417,13 @@ I don't know if these are good, but they are affordable.
 ## Problems
 
 - Borac. *Competitive Mathematics for Gifted Students - Level 1 Combo: ages 7-9* (2014, [ISBN 978-0692240076](https://www.worldcat.org/isbn/978-0692240076), [Amazon](https://smile.amazon.com/Competitive-Mathematics-Gifted-Students-Level/dp/0692240071))
+- <https://smile.amazon.com/Practice-Kangaroo-Students-Grades-Challenges/dp/0692235280>
+- https://smile.amazon.com/Hard-Elementary-School-Glenn-Ellison/dp/1489507175
+- https://smile.amazon.com/Hard-Math-Elementary-School-Workbook/dp/1484843010
+- https://smile.amazon.com/Primary-Grade-Challenge-Edward-Zaccaro/dp/0967991536
+- https://smile.amazon.com/Math-Gifted-Student-Challenging-Activities/dp/1411434331
+- https://smile.amazon.com/Hard-Math-Middle-School-IMLEM/dp/1453814450
+- https://smile.amazon.com/Hard-Math-Middle-School-Workbook/dp/1542835089
 
 ### UCSMP
 
