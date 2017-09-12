@@ -64,6 +64,11 @@ Encompassing the portion of the US curriculum referred to by the terms Algebra 2
 
 <http://ucsmp.uchicago.edu/about/overview/>
 
+### CME
+
+- <http://cmeproject.edc.org/>
+- <https://smile.amazon.com/CENTER-MATHEMATICS-EDUCATION-ALGEBRA-STUDENT/dp/0132031175>
+
 ### Connected Mathematics (CMP)
 
 Seems to be the most widely used constructivist mathematics series for middle schools.
@@ -370,6 +375,7 @@ Schaum's has several of their "outlines" which are appropriate for this level. S
 - <https://smile.amazon.com/Problem-Solving-Through-Recreational-Mathematics/dp/0486409171>
 - <https://smile.amazon.com/Solve-Mathematical-Problems-Dover-Mathematics/dp/0486284336>
 - <https://smile.amazon.com/USSR-Olympiad-Problem-Book-Mathematics/dp/0486277097>
+- <https://smile.amazon.com/Mass-Points-Method-Yongcheng-Chen/dp/1542458706>
 
 ### AMS Mathematical World series
 
