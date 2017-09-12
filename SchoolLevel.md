@@ -48,9 +48,15 @@ Encompassing the portion of the US curriculum referred to by the terms Algebra 2
 * Lang and Murrow, *Geometry: A High School Course* ([2e](https://smile.amazon.com/dp/0387966544), [Solutions manual](https://smile.amazon.com/dp/0387941819))
 * Kiselev's Geometry I
 - Meyer. *Geometry and Its Applications* (2e, 2006: ISBN 978-0123694270, [Worldcat](https://www.worldcat.org/oclc/212425111), [Amazon](https://smile.amazon.com/dp/0123694272))
+
+#### Might work
+
 - Stillwell. *The Four Pillars of Geometry* (1e 2005: ISBN 978-0387255309, [Worldcat](https://www.worldcat.org/oclc/209834142), [Amazon](https://smile.amazon.com/dp/0387255303))
-- Brannan, Esplen, Gray. *Geometry* (2014, ISBN 978-1118679197, [Worldcat](https://www.worldcat.org/isbn/9781118679197), [Amazon](https://smile.amazon.com/dp/1118679199))
-- Leonard, Lewis, Liu, Tokarsky. *Classical Geometry: Euclidean, Transformational, Inversive, and Projective* (1e 1997: [ISBN 978-0760706602](https://www.worldcat.org/isbn/978-0760706602), [Amazon](https://smile.amazon.com/dp/0760706603); 2e 2003: [ISBN 978-1592441303](https://www.worldcat.org/isbn/978-1592441303), [Amazon](https://smile.amazon.com/dp/1592441300))
+- Leonard, Lewis, Liu, Tokarsky. *Classical Geometry: Euclidean, Transformational, Inversive, and Projective*
+  (1e 1997: [ISBN 978-0760706602](https://www.worldcat.org/isbn/978-0760706602),
+  [Amazon](https://smile.amazon.com/dp/0760706603);
+  2e 2003: [ISBN 978-1592441303](https://www.worldcat.org/isbn/978-1592441303),
+  [Amazon](https://smile.amazon.com/dp/1592441300))
 
 ## Sources for texts and resources
 
@@ -58,13 +64,42 @@ Encompassing the portion of the US curriculum referred to by the terms Algebra 2
 
 <http://ucsmp.uchicago.edu/about/overview/>
 
+### Connected Mathematics (CMP)
+
+Seems to be the most widely used constructivist mathematics series for middle schools.
+
+- Project home: <https://connectedmath.msu.edu/>
+- Wikipedia: <https://en.wikipedia.org/wiki/Connected_Mathematics>
+- Pearson's CMP3 page: <http://www.pearsonschool.com/index.cfm?locator=PS1yJe>
+- Pearson's CMP2 page: <http://www.phschool.com/cmp2/>
+
+Constructivist mathematics approaches math by asking the students to solve
+problems that allow them to "construct" mathematical concepts for themselves.
+Research generally indicates that this is a good way to do things, because
+thinking about things is what makes you learn them (as opposed to repeating
+what you're told to do, which is far less effective and thus requires more
+hours of studying to achieve the same results). The big caveat is that the
+constructivist approach requires a competent teacher to supervise learning and
+make sure students don't get off track: the teacher's job largely becomes one
+of recognizing and correcting misconceptions.
+
+These features make constructivist books inappropriate as a primary resource
+for self study (because you have no teacher to correct your misconceptions),
+but they might still be useful in combination with another text as a source of
+problems.
+
+For a look at the thinking behind constructivist mathematics instruction,
+*Concept-rich Mathematics Instruction*
+([ISBN 978-1416603597](https://www.worldcat.org/isbn/9781416603597),
+[Amazon](https://smile.amazon.com/dp/141660359X)) is a useful overview.
+
 ### OpenStax
 
 The OpenStax project offers free, high-quality textbooks for a variety of subjects. Here's the link to the math section:
 
 <https://openstax.org/subjects/math>
 
-Print copies are available on Amazon but many are on longer in print and there aren't a lot of used copies floating around.
+Print copies have been available on Amazon but many are on longer in print and there aren't a lot of used copies floating around.
 
 Currently, they offer textbooks for Pre-algebra, College Algebra, Algebra-Trigonometry, Precalculus and Calculus I-III. Notably, there is no Geometry text.
 
@@ -76,7 +111,7 @@ For self-study purposes, *Algebra and Trigonometry* seems to be the most desirab
 
 Note that these books have two PDF versions: the "OP" version that is linked to from the main math books page, and the "Print Edition" version that can be found in a link on the details page. I'm not sure what the difference is, but I've noticed that the OP version is a larger file, whereas the Print Edition contains the student answer key (solutions for odd-numbered exercises).
 
-Since the OpenStax website is annoying to use, I provide some direct links here:
+Since the OpenStax website is annoying to use, I provide some direct links here, although these might be out-of-date in the future:
 
 - [*Algebra and Trigonometry*, Print Edition PDF](https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/AlgebraAndTrigonometry-Print-Edition.pdf)
   (includes the student answer key in the back of the book)
@@ -96,13 +131,21 @@ Sheldon Axler is a university professor who has written a number of math textboo
 
 These two books overlap quite a bit; I'm not sure if there is any substantive difference between them besides the sequencing of topics. His other book at this level, *College Algebra*, is superfluous because it is entirely contained within *Algebra and Trigonometry* (and it's only slightly cheaper).
 
-As of this writing, this one is the cheapest option to buy used:
+I suggest buying a decent-quality copy of whichever edition is cheapest. As of this writing, this one is the cheapest option to buy used:
 
 - [Axler's *Precalculus*, first edition, on Amazon](https://smile.amazon.com/Precalculus-Prelude-Calculus-Sheldon-Axler/dp/0470180722)
 
+Note that the covers of these paperback books are not especially strong and they tend to curl up.
+
 ### The Art of Problem Solving
 
-I gather this series began as two books by Richard Rusczyk, *The Art of Problem Solving* volumes 1 and 2, which are aimed at [Mathcounts](http://www.mathcounts.org/) contestants. However, the series has been expanded to include textbooks from precalculus through all of high school mathematics. People rave about them, so they're probably pretty good. I've only looked at *Introduction to Algebra*, but I found it interesting and thorough in its explanations.
+I gather this series began as two books by Richard Rusczyk,
+*The Art of Problem Solving* volumes 1 and 2, which cover the pre-algebra
+curriculum and are aimed at [Mathcounts](http://www.mathcounts.org/)
+contestants. However, the series has been expanded to include textbooks from
+pre-algebra through all of high school mathematics. People rave about them, so
+they're probably pretty good. I've only looked at *Introduction to Algebra*,
+but I found it interesting and thorough in its explanations.
 
 - *Prealgebra*
 - *Introduction to Algebra*
@@ -114,17 +157,31 @@ I gather this series began as two books by Richard Rusczyk, *The Art of Problem 
 - *Precalculus*
 - *Calculus*
 
-The main high school curriculum subjects covered here (*Prealgebra*, *Introduction to Algebra*, *Intermediate Algebra*, *Introduction to Geometry*, *Precalculus*), aren't usually given a challenging treatment in the other available books, so these make very attractive alternatives.
+The main high school curriculum subjects covered here (*Prealgebra*,
+*Introduction to Algebra*, *Intermediate Algebra*, *Introduction to Geometry*,
+*Precalculus*), aren't usually given a challenging treatment in the other
+available books, so these make very attractive alternatives.
 
-I don't know if there's as much need for the calculus book, as students already have lots of different options for that (as detailed on my other books page), but what I like about it judging from the samples available online is that it gives nice, detailed walkthroughs of more complex problems than you see in the worked examples of a typical textbook.
+I don't know if there's as much need for the calculus book, as students already
+have lots of different options for that (as detailed on my other books page),
+but what I like about it judging from the samples available online is that it
+gives nice, detailed walkthroughs of more complex problems than you see in the
+worked examples of a typical textbook.
 
-Since there is often a lot of overlap between courses on "Algebra II" and "Precalculus", I compared the contents of *Intermediate Algebra* and *Precalculus*. They are mostly different, with *Intermediate Algebra* focusing polynomials, other functions, and series, whereas *Precalculus* is almost entirely devoted to trigonometry and an introduction to linear algebra.
+Since there is often a lot of overlap between courses on "Algebra II" and
+"Precalculus", I compared the contents of *Intermediate Algebra* and
+*Precalculus*. They are mostly different, with *Intermediate Algebra* focusing
+polynomials, other functions, and series, whereas *Precalculus* is almost
+entirely devoted to trigonometry and an introduction to linear algebra.
 
-AoPS also has a set of books called *Beast Academy* which is planned to cover grades 2-5, although currently only grades 3 and 4 are complete. I have no idea if those are any good.
+AoPS also has a set of books called *Beast Academy* which is planned to cover
+grades 2-5, although currently only grades 3 and 4 are complete. I have no idea
+if those are any good.
 
 These can be found here: <https://www.artofproblemsolving.com/>
 
-The Art of Problem Solving website also offers online courses that go with these books.
+The Art of Problem Solving website also offers online courses that go with
+these books.
 
 ### The Russian texts
 
@@ -150,6 +207,10 @@ Andrei P. Kiselev (Киселёв, also written Kiselyov) wrote a book called Ge
 - [Kiselev's Geometry, Book II: Stereometry](https://smile.amazon.com/dp/0977985210)
 
 *Volume I: Planimetry* covers lines, circles, similarity, regular polygons and areas. *Volume II: Stereometry* covers figures in three dimensions: lines and planes, polyhedra and round solids; then it wraps up with an introduction to vectors and then an overview of the history of geometry and a brief introduction to non-Euclidean geometry. *Volume II* in particular goes well beyond what high school students in the US are expected to learn from a geometry course, and it gets very dense.
+
+#### Others
+
+Yakolev, High School Mathematics. ([Worldcat](http://www.worldcat.org/title/high-school-mathematics/oclc/39209913))
 
 ### Harold Jacobs
 
@@ -282,15 +343,18 @@ Schaum's has several of their "outlines" which are appropriate for this level. S
   - Vol 2: <https://smile.amazon.com/Math-Olympiad-Contest-Problems-REVISED/dp/B00XHGQKXU>
   - Vol 3: <https://smile.amazon.com/Contest-Problems-Division-Richard-Kalman/dp/1882144120>
 - Stanford Mathematics Problem Book <https://smile.amazon.com/Stanford-Mathematics-Problem-Book-Solutions/dp/0486469247>
+- Posamentier, Salkind. Challenging Problems in Algebra (Dover 1996, ISBN 978-0486691480, [Amazon](https://smile.amazon.com/dp/0486691489))
+- Posamentier, Salkind. Challenging Problems in Geometry (Dover 1996, ISBN 978-0486691541, [Amazon](https://smile.amazon.com/dp/0486691543))
+- Yaglom and Yaglom. Challenging Mathematical Problems With Elementary Solutions
+  (Volume I, Dover 1987: ISBN 978-0486655369, [Amazon](0486655369);
+  Volume II, Dover 1987: ISBN 978-0486655376, [Amazon](0486655377))
 - <https://smile.amazon.com/USSR-Olympiad-Problem-Book-Mathematics/dp/0486277097>
 - <https://smile.amazon.com/Moscow-Puzzles-Mathematical-Recreations-Recreational/dp/0486270785>
 - <https://smile.amazon.com/Colossal-Book-Mathematics-Paradoxes-Problems/dp/0393020231>
 - <https://smile.amazon.com/Contest-Problem-Book-VIII-MAA/dp/0883858258>
 - <https://smile.amazon.com/Contest-Problem-Book-MAA-Bk/dp/0883858266>
-- <https://smile.amazon.com/Challenging-Mathematical-Problems-Elementary-Solutions/dp/0486655369>
 - <https://smile.amazon.com/Green-Mathematical-Problems-Dover-Mathematics/dp/0486695735>
 - <https://smile.amazon.com/Mathematical-Problems-Dover-Books-Mathematics/dp/0486694151>
-- <https://smile.amazon.com/Challenging-Problems-Algebra-Dover-Mathematics/dp/0486691489>
 - <https://smile.amazon.com/Problem-Solving-Through-Recreational-Mathematics/dp/0486409171>
 - <https://smile.amazon.com/Competition-Math-Middle-School-Batterson/dp/1441488871>
 - <https://smile.amazon.com/Mathematical-Logic-Puzzles-Dover-Recreational/dp/0486281523>
@@ -301,6 +365,10 @@ Schaum's has several of their "outlines" which are appropriate for this level. S
 - <https://smile.amazon.com/Problem-Solving-Strategies-Problem-Books-Mathematics/dp/0387982191>
 - <https://smile.amazon.com/Creative-Problem-Solving-School-Mathematics/dp/1882144104>
 - <https://smile.amazon.com/American-Mathematics-Competitions-AMC-Preparation/dp/150061419X>
+- <https://smile.amazon.com/Great-Problems-Elementary-Mathematics-Dover/dp/0486613488>
+- <https://smile.amazon.com/Euclidean-Geometry-Mathematical-Olympiads-Problem/dp/0883858398>
+- <https://smile.amazon.com/Geometry-Techniques-Math-Gifted-Students/dp/1534790624>
+- <https://smile.amazon.com/Brainteasers-Arithmetic-Geometry-Problems-Solutions/dp/1623210291>
 
 ### AMS Mathematical World series
 
@@ -337,4 +405,19 @@ I don't know if these are good, but they are affordable.
 
 # Elementary
 
-TODO
+### UCSMP
+
+#### Everyday Mathematics
+
+- <https://smile.amazon.com/dp/0076045374>
+
+#### 6-12
+
+- Pre-Transition <https://smile.amazon.com/Pre-Transition-Mathematics-University-Chicago-Project/dp/0076185699>
+- Transition <https://smile.amazon.com/Transition-Mathematics-Ucsmp-Grades-6-12/dp/0076213854>
+
+### Activate Science (Oxford)
+
+- Vol 1 <https://smile.amazon.com/dp/0198392567>
+- Vol 2 <https://smile.amazon.com/dp/0198392575>
+
