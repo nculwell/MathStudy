@@ -13,41 +13,41 @@ the first course that has many adult-style textbooks dedicated to it.
 
 See below for more information about these.
 
-* The Art of Problem Solving ([At AoPS](https://artofproblemsolving.com/store/item/intro-geometry))
-* OpenStax
-* Japanese Mathematics (translations from University of Chicago)
+- The Art of Problem Solving ([At AoPS](https://artofproblemsolving.com/store/item/intro-geometry))
+- OpenStax
+- Japanese Mathematics (translations from University of Chicago)
   <http://ucsmp.uchicago.edu/resources/translations/>
 
 ### Pre-algebra
  
-* The Art of Problem Solving: Volumes 1 and 2
+- The Art of Problem Solving: Volumes 1 and 2
 - Dolciani. *Pre-Algebra: An Accelerated Course* [1987](https://smile.amazon.com/dp/039543050X)
 
 ### Introductory algebra
 
-* The Art of Problem Solving: Algebra
-* Gelfand, Algebra
-* Foerster, Algebra (2006 Classic Edition: [ISBN 978-0131657083](https://www.worldcat.org/isbn/978-0131657083), [Amazon](https://smile.amazon.com/dp/020132458X); 1999 Classic Edition: [ISBN 978-0201324587](https://www.worldcat.org/isbn/978-0201324587), [Amazon](https://smile.amazon.com/dp/020132458X); 1994 Classic Edition: [ISBN 978-0201860948](https://www.worldcat.org/isbn/978-0201860948), [Amazon](https://smile.amazon.com/dp/0201860945))
+- The Art of Problem Solving: Algebra
+- Gelfand, Algebra
+- Foerster, Algebra (2006 Classic Edition: [ISBN 978-0131657083](https://www.worldcat.org/isbn/978-0131657083), [Amazon](https://smile.amazon.com/dp/020132458X); 1999 Classic Edition: [ISBN 978-0201324587](https://www.worldcat.org/isbn/978-0201324587), [Amazon](https://smile.amazon.com/dp/020132458X); 1994 Classic Edition: [ISBN 978-0201860948](https://www.worldcat.org/isbn/978-0201860948), [Amazon](https://smile.amazon.com/dp/0201860945))
 
 ### Continuing algebra and trigonometry
 
 Encompassing the portion of the US curriculum referred to by the terms Algebra 2, Trigonometry and Precalculus.
 
-* The Art of Problem Solving: Intermediate Algebra
-* The Art of Problem Solving: Precalculus
-* OpenStax Algebra and Trigonometry
-* Lang, Basic Mathematics
-* Gelfand, Trigonometry
+- The Art of Problem Solving: Intermediate Algebra
+- The Art of Problem Solving: Precalculus
+- OpenStax Algebra and Trigonometry
+- Lang, Basic Mathematics
+- Gelfand, Trigonometry
 - Axler, Precalculus. (1e: [Amazon](https://smile.amazon.com/dp/0470180722); 2e: [Amazon](https://smile.amazon.com/dp/047064804X))
-* Simmons, Precalculus in a Nutshell
-* Foerster, Algebra and Trigonometry (2005 Classics Edition: [ISBN 978-0131657106](https://www.worldcat.org/isbn/978-0131657106), [Amazon](https://smile.amazon.com/dp/0131657100))
-* <https://archive.org/details/TrigonometricFunctions-ProblemSolvingApproach>
+- Simmons, Precalculus in a Nutshell
+- Foerster, Algebra and Trigonometry (2005 Classics Edition: [ISBN 978-0131657106](https://www.worldcat.org/isbn/978-0131657106), [Amazon](https://smile.amazon.com/dp/0131657100))
+- <https://archive.org/details/TrigonometricFunctions-ProblemSolvingApproach>
 
 ### Geometry
 
-* The Art of Problem Solving: Introduction to Geometry
-* Lang and Murrow, *Geometry: A High School Course* ([2e](https://smile.amazon.com/dp/0387966544), [Solutions manual](https://smile.amazon.com/dp/0387941819))
-* Kiselev's Geometry I
+- The Art of Problem Solving: Introduction to Geometry
+- Lang and Murrow, *Geometry: A High School Course* ([2e](https://smile.amazon.com/dp/0387966544), [Solutions manual](https://smile.amazon.com/dp/0387941819))
+- Kiselev's Geometry I
 - Meyer. *Geometry and Its Applications* (2e, 2006: ISBN 978-0123694270, [Worldcat](https://www.worldcat.org/oclc/212425111), [Amazon](https://smile.amazon.com/dp/0123694272))
 
 #### Might work
@@ -425,7 +425,31 @@ I don't know if these are good, but they are affordable.
 - https://smile.amazon.com/Hard-Math-Middle-School-IMLEM/dp/1453814450
 - https://smile.amazon.com/Hard-Math-Middle-School-Workbook/dp/1542835089
 
+## For parents, or reference for kids
+
+- Math to Know ISBN 0669471542
+- Everything you need to ace math
+- Barron's E-Z Arithmetic
+- Lewis, Help Your Kids with Math (DK 2014, [ISBN 978-1465421661](https://www.worldcat.org/isbn/978-1465421661), [Amazon](https://smile.amazon.com/dp/1465421661))
+
+## Enrichment: math excursions, puzzles, etc.
+
+- https://smile.amazon.com/How-Be-Good-at-Math/dp/1465435751
+- https://smile.amazon.com/How-Math-Genius-Mike-Goldsmith/dp/0756697964
+
+## US textbooks
+
+### Major lines of books for kids
+
+- Scott Foresman
+- Go Math!
+
 ### UCSMP
+
+I'm interested in what I've read about these, so I include them here. However,
+I'm disturbed by the sheer size of them. That is a very bad sign IMO, as there
+just isn't that much content to teach at this level. I withhold judgement until
+I get my hands on them as see what's in all those pages.
 
 #### Everyday Mathematics
 
@@ -433,12 +457,54 @@ I don't know if these are good, but they are affordable.
 
 #### 6-12
 
-- Pre-Transition <https://smile.amazon.com/Pre-Transition-Mathematics-University-Chicago-Project/dp/0076185699>
-- Transition <https://smile.amazon.com/Transition-Mathematics-Ucsmp-Grades-6-12/dp/0076213854>
+- Pre-Transition (pre-pre-algebra) <https://smile.amazon.com/Pre-Transition-Mathematics-University-Chicago-Project/dp/0076185699>
+- Transition (pre-algebra) <https://smile.amazon.com/Transition-Mathematics-Ucsmp-Grades-6-12/dp/0076213854>
 
 ### Activate Science (Oxford)
+
+I just saw it online and it looked interesting.
 
 - Vol 1 <https://smile.amazon.com/dp/0198392567>
 - Vol 2 <https://smile.amazon.com/dp/0198392575>
 
+## Foreign textbooks
+
+### Singapore Math
+
+Singapore Math is an adaptation of the Singapore math textbooks to the US
+market. ("Singapore Math" also refers to the US company that has done this and
+sells the books.) There are a few different versions: "US", "Standards" and
+"Common Core". From reading the summaries, I gather that the "US" edition has
+the least changes from the original, whereas the others add topics to match US
+standards. As such, the US version is probably the best, because the point of
+these Asian curricula is largely to avoid loading little kids with so many
+topics. (The current US edition is older, though, and the books aren't all in
+color like the other editions, if that matters. I think it doesn't.)
+
+Official website: <http://www.singaporemath.com/>
+
+You can find them elsewhere but the official site seems as good a place as any
+to get them. (It seems that they don't sell through distributors/retailers, so
+any books you find elsewhere are probably secondhand.)
+
+### Real Shanghai Mathematics
+
+New western editions of the math books used in Shanghai. They emphasize fewer
+topics in more depth compared to western approaches. It looks intriguing but it
+hasn't actually been used yet.
+
+Official website: <https://collins.co.uk/page/Real+Shanghai+Mathematics>
+
+These are sold through retailers and you can buy them on Amazon.
+
+### India NCERT textbooks
+
+You can preview them here: <http://epathshala.nic.in/e-pathshala-4/flipbook/>
+
+This site actually lets you download the entire books as PDFs, or read them in
+the browser, but the PDFs have watermarks.
+
+These books can be bought on Amazon but the copies available in the USA are
+expensive. They're cheap in India but I don't know a way to get them shipped to
+the USA.
 
