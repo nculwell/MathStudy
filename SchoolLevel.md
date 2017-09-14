@@ -429,20 +429,40 @@ I don't know if these are good, but they are affordable.
 
 - Math to Know ISBN 0669471542
 - Everything you need to ace math
+- Everything You Need to Ace Math in One Big Fat Notebook: The Complete Middle School Study Guide
+  (2016, [ISBN 978-0761160960](https://www.worldcat.org/isbn/978-0761160960),
+  [Amazon](https://smile.amazon.com/dp/0761160965))
 - Barron's E-Z Arithmetic
-- Lewis, Help Your Kids with Math (DK 2014, [ISBN 978-1465421661](https://www.worldcat.org/isbn/978-1465421661), [Amazon](https://smile.amazon.com/dp/1465421661))
+- Lewis, Help Your Kids with Math
+  (DK 2014, [ISBN 978-1465421661](https://www.worldcat.org/isbn/978-1465421661),\
+  [Amazon](https://smile.amazon.com/dp/1465421661))
+- No-Nonsense Algebra <https://smile.amazon.com/No-Nonsense-Algebra-Mastering-Essential-Skills/dp/0984362991> -
+  Summarizes pre-algebra and introductory algebra.
 
 ## Enrichment: math excursions, puzzles, etc.
 
-- https://smile.amazon.com/How-Be-Good-at-Math/dp/1465435751
-- https://smile.amazon.com/How-Math-Genius-Mike-Goldsmith/dp/0756697964
+Books that aren't intended to be systematic curricula, and are more colorful than just practice problems.
+
+- Amazing Visual Math (DK <https://smile.amazon.com/Amazing-Visual-Math-DK/dp/1465420177>) - A geometry lift-the-flap book. 
+- How to Be Good at Math (DK <https://smile.amazon.com/How-Be-Good-at-Math/dp/1465435751>)
+- How to Be a Math Genius (DK <https://smile.amazon.com/How-Math-Genius-Mike-Goldsmith/dp/0756697964>)
+- Weltman, This is Not a Maths Book: A Smart Art Activity Book (2015, ISBN 978-1782402053, [Amazon](https://smile.amazon.com/dp/1782402055)) - Drawing activities with straight-edge and compass.
+  - Another: <https://smile.amazon.com/This-Not-Another-Maths-Book/dp/1782404988>
+  - Science (actually pretty mathematical): <https://smile.amazon.com/This-Not-Science-Book-Activity/dp/1782403973>
+- <https://smile.amazon.com/Math-Magic-Wonderland-Adventures/dp/1532894422>
+- <https://smile.amazon.com/Book-Perfectly-Perilous-Math-Mathematicians/dp/0761163743>
+- <https://smile.amazon.com/Math-Gifted-Student-Challenging-Activities/dp/1411434331>
+- <https://smile.amazon.com/Visions-Universe-Coloring-Journey-Mysteries/dp/1615193677>
 
 ## US textbooks
 
-### Major lines of books for kids
+### Major lines of school books
 
 - Scott Foresman
 - Go Math!
+- Harcourt
+- McGraw-Hill My Math
+- Math Connects
 
 ### UCSMP
 
@@ -487,6 +507,13 @@ You can find them elsewhere but the official site seems as good a place as any
 to get them. (It seems that they don't sell through distributors/retailers, so
 any books you find elsewhere are probably secondhand.)
 
+Here are some other series that appear to be Singapore Math knockoffs:
+
+- <https://smile.amazon.com/Math-Focus-Singapore-1A-Student/dp/0547875827>
+- <https://smile.amazon.com/dp/1483813185>
+- <https://smile.amazon.com/Singapore-Math-Practice-Level-Grade/dp/0768239915>
+- <https://smile.amazon.com/Singapore-Primary-grade-WORKBOOK-SET-1A/dp/B003AYCOWU>
+
 ### Real Shanghai Mathematics
 
 New western editions of the math books used in Shanghai. They emphasize fewer
@@ -507,4 +534,12 @@ the browser, but the PDFs have watermarks.
 These books can be bought on Amazon but the copies available in the USA are
 expensive. They're cheap in India but I don't know a way to get them shipped to
 the USA.
+
+# Science and Engineering
+
+This isn't math, I'm just throwing it in here until I get it broken out into another page.
+
+- <https://smile.amazon.com/Science-Book-Ideas-Simply-Explained/dp/1465419659>
+- <https://smile.amazon.com/How-Body-Works-DK/dp/146542993X>
+- <https://smile.amazon.com/How-Food-Works-Visually-Explained/dp/1465461191>
 
