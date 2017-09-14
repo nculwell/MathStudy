@@ -428,7 +428,6 @@ I don't know if these are good, but they are affordable.
 ## For parents, or reference for kids
 
 - Math to Know ISBN 0669471542
-- Everything you need to ace math
 - Everything You Need to Ace Math in One Big Fat Notebook: The Complete Middle School Study Guide
   (2016, [ISBN 978-0761160960](https://www.worldcat.org/isbn/978-0761160960),
   [Amazon](https://smile.amazon.com/dp/0761160965))
