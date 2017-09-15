@@ -427,7 +427,29 @@ I don't know if these are good, but they are affordable.
 
 ## For parents, or reference for kids
 
-- Math to Know ISBN 0669471542
+- Great Source math series
+
+  I've looked over the first three books in this series and they look really
+  good. They are designed as references rather than books that you work through
+  from start to finish. They don't have any exercises at all since they are not
+  intended to be primary textbooks.
+
+  If you compare the table of contents of each subsequent volume, they appear
+  redundant. This is only partly true, however, as the later volumes present
+  review material more concisely. For example, the measurement section in Math
+  to Learn devotes two pages to customary units (i.e. SAE/imperial) and two to
+  metric units, with a number of illustrations dedicated to each and a little
+  guide showing you how to line up a ruler when measuring something; Math to
+  Know shortens each of these two one page each; and Math at Hand presents both
+  customary and metric units on a single page.
+
+  - Grades 1-2: Math to Learn (2e 2006, ISBN 978-0669535983, [Worldcat](https://www.worldcat.org/isbn/978-0669535983), [Amazon](https://smile.amazon.com/dp/0669535982))
+  - Grades 3-4: Math to Know (2006, ISBN 978-0669508178, [Worldcat](https://www.worldcat.org/isbn/978-0669508178), [Amazon](https://smile.amazon.com/dp/0669535982))
+  - Grades 5-6: Math at Hand (2e 2003, ISBN 978-0669508178, [Worldcat](https://www.worldcat.org/isbn/978-0669508178), [Amazon](https://smile.amazon.com/dp/0669535966))
+  - Grades 7-8: Math on Call (2e 2003, ISBN 978-0669508192, [Worldcat](https://www.worldcat.org/isbn/978-0669508192), [Amazon](https://smile.amazon.com/dp/0669508195))
+  - Algebra to Go (2000, ISBN 978-0669471519, [Worldcat](https://www.worldcat.org/isbn/978-0669471519), [Amazon](https://smile.amazon.com/dp/0669471518))
+  - Geometry to Go (2001, ISBN 978-0669481297, [Worldcat](https://www.worldcat.org/isbn/978-0669481297), [Amazon](https://smile.amazon.com/dp/0669481297))
+
 - Everything You Need to Ace Math in One Big Fat Notebook: The Complete Middle School Study Guide
   (2016, [ISBN 978-0761160960](https://www.worldcat.org/isbn/978-0761160960),
   [Amazon](https://smile.amazon.com/dp/0761160965))
