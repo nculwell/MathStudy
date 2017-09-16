@@ -535,17 +535,35 @@ Here are some other series that appear to be Singapore Math knockoffs:
 - <https://smile.amazon.com/Singapore-Math-Practice-Level-Grade/dp/0768239915>
 - <https://smile.amazon.com/Singapore-Primary-grade-WORKBOOK-SET-1A/dp/B003AYCOWU>
 
-### Real Shanghai Mathematics
+### Shanghai Mathematics
 
-New western editions of the math books used in Shanghai. They emphasize fewer
-topics in more depth compared to western approaches. It looks intriguing but it
-hasn't actually been used yet.
+New English-language editions of the math books used in Shanghai, produced for
+use in the UK. They emphasize fewer topics in more depth compared to western
+approaches. This project looks intriguing but there aren't any reports out yet
+about the results of using them in British schools.
+
+#### Real Shanghai Mathematics
+
+Series from Collins.
 
 Official website: <https://collins.co.uk/page/Real+Shanghai+Mathematics>
 
 These are sold through retailers and you can buy them on Amazon.
 
+#### Shanghai Maths Project
+
+Looks like this was published in 2015. These books are the 1st year set:
+
+- Learner book 1: <https://smile.amazon.com/dp/0008225958>
+- Practice book 1A: <https://smile.amazon.com/dp/0008226075>
+- Practice book 1B: <https://smile.amazon.com/dp/0008226083>
+- Teacher's guide 1: <https://smile.amazon.com/dp/0008197199>
+
 ### India NCERT textbooks
+
+India has a government program to produce standard textbooks that can be
+reproduced inexpensively. (At least this is what I infer from what I've read on
+the website.)
 
 You can preview them here: <http://epathshala.nic.in/e-pathshala-4/flipbook/>
 
