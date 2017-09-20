@@ -195,3 +195,20 @@ This isn't math, I'm just throwing it in here until I get it broken out into ano
 <https://smile.amazon.com/Beyond-Base-Ten-Mathematics-High-Ability/dp/1593633297>
 <https://smile.amazon.com/Polygons-Galore-Mathematics-High-Ability-Learners/dp/1618210211>
 
+## Kendall Hunt store
+
+https://k12.kendallhunt.com/product-listing?f[0]=field_program_term%3A1544
+
+## Math Enrichment
+<https://smile.amazon.com/Math-Extension-Units-Book-1/dp/1593630999>
+<https://smile.amazon.com/Math-Extension-Units-Book-2/dp/1593631006>
+<https://smile.amazon.com/Challenging-Common-Core-Lessons-Grade/dp/161821487X>
+<https://smile.amazon.com/5-Minute-Math-Problem-Day-Multi-Step/dp/0439175399>
+
+## Contest/challenge problems
+<https://smile.amazon.com/Primary-Grade-Challenge-Edward-Zaccaro/dp/0967991536>
+
+## Math Puzzles
+<https://smile.amazon.com/Math-Puzzles-Patterns-Kids-Grades/dp/1593632185>
+<https://smile.amazon.com/Math-Bafflers-Book-Puzzles-Real-World/dp/159363711X>
+
