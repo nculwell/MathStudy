@@ -228,7 +228,7 @@ Jacobs books combine entertaining commentary and careful exposition. He aims to 
 
 *Elementary Algebra* and *Geometry* are fairly standard secondary school curricula for those subjects. *A Human Endeavor* is a "topics" type book that would be appropriate for anyone at the pre-algebra level on up who isn't already familiar with the topics. The topics it presents aren't particularly advanced, but they are important ones, and many of them (e.g. statistics, topology) are not covered in a standard high school curriculum.
 
-A number of the topics covered in *A Human Endeavor* (e.g. symmetry) are ones that are typically introduced in the pre-calculus curriculum, then ignored for so long that students wonder why they were ever brought up until they re-emerge in an abstract algebra course a decade later for any students whose studies make it that far. But that's an entirely different discussion.
+A number of the topics covered in *A Human Endeavor* (e.g. symmetry) are ones that are typically introduced in the pre-algebra curriculum, then ignored for so long that students wonder why they were ever brought up until they re-emerge in an abstract algebra course a decade later for any students whose studies make it that far. But that's an entirely different discussion.
 
 ## Barbeau
 
