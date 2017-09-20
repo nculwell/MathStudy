@@ -170,3 +170,28 @@ This isn't math, I'm just throwing it in here until I get it broken out into ano
 - <https://smile.amazon.com/How-Body-Works-DK/dp/146542993X>
 - <https://smile.amazon.com/How-Food-Works-Visually-Explained/dp/1465461191>
 
+# Curricula (not just math)
+
+## NGAC award-winning units
+
+<http://nagccurriculumnetwork.weebly.com/award-winning-units.html>
+
+## The College of William and Mary's Center for Gifted Eduction
+
+<https://smile.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=William+%26+Mary+Units>
+
+### K-1
+<https://smile.amazon.com/Splash-Measurement-Applications-Mathematics-High-Ability/dp/1593639708>
+<https://smile.amazon.com/Water-Works-Physical-High-Ability-Learners/dp/1593633270>
+<https://smile.amazon.com/How-Sun-Makes-Our-Day/dp/1593633920>
+<https://smile.amazon.com/Survive-Thrive-Science-Grades-William/dp/1593633939>
+### 1-2
+<https://smile.amazon.com/Budding-Botanists-Science-Grades-William/dp/1593633866>
+### 2-X
+<https://smile.amazon.com/Whats-Matter-Physical-High-Ability-Learners/dp/1593633289>
+<https://smile.amazon.com/Spatial-Reasoning-Mathematics-High-Ability-Learners/dp/1593633262>
+### 3-4
+<https://smile.amazon.com/Earth-Beneath-Our-Feet-High-Ability/dp/1618210459>
+<https://smile.amazon.com/Beyond-Base-Ten-Mathematics-High-Ability/dp/1593633297>
+<https://smile.amazon.com/Polygons-Galore-Mathematics-High-Ability-Learners/dp/1618210211>
+
