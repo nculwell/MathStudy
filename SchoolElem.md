@@ -13,6 +13,8 @@
 - https://smile.amazon.com/Hard-Math-Middle-School-IMLEM/dp/1453814450
 - https://smile.amazon.com/Hard-Math-Middle-School-Workbook/dp/1542835089
 
+- 
+
 ## For parents, or reference for kids
 
 - Great Source math series
@@ -44,7 +46,9 @@
 - Barron's E-Z Arithmetic
 - Lewis, Help Your Kids with Math
   (DK 2014, [ISBN 978-1465421661](https://www.worldcat.org/isbn/978-1465421661),\
-  [Amazon](https://smile.amazon.com/dp/1465421661))
+  [Amazon](https://smile.amazon.com/dp/1465421661)) -
+  An extremely visual approach to math. This would probably be helpful for
+  finding a visual explanation for things but I find it lacking in words.
 - No-Nonsense Algebra <https://smile.amazon.com/No-Nonsense-Algebra-Mastering-Essential-Skills/dp/0984362991> -
   Summarizes pre-algebra and introductory algebra.
 
@@ -54,7 +58,6 @@ Books that aren't intended to be systematic curricula, and are more colorful tha
 
 - Amazing Visual Math (DK <https://smile.amazon.com/Amazing-Visual-Math-DK/dp/1465420177>) - A geometry lift-the-flap book. 
 - How to Be Good at Math (DK <https://smile.amazon.com/How-Be-Good-at-Math/dp/1465435751>)
-- How to Be a Math Genius (DK <https://smile.amazon.com/How-Math-Genius-Mike-Goldsmith/dp/0756697964>)
 - Weltman, This is Not a Maths Book: A Smart Art Activity Book (2015, ISBN 978-1782402053, [Amazon](https://smile.amazon.com/dp/1782402055)) - Drawing activities with straight-edge and compass.
   - Another: <https://smile.amazon.com/This-Not-Another-Maths-Book/dp/1782404988>
   - Science (actually pretty mathematical): <https://smile.amazon.com/This-Not-Science-Book-Activity/dp/1782403973>
@@ -62,6 +65,10 @@ Books that aren't intended to be systematic curricula, and are more colorful tha
 - <https://smile.amazon.com/Book-Perfectly-Perilous-Math-Mathematicians/dp/0761163743>
 - <https://smile.amazon.com/Math-Gifted-Student-Challenging-Activities/dp/1411434331>
 - <https://smile.amazon.com/Visions-Universe-Coloring-Journey-Mysteries/dp/1615193677>
+- <https://smile.amazon.com/300-Mathematical-Pattern-Puzzles-Recognition/dp/1512044288>
+- <https://smile.amazon.com/Original-Collection-Math-Contest-Problems/dp/1503161390>
+- <https://smile.amazon.com/Math-Puzzles-Games-Grades-6-8/dp/0470227206>
+- <https://smile.amazon.com/Brainteasers-Arithmetic-Geometry-Problems-Solutions/dp/1623210291>
 
 ## US textbooks
 
@@ -204,6 +211,8 @@ https://k12.kendallhunt.com/product-listing?f[0]=field_program_term%3A1544
 <https://smile.amazon.com/Math-Extension-Units-Book-2/dp/1593631006>
 <https://smile.amazon.com/Challenging-Common-Core-Lessons-Grade/dp/161821487X>
 <https://smile.amazon.com/5-Minute-Math-Problem-Day-Multi-Step/dp/0439175399>
+<https://smile.amazon.com/Simple-Graph-Art-Erling-Freeberg/dp/1557340951>
+<https://smile.amazon.com/Real-World-Algebra-Edward-Zaccaro/dp/0967991528>
 
 ## Contest/challenge problems
 <https://smile.amazon.com/Primary-Grade-Challenge-Edward-Zaccaro/dp/0967991536>

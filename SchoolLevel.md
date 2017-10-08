@@ -217,6 +217,10 @@ Andrei P. Kiselev (Киселёв, also written Kiselyov) wrote a book called Ge
 #### Others
 
 Yakolev, High School Mathematics. ([Worldcat](http://www.worldcat.org/title/high-school-mathematics/oclc/39209913))
+Dorofeev, Elementary Mathematics
+Vygodsky, Mathematical Handbook: Elementary Mathematics
+Govorov, Problems in Mathematics: with Hints and Solutions
+Bukhovtsev, Problems In Elementary Physics
 
 ### Harold Jacobs
 
