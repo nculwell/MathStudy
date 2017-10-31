@@ -1,7 +1,7 @@
 
 ## Geometry
 
-There are various English-language editions of Euclid available at archive.org; for now I haven't listed them here, but you can search for yourself.
+There are various English-language editions of Euclid available at archive.org. [Search here](https://archive.org/search.php?query=creator%3A%28euclid%29%20elements&and[]=languageSorter%3A%22English%22).
 
 - Euclid, tr. Heath. *The Elements*. Dover. ([Vol I / Books 1-2](https://smile.amazon.com/dp/0486600882), [Vol II / Books 3-9](https://smile.amazon.com/dp/0486600890), [Vol III / Books 10-13](https://smile.amazon.com/Euclid-Thirteen-Books-Elements-10-13/dp/0486600904))
 - Euclid, tr. Heath. *The Elements* Green Lion Press. ([Single volume](https://smile.amazon.com/dp/1888009195))
@@ -27,7 +27,7 @@ There are various English-language editions of Euclid available at archive.org; 
 - Brannan, Esplen, Gray. *Geometry* (2014, ISBN 978-1118679197, [Worldcat](https://www.worldcat.org/isbn/9781118679197), [Amazon](https://smile.amazon.com/dp/1118679199))
 - Leonard, Lewis, Liu, Tokarsky. *Classical Geometry: Euclidean, Transformational, Inversive, and Projective* (1e 1997: [ISBN 978-0760706602](https://www.worldcat.org/isbn/978-0760706602), [Amazon](https://smile.amazon.com/dp/0760706603); 2e 2003: [ISBN 978-1592441303](https://www.worldcat.org/isbn/978-1592441303), [Amazon](https://smile.amazon.com/dp/1592441300))
 - Meserve. *Fundamental Concepts of Geometry* ([Dover](https://smile.amazon.com/dp/0486634159))
-- Veblen and Young. *Projective Geometry* (At archive.org: [Vol 1](https://archive.org/details/in.ernet.dli.2015.152722), [Vol 2](https://archive.org/details/in.ernet.dli.2015.461814))
+- Veblen and Young. *Projective Geometry* (At archive.org: [Vol 1](https://archive.org/details/in.ernet.dli.2015.152722), [Vol 2](https://archive.org/details/in.ernet.dli.2015.461814), [Search](https://archive.org/search.php?query=creator%3A%28veblen%20young%29%20projective%20geometry))
 
 ## Computational Geometry
 
