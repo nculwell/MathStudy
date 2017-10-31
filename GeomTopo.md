@@ -31,12 +31,20 @@ Wentworth's Series of Mathematics
 - Wentworth and Reed. *Primary Arithmetic* ([Book](https://archive.org/details/wentworthsprima01wentgoog))
 - Wentworth. *A Grammar School Arithmetic* ([Book](https://archive.org/details/agrammarschoola15wentgoog), [Teacher's edition](https://archive.org/details/agrammarschoola11wentgoog))
 - Wentworth and Hill. *A High-School Arithmetic* ([Book](https://archive.org/details/ahighschoolarit01wentgoog))
-- Wentworth and Hill. *Exercise Manuals: No I Arithmetic* ([Book](https://archive.org/details/exercisesinarit01wentgoog))
+- Wentworth and Hill. *Exercise Manuals: No I Arithmetic* ([Book](https://archive.org/details/exercisesinarit01wentgoog), [Answers](https://archive.org/details/answerstoproble00wentgoog))
 - Wentworth. *Shorter Course in Algebra* ([Book](https://archive.org/details/shortercoursein03wentgoog))
+- Wentworth. *Elements of Algebra* ([Book](https://archive.org/details/elementsalgebra14wentgoog))
+- Missing: Complete Algebra.
 - Wentworth. *Answers: Wentworth's Elements of Algebra and Complete Algebra* ([Book](https://archive.org/details/answerswentwort00wentgoog))
+- Wentworth. *A Higher Algebra* ([Book](https://archive.org/details/ahigheralgebra01wentgoog), [Book](https://archive.org/details/ahigheralgebra00wentgoog))
 - Wentworth. *College Algebra* ([Book](https://archive.org/details/acollegealgebra11wentgoog), [Answers](https://archive.org/details/answerstoproble01wentgoog))
 - Wentworth and Hill. *Exercise Manuals: No II Algebra* ([Book](https://archive.org/details/exercisesinalge02wentgoog), [Answers](https://archive.org/details/answerstoproble02wentgoog), [Answers](https://archive.org/details/answerstoproble03wentgoog))
+- Wentworth and Hill. *Exercise Manuals: No III Geometry* ([Book](https://archive.org/details/wentworthhillsex00wentrich))
+- Wentworth. *Plane and Solid Geometry* ([Book](https://archive.org/details/planeandsolidge00wentgoog), [Teacher's Edition](https://archive.org/details/cu31924002961344))
 
+answers to A New School Algebra https://archive.org/details/answerstonewsch00wentgoog
+
+Wentworth. *Exercises in Wentworth's Geometry: With Solutions* ([Book](https://archive.org/details/exercisesinwent02wentgoog))
 Wentworth and Smith. *Essentials of Arithmetic: Primary Book* ([Book](https://archive.org/details/essentialsarith00wentgoog))
 Wentworth. *A School Algebra* ([Book](https://archive.org/details/aschoolalgebra07wentgoog))
 Wentworth and Smith. *School Algebra* ([Book 1](https://archive.org/details/schoolalgebra00wentgoog), [Book 2](https://archive.org/details/schoolalgebra00unkngoog))
@@ -47,7 +55,6 @@ Wentworth. *A Text-Book of Geometry* ([Book](https://archive.org/details/atextbo
 Wentworth. *A Practical Arithmetic* ([Book](https://archive.org/details/apracticalarith07wentgoog))
 Wentworth and Hill. *A Practical Arithmetic* ([Book](https://archive.org/details/apracticalarith00wentgoog))
 Wentworth. *Plane and Spherical Trigonometry* ([Book](https://archive.org/details/planeandspheric00wentgoog))
-Wentworth. *A Higher Algebra* ([Book](https://archive.org/details/ahigheralgebra01wentgoog), [Book](https://archive.org/details/ahigheralgebra00wentgoog))
 Wentworth. *An Advanced Arithmetic for High Schools, Normal Schools and Academies* ([Book](https://archive.org/details/anadvancedarith02wentgoog))
 
 Wentworth. *New Elementary Arithmetic* ([Book](https://archive.org/details/newelementaryar02wentgoog), [Book](https://archive.org/details/newelementaryar00wentgoog))
