@@ -103,6 +103,11 @@ Wentworth. *The First Steps in Algebra* ([Book](https://archive.org/details/firs
 - Klein, tr. Beman and Smith. *Famous Problems of Elementary Geometry* ([Book](https://archive.org/details/famousproblemsof1897klei))
 - Merriman and Woodward. *Higher Mathematics: A text-book for classical and engineering colleges* ([Book](https://archive.org/details/cu31924001518483), [Book](https://archive.org/details/merrimantextbook00merrrich))
 
+- Weld. *Determinants* ([Book](https://archive.org/details/cu31924001511918), [Book](https://archive.org/details/cu31924064122991))
+- Dresden. *Solid Analytical Geometry And Determinants* ([Book](https://archive.org/details/solidanalyticalg031938mbp))
+- Forsyth. *The Theory of Determinants and Their Applications* ([Book](https://archive.org/details/theorydetermina00mathgoog))
+- Miller. *Determinants. An Introduction to the Study of, with Examples and Applications* ([Book](https://archive.org/details/determinantsani00millgoog))
+
 ### Euclidean
 
 #### Introductory
