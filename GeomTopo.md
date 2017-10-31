@@ -41,6 +41,8 @@ Wentworth's Series of Mathematics
 - Wentworth and Hill. *Exercise Manuals: No II Algebra* ([Book](https://archive.org/details/exercisesinalge02wentgoog), [Answers](https://archive.org/details/answerstoproble02wentgoog), [Answers](https://archive.org/details/answerstoproble03wentgoog))
 - Wentworth and Hill. *Exercise Manuals: No III Geometry* ([Book](https://archive.org/details/wentworthhillsex00wentrich))
 - Wentworth. *Plane and Solid Geometry* ([Book](https://archive.org/details/planeandsolidge00wentgoog), [Teacher's Edition](https://archive.org/details/cu31924002961344))
+- Wentworth. *Trigonometry, Surveying and Navigation* ([Revised 1895](https://archive.org/details/trigonometrysur00wentgoog), [2nd Revised 1903](https://archive.org/details/trigonometrysurv00went), [Teacher's 1899](https://archive.org/details/newplaneandsphe00wentgoog), [Teacher's 1903](https://archive.org/details/newplanespherica00went))
+- Wentworth. *Elements of Analytic Geometry* ([Book](https://archive.org/details/elementsanalyti01wentgoog))
 
 answers to A New School Algebra https://archive.org/details/answerstonewsch00wentgoog
 
@@ -50,7 +52,6 @@ Wentworth. *A School Algebra* ([Book](https://archive.org/details/aschoolalgebra
 Wentworth and Smith. *School Algebra* ([Book 1](https://archive.org/details/schoolalgebra00wentgoog), [Book 2](https://archive.org/details/schoolalgebra00unkngoog))
 Wentworth. *Elements of Geometry* ([Book](https://archive.org/details/elementsgeometr00wentgoog))
 Wentworth. *Elements of Plane and Solid Geometry* ([Book](https://archive.org/details/elementsplanean04wentgoog), [Book](https://archive.org/details/planeandsolidge03wentgoog))
-Wentworth. *Elements of Analytic Geometry* ([Book](https://archive.org/details/elementsanalyti01wentgoog))
 Wentworth. *A Text-Book of Geometry* ([Book](https://archive.org/details/atextbookgeomet09wentgoog))
 Wentworth. *A Practical Arithmetic* ([Book](https://archive.org/details/apracticalarith07wentgoog))
 Wentworth and Hill. *A Practical Arithmetic* ([Book](https://archive.org/details/apracticalarith00wentgoog))
