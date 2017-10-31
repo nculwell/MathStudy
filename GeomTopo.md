@@ -25,6 +25,28 @@ F Durell and Arnold. *A Second Book in Algebra* ([Book](https://archive.org/deta
 
 Godfrey and Siddon. *Modern Geometry* ([Book](https://archive.org/details/moderngeometry00godfrich), [Book](https://archive.org/details/bub_gb_LGsLAAAAYAAJ), [Book](https://archive.org/details/moderngeometry00siddgoog))
 
+Wentworth
+
+Wentworth and Smith. *Essentials of Arithmetic: Primary Book* ([Book](https://archive.org/details/essentialsarith00wentgoog))
+Wentworth. *A School Algebra* ([Book](https://archive.org/details/aschoolalgebra07wentgoog))
+Wentworth and Smith. *School Algebra* ([Book 1](https://archive.org/details/schoolalgebra00wentgoog), [Book 2](https://archive.org/details/schoolalgebra00unkngoog))
+Wentworth. *Elements of Geometry* ([Book](https://archive.org/details/elementsgeometr00wentgoog))
+Wentworth. *Elements of Plane and Solid Geometry* ([Book](https://archive.org/details/elementsplanean04wentgoog), [Book](https://archive.org/details/planeandsolidge03wentgoog))
+Wentworth. *Elements of Analytic Geometry* ([Book](https://archive.org/details/elementsanalyti01wentgoog))
+Wentworth. *A Text-Book of Geometry* ([Book](https://archive.org/details/atextbookgeomet09wentgoog))
+Wentworth. *A Practical Arithmetic* ([Book](https://archive.org/details/apracticalarith07wentgoog))
+Wentworth and Hill. *A High-School Arithmetic* ([Book](https://archive.org/details/ahighschoolarit01wentgoog))
+
+Wentworth. *New Elementary Arithmetic* ([Book](https://archive.org/details/newelementaryar02wentgoog), [Book](https://archive.org/details/newelementaryar00wentgoog))
+Wentworth. *Shorter Course of Algebra* ([Book](https://archive.org/details/shortercoursein03wentgoog))
+Wentworth. *A Grammar School Arithmetic* ([Book](https://archive.org/details/agrammarschoola15wentgoog)
+Wentworth. *The First Steps in Algebra* ([Book](https://archive.org/details/firststepsinalg02wentgoog))
+
+Wentworth, Smith, Harper. *Machine-Shop Mathematics* ([Book](https://archive.org/details/machineshopmathe00wentuoft))
+Wentworth. *Answers: Wentworth's Elements of Algebra and Complete Algebra* ([Book](https://archive.org/details/answerswentwort00wentgoog))
+
+Wentworth. *Surveying and Traverse Table* ([Book](https://archive.org/details/surveyingandtra00wentgoog))
+
 ### Euclidean
 
 #### Introductory
