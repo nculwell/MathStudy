@@ -3,11 +3,15 @@
 
 There are various English-language editions of Euclid available at archive.org. [Search here](https://archive.org/search.php?query=creator%3A%28euclid%29%20elements&and[]=languageSorter%3A%22English%22).
 
-CV Durell. *Elementary Algebra* ([Part 2](https://archive.org/details/in.ernet.dli.2015.16830))
-CV Durell. *Projective Geometry* ([Book](https://archive.org/details/in.ernet.dli.2015.216125), [Book](https://archive.org/details/in.ernet.dli.2015.523751)) - Abbreviated and updated version of *A Course of Plane Geometry for Advanced Students*, intended as a sequel to *Modern Geometry*.
-CV Durell. *A Course of Plane Geometry for Advanced Students* ([Part 1](https://archive.org/details/in.ernet.dli.2015.85268), [Part 2](https://archive.org/details/acourseplanegeo00unkngoog), [Part 2](https://archive.org/details/acourseplanegeo00duregoog), [Part 2](https://archive.org/details/acourseplanegeo00duregoog))
-CV Durell. *A Concise Geometry* ([Book](https://archive.org/details/concisegeometry032982mbp))
-CV Durell. *A Concise Geometrical Conics* ([Book](https://archive.org/details/in.ernet.dli.2015.84621)) - Companion to *Projective Geometry*
+- CV Durell. *Elementary Algebra* ([Part 2](https://archive.org/details/in.ernet.dli.2015.16830))
+- CV Durell. *Projective Geometry* ([Book](https://archive.org/details/in.ernet.dli.2015.216125), [Book](https://archive.org/details/in.ernet.dli.2015.523751)) - Abbreviated and updated version of *A Course of Plane Geometry for Advanced Students*, intended as a sequel to *Modern Geometry*.
+- CV Durell. *A Course of Plane Geometry for Advanced Students* ([Part 1](https://archive.org/details/in.ernet.dli.2015.85268), [Part 2](https://archive.org/details/acourseplanegeo00unkngoog), [Part 2](https://archive.org/details/acourseplanegeo00duregoog), [Part 2](https://archive.org/details/acourseplanegeo00duregoog))
+- CV Durell. *A Concise Geometry* ([Book](https://archive.org/details/concisegeometry032982mbp))
+- CV Durell. *A Concise Geometrical Conics* ([Book](https://archive.org/details/in.ernet.dli.2015.84621)) - Companion to *Projective Geometry*
+- CV Durell and Wright. *Senior Algebra* ([Book](https://archive.org/details/senioralgebra00dure))
+- CV Durell and Wright. *A New Canadian Algebra* ([Book](https://archive.org/details/newcanadianalgeb00dure))
+- CV Durell. *A New Algebra For Schools: Parts I and II* ([Book](https://archive.org/details/in.ernet.dli.2015.135735), [Book](https://archive.org/details/in.ernet.dli.2015.91570))
+- CV Durell and Robson. *Advanced Algebra* ([Vol I](https://archive.org/details/in.ernet.dli.2015.502134), [Vol 2](https://archive.org/details/in.ernet.dli.2015.502136), [Vol 3](https://archive.org/details/in.ernet.dli.2015.502137))
 
 F Durell. *Plane Geometry* ([Book](https://archive.org/details/planegeometry00duregoog), [Key](https://archive.org/details/keytoplanegeome00duregoog))
 F Durell. *Solid Geometry* ([Book](https://archive.org/details/solidgeometry00duregoog), [Book](https://archive.org/details/solidgeometry00durerich))
