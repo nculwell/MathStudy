@@ -44,10 +44,37 @@ Wentworth's Series of Mathematics
 - Wentworth. *Trigonometry, Surveying and Navigation* ([Revised 1895](https://archive.org/details/trigonometrysur00wentgoog), [2nd Revised 1903](https://archive.org/details/trigonometrysurv00went), [Teacher's 1899](https://archive.org/details/newplaneandsphe00wentgoog), [Teacher's 1903](https://archive.org/details/newplanespherica00went))
 - Wentworth. *Elements of Analytic Geometry* ([Book](https://archive.org/details/elementsanalyti01wentgoog))
 
+Wentworth-Smith series
+
+- Wentworth and Smith. *Essentials of Arithmetic: Primary Book* ([Book](https://archive.org/details/essentialsarith00wentgoog))
+- Wentworth and Smith. *Essentials of Arithmetic: Intermeidate Book* ([Book](https://archive.org/details/essentialsarith06smitgoog))
+- Wentworth and Smith. *Essentials of Arithmetic: Advanced Book* ([Book](https://archive.org/details/essentialsofarith00went))
+- Wentworth and Smith. *Essentials of Arithmetic: Grammar School Book* ([Book](https://archive.org/details/essentialsarith02smitgoog))
+- *Arithmetic: Book One* ([Book](https://archive.org/details/arithmetic00wentgoog))
+- *Plane Trigonometry and Tables* ([Book](https://archive.org/details/planetrigonomet01smitgoog))
+- *Complete Arithmetic* ([Book](https://archive.org/details/completearithmet00went))
+- *Complete Arithmetic: Part II* ([Book](https://archive.org/details/completearithme00smitgoog))
+- *School Algebra: Book II* ([Book](https://archive.org/details/schoolalgebra00unkngoog))
+- *Arithmetic: Book III* ([Book](https://archive.org/details/arithmetic01wentgoog))
+- *Higher Arithmetic* ([Book](https://archive.org/details/higherarithmeti04smitgoog))
+- *Work and Play with Numbers* ([Book](https://archive.org/details/cu31924002956575), [Book](https://archive.org/details/workandplaywith00smitgoog))
+- *Vocational Algebra* ([Book](https://archive.org/details/vocationalalgeb00wentgoog))
+- *New York State Arithmetic: Years Five and Six* ([Book](https://archive.org/details/newyorkstateari00smitgoog))
+- *Oral Arithmetic* ([Book](https://archive.org/details/oralarithmetic00wentiala))
+- Wentworth, Smith, Brown. *Junior High School Mathematics: Book II* ([Book](https://archive.org/details/https://archive.org/details/juniorhighschool00wentiala))
+- Wentworth, Smith, Brown. *Junior High School Mathematics: Book II* ([Book](https://archive.org/details/juniorhighschoo01browgoog))
+- Wentworth, Smith, Brown. *Junior High School Mathematics: Book III* ([Book](https://archive.org/details/juniorhighschoo00browgoog))
+- *School Arithmetics: Book Two* ([Book](https://archive.org/details/schoolarithmeti01wentgoog))
+- *School Arithmetics: Book Three* ([Book](https://archive.org/details/schoolarithmeti00wentgoog), [Book](https://archive.org/details/schoolarithmeti01wentgoog))
+- *Academic Algebra* ([Book](https://archive.org/details/academicalgebra00wentgoog))
+- Wentworth, Smith, Harper. *Fundamentals of Practical Mathematics* ([Book](https://archive.org/details/fundamentalsofpr00wentrich))
+- Wentworth, Smith, Schlauch. *Commericial Algebra* ([Book 1](https://archive.org/details/cu31924031252376), [Book 1](https://archive.org/details/cu31924091861199))
+
+Ling, Wentworth, Smith. *Elements of Projective Geometry* ([Book](https://archive.org/details/cu31924001522758))
+
 answers to A New School Algebra https://archive.org/details/answerstonewsch00wentgoog
 
 Wentworth. *Exercises in Wentworth's Geometry: With Solutions* ([Book](https://archive.org/details/exercisesinwent02wentgoog))
-Wentworth and Smith. *Essentials of Arithmetic: Primary Book* ([Book](https://archive.org/details/essentialsarith00wentgoog))
 Wentworth. *A School Algebra* ([Book](https://archive.org/details/aschoolalgebra07wentgoog))
 Wentworth and Smith. *School Algebra* ([Book 1](https://archive.org/details/schoolalgebra00wentgoog), [Book 2](https://archive.org/details/schoolalgebra00unkngoog))
 Wentworth. *Elements of Geometry* ([Book](https://archive.org/details/elementsgeometr00wentgoog))
