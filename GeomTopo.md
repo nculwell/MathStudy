@@ -27,6 +27,7 @@ There are various English-language editions of Euclid available at archive.org; 
 - Brannan, Esplen, Gray. *Geometry* (2014, ISBN 978-1118679197, [Worldcat](https://www.worldcat.org/isbn/9781118679197), [Amazon](https://smile.amazon.com/dp/1118679199))
 - Leonard, Lewis, Liu, Tokarsky. *Classical Geometry: Euclidean, Transformational, Inversive, and Projective* (1e 1997: [ISBN 978-0760706602](https://www.worldcat.org/isbn/978-0760706602), [Amazon](https://smile.amazon.com/dp/0760706603); 2e 2003: [ISBN 978-1592441303](https://www.worldcat.org/isbn/978-1592441303), [Amazon](https://smile.amazon.com/dp/1592441300))
 - Meserve. *Fundamental Concepts of Geometry* ([Dover](https://smile.amazon.com/dp/0486634159))
+- Veblen and Young. *Projective Geometry* (At archive.org: [Vol 1](https://archive.org/details/in.ernet.dli.2015.152722), [Vol 2](https://archive.org/details/in.ernet.dli.2015.461814))
 
 ## Computational Geometry
 
