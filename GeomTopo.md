@@ -88,8 +88,16 @@ Wentworth. *An Advanced Arithmetic for High Schools, Normal Schools and Academie
 Wentworth. *New Elementary Arithmetic* ([Book](https://archive.org/details/newelementaryar02wentgoog), [Book](https://archive.org/details/newelementaryar00wentgoog))
 Wentworth. *The First Steps in Algebra* ([Book](https://archive.org/details/firststepsinalg02wentgoog))
 
-Wentworth, Smith, Harper. *Machine-Shop Mathematics* ([Book](https://archive.org/details/machineshopmathe00wentuoft))
-Wentworth. *Surveying and Traverse Table* ([Book](https://archive.org/details/surveyingandtra00wentgoog))
+- Wentworth, Smith, Harper. *Machine-Shop Mathematics* ([Book](https://archive.org/details/machineshopmathe00wentuoft))
+- Wentworth. *Surveying and Traverse Table* ([Book](https://archive.org/details/surveyingandtra00wentgoog))
+
+- Smith. *Number Stories of Long Ago* ([Book](https://archive.org/details/numberstoriesofl00smit), [Book](https://archive.org/details/numberstorieslo00smitgoog), [Book](https://archive.org/details/numberstorieslo01smitgoog))
+- Smith. *Problems about War for Classes in Arithmetic* ([Book](https://archive.org/details/problemsaboutwar00smitrich), [Book](https://archive.org/details/problemsaboutwar00smit))
+- Rao, tr. Beman and Smith. *T. Sundara Row's Geometric Exercises in Paper Folding* ([Book](https://archive.org/details/tsundararowsgeom00sunduoft))
+
+- Dedekind. *Essays on the Theory of Numbers* ([Book](https://archive.org/details/essaysontheoryof00dedeuoft))
+- Klein, tr. Beman and Smith. *Famous Problems of Elementary Geometry* ([Book](https://archive.org/details/famousproblemsof1897klei))
+- Merriman and Woodward. *Higher Mathematics* ([Book](https://archive.org/details/cu31924001518483), [Book](https://archive.org/details/merrimantextbook00merrrich))
 
 ### Euclidean
 
