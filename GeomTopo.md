@@ -97,7 +97,7 @@ Wentworth. *The First Steps in Algebra* ([Book](https://archive.org/details/firs
 
 - Dedekind. *Essays on the Theory of Numbers* ([Book](https://archive.org/details/essaysontheoryof00dedeuoft))
 - Klein, tr. Beman and Smith. *Famous Problems of Elementary Geometry* ([Book](https://archive.org/details/famousproblemsof1897klei))
-- Merriman and Woodward. *Higher Mathematics* ([Book](https://archive.org/details/cu31924001518483), [Book](https://archive.org/details/merrimantextbook00merrrich))
+- Merriman and Woodward. *Higher Mathematics: A text-book for classical and engineering colleges* ([Book](https://archive.org/details/cu31924001518483), [Book](https://archive.org/details/merrimantextbook00merrrich))
 
 ### Euclidean
 
