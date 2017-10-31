@@ -25,7 +25,17 @@ F Durell and Arnold. *A Second Book in Algebra* ([Book](https://archive.org/deta
 
 Godfrey and Siddon. *Modern Geometry* ([Book](https://archive.org/details/moderngeometry00godfrich), [Book](https://archive.org/details/bub_gb_LGsLAAAAYAAJ), [Book](https://archive.org/details/moderngeometry00siddgoog))
 
-Wentworth
+Wentworth's Series of Mathematics
+
+- Wentworth and Reed. *First Steps in Number: A Primary Arithmetic* ([Book](https://archive.org/details/firststepsinnum01wentgoog))
+- Wentworth and Reed. *Primary Arithmetic* ([Book](https://archive.org/details/wentworthsprima01wentgoog))
+- Wentworth. *A Grammar School Arithmetic* ([Book](https://archive.org/details/agrammarschoola15wentgoog), [Teacher's edition](https://archive.org/details/agrammarschoola11wentgoog))
+- Wentworth and Hill. *A High-School Arithmetic* ([Book](https://archive.org/details/ahighschoolarit01wentgoog))
+- Wentworth and Hill. *Exercise Manuals: No I Arithmetic* ([Book](https://archive.org/details/exercisesinarit01wentgoog))
+- Wentworth. *Shorter Course in Algebra* ([Book](https://archive.org/details/shortercoursein03wentgoog))
+- Wentworth. *Answers: Wentworth's Elements of Algebra and Complete Algebra* ([Book](https://archive.org/details/answerswentwort00wentgoog))
+- Wentworth. *College Algebra* ([Book](https://archive.org/details/acollegealgebra11wentgoog), [Answers](https://archive.org/details/answerstoproble01wentgoog))
+- Wentworth and Hill. *Exercise Manuals: No II Algebra* ([Book](https://archive.org/details/exercisesinalge02wentgoog), [Answers](https://archive.org/details/answerstoproble02wentgoog), [Answers](https://archive.org/details/answerstoproble03wentgoog))
 
 Wentworth and Smith. *Essentials of Arithmetic: Primary Book* ([Book](https://archive.org/details/essentialsarith00wentgoog))
 Wentworth. *A School Algebra* ([Book](https://archive.org/details/aschoolalgebra07wentgoog))
@@ -35,16 +45,15 @@ Wentworth. *Elements of Plane and Solid Geometry* ([Book](https://archive.org/de
 Wentworth. *Elements of Analytic Geometry* ([Book](https://archive.org/details/elementsanalyti01wentgoog))
 Wentworth. *A Text-Book of Geometry* ([Book](https://archive.org/details/atextbookgeomet09wentgoog))
 Wentworth. *A Practical Arithmetic* ([Book](https://archive.org/details/apracticalarith07wentgoog))
-Wentworth and Hill. *A High-School Arithmetic* ([Book](https://archive.org/details/ahighschoolarit01wentgoog))
+Wentworth and Hill. *A Practical Arithmetic* ([Book](https://archive.org/details/apracticalarith00wentgoog))
+Wentworth. *Plane and Spherical Trigonometry* ([Book](https://archive.org/details/planeandspheric00wentgoog))
+Wentworth. *A Higher Algebra* ([Book](https://archive.org/details/ahigheralgebra01wentgoog), [Book](https://archive.org/details/ahigheralgebra00wentgoog))
+Wentworth. *An Advanced Arithmetic for High Schools, Normal Schools and Academies* ([Book](https://archive.org/details/anadvancedarith02wentgoog))
 
 Wentworth. *New Elementary Arithmetic* ([Book](https://archive.org/details/newelementaryar02wentgoog), [Book](https://archive.org/details/newelementaryar00wentgoog))
-Wentworth. *Shorter Course of Algebra* ([Book](https://archive.org/details/shortercoursein03wentgoog))
-Wentworth. *A Grammar School Arithmetic* ([Book](https://archive.org/details/agrammarschoola15wentgoog)
 Wentworth. *The First Steps in Algebra* ([Book](https://archive.org/details/firststepsinalg02wentgoog))
 
 Wentworth, Smith, Harper. *Machine-Shop Mathematics* ([Book](https://archive.org/details/machineshopmathe00wentuoft))
-Wentworth. *Answers: Wentworth's Elements of Algebra and Complete Algebra* ([Book](https://archive.org/details/answerswentwort00wentgoog))
-
 Wentworth. *Surveying and Traverse Table* ([Book](https://archive.org/details/surveyingandtra00wentgoog))
 
 ### Euclidean
@@ -59,6 +68,7 @@ Wentworth. *Surveying and Traverse Table* ([Book](https://archive.org/details/su
 - Birkhoff and Beatley. *Basic Geometry* ([AMS Chelsea ed](https://smile.amazon.com/gp/product/0821821016), [At AMS store](http://bookstore.ams.org/chel-120/); [Manual for Teachers [at AMS store]](http://bookstore.ams.org/chel-34/), [Manual for Teachers [at AbeBooks]](http://www.abebooks.com/products/isbn/9780821826928); [Answer book [at AMS store]](http://bookstore.ams.org/chel-162/), [Answer Book [at AbeBooks]](http://www.abebooks.com/products/isbn/9780828401623))
 - Brannan, Esplen, Gray. *Geometry* (2014, ISBN 978-1118679197, [Worldcat](https://www.worldcat.org/isbn/9781118679197), [Amazon](https://smile.amazon.com/dp/1118679199))
 - Meyer. *Geometry and Its Applications* (2e, 2006: ISBN 978-0123694270, [Worldcat](https://www.worldcat.org/oclc/212425111), [Amazon](https://smile.amazon.com/dp/0123694272))
+- UCSMP. *Geometry* ([2008](https://smile.amazon.com/Ucsmp-Geometry-Student-University-Mathematics/dp/0076110230))
 
 #### Beyond introductory
 
@@ -85,6 +95,10 @@ Wentworth. *Surveying and Traverse Table* ([Book](https://archive.org/details/su
 - Cremona, 1885. *Elements Of Projective Geometry* ([At archive.org](https://archive.org/details/elementsproject02cremgoog))
 - Meserve. *Fundamental Concepts of Geometry* ([Dover](https://smile.amazon.com/dp/0486634159))
 - Veblen and Young. *Projective Geometry* (At archive.org: [Vol 1](https://archive.org/details/in.ernet.dli.2015.152722), [Vol 2](https://archive.org/details/in.ernet.dli.2015.461814), [Search](https://archive.org/search.php?query=creator%3A%28veblen%20young%29%20projective%20geometry))
+- Wylie. *Introduction to Projective Geometry* ([Dover](https://smile.amazon.com/Introduction-Projective-Geometry-Dover-Mathematics/dp/048646895X))
+- Hartshorne. *Foundations of Projective Geometry* ([Ishi Press](https://smile.amazon.com/Foundations-Projective-Geometry-Robin-Hartshorne/dp/4871878376))
+- Samuel. *Projective Geometry* ([Springer paperback](https://smile.amazon.com/Projective-Geometry-Undergraduate-Texts-Mathematics/dp/0387967524))
+
 
 ## Computational Geometry
 
