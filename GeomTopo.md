@@ -3,6 +3,16 @@
 
 There are various English-language editions of Euclid available at archive.org. [Search here](https://archive.org/search.php?query=creator%3A%28euclid%29%20elements&and[]=languageSorter%3A%22English%22).
 
+CV Durell. *Elementary Algebra* ([Archive Part 2](https://archive.org/details/in.ernet.dli.2015.16830))
+CV Durell. *Projective Geometry* ([Archive](https://archive.org/details/in.ernet.dli.2015.216125), [Archive](https://archive.org/details/in.ernet.dli.2015.523751)) - Abbreviated and updated version of *A Course of Plane Geometry for Advanced Students*, intended as a sequel to *Modern Geometry*.
+CV Durell. *A Course of Plane Geometry for Advanced Students* ([Part 1](https://archive.org/details/in.ernet.dli.2015.85268), [Part 2](https://archive.org/details/acourseplanegeo00unkngoog), [Part 2](https://archive.org/details/acourseplanegeo00duregoog), [Part 2](https://archive.org/details/acourseplanegeo00duregoog))
+CV Durell. *A Concise Geometry* ([Archive](https://archive.org/details/concisegeometry032982mbp))
+CV Durell. *A Concise Geometrical Conics* ([](https://archive.org/details/in.ernet.dli.2015.84621)) - Companion to *Projective Geometry*
+
+F Durell. *Plane Geometry* ([Book](https://archive.org/details/planegeometry00duregoog), [Key](https://archive.org/details/keytoplanegeome00duregoog))
+F Durell. *Solid Geometry* ([Book](https://archive.org/details/solidgeometry00duregoog), [Book](https://archive.org/details/solidgeometry00durerich))
+F Durell. *Plane and Solid Geometry* ([Book](https://archive.org/details/planesolidgeomet01dure). [Book](https://archive.org/details/planeandsolidge00duregoog), [Key](https://archive.org/details/keytoplaneandso00duregoog))
+
 ### Euclidean
 
 #### Introductory
