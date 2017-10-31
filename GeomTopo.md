@@ -5,7 +5,7 @@ There are various English-language editions of Euclid available at archive.org; 
 
 - Euclid, tr. Heath. *The Elements*. Dover. ([Vol I / Books 1-2](https://smile.amazon.com/dp/0486600882), [Vol II / Books 3-9](https://smile.amazon.com/dp/0486600890), [Vol III / Books 10-13](https://smile.amazon.com/Euclid-Thirteen-Books-Elements-10-13/dp/0486600904))
 - Euclid, tr. Heath. *The Elements* Green Lion Press. ([Single volume](https://smile.amazon.com/dp/1888009195))
-- Lang and Murrow. *Geometry: A High School Course* ([2e](https://smile.amazon.com/dp/0387966544)
+- Lang and Murrow. *Geometry: A High School Course* ([2e](https://smile.amazon.com/dp/0387966544), [Solutions manual](https://smile.amazon.com/dp/0387941819))
 - Kiselev and Givental. *Kiselev's Geometry* (Vol I: [Sumizdat 1e](https://smile.amazon.com/dp/0977985202); Vol II: [Sumizdat 1e](https://smile.amazon.com/dp/0977985210)) - Look for seller "sumizdat_dot_org", that's the publisher.
 - Hartshorne. *Geometry: Euclid and Beyond* ([1e](https://smile.amazon.com/dp/0387986502))
 - Moise. *Elementary Geometry From An Advanced Viewpoint* ([3e](https://smile.amazon.com/dp/0201508672), [2e](https://smile.amazon.com/dp/0201047934))
@@ -26,6 +26,7 @@ There are various English-language editions of Euclid available at archive.org; 
 - Stillwell. *The Four Pillars of Geometry* (1e 2005: ISBN 978-0387255309, [Worldcat](https://www.worldcat.org/oclc/209834142), [Amazon](https://smile.amazon.com/dp/0387255303))
 - Brannan, Esplen, Gray. *Geometry* (2014, ISBN 978-1118679197, [Worldcat](https://www.worldcat.org/isbn/9781118679197), [Amazon](https://smile.amazon.com/dp/1118679199))
 - Leonard, Lewis, Liu, Tokarsky. *Classical Geometry: Euclidean, Transformational, Inversive, and Projective* (1e 1997: [ISBN 978-0760706602](https://www.worldcat.org/isbn/978-0760706602), [Amazon](https://smile.amazon.com/dp/0760706603); 2e 2003: [ISBN 978-1592441303](https://www.worldcat.org/isbn/978-1592441303), [Amazon](https://smile.amazon.com/dp/1592441300))
+- Meserve. *Fundamental Concepts of Geometry* ([Dover](https://smile.amazon.com/dp/0486634159))
 
 ## Computational Geometry
 
