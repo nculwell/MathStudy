@@ -5,18 +5,24 @@ There are various English-language editions of Euclid available at archive.org. 
 
 ### Euclidean
 
+#### Introductory
+
 - Euclid, tr. Heath. *The Elements*. Dover. ([Vol I / Books 1-2](https://smile.amazon.com/dp/0486600882), [Vol II / Books 3-9](https://smile.amazon.com/dp/0486600890), [Vol III / Books 10-13](https://smile.amazon.com/Euclid-Thirteen-Books-Elements-10-13/dp/0486600904))
 - Euclid, tr. Heath. *The Elements* Green Lion Press. ([Single volume](https://smile.amazon.com/dp/1888009195))
 - Lang and Murrow. *Geometry: A High School Course* ([2e](https://smile.amazon.com/dp/0387966544), [Solutions manual](https://smile.amazon.com/dp/0387941819))
 - Kiselev and Givental. *Kiselev's Geometry* (Vol I: [Sumizdat 1e](https://smile.amazon.com/dp/0977985202); Vol II: [Sumizdat 1e](https://smile.amazon.com/dp/0977985210)) - Look for seller "sumizdat_dot_org", that's the publisher.
-- Coxeter. *Geometry Revisited* ([MAA 1967](https://smile.amazon.com/dp/0883856190/))
 - Coxeter. *Introduction to Geometry* ([Wiley 2e](https://smile.amazon.com/dp/0471504580/), [2e HC [OOP]](https://smile.amazon.com/gp/product/0471182834))
-- Johnson. *Advanced Euclidean Geometry* ([Dover](https://smile.amazon.com/dp/0486462374/))
 - Birkhoff and Beatley. *Basic Geometry* ([AMS Chelsea ed](https://smile.amazon.com/gp/product/0821821016), [At AMS store](http://bookstore.ams.org/chel-120/); [Manual for Teachers [at AMS store]](http://bookstore.ams.org/chel-34/), [Manual for Teachers [at AbeBooks]](http://www.abebooks.com/products/isbn/9780821826928); [Answer book [at AMS store]](http://bookstore.ams.org/chel-162/), [Answer Book [at AbeBooks]](http://www.abebooks.com/products/isbn/9780828401623))
-- Casey, 1886. *A Sequel to the First Six Books of the Elements of Euclid* ([At archive.org](https://archive.org/details/sequeltofirstsix00caserich))
-- Altshiller-Court. *College Geometry: An Introduction to the Modern Geometry of the Triangle and the Circle* ([2e Dover](https://smile.amazon.com/dp/0486458059/))
 - Brannan, Esplen, Gray. *Geometry* (2014, ISBN 978-1118679197, [Worldcat](https://www.worldcat.org/isbn/9781118679197), [Amazon](https://smile.amazon.com/dp/1118679199))
 - Meyer. *Geometry and Its Applications* (2e, 2006: ISBN 978-0123694270, [Worldcat](https://www.worldcat.org/oclc/212425111), [Amazon](https://smile.amazon.com/dp/0123694272))
+
+#### Beyond introductory
+
+- Coxeter. *Geometry Revisited* ([MAA 1967](https://smile.amazon.com/dp/0883856190/))
+- Johnson. *Advanced Euclidean Geometry* ([Dover](https://smile.amazon.com/dp/0486462374/))
+- Casey, 1886. *A Sequel to the First Six Books of the Elements of Euclid* ([At archive.org](https://archive.org/details/sequeltofirstsix00caserich))
+- Altshiller-Court. *College Geometry: An Introduction to the Modern Geometry of the Triangle and the Circle* ([2e Dover](https://smile.amazon.com/dp/0486458059/))
+- Coxeter. *Regular Polytopes* ([3e](https://smile.amazon.com/Regular-Polytopes-H-S-Coxeter/dp/0486614808/))
 
 ### Euclidean and non-euclidean
 
@@ -24,13 +30,12 @@ There are various English-language editions of Euclid available at archive.org. 
 - Moise. *Elementary Geometry From An Advanced Viewpoint* ([3e](https://smile.amazon.com/dp/0201508672), [2e](https://smile.amazon.com/dp/0201047934))
 - Greenberg. *Euclidean And Non-Euclidean Geometries* ([4e](https://smile.amazon.com/dp/0716799480))
 - Coxeter. *Non-Euclidean Geometry* ([6e](https://smile.amazon.com/dp/0883855224/))
-- Coxeter. *Regular Polytopes* ([3e](https://smile.amazon.com/Regular-Polytopes-H-S-Coxeter/dp/0486614808/))
 - Hilbert and Cohn-Vossen. *Geometry and the Imagination* ([AMS Chelsea](https://smile.amazon.com/gp/product/0821819984))
 - Leonard, Lewis, Liu, Tokarsky. *Classical Geometry: Euclidean, Transformational, Inversive, and Projective* (1e 1997: [ISBN 978-0760706602](https://www.worldcat.org/isbn/978-0760706602), [Amazon](https://smile.amazon.com/dp/0760706603); 2e 2003: [ISBN 978-1592441303](https://www.worldcat.org/isbn/978-1592441303), [Amazon](https://smile.amazon.com/dp/1592441300))
 - Stillwell. *Numbers and Geometry* (1e, 1997: ISBN 978-0387982892, [Worldcat](https://www.worldcat.org/oclc/468834725), [Amazon](https://smile.amazon.com/dp/0387982892))
 - Stillwell. *The Four Pillars of Geometry* (1e 2005: ISBN 978-0387255309, [Worldcat](https://www.worldcat.org/oclc/209834142), [Amazon](https://smile.amazon.com/dp/0387255303))
 
-### Focusing on projective geometry
+#### Focusing on projective geometry
 
 - Coxeter. *Projective Geometry* ([2e](https://smile.amazon.com/dp/0387406239/))
 - Cremona, 1885. *Elements Of Projective Geometry* ([At archive.org](https://archive.org/details/elementsproject02cremgoog))
