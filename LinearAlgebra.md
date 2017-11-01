@@ -59,6 +59,8 @@ These are texts in the old style, aimed at mathematicians. Some of them are olde
 
   Another free (GFDL) linear algebra textbook, by Robert Beezer of University of Puget Sound. There are many experimental aspects in this book, including its style of "numbering" (everything is referred to by alphabetic abbreviations instead of numbers) and its web-oriented organization. I have no idea how this would work as a text but it seems intriguing as a companion to a more traditional text. (If you're going the free route, Hefferon would probably make a good companion.)
 
+- Curtis. *Linear Algebra: An Introductory Approach* ([4e](https://smile.amazon.com/dp/0387909923))
+
 Some calculus books include an introduction to linear algebra. Among these are Apostol's *Calculus* and Hubbard and Hubbard's *Vector Calculus*. (Most calculus books include *some* introduction to linear algebra but it's usually cursory.)
 
 ## Axler
