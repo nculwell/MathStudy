@@ -95,6 +95,7 @@ There are various English-language editions of Euclid available at archive.org. 
 ## Differential Geometry
 
 - Pressley. *Elementary Differential Geometry* ([2e/2010](https://smile.amazon.com/dp/184882890X))
+- Tu. *An Introduction to Manifolds* ([2e/2011](https://smile.amazon.com/dp/1441973990))
 - Guillemin and Pollack. *Differential Topology* ([AMS Chelsea](https://smile.amazon.com/dp/0821851934))
 - Millman and Parker. *Elements of Differential Geometry* ([1e](https://smile.amazon.com/dp/0132641437))
 - O'Neill. *Elementary Differential Geometry* ([2e](https://smile.amazon.com/dp/0120887355))
@@ -117,6 +118,7 @@ There are various English-language editions of Euclid available at archive.org. 
 
 - Hatcher. *Algebraic Topology* (f) ([CUP Paperback](https://smile.amazon.com/dp/0521795400/), [**FREE ONLINE**](https://www.math.cornell.edu/~hatcher/AT/ATpage.html))
 - Bredon. *Topology and Geometry* ([1e](https://smile.amazon.com/Topology-Geometry-Graduate-Texts-Mathematics/dp/0387979263/))
+- Stillwell. *Classical Topology and Combinatorial Group Theory* ([2e](https://smile.amazon.com/dp/0387979700))
 - Rotman. *An Introduction to Algebraic Topology* ([1e](https://smile.amazon.com/dp/0387966781/))
 - Fulton. *Algebraic Topology: A First Course* ([1e](https://smile.amazon.com/dp/0387943277/))
 - May. *A Concise Course in Algebraic Topology* ([1e](https://smile.amazon.com/dp/0226511839))
