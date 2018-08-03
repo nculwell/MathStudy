@@ -123,6 +123,7 @@ There are various English-language editions of Euclid available at archive.org. 
 - Fulton. *Algebraic Topology: A First Course* ([1e](https://smile.amazon.com/dp/0387943277/))
 - May. *A Concise Course in Algebraic Topology* ([1e](https://smile.amazon.com/dp/0226511839))
 - May and Ponto. *More Concise Algebraic Topology: Localization, Completion, and Model Categories* ([1e](https://smile.amazon.com/dp/0226511782))
+- Vakil. *The Rising Sea: Foundations Of Algebraic Geometry Notes* ([main page](http://virtualmath1.stanford.edu/~vakil/216blog/), [blog](https://math216.wordpress.com/), [Ravi Vakil's homepage](http://virtualmath1.stanford.edu/~vakil/))
 
 ## Applied and Computational Topology
 
