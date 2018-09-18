@@ -4,6 +4,7 @@
 
 * [*Structure and Interpretation of Computer Programs*](https://mitpress.mit.edu/sicp/full-text/book/book.html)
 * Felleisen, Findler, Flatt, Krishnamurthi. *How to Design Programs: An Introduction to Programming and Computing* ([**FREE ONLINE**](http://www.htdp.org/), [1e](https://smile.amazon.com/dp/0262062186))
+* Erwig, 2017. *Once Upon an Algorithm: How Stories Explain Computing*
 * Zelle. *Python Programming: An Introduction to Computer Science*
 * [*CS Unplugged*](http://csunplugged.org/books/) (for kids)
 * Eckel. *Thinking in Java* ([TIJ website](http://www.mindviewinc.com/Books/TIJ4/); old editions are free)
