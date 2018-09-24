@@ -192,6 +192,7 @@ This site has links to lots of other sites with problem sets and practice exams:
 - Brauer and Nohel. *The Qualitative Theory of Ordinary Differential Equations: An Introduction* ([Dover](https://smile.amazon.com/dp/0486658465))
 - Arnold. *Ordinary Differential Equations* ([MIT Press, tr. Silverman](https://smile.amazon.com/dp/0262510189), [Springer, tr. Cooke](https://smile.amazon.com/dp/3540345639)) - Springer is a later version.
 - Coddington and Levinson, *Theory of Ordinary Differential Equations* ([Krieger 1984](https://smile.amazon.com/dp/0898747554))
+- Imhoff, *Differential Equations in 24 Hours: with Solutions and Historical Notes* ([1ed, 2015](https://smile.amazon.com/gp/product/1478765224))
 
 ### PDEs
 
