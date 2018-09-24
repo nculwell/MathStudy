@@ -197,7 +197,7 @@ AKA statistical learning, data mining, predictive modeling.
   While this book is not exactly about machine learning, many (most?) ML techniques rely on the optimization techniques covered here. The book's web page also links to a free online course.
   
   <https://web.stanford.edu/~boyd/cvxbook/>
-
+  
 ### Other big books
 
 * Kuhn and Johnson, 2013. *Applied Predictive Modeling* ([1e](https://smile.amazon.com/dp/1461468485))
@@ -236,6 +236,10 @@ AKA statistical learning, data mining, predictive modeling.
 * Koller, Friedman, 2009. *Probabilistic Graphical Models: Principles and Techniques* ([1e](https://smile.amazon.com/dp/0262013193))
 
   This is the reigning book on PGMs, but it demands more mathematical background (e.g. abstract algebra) than a lot of the other books listed here. It's also a very physically imposing volume (1280 pages).
+
+* Korb and Nicholson, *Bayesian Artificial Intelligence* ([2e](https://amazon.com/dp/1439815917))
+
+  Bayesian network techniques.
 
 ## Natural language processing
 
