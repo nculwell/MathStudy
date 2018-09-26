@@ -54,7 +54,7 @@ There are various English-language editions of Euclid available at archive.org. 
 
 - Munkres. *Topology* ([2e intl](https://smile.amazon.com/dp/8120320468), [2e](https://smile.amazon.com/dp/B004DX5K5K))
 
-  The standard text.
+  The standard text. Also includes basic algebraic topology.
 
 - Mendelson. *Introduction to Topology* ([3e Dover](https://smile.amazon.com/dp/0486663523))
 
@@ -92,6 +92,21 @@ There are various English-language editions of Euclid available at archive.org. 
 
 - Steen and Seebach. *Counterexamples in Topology* ([Dover](https://smile.amazon.com/dp/048668735X))
 
+- Henle. *A Combinatorial Introduction to Topology*
+
+  Goes straight into algebraic topology with minimal coverage of point-set topology.
+
+## Algebraic Topology
+
+- Hatcher. *Algebraic Topology* (f) ([CUP Paperback](https://smile.amazon.com/dp/0521795400/), [**FREE ONLINE**](https://www.math.cornell.edu/~hatcher/AT/ATpage.html))
+- Bredon. *Topology and Geometry* ([1e](https://smile.amazon.com/Topology-Geometry-Graduate-Texts-Mathematics/dp/0387979263/))
+- Stillwell. *Classical Topology and Combinatorial Group Theory* ([2e](https://smile.amazon.com/dp/0387979700))
+- Rotman. *An Introduction to Algebraic Topology* ([1e](https://smile.amazon.com/dp/0387966781/))
+- Fulton. *Algebraic Topology: A First Course* ([1e](https://smile.amazon.com/dp/0387943277/))
+- May. *A Concise Course in Algebraic Topology* ([1e](https://smile.amazon.com/dp/0226511839))
+- May and Ponto. *More Concise Algebraic Topology: Localization, Completion, and Model Categories* ([1e](https://smile.amazon.com/dp/0226511782))
+- Lee. *Introduction to Topological Manifolds* ([2e](https://smile.amazon.com/dp/1441979395))
+
 ## Differential Geometry
 
 - Pressley. *Elementary Differential Geometry* ([2e/2010](https://smile.amazon.com/dp/184882890X))
@@ -104,7 +119,6 @@ There are various English-language editions of Euclid available at archive.org. 
 - Spivak. *A Comprehensive Introduction to Differential Geometry* (in 6 volumes) ([Vol I, 3e](https://smile.amazon.com/dp/0914098705); [Vol II, 3e](https://smile.amazon.com/dp/0914098713); etc.)
 - Guggenheimer. *Differential Geometry* ([Dover](https://smile.amazon.com/dp/0486634337))
 - Bishop & Goldberg. *Tensor Analysis on Manifolds* ([Dover](https://smile.amazon.com/dp/0486640396))
-- Lee. *Introduction to Topological Manifolds* ([2e](https://smile.amazon.com/dp/1441979395))
 - Lee. *Introduction to Smooth Manifolds* ([1e](https://smile.amazon.com/dp/0387954481))
 - Lee. *Riemannian Manifolds: An Introduction to Curvature* ([1e](https://smile.amazon.com/dp/0387983228))
 - Do Carmo. *Riemannian Geometry* ([1e](https://smile.amazon.com/dp/0817634908))
@@ -115,17 +129,6 @@ There are various English-language editions of Euclid available at archive.org. 
 - Struik. *Lectures on Classical Differential Geometry* ([Dover](https://www.amazon.com/dp/0486656098))
 - McInerney. *First Steps in Differential Geometry: Riemannian, Contact, Symplectic*
 - Tapp. *Differential Geometry of Curves and Surfaces*
-
-## Algebraic Topology
-
-- Hatcher. *Algebraic Topology* (f) ([CUP Paperback](https://smile.amazon.com/dp/0521795400/), [**FREE ONLINE**](https://www.math.cornell.edu/~hatcher/AT/ATpage.html))
-- Bredon. *Topology and Geometry* ([1e](https://smile.amazon.com/Topology-Geometry-Graduate-Texts-Mathematics/dp/0387979263/))
-- Stillwell. *Classical Topology and Combinatorial Group Theory* ([2e](https://smile.amazon.com/dp/0387979700))
-- Rotman. *An Introduction to Algebraic Topology* ([1e](https://smile.amazon.com/dp/0387966781/))
-- Fulton. *Algebraic Topology: A First Course* ([1e](https://smile.amazon.com/dp/0387943277/))
-- May. *A Concise Course in Algebraic Topology* ([1e](https://smile.amazon.com/dp/0226511839))
-- May and Ponto. *More Concise Algebraic Topology: Localization, Completion, and Model Categories* ([1e](https://smile.amazon.com/dp/0226511782))
-- Vakil. *The Rising Sea: Foundations Of Algebraic Geometry Notes* ([main page](http://virtualmath1.stanford.edu/~vakil/216blog/), [blog](https://math216.wordpress.com/), [Ravi Vakil's homepage](http://virtualmath1.stanford.edu/~vakil/))
 
 ## Applied and Computational Topology
 
@@ -145,6 +148,7 @@ There are various English-language editions of Euclid available at archive.org. 
 - Fulton. [*Algebraic Curves, an Introduction to Algebraic Geometry*](http://www.math.lsa.umich.edu/~wfulton/CurveBook.pdf)
 - Gathmann. [Algebraic Geometry (SS 2014)](http://www.mathematik.uni-kl.de/agag/mitglieder/professoren/gathmann/notes/alggeom/)
 - Smith, 2014. *Introduction to Algebraic Geometry* ([1e Paperback](https://www.amazon.com/dp/1503381536), [**FREE ONLINE**](http://www.five-dimensions.org/Textbooks/))
+- Vakil. *The Rising Sea: Foundations Of Algebraic Geometry Notes* ([main page](http://virtualmath1.stanford.edu/~vakil/216blog/), [blog](https://math216.wordpress.com/), [Ravi Vakil's homepage](http://virtualmath1.stanford.edu/~vakil/))
 
 ### Classical (pre-Grothendieck)
 
