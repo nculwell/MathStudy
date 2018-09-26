@@ -150,6 +150,8 @@ For multivariate calculus, there seems to be a general consensus that the texts 
 - Bressoud. *Second Year Calculus: From Celestial Mechanics to Special Relativity* ([1e](https://smile.amazon.com/dp/038797606X))
 - Flanigan and Kazdan. *Calculus Two: Linear and Nonlinear Functions* ([2e](https://smile.amazon.com/dp/0387973885))
 - Bray. *Multivariable Calculus* ([1e at CreateSpace](https://www.createspace.com/4173421), [1e](https://smile.amazon.com/dp/1482550741)) Author's page: <https://services.math.duke.edu/~cbray/mv/>
+- Shurman. *Calculus and Analysis in Euclidean Space*
+- Lax and Terrell. *Multivariable Calculus with Applications*
 
 *The Feynman Lectures* also discuss vector calculus in the context of electromagnetism, which is supposedly a great way to tie it in with your understanding of the physical, if you already have some background in physics. See [Physics](Sciences.md#physics).
 
