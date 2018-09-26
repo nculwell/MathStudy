@@ -113,6 +113,8 @@ There are various English-language editions of Euclid available at archive.org. 
 - Kosinski. *Differential Manifolds* ([Dover](https://smile.amazon.com/dp/0486462447))
 - Lovelock and Rund. *Tensors, Differential Forms, and Variational Principles* ([Dover](https://smile.amazon.com/dp/0486658406))
 - Struik. *Lectures on Classical Differential Geometry* ([Dover](https://www.amazon.com/dp/0486656098))
+- McInerney. *First Steps in Differential Geometry: Riemannian, Contact, Symplectic*
+- Tapp. *Differential Geometry of Curves and Surfaces*
 
 ## Algebraic Topology
 
