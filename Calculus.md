@@ -111,6 +111,8 @@ These take the attitude that emphasis on rigorous proofs gets in the way of unde
 
 - Kiesler. *Elementary Calculus: An Infinitesimal Approach* ([**FREE ONLINE**](https://www.math.wisc.edu/~keisler/calc.html); [Dover](https://smile.amazon.com/dp/0486484521))
 
+- Lax and Terrell. *Calculus With Applications*
+
 ### Free books
 
 - <https://openstax.org/subjects>
@@ -152,6 +154,7 @@ For multivariate calculus, there seems to be a general consensus that the texts 
 - Bray. *Multivariable Calculus* ([1e at CreateSpace](https://www.createspace.com/4173421), [1e](https://smile.amazon.com/dp/1482550741)) Author's page: <https://services.math.duke.edu/~cbray/mv/>
 - Shurman. *Calculus and Analysis in Euclidean Space*
 - Lax and Terrell. *Multivariable Calculus with Applications*
+- Callahan. *Advanced Calculus: A Geometric View*
 
 *The Feynman Lectures* also discuss vector calculus in the context of electromagnetism, which is supposedly a great way to tie it in with your understanding of the physical, if you already have some background in physics. See [Physics](Sciences.md#physics).
 
@@ -195,6 +198,7 @@ This site has links to lots of other sites with problem sets and practice exams:
 - Arnold. *Ordinary Differential Equations* ([MIT Press, tr. Silverman](https://smile.amazon.com/dp/0262510189), [Springer, tr. Cooke](https://smile.amazon.com/dp/3540345639)) - Springer is a later version.
 - Coddington and Levinson, *Theory of Ordinary Differential Equations* ([Krieger 1984](https://smile.amazon.com/dp/0898747554))
 - Imhoff, *Differential Equations in 24 Hours: with Solutions and Historical Notes* ([1ed, 2015](https://smile.amazon.com/gp/product/1478765224))
+- Logan. *A First Course in Differential Equations*
 
 ### PDEs
 
@@ -208,6 +212,8 @@ This site has links to lots of other sites with problem sets and practice exams:
 - Zachmanoglou and Thoe. *Introduction to Partial Differential Equations with Applications* ([Dover](https://smile.amazon.com/dp/0486652513))
 - Asmar. *Partial Differential Equations with Fourier Series and Boundary Value Problems* ([3e Dover](https://smile.amazon.com/dp/0486807371))
 - Hillen, Leonard, van Roessel. *Partial Differential Equations: Theory and Completely Solved Problems* ([1e](https://smile.amazon.com/dp/1118063309))
+- Olver. *Introduction to Partial Differential Equations*
+- Logan. *Applied Partial Differential Equations*
 
 #### Advanced (more prequisites)
 
