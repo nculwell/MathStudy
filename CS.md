@@ -1,5 +1,9 @@
 # Computer science
 
+## Teach Yourself Computer Science
+
+Another site that recommends some great resources: https://teachyourselfcs.com/
+
 ## Basic programming and intros to CS
 
 * [*Structure and Interpretation of Computer Programs*](https://mitpress.mit.edu/sicp/full-text/book/book.html)
