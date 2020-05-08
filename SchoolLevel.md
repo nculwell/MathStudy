@@ -382,6 +382,8 @@ Schaum's has several of their "outlines" which are appropriate for this level. S
 - <https://smile.amazon.com/Solve-Mathematical-Problems-Dover-Mathematics/dp/0486284336>
 - <https://smile.amazon.com/USSR-Olympiad-Problem-Book-Mathematics/dp/0486277097>
 - <https://smile.amazon.com/Mass-Points-Method-Yongcheng-Chen/dp/1542458706>
+- <https://smile.amazon.com/What-Solve-Suggestions-Mathematicians-Publications/dp/0198532946>
+- <https://smile.amazon.com/Numbers-Shapes-Revisited-Mathematicians-Publications/dp/0198534604>
 
 ### AMS Mathematical World series
 
