@@ -9,6 +9,7 @@ There are various English-language editions of Euclid available at archive.org. 
 
 - Euclid, tr. Heath. *The Elements*. Dover. ([Vol I / Books 1-2](https://smile.amazon.com/dp/0486600882), [Vol II / Books 3-9](https://smile.amazon.com/dp/0486600890), [Vol III / Books 10-13](https://smile.amazon.com/Euclid-Thirteen-Books-Elements-10-13/dp/0486600904))
 - Euclid, tr. Heath. *The Elements* Green Lion Press. ([Single volume](https://smile.amazon.com/dp/1888009195))
+- Euclid books 1-6, tr. Byrne. This one is neat because the diagrams have colors. Archive.org links: https://archive.org/details/firstsixbooksofe00eucl |  https://archive.org/details/firstsixbooksel00byrn | https://archive.org/details/firstsixbooksofe00byrn
 - Lang and Murrow. *Geometry: A High School Course* ([2e](https://smile.amazon.com/dp/0387966544), [Solutions manual](https://smile.amazon.com/dp/0387941819))
 - Kiselev and Givental. *Kiselev's Geometry* (Vol I: [Sumizdat 1e](https://smile.amazon.com/dp/0977985202); Vol II: [Sumizdat 1e](https://smile.amazon.com/dp/0977985210)) - Look for seller "sumizdat_dot_org", that's the publisher.
 - Coxeter. *Introduction to Geometry* ([Wiley 2e](https://smile.amazon.com/dp/0471504580/), [2e HC [OOP]](https://smile.amazon.com/gp/product/0471182834))
@@ -16,6 +17,9 @@ There are various English-language editions of Euclid available at archive.org. 
 - Brannan, Esplen, Gray. *Geometry* (2014, ISBN 978-1118679197, [Worldcat](https://www.worldcat.org/isbn/9781118679197), [Amazon](https://smile.amazon.com/dp/1118679199))
 - Meyer. *Geometry and Its Applications* (2e, 2006: ISBN 978-0123694270, [Worldcat](https://www.worldcat.org/oclc/212425111), [Amazon](https://smile.amazon.com/dp/0123694272))
 - Augros. The Arts of Liberty, *Introductory Geometry and Arithmetic*. ([Web page](https://artsofliberty.udallas.edu/geometry-and-arithmetic/), [PDF](https://artsofliberty.udallas.edu/wp-content/uploads/2017/04/Introductory-Geometry-and-Arithmetic.pdf))
+- Harpur. 1894 interpretation of Euclid. https://www.google.com/books/edition/_/PkHP78BglQMC?hl=en&gbpv=0
+- Africk, Elementary College Geometry.  This is a typewritten, hand-illustrated text. It introduces two-dimensional geometry, with a focus on finding numerical solutions rather than proving theorems. https://open.umn.edu/opentextbooks/textbooks/elementary-college-geometry
+- Lozanovski, A Beautiful Journey Through Olympiad Geometry. Free PDF, form asks for information before downloading. https://www.olympiadgeometry.com/the-book.html
 
 #### Beyond introductory
 
