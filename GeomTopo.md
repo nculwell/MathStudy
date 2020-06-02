@@ -24,6 +24,7 @@ There are various English-language editions of Euclid available at archive.org. 
 - Casey, 1886. *A Sequel to the First Six Books of the Elements of Euclid* ([At archive.org](https://archive.org/details/sequeltofirstsix00caserich))
 - Altshiller-Court. *College Geometry: An Introduction to the Modern Geometry of the Triangle and the Circle* ([2e Dover](https://smile.amazon.com/dp/0486458059/))
 - Coxeter. *Regular Polytopes* ([3e](https://smile.amazon.com/Regular-Polytopes-H-S-Coxeter/dp/0486614808/))
+- Petrunin. *Euclidean plane and its relatives; a minimalist introduction* (https://arxiv.org/abs/1302.1630) - covers elementary geometry and beyond, assumes knowledge up to basic calculus
 
 ### Euclidean and non-euclidean
 
