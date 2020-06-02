@@ -15,6 +15,7 @@ There are various English-language editions of Euclid available at archive.org. 
 - Birkhoff and Beatley. *Basic Geometry* ([AMS Chelsea ed](https://smile.amazon.com/gp/product/0821821016), [At AMS store](http://bookstore.ams.org/chel-120/); [Manual for Teachers [at AMS store]](http://bookstore.ams.org/chel-34/), [Manual for Teachers [at AbeBooks]](http://www.abebooks.com/products/isbn/9780821826928); [Answer book [at AMS store]](http://bookstore.ams.org/chel-162/), [Answer Book [at AbeBooks]](http://www.abebooks.com/products/isbn/9780828401623))
 - Brannan, Esplen, Gray. *Geometry* (2014, ISBN 978-1118679197, [Worldcat](https://www.worldcat.org/isbn/9781118679197), [Amazon](https://smile.amazon.com/dp/1118679199))
 - Meyer. *Geometry and Its Applications* (2e, 2006: ISBN 978-0123694270, [Worldcat](https://www.worldcat.org/oclc/212425111), [Amazon](https://smile.amazon.com/dp/0123694272))
+- Augros. The Arts of Liberty, *Introductory Geometry and Arithmetic*. ([Web page](https://artsofliberty.udallas.edu/geometry-and-arithmetic/), [PDF](https://artsofliberty.udallas.edu/wp-content/uploads/2017/04/Introductory-Geometry-and-Arithmetic.pdf))
 
 #### Beyond introductory
 
